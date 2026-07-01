@@ -1,0 +1,23 @@
+/articles/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: no-cache
+
+/articles/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+
+/manifest.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+
+/llms.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: no-cache
+
+/tracks/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: no-cache
+
+/canon/*.md
+  Content-Type: text/markdown; charset=utf-8
+  Cache-Control: no-cache

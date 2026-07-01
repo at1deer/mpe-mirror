@@ -1,0 +1,44 @@
+name: Sync Ghost mirror
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 */6 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out mirror repo
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Sync published Ghost posts
+        env:
+          GHOST_API_URL: ${{ vars.GHOST_API_URL }}
+          GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
+          MIRROR_BASE_URL: ${{ vars.MIRROR_BASE_URL }}
+        run: npm run sync
+
+      - name: Commit mirror updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add articles manifest.json sitemap.xml rss.xml llms.txt index.html
+          if git diff --cached --quiet; then
+            echo "No mirror changes."
+          else
+            git commit -m "Sync Ghost mirror"
+            git push
+          fi
