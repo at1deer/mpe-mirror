@@ -8,7 +8,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T10:31:31.479Z"
+mirror_generated_at: "2026-07-01T15:22:20.698Z"
 sha256_plaintext: "58fb1b94a049310e2c55059aebe4b8488091bd0569dfa8baddc31c73858ea8bb"
 ---
 # Tales of Distortion: Morpheus

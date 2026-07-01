@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 01 Jul 2026 10:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 15:22:20 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Tense Logic</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</guid>
+      <pubDate>Wed, 01 Jul 2026 12:30:55 GMT</pubDate>
+      <description>Prior, Branching Time, STIT, and field-tense logic; the new formal language of Modal Path Ethics.</description>
+    </item>
+
     <item>
       <title>Applied Case: The SCP Foundation</title>
       <link>https://modal-path-ethics.ghost.io/articles/scp.html</link>
@@ -399,14 +407,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-clone-wars.html</guid>
       <pubDate>Sat, 06 Jun 2026 16:32:59 GMT</pubDate>
       <description>The galaxy did not need the Jedi to be generals.</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: The Great Leap Forward</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-great-leap-forward.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-great-leap-forward.html</guid>
-      <pubDate>Thu, 04 Jun 2026 08:43:02 GMT</pubDate>
-      <description>Somewhere in the conceptual distance between “China needs industrial capacity” and “okay everyone now go outside and harass a bird until it dies,” the field has taken what appears to be a pretty serious wrong turn. [L]</description>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T10:31:31.479Z"
+mirror_generated_at: "2026-07-01T15:22:20.698Z"
 sha256_plaintext: "34cbc9db1a078c9be59c905db6ae0521f7642b1bd142ab2fb2af8b10e72c8d9c"
 ---
 # Applied Case: The Second Battle of Hoover Dam

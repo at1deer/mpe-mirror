@@ -1,0 +1,494 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Field Tense Logic</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="https://modalpathethics.com/field-tense-logic/">
+  <style>
+    body { font: 18px/1.65 system-ui, -apple-system, Segoe UI, sans-serif; max-width: 860px; margin: 3rem auto; padding: 0 1rem; color: #141414; }
+    img { max-width: 100%; height: auto; }
+    code, pre { background: #f3f3f3; }
+    pre { padding: 1rem; overflow-x: auto; }
+    blockquote { border-left: 4px solid #ddd; margin-left: 0; padding-left: 1rem; color: #444; }
+    .meta { color: #666; font-size: .95rem; }
+  </style>
+</head>
+<body>
+  <p class="meta"><a href="/articles/field-tense-logic.md">Markdown</a> · <a href="https://modalpathethics.com/field-tense-logic/">Canonical</a> · 2026-07-01</p>
+  <h1>Field Tense Logic</h1>
+  <p><strong>Modal Path Ethics field-tense logic</strong> is the formal language behind the tail argument. <a href="https://modalpathethics.com/samsara-repair/" rel="noreferrer">The earlier Buddhism-facing article</a> used the language only where it was needed: to show why repair does not cancel history, why better does not mean innocent, and why a damaged extant field cannot path into literal zero resistance.</p><figure class="kg-card kg-image-card"><img src="https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_378335212.jpeg" class="kg-image" alt="" loading="lazy" width="2000" height="1323" srcset="https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/size/w600/2026/07/AdobeStock_378335212.jpeg 600w, https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/size/w1000/2026/07/AdobeStock_378335212.jpeg 1000w, https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/size/w1600/2026/07/AdobeStock_378335212.jpeg 1600w, https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/size/w2400/2026/07/AdobeStock_378335212.jpeg 2400w" sizes="(min-width: 720px) 720px"></figure><p>This article gives the formal account directly.</p>
+<!--kg-card-begin: html-->
+<section class="mpe-formal-spine mpe-field-tense-article">
+
+<p>The point is not to turn Modal Path Ethics into a calculus, only to stabilize the distinctions that ordinary prose keeps blurring. Modal Path Ethics needs a formal grammar because its central terms are temporal, modal, field-relative, and path-sensitive at once.</p>
+<br>
+<p>The central formal problem is simple: <em>how can a tense logic represent a damaged extant field that can repair, reopen, and lower resistance without becoming the field in which the damage never happened?</em></p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>1. Why Formal Language Is Needed.</h2>
+
+<p>Modal Path Ethics already uses ordinary language for its primary claims: harm closes reachable future and thickens resistance; good preserves or opens future without exporting comparable closure; better names the least-closing path available in damaged space. Those claims can be taught in prose.</p>
+<br>
+<p>The trouble begins when nearby concepts are silently collapsed. Future possibility is treated as reachable continuation. Repair is treated as cancellation. Better is treated as innocence. Resistance is treated as if it were a single measurable substance. The past is treated as if later improvement could make it structurally disappear.</p>
+<br>
+<p>The symbols below exist to block those collapses. They are not ornamental. They are also not a moral machine. They are a compression grammar for a few relations that must stay distinct if the framework is going to remain coherent.</p>
+<br>
+
+<p>Mathematical notation is dangerous here for the same reason it is useful: <aside class="mpe-formal-note">It compresses.</aside> A symbol can preserve a distinction that prose keeps blurring, but it can also tempt the reader into thinking the moral field has become clean, commensurable, and solved. <br><br>Modal Path Ethics uses these symbols as guardrails, not as a replacement for judgment, testimony, historical memory, care, or repair work.</p>
+
+
+
+<hr class="mpe-section-rule">
+
+<h2>2. The Formal Stack.</h2>
+
+<p>The ancestry is layered. No single inherited logic supplies the full structure.</p>
+
+<div class="mpe-formal-table-wrap">
+<table class="mpe-formal-table">
+<thead>
+<tr><th>Layer</th><th>What it contributes</th><th>What it cannot supply alone</th></tr>
+</thead>
+<tbody>
+<tr><td>Prior tense logic</td><td>Past and future truth: <span class="mpe-eq">Pφ</span>, <span class="mpe-eq">Fφ</span>, <span class="mpe-eq">Hφ</span>, <span class="mpe-eq">Gφ</span>.</td><td>Reachability, field-structure, agency, resistance.</td></tr>
+<tr><td>Branching time</td><td>Open futures and settled past across histories.</td><td>Which branches are genuinely reachable from extance.</td></tr>
+<tr><td>STIT</td><td>Agency as intervention among histories.</td><td>Field-shaped choice, burden, moral remainder.</td></tr>
+<tr><td>Modal Path Ethics extension</td><td>Extance, loci, reachable continuation, resistance profile, weighting, burden, repair, and tail.</td><td>A complete mathematical capture of moral reality. That should remain unavailable.</td></tr>
+</tbody>
+</table>
+</div>
+
+<p>The result is a <strong>field-tense logic</strong>: temporal enough to preserve past truth, branching enough to represent open futures, agency-sensitive enough to speak about intervention, and field-sensitive enough to distinguish formal possibility from reachable continuation.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>3. Prior Tense Logic.</h2>
+
+<p>Prior tense logic begins with truth as temporally located. It asks whether something was the case, will be the case, has always been the case, or will always be the case.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">Pφ</span>
+  <span class="mpe-eq">Fφ</span>
+  <span class="mpe-eq">Hφ</span>
+  <span class="mpe-eq">Gφ</span>
+</div>
+
+<p><span class="mpe-eq">Pφ</span> means that it was the case that <span class="mpe-eq">φ</span> <br><span class="mpe-eq">Fφ</span> means that it will be the case that <span class="mpe-eq">φ</span> <br><span class="mpe-eq">Hφ</span> means that it has always been the case that <span class="mpe-eq">φ</span> <br><span class="mpe-eq">Gφ</span> means that it will always be the case that <span class="mpe-eq">φ</span></p>
+<br>
+<p>The most important Priorian schema for Modal Path Ethics is the simplest one:</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">D → GPD</span>
+</div>
+
+<p>If damage <span class="mpe-eq">D</span> occurs, then at every later time it remains true that <span class="mpe-eq">D</span> occurred.<br><br> This does not yet say that the damage remains morally active. It only establishes the temporal persistence of past truth. Modal Path Ethics adds the field-retention step.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>4. Branching Time</h2>
+
+<p>Prior tense logic alone is too linear for Modal Path Ethics. Moral evaluation concerns what was open, what remains open, what has been settled, and what remains reachable from the extant field. Branching time supplies the frame.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">𝓜 = ⟨M, ≤, H, V⟩</span>
+</div>
+
+<p><span class="mpe-eq">M</span> is a set of moments.<br> <span class="mpe-eq">≤</span> is temporal precedence. <br><span class="mpe-eq">H</span> is the set of histories. <br>Each <span class="mpe-eq">h ∈ H</span> is a maximal chain of moments.<br> <span class="mpe-eq">V</span> is a valuation.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Hₘ = { h ∈ H : m ∈ h }</span>
+</div>
+
+<p><span class="mpe-eq">Hₘ</span> is the set of histories passing through moment <span class="mpe-eq">m</span>.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">□ₛφ</span>
+  <span class="mpe-eq">◇ᴮφ</span>
+</div>
+
+<p><span class="mpe-eq">□ₛφ</span> means settled truth: <span class="mpe-eq">φ</span> is true across all histories through the present moment. <span class="mpe-eq">◇ᴮφ</span> means branch-open truth: <span class="mpe-eq">φ</span> is true along at least one history through the present moment.</p>
+<br>
+<p>This lets us say that a future may remain open somewhere in the branching structure while still failing to be reachable for the relevant locus from the actual field. That difference is one of the core additions Modal Path Ethics makes.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>5. Extant Field-Slices.</h2>
+
+<p>Let <span class="mpe-eq">Eₘ</span> denote the extant field-slice at moment <span class="mpe-eq">m</span>. This is not a memoryless snapshot. It is reality as active, historically arrived, structured, and capable of further lawful transition.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Eₘ = ⟨Lₘ, Sₘ, Histₘ, Cₘ, Reachₘ, ℛₘ, Wₘ, Bₘ⟩</span>
+</div>
+
+<p><span class="mpe-eq">Lₘ</span> is the set of extant loci.<br> <span class="mpe-eq">Sₘ</span> is current field-structure.<br> <span class="mpe-eq">Histₘ</span> is retained path-history.<br> <span class="mpe-eq">Cₘ</span> is candidate continuation-space.<br> <span class="mpe-eq">Reachₘ</span> is the reachability relation.<br> <span class="mpe-eq">ℛₘ</span> is the resistance profile.<br> <span class="mpe-eq">Wₘ</span> is weighting.<br> <span class="mpe-eq">Bₘ</span> is burden distribution.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Histₘ ⊆ Eₘ</span>
+</div>
+
+<p>The most important commitment is that history belongs inside the extant slice. It is not commentary added by observers afterward. The present field is not a clean surface plus a story about how it got here. It is the active field as already shaped by its path.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>6. Reachable Continuation.</h2>
+
+<p>Reachable continuation should be primitive. A proposition is not a continuation. A continuation is a path-region, future-state family, or downstream configuration available from extance for some locus.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Reach₍Eₘ₎(ℓ, κ)</span>
+</div>
+
+<p>Read this as: continuation <span class="mpe-eq">κ</span> is reachable for locus <span class="mpe-eq">ℓ</span> from extant field-slice <span class="mpe-eq">Eₘ</span>.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">κ ⊨ φ</span>
+</div>
+
+<p>Read this as: proposition <span class="mpe-eq">φ</span> holds within continuation <span class="mpe-eq">κ</span>.</p>
+<br>
+<p>The reachability diamond is useful, but it should be treated only as an abbreviation.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">◇ᴿ₍Eₘ,ℓ₎φ := ∃κ ( Reach₍Eₘ₎(ℓ,κ) ∧ κ ⊨ φ )</span>
+</div>
+
+<p>This prevents the earlier error of letting reachable continuation disappear into <span class="mpe-eq">φ</span>.<br> The compact diamond says that some reachable continuation from <span class="mpe-eq">Eₘ</span> for <span class="mpe-eq">ℓ</span> makes <span class="mpe-eq">φ</span> true. The primitive remains <span class="mpe-eq">Reach₍Eₘ₎(ℓ,κ)</span>.</p>
+<br>
+<p>Now the central distinction can be stated cleanly:</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">◇ᴮFφ ⇏ ◇ᴿ₍Eₘ,ℓ₎φ</span>
+</div>
+
+<p>Branch-open future possibility does not imply reachable continuation for the relevant extant locus. A future can exist along some branch while the actual field has closed or thickened access to it.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>7. Resistance Profile</h2>
+
+<p>Resistance must not be formalized as a scalar. A scalar treatment would imply commensurability, and commensurability would permit the false picture that later goods can subtract prior damage into zero.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">ℛ(Eₘ)</span>
+</div>
+
+<p>This is the resistance profile of field-slice <span class="mpe-eq">Eₘ</span>.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">ℛ(Eₘ,ℓ,κ)</span>
+</div>
+
+<p>This is the resistance profile mediating locus <span class="mpe-eq">ℓ</span>’s access to continuation <span class="mpe-eq">κ</span>.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">r ∈ₚᵣₒ𝒻 ℛ(Eₘ)</span>
+</div>
+
+<p>This says that resistance component <span class="mpe-eq">r</span> belongs to the profile of <span class="mpe-eq">Eₘ</span>.</p>
+<br>
+<p>The profile may contain fear, coercion, exhaustion, distrust, procedural obstruction, material depletion, ecological loss, social stigma, damaged trust, lost time, institutional drag, repair-labor, and moral remainder. These do not translate into one another at a fixed rate.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">ℛ(Eₘ) ↛ ℝ</span>
+</div>
+
+<p>There is no general map from resistance profiles to real numbers adequate to the framework.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">ℛ(Eₐ) ⪯꜀ ℛ(Eᵦ)</span>
+</div>
+
+<p>This is a contextual partial ordering. In deliberative context <span class="mpe-eq">C</span>, <span class="mpe-eq">Eₐ</span>’s resistance profile is no worse than <span class="mpe-eq">Eᵦ</span>’s in the relevant structured respects. Some profiles remain incomparable. That incomparability is not a defect; it protects the theory from becoming a hidden ledger.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>8. Zero Resistance</h2>
+
+<p>Zero resistance must be literal. It means absence of Modal Path Ethics resistance in the field, not low resistance, manageable resistance, or resistance offset by later goods.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Z(Eₘ) ⇔ ℛ(Eₘ) = ∅</span>
+</div>
+
+<p>For a region <span class="mpe-eq">ρ</span> of the field:</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Z(Eₘ,ρ) ⇔ ℛ(Eₘ↾ρ) = ∅</span>
+</div>
+
+<p>If history is resistance, then any historical extant slice has a non-empty resistance profile. The zero-resistance region remains a real formal pole, but extant fields approach it asymptotically rather than occupying it.</p>
+<br>
+<p>This is not nihilism. Nonzero resistance does not mean all paths are equivalent, and it does not mean extance is morally bad. It means extance is structured, exclusive, historical, and not identical with the zero-resistance pole.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>9. Harm</h2>
+
+<p>Let transition <span class="mpe-eq">a</span> carry <span class="mpe-eq">Eₘ</span> into <span class="mpe-eq">Eₙ</span>.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Eₘ ⟶ᵃ Eₙ</span>
+</div>
+
+
+<h3>Foreclosure harm</h3>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Harm_F(a,Eₘ,Eₙ,ℓ) ⇔ ∃κ ( Reach₍Eₘ₎(ℓ,κ) ∧ ¬Reach₍Eₙ₎(ℓ,κ) )</span>
+</div>
+
+<p>A continuation that was reachable before the transition is no longer reachable afterward.</p>
+
+
+<h3>Resistance-thickening harm</h3>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Harm_R(a,Eₘ,Eₙ,ℓ) ⇔ ∃κ ( Reach₍Eₘ₎(ℓ,κ) ∧ Reach₍Eₙ₎(ℓ,κ) ∧ Thickens(a,Eₘ,Eₙ,ℓ,κ) )</span>
+</div>
+
+<p>A continuation remains reachable, but the medium between the locus and that continuation has thickened.</p>
+
+
+<h3>Burden transfer</h3>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">BurdenTransfer(a,Eₘ,Eₙ,ℓᵢ,ℓⱼ)</span>
+</div>
+
+<p>A transition transfers burden from one locus or field-region to another. This must remain distinct because an act may preserve or open one local path by exporting contraction elsewhere.</p>
+<br>
+<p>A rough harm predicate can therefore be written as:</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Harm(a,Eₘ,Eₙ,ℓ) ⇐ Harm_F(a,Eₘ,Eₙ,ℓ) ∨ Harm_R(a,Eₘ,Eₙ,ℓ) ∨ ∃j BurdenTransfer(a,Eₘ,Eₙ,ℓ,j)</span>
+</div>
+
+<p>The arrow is intentionally one-way. The formal predicate gives sufficient routes into harm, not an exhaustive capture of every future refinement.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>10. Weighting</h2>
+
+<p>Reachability alone is insufficient. Modal Path Ethics cares about weighted reachable future-space, not raw branch count.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">W₍Eₘ₎(ℓ,κ)</span>
+</div>
+
+<p>This is the weight-profile of continuation <span class="mpe-eq">κ</span> for locus <span class="mpe-eq">ℓ</span> from field <span class="mpe-eq">Eₘ</span>.</p>
+<br>
+<p>A weight-profile can include breadth of preserved future branching, stability of access, reversibility of loss, distribution of burden, susceptibility to cascading contraction, relation to other loci, preservation of repairability, vulnerability of affected loci, and depth of enabling continuance.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">W₍Eₘ₎(ℓ,κ₁) ⪯꜀ W₍Eₘ₎(ℓ,κ₂)</span>
+</div>
+
+<p>Under context <span class="mpe-eq">C</span>, <span class="mpe-eq">κ₂</span> is at least as weight-preserving as <span class="mpe-eq">κ₁</span> in the relevant structured respects. This is also a partial ordering, not a global metric.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>11. Good and Better</h2>
+
+<p>Good is stricter than local benefit. A transition is good only when it preserves or opens weighted reachable future-space without imposing harmful closure elsewhere and without worsening the field’s resistance profile overall.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Good(a,Eₘ,Eₙ) ⇒ OpensOrPreserves(a,Eₘ,Eₙ) ∧ ¬∃ℓ Harm(a,Eₘ,Eₙ,ℓ)</span>
+</div>
+
+<p>This should remain a necessary condition rather than a complete biconditional. Hidden burden, scale, distorted evaluation, and unknown loci may defeat apparent goodness.</p>
+<br>
+<p>Better belongs to damaged option-sets where no fully good path is enabled. Let <span class="mpe-eq">Enabled₍Eₘ₎(a)</span> mean action <span class="mpe-eq">a</span> is actually enabled from <span class="mpe-eq">Eₘ</span>. Let <span class="mpe-eq">≺꜀</span> be contextual strict dominance under Modal Path Ethics comparison.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Better_C(a,Eₘ) ⇔ Enabled₍Eₘ₎(a) ∧ ¬∃b ( Enabled₍Eₘ₎(b) ∧ b ≺꜀ a )</span>
+</div>
+
+<p>Better is non-dominated action under damaged conditions. It is not purity, innocence, absolution, or cancellation. The relation is partial because tragic contexts can contain incomparable paths.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">Better_C(a,Eₘ) ⇏ Good(a,Eₘ,Eₙ)</span>
+  <span class="mpe-eq">Better_C(a,Eₘ) ⇏ ¬Rem₍Eₙ₎(a)</span>
+</div>
+
+
+<hr class="mpe-section-rule">
+
+<h2>12. Moral Remainder</h2>
+
+<p>Moral remainder is field-structural, not only agent-regret. It is the remainder of loss, closure, burden, grief, coercion, or repair-claim left by a selected path even when the path was better.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Rem₍Eₙ₎(χ)</span>
+</div>
+
+<p>Read this as: <span class="mpe-eq">χ</span> remains as moral remainder in field-slice <span class="mpe-eq">Eₙ</span>.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">Harm(a,Eₘ,Eₙ,ℓ) ⇒ Rem₍Eₙ₎(a,ℓ)</span>
+  <span class="mpe-eq">Better_C(a,Eₘ) ∧ Harm(a,Eₘ,Eₙ,ℓ) ⇒ Rem₍Eₙ₎(a,ℓ)</span>
+  <span class="mpe-eq">Rem₍Eₙ₎(χ) ⇒ rχ ∈ₚᵣₒ𝒻 ℛ(Eₙ)</span>
+</div>
+
+<p>Remainder is not additive. It is retained structure. Later repair can answer it, mitigate it, and prevent compounding. Later repair cannot make it unreal.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>13. History and the Tail</h2>
+
+<p>History must be internal to the field. Prior gives past truth. Branching time gives settled past. Modal Path Ethics gives field-retention.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Hist₍Eₘ₎(ψ)</span>
+</div>
+
+<p>This means that <span class="mpe-eq">ψ</span> is retained in the path-history of extant field-slice <span class="mpe-eq">Eₘ</span>.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">□ₛPD → Hist₍Eₙ₎(D)</span>
+</div>
+
+<p>A settled past damage is retained as history in the later field-slice.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Hist₍Eₙ₎(D) → Rem₍Eₙ₎(D)</span>
+</div>
+
+<p>A retained damaging history generates moral remainder.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Tail₍Eₙ₎(D) ⇔ Hist₍Eₙ₎(D) ∧ Rem₍Eₙ₎(D)</span>
+</div>
+
+<p>The tail is the field-retained moral remainder of a damaging history. It is not the past existing as a present object. The past is gone as live extance. It cannot be touched, reselected, or moved directly. Yet the present field moves in relation to it. This is why the tail is stranger than a stored record. It is absence that still bends reachability.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>14. Zero-Resistance Asymptote</h2>
+
+<p>The proof for damaged extance is short.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">1. D@m</span>
+  <span class="mpe-eq">2. D@m → GPD</span>
+  <span class="mpe-eq">3. GPD → G□ₛPD</span>
+  <span class="mpe-eq">4. □ₛPD → Hist_E(D)</span>
+  <span class="mpe-eq">5. Hist_E(D) → Rem_E(D)</span>
+  <span class="mpe-eq">6. Rem_E(D) → ℛ(E) ≠ ∅</span>
+  <span class="mpe-eq">7. Z(E) ⇔ ℛ(E) = ∅</span>
+  <span class="mpe-eq">Therefore: D@m → G¬Z(E)</span>
+</div>
+
+<p>In prose: once damage occurs, every later extant field-slice retains the settled past truth that the damage occurred. Modal Path Ethics treats settled past as field-history. Damaging history leaves moral remainder. Moral remainder is resistance-bearing. Therefore, the later field cannot be zero-resistance.</p>
+
+<p>The broader extance claim is stronger and must be handled carefully:</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">Extant(E) → Hist(E) ≠ ∅</span>
+  <span class="mpe-eq">Hist(E) ≠ ∅ → ℛ(E) ≠ ∅</span>
+  <span class="mpe-eq">Therefore: Extant(E) → ¬Z(E)</span>
+</div>
+
+<p>This does not say existence is wrongful harm. It says an extant slice is historical and therefore not identical with literal zero-resistance.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>15. STIT and Reachable Agency</h2>
+
+<p>STIT is needed when the formal language turns from path-structure to agency. Standard STIT treats agency as selecting among histories through a moment. Modal Path Ethics needs field-sensitive STIT because agents act from damaged, narrowed, and asymmetric fields.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">[α:a rstit₍Eₘ₎: φ]</span>
+</div>
+
+<p>Read this as: agent or institution <span class="mpe-eq">α</span>, by action <span class="mpe-eq">a</span>, sees to it from extant field-slice <span class="mpe-eq">Eₘ</span> that <span class="mpe-eq">φ</span>, relative to reachable intervention.</p>
+
+<div class="mpe-formula-line">
+  <span class="mpe-eq">Eₘ ⟶^{α:a} Eₙ</span>
+</div>
+
+<p>The moral evaluation then asks what the action did to the field: did it foreclose reachable continuations, thicken resistance, transfer burden, preserve repairability, or leave moral remainder?</p>
+
+<p>This prevents the STIT layer from becoming agent-theater. Agency matters because agents alter fields, not because agency is morally foundational.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>16. Why Full Formalization Is Ill-Advised</h2>
+
+<p>The formalism must mark its own limits.</p>
+<br>
+<p>First, extance is partially opaque. No agent has complete knowledge of the transition relation, all relevant loci, all downstream paths, or all forms of resistance already shaping the field.</p>
+<br>
+<p>Second, resistance is noncommensurable. Local measures may sometimes help, but no general moral currency can sum fear, trust, ecological depletion, lost time, institutional drag, grief, and repairability into one number.</p>
+<br>
+<p>Third, weighting is contextual and partially ordered. Some paths are incomparable. A symbolic language that pretends otherwise would distort the framework into exactly the kind of moral accounting it rejects.</p>
+<br>
+<p>Fourth, moral contact matters. A formula can say that a continuation was foreclosed. It cannot by itself cultivate the perceptual and practical discipline required to recognize the loci at stake, hear testimony, notice distortion, or carry the tail truthfully.</p>
+<br>
+<p>Fifth, symbols tend to reward false closure. They make a field look finished because the notation fits on a line. Modal Path Ethics should use formal language to fight false closure, not to produce a new version of it.</p>
+
+
+<hr class="mpe-section-rule">
+
+<h2>17. Minimal Public Symbol Set</h2>
+
+<p>The public-facing symbol set should stay small. These are the operators most readers need in order to understand the tail argument and the distinction between future possibility and reachable continuation.</p>
+
+<div class="mpe-formal-table-wrap">
+<table class="mpe-formal-table mpe-symbol-table">
+<thead><tr><th>Symbol</th><th>Public reading</th></tr></thead>
+<tbody>
+<tr><td><span class="mpe-eq">Pφ</span></td><td>It was the case that φ.</td></tr>
+<tr><td><span class="mpe-eq">Eₘ</span></td><td>The extant field-slice at moment m.</td></tr>
+<tr><td><span class="mpe-eq">Reach₍Eₘ₎(ℓ,κ)</span></td><td>Continuation κ is reachable for locus ℓ from Eₘ.</td></tr>
+<tr><td><span class="mpe-eq">◇ᴿ₍Eₘ,ℓ₎φ</span></td><td>Some reachable continuation from Eₘ for ℓ makes φ true.</td></tr>
+<tr><td><span class="mpe-eq">ℛ(Eₘ)</span></td><td>The resistance profile of Eₘ.</td></tr>
+<tr><td><span class="mpe-eq">Z(Eₘ)</span></td><td>Eₘ has literally zero Modal Path Ethics resistance.</td></tr>
+<tr><td><span class="mpe-eq">Hist_E(D)</span></td><td>Damage D is retained as field-history.</td></tr>
+<tr><td><span class="mpe-eq">Rem_E(D)</span></td><td>Damage D remains as moral remainder.</td></tr>
+<tr><td><span class="mpe-eq">Tail_E(D)</span></td><td>The retained moral remainder of D in the field.</td></tr>
+</tbody>
+</table>
+</div>
+
+
+<hr class="mpe-section-rule">
+
+<h2>18. Working Thesis</h2>
+
+<p>Modal Path Ethics field-tense logic extends Prior tense logic by treating past truth as retained field-history, branching futures as structured but not necessarily reachable, STIT agency as field-shaped intervention, and moral evaluation as the effect of transitions on weighted reachable continuance from extance.</p>
+
+<div class="mpe-formula-stack">
+  <span class="mpe-eq">◇ᴮFφ ⇏ ◇ᴿ₍Eₘ,ℓ₎φ</span>
+  <span class="mpe-eq">D@m → G¬Z(E)</span>
+  <span class="mpe-eq">Better_C(a,Eₘ) ⇏ ¬Rem₍Eₙ₎(a)</span>
+</div>
+
+<p>The first formula states the core modal distinction: branch-open future possibility does not imply reachable continuation for the relevant extant locus.</p>
+<br>
+<p>The second formula states the core zero-resistance result for damaged extance: once damage occurs, later extant slices cannot be literal zero-resistance fields because their history includes the damage.</p>
+<br>
+<p>The third formula states the core tragic-choice result: better action does not erase moral remainder.</p>
+<br>
+<p>The formalism is therefore a grammar of disciplined refusal: refusal to confuse possible with reachable, better with innocent, repair with cancellation, notation with moral contact, or ethical structure with mathematical closure.</p>
+
+</section>
+<!--kg-card-end: html-->
+
+</body>
+</html>
