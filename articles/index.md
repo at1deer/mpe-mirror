@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-01T06:45:59.227Z
+Generated: 2026-07-01T10:31:31.479Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-01 — [Applied Case: The SCP Foundation](/articles/scp.md) ([HTML](/articles/scp.html))
 - 2026-06-30 — [Tales of Distortion: The Lake Peigneur Drilling Accident](/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.md) ([HTML](/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.html))
 - 2026-06-30 — [Wolfram and the Moral Field](/articles/wolfram-and-the-moral-field.md) ([HTML](/articles/wolfram-and-the-moral-field.html))
 - 2026-06-29 — [Transition Action: The Animal Becomes the Actuator](/articles/transition-action-the-animal-becomes-the-actuator.md) ([HTML](/articles/transition-action-the-animal-becomes-the-actuator.html))

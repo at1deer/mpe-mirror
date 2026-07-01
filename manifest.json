@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-01T06:45:59.227Z",
+  "generated_at": "2026-07-01T10:31:31.479Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 147,
+  "article_count": 148,
   "articles": [
+    {
+      "title": "Applied Case: The SCP Foundation",
+      "slug": "scp",
+      "published_at": "2026-07-01T02:46:54.000-05:00",
+      "updated_at": "2026-07-01T03:18:41.000-05:00",
+      "canonical_url": "https://modalpathethics.com/scp/",
+      "excerpt": "The file was always a contact event.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/scp.md",
+      "mirror_html_path": "/articles/scp.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/scp.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/scp.html",
+      "sha256_plaintext": "bb00594fda9d1e693d7e3a01fc88631e0d0ea92aa45faeab543b7a57e1a3087c"
+    },
     {
       "title": "Tales of Distortion: The Lake Peigneur Drilling Accident",
       "slug": "tales-of-distortion-the-lake-peigneur-drilling-accident",
