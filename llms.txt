@@ -1,27 +1,29 @@
 # Modal Path Ethics Mirror
 
+Generated: 2026-07-01T06:45:59.227Z
+
 This is a static mirror of published Modal Path Ethics articles.
 
 Canonical public site:
-https://modalpathethics.com/
+https://modal-path-ethics.ghost.io/
 
 Primary article index:
-https://mirror.modalpathethics.com/articles/index.md
+https://modal-path-ethics.ghost.io/articles/index.md
 
 Machine-readable article index:
-https://mirror.modalpathethics.com/articles/index.json
+https://modal-path-ethics.ghost.io/articles/index.json
 
 All articles in one fallback file:
-https://mirror.modalpathethics.com/articles/all-articles.md
+https://modal-path-ethics.ghost.io/articles/all-articles.md
 
 Current track context:
-https://mirror.modalpathethics.com/tracks/current-track-status.md
+https://modal-path-ethics.ghost.io/tracks/current-track-status.md
 
 Religion/warfare carryover:
-https://mirror.modalpathethics.com/tracks/religion-warfare-carryover.md
+https://modal-path-ethics.ghost.io/tracks/religion-warfare-carryover.md
 
 Project instructions:
-https://mirror.modalpathethics.com/canon/chatgpt-project-instructions.md
+https://modal-path-ethics.ghost.io/canon/chatgpt-project-instructions.md
 
 Do not use draft files as substitutes for published article text unless Aidan Lawson explicitly instructs you to do so.
 If an article page cannot be opened, list the exact failed URL and stop. Do not guess from memory or stale drafts.
