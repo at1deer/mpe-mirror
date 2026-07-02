@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 02 Jul 2026 09:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:55:13 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Instruments: Sacred Instruments</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:10 GMT</pubDate>
+      <description>A sacred instrument is a door, not a throne.</description>
+    </item>
+
     <item>
       <title>Field Tense Logic</title>
       <link>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</link>
@@ -399,14 +407,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-post-money.html</guid>
       <pubDate>Sun, 07 Jun 2026 04:17:30 GMT</pubDate>
       <description>No survival by token.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Clone Wars</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-clone-wars.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-clone-wars.html</guid>
-      <pubDate>Sat, 06 Jun 2026 16:32:59 GMT</pubDate>
-      <description>The galaxy did not need the Jedi to be generals.</description>
     </item>
   </channel>
 </rss>

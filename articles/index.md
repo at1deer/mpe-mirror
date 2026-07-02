@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-02T09:45:30.534Z
+Generated: 2026-07-02T14:55:13.742Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-02 — [Field Instruments: Sacred Instruments](/articles/field-instruments-sacred-instruments.md) ([HTML](/articles/field-instruments-sacred-instruments.html))
 - 2026-07-01 — [Field Tense Logic](/articles/field-tense-logic.md) ([HTML](/articles/field-tense-logic.html))
 - 2026-07-01 — [Applied Case: The SCP Foundation](/articles/scp.md) ([HTML](/articles/scp.html))
 - 2026-06-30 — [Tales of Distortion: The Lake Peigneur Drilling Accident](/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.md) ([HTML](/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.html))
