@@ -3,14 +3,14 @@ title: "Applied Case: The Second Battle of Hoover Dam"
 slug: "the-second-battle-for-hoover-dam"
 canonical_url: "https://modalpathethics.com/the-second-battle-for-hoover-dam/"
 published_at: "2026-06-29T06:06:05.000-05:00"
-updated_at: "2026-07-01T20:34:19.000-05:00"
+updated_at: "2026-07-02T04:16:58.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-02T04:44:04.236Z"
-sha256_plaintext: "34cbc9db1a078c9be59c905db6ae0521f7642b1bd142ab2fb2af8b10e72c8d9c"
+mirror_generated_at: "2026-07-02T09:45:30.534Z"
+sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
 
@@ -1505,7 +1505,8 @@ It just asks him to count.
 -   Count the tribes that must be kept fearful forever.
 -   Count the towns that must be disciplined before they can be used.
 -   Count the slaves needed to move the army and the slaves needed to feed it and the slaves needed to replace the dead and the soldiers needed to watch the slaves and the punishments needed to watch the soldiers.
--   Count the roads that do not become loyal because a banner moves along them. Count the dam that requires maintenance beyond terror.
+-   Count the roads that do not become loyal because a banner moves along them.
+-   Count the dam that requires maintenance beyond terror.
 -   Count the Republic withdrawing westward with memory, industry, and revenge still intact.
 -   Count the Mojave after the first victory, then after the second month, then after the first failed harvest, then after the first uprising, then after the first commander discovers that crucifixion is easier than logistics.
 
