@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 02 Jul 2026 14:55:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:05:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Instruments: Deterrence</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.html</guid>
+      <pubDate>Thu, 02 Jul 2026 15:30:15 GMT</pubDate>
+      <description>Deterrence is a threat trying to prevent itself from becoming history.</description>
+    </item>
+
     <item>
       <title>Field Instruments: Sacred Instruments</title>
       <link>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</link>
@@ -399,14 +407,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-mysteries-of-pokemon-vgc.html</guid>
       <pubDate>Mon, 08 Jun 2026 06:22:02 GMT</pubDate>
       <description>Companion to RBY UU. Another extraction of ludic insights from historical Pokémon fields.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Post-Money</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-post-money.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-post-money.html</guid>
-      <pubDate>Sun, 07 Jun 2026 04:17:30 GMT</pubDate>
-      <description>No survival by token.</description>
     </item>
   </channel>
 </rss>

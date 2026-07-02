@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-02T14:55:13.742Z
+Generated: 2026-07-02T20:05:04.796Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-02 — [Field Instruments: Deterrence](/articles/field-instruments-deterrence.md) ([HTML](/articles/field-instruments-deterrence.html))
 - 2026-07-02 — [Field Instruments: Sacred Instruments](/articles/field-instruments-sacred-instruments.md) ([HTML](/articles/field-instruments-sacred-instruments.html))
 - 2026-07-01 — [Field Tense Logic](/articles/field-tense-logic.md) ([HTML](/articles/field-tense-logic.html))
 - 2026-07-01 — [Applied Case: The SCP Foundation](/articles/scp.md) ([HTML](/articles/scp.html))

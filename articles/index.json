@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-02T14:55:13.742Z",
+  "generated_at": "2026-07-02T20:05:04.796Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 150,
+  "article_count": 151,
   "articles": [
+    {
+      "title": "Field Instruments: Deterrence",
+      "slug": "field-instruments-deterrence",
+      "published_at": "2026-07-02T10:30:15.000-05:00",
+      "updated_at": "2026-07-02T13:21:11.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-deterrence/",
+      "excerpt": "Deterrence is a threat trying to prevent itself from becoming history.",
+      "tags": [
+        "Field Instruments",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-deterrence.md",
+      "mirror_html_path": "/articles/field-instruments-deterrence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.html",
+      "sha256_plaintext": "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
+    },
     {
       "title": "Field Instruments: Sacred Instruments",
       "slug": "field-instruments-sacred-instruments",
