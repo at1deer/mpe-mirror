@@ -7,7 +7,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack

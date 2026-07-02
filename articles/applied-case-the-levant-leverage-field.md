@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field

@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient

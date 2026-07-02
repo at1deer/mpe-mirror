@@ -3,13 +3,13 @@ title: "Applied Case: The Second Battle of Hoover Dam"
 slug: "the-second-battle-for-hoover-dam"
 canonical_url: "https://modalpathethics.com/the-second-battle-for-hoover-dam/"
 published_at: "2026-06-29T06:06:05.000-05:00"
-updated_at: "2026-06-29T19:52:51.000-05:00"
+updated_at: "2026-07-01T20:34:19.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "34cbc9db1a078c9be59c905db6ae0521f7642b1bd142ab2fb2af8b10e72c8d9c"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -174,6 +174,8 @@ It is not going to be enough forever.
 It comes with red cloth, iron discipline, football pads turned into imperial costume, and the old confidence of men who believe cruelty becomes philosophy if repeated in Latin.
 
 The Legion is easy to underestimate if one mistakes ugliness for stupidity. Except the Legion is not stupid.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/79317.jpg)
 
 Caesar can diagnose the weaknesses of the New California Republic with irritating accuracy. He understands decadence, overstretch, nostalgia, imitation, institutional rot. He can look at a failing republic and name some of its failures.
 

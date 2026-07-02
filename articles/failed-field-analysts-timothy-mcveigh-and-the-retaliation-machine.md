@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "8eb93c4034d948ba068881d44a5c87a9627eaa90b9b4fd998d7249e5c70fc564"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine

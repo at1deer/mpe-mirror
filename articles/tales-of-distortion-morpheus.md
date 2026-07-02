@@ -3,13 +3,13 @@ title: "Tales of Distortion: Morpheus"
 slug: "tales-of-distortion-morpheus"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-morpheus/"
 published_at: "2026-06-13T13:46:50.000-05:00"
-updated_at: "2026-06-17T00:31:09.000-05:00"
+updated_at: "2026-07-01T22:19:15.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
-sha256_plaintext: "58fb1b94a049310e2c55059aebe4b8488091bd0569dfa8baddc31c73858ea8bb"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
+sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
 
@@ -198,7 +198,7 @@ Morpheus is a real liberator inside a real prison.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/06/image-362.png)
 
-That is why the distortion sucks so more when it arrives. Because his correct contact becomes the carrier for a corrupted repair map.
+That is why the distortion sucks so much more when it arrives. Because his correct contact becomes the carrier for a corrupted repair map.
 
 The path opens. Then, Morpheus routes that path through prophecy.
 

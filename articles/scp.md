@@ -3,13 +3,13 @@ title: "Applied Case: The SCP Foundation"
 slug: "scp"
 canonical_url: "https://modalpathethics.com/scp/"
 published_at: "2026-07-01T02:46:54.000-05:00"
-updated_at: "2026-07-01T03:18:41.000-05:00"
+updated_at: "2026-07-01T15:57:14.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
-sha256_plaintext: "bb00594fda9d1e693d7e3a01fc88631e0d0ea92aa45faeab543b7a57e1a3087c"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
+sha256_plaintext: "13bb5db1bb1ad851431ace833eade2d1c666cf061e6331372ffd7f75b3856092"
 ---
 # Applied Case: The SCP Foundation
 
@@ -66,7 +66,9 @@ Modal Path Ethics recognizes this trick because Modal Path Ethics uses a related
 
 -   Both are fascinated by contact.
 -   Both care about what happens when knowledge acts on the knower.
--   Both distrust clean moral rooms. Both ask what survives a transition. Both understand that some structures cannot be confronted by shouting the correct value at them from a hill.
+-   Both distrust clean moral rooms.
+-   Both ask what survives a transition.
+-   Both understand that some structures cannot be confronted by shouting the correct value at them from a hill.
 
 Then they diverge.
 

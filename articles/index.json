@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T20:27:07.895Z",
+  "generated_at": "2026-07-02T04:44:04.236Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 149,
@@ -25,7 +25,7 @@
       "title": "Applied Case: The SCP Foundation",
       "slug": "scp",
       "published_at": "2026-07-01T02:46:54.000-05:00",
-      "updated_at": "2026-07-01T03:18:41.000-05:00",
+      "updated_at": "2026-07-01T15:57:14.000-05:00",
       "canonical_url": "https://modalpathethics.com/scp/",
       "excerpt": "The file was always a contact event.",
       "tags": [
@@ -36,7 +36,7 @@
       "mirror_html_path": "/articles/scp.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/scp.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/scp.html",
-      "sha256_plaintext": "bb00594fda9d1e693d7e3a01fc88631e0d0ea92aa45faeab543b7a57e1a3087c"
+      "sha256_plaintext": "13bb5db1bb1ad851431ace833eade2d1c666cf061e6331372ffd7f75b3856092"
     },
     {
       "title": "Tales of Distortion: The Lake Peigneur Drilling Accident",
@@ -90,7 +90,7 @@
       "title": "Applied Case: The Second Battle of Hoover Dam",
       "slug": "the-second-battle-for-hoover-dam",
       "published_at": "2026-06-29T06:06:05.000-05:00",
-      "updated_at": "2026-06-29T19:52:51.000-05:00",
+      "updated_at": "2026-07-01T20:34:19.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-second-battle-for-hoover-dam/",
       "excerpt": "Spoilers for Fallout: New Vegas. Failed Field Analysts: Colonel Moore [L]",
       "tags": [
@@ -664,7 +664,7 @@
       "title": "Tales of Distortion: Morpheus",
       "slug": "tales-of-distortion-morpheus",
       "published_at": "2026-06-13T13:46:50.000-05:00",
-      "updated_at": "2026-06-17T00:31:09.000-05:00",
+      "updated_at": "2026-07-01T22:19:15.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-morpheus/",
       "excerpt": "The prison was always real.",
       "tags": [
@@ -675,7 +675,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-morpheus.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-morpheus.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-morpheus.html",
-      "sha256_plaintext": "58fb1b94a049310e2c55059aebe4b8488091bd0569dfa8baddc31c73858ea8bb"
+      "sha256_plaintext": "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
     },
     {
       "title": "The Extance Strategy Game",

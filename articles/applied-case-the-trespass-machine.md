@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-01T20:27:07.895Z"
+mirror_generated_at: "2026-07-02T04:44:04.236Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
