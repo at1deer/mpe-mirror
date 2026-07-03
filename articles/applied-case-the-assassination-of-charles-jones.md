@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-03T14:55:22.704Z"
+mirror_generated_at: "2026-07-03T20:00:27.777Z"
 sha256_plaintext: "c76f296643061622580214816b9eea189d5ee9dbf57079536ed16c11f8dc1633"
 ---
 # Applied Case: The Assassination of Charles Jones
