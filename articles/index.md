@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-03T09:44:06.850Z
+Generated: 2026-07-03T14:55:22.704Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-03 — [Applied Case: The Assassination of Charles Jones](/articles/applied-case-the-assassination-of-charles-jones.md) ([HTML](/articles/applied-case-the-assassination-of-charles-jones.html))
+- 2026-07-03 — [Tales of Distortion: The Great Disappointment](/articles/tales-of-distortion-the-great-disappointment.md) ([HTML](/articles/tales-of-distortion-the-great-disappointment.html))
 - 2026-07-02 — [Field Instruments: Deterrence](/articles/field-instruments-deterrence.md) ([HTML](/articles/field-instruments-deterrence.html))
 - 2026-07-02 — [Field Instruments: Sacred Instruments](/articles/field-instruments-sacred-instruments.md) ([HTML](/articles/field-instruments-sacred-instruments.html))
 - 2026-07-01 — [Field Tense Logic](/articles/field-tense-logic.md) ([HTML](/articles/field-tense-logic.html))
