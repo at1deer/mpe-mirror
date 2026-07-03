@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Creature"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-02T20:05:04.796Z"
+mirror_generated_at: "2026-07-03T04:28:34.521Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
