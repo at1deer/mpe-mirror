@@ -3,23 +3,19 @@ title: "Field Instruments: Deterrence"
 slug: "field-instruments-deterrence"
 canonical_url: "https://modalpathethics.com/field-instruments-deterrence/"
 published_at: "2026-07-02T10:30:15.000-05:00"
-updated_at: "2026-07-02T13:21:11.000-05:00"
+updated_at: "2026-07-03T00:17:28.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-03T04:28:34.521Z"
+mirror_generated_at: "2026-07-03T09:44:06.850Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
 
 A missile can be built so it never flies.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_502975019.jpeg)
-
 A submarine can disappear under the sea so a city never disappears under fire.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_460172565.jpeg)
 
 A border post can stand in the cold for forty years because everyone involved would prefer the rifle remain a prop instead of becoming an event.
 
