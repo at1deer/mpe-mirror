@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-04T09:06:40.324Z
+Generated: 2026-07-04T14:10:59.379Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-04 — [Australia vs. The Biosphere: The Emu Front](/articles/australia-vs-the-biosphere-the-emu-front.md) ([HTML](/articles/australia-vs-the-biosphere-the-emu-front.html))
+- 2026-07-04 — [Tales of Distortion: Operation Cottage](/articles/tales-of-distortion-operation-cottage.md) ([HTML](/articles/tales-of-distortion-operation-cottage.html))
 - 2026-07-03 — [Applied Case: The Assassination of Charles Jones](/articles/applied-case-the-assassination-of-charles-jones.md) ([HTML](/articles/applied-case-the-assassination-of-charles-jones.html))
 - 2026-07-03 — [Tales of Distortion: The Great Disappointment](/articles/tales-of-distortion-the-great-disappointment.md) ([HTML](/articles/tales-of-distortion-the-great-disappointment.html))
 - 2026-07-02 — [Field Instruments: Deterrence](/articles/field-instruments-deterrence.md) ([HTML](/articles/field-instruments-deterrence.html))

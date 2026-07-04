@@ -3,13 +3,13 @@ title: "Applied Case: The Assassination of Charles Jones"
 slug: "applied-case-the-assassination-of-charles-jones"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charles-jones/"
 published_at: "2026-07-03T06:06:22.000-05:00"
-updated_at: "2026-07-03T06:06:21.000-05:00"
+updated_at: "2026-07-04T05:31:42.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T09:06:40.324Z"
-sha256_plaintext: "c76f296643061622580214816b9eea189d5ee9dbf57079536ed16c11f8dc1633"
+mirror_generated_at: "2026-07-04T14:10:59.379Z"
+sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
 
@@ -1204,7 +1204,7 @@ That **availability** is the unsolved object here.
 
 > A court should not be the first serious instrument strong enough to stop the path from continuing.
 
-The retaliation field fails because it turns loss into a rider and then waits for bodies willing or wounded enough to carry it.
+The retaliation field turns loss into a rider and then waits for bodies willing or wounded enough to carry it.
 
 Modal Path Ethics marks the hotel as a final surface, not a beginning.
 
