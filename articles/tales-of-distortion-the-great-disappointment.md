@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
 published_at: "2026-07-03T06:00:12.000-05:00"
-updated_at: "2026-07-03T15:28:50.000-05:00"
+updated_at: "2026-07-03T23:36:16.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T04:22:38.263Z"
-sha256_plaintext: "b91e556ef21abf56d99069e4ec250b20c8473bf6b5044f5f29ba6aa3b5dd95fa"
+mirror_generated_at: "2026-07-04T09:06:40.324Z"
+sha256_plaintext: "c343ddc14f61e59f1da6eab1f0a638eca0c794970f8f62e5ad71037c9a886d46"
 ---
 # Tales of Distortion: The Great Disappointment
 
@@ -152,7 +152,9 @@ The calculation then became visible. This is the next step in the distortion.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-69.png)
 
-The Millerite movement became famous for prophetic charts. Himes helped equip Miller with a great chart displaying the millennial calculations in graphic form. The famous 1843 prophetic chart was a large lithographed object; [Ministry Magazine](https://www.ministrymagazine.org/archive/1942/05/historical-data-on-1843-chart?ref=modalpathethics.com) reports that 300 copies were printed in Boston at 3 feet 4 inches by 4 feet 7 inches, with Joshua V. Himes listed as publisher. That same article carefully notes that these charts belonged to the earlier 1843 phase and were not used in the final “seventh-month movement” phase from July to October 1844.
+The Millerite movement became famous for prophetic charts.
+
+Himes helped equip Miller with a great chart displaying the millennial calculations in graphic form. The famous 1843 prophetic chart was a large lithographed object; [Ministry Magazine](https://www.ministrymagazine.org/archive/1942/05/historical-data-on-1843-chart?ref=modalpathethics.com) reports that 300 copies were printed in Boston at 3 feet 4 inches by 4 feet 7 inches, with Joshua V. Himes listed as publisher. That same article carefully notes that these charts belonged to the earlier 1843 phase and were of course not used in the final “seventh-month movement” phase from July to October 1844.
 
 The chart is the earlier distortion image. It shows what the field is learning to do.
 
