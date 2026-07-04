@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
 published_at: "2026-07-03T06:00:12.000-05:00"
-updated_at: "2026-07-03T06:00:12.000-05:00"
+updated_at: "2026-07-03T15:28:50.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-03T20:00:27.777Z"
-sha256_plaintext: "d74244c1d3a5e97a4b72480f74826c717482d429b0e16d63f1ee4eddada7839c"
+mirror_generated_at: "2026-07-04T04:22:38.263Z"
+sha256_plaintext: "b91e556ef21abf56d99069e4ec250b20c8473bf6b5044f5f29ba6aa3b5dd95fa"
 ---
 # Tales of Distortion: The Great Disappointment
 
@@ -27,8 +27,6 @@ Then, someone orders the largest tent in the country.
 Now the end of the world has freight requirements. It has literal stakes. It has ropes. It has a center pole.
 
 It has men hauling excessive amounts of fabric through towns that are still doing the ordinary humiliating work of history: feeding horses, selling flour, printing newspapers, repairing fences, burying grandparents, and pretending “local government” is not an elaborate dare.
-
-The [Encyclopedia of Seventh-day Adventists](https://encyclopedia.adventist.org/article?id=I92L&ref=modalpathethics.com) records memories of Joshua V. Himes’s great tent with a 55-foot pole and a 120-foot diameter, while another Adventist Encyclopedia entry says Millerite leaders claimed the tent could accommodate crowds of 3,000 to 5,000 and that Himes took charge of raising funds for it. The Christian History Institute’s account says Himes purchased “the biggest tent in the country” for Miller’s meetings.
 
 A person can be wrong alone.
 
