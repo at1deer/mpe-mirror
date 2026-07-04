@@ -3,13 +3,13 @@ title: "Australia vs. The Biosphere: The Emu Front"
 slug: "australia-vs-the-biosphere-the-emu-front"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-emu-front/"
 published_at: "2026-07-04T07:00:51.000-05:00"
-updated_at: "2026-07-04T07:00:50.000-05:00"
+updated_at: "2026-07-04T13:25:09.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T14:10:59.379Z"
-sha256_plaintext: "28556f36eb748662172858902b3dd7637073e5219a48f5b21d8dc94cd91b6fbd"
+mirror_generated_at: "2026-07-04T19:47:50.746Z"
+sha256_plaintext: "937d5bc927a9563c6087af480122fb450f0262e47be5b4058c9be1ca88ed5af4"
 ---
 # Australia vs. The Biosphere: The Emu Front
 
@@ -41,7 +41,7 @@ But diagnostically, history occasionally produces an image so clean that an ethi
 
 * * *
 
-# **I. A New Front Opens.**
+# **A New Front Opens.**
 
 The event is usually called **the Emu War** because newspapers, God, and later internet users all understand that "a wildlife management operation using light machine guns" just has no bounce to it.
 
@@ -94,7 +94,7 @@ The first diagnostic error was therefore categorical.
 
 * * *
 
-# **II. The Human Field.**
+# **The Field When it Stood.**
 
 The farmers were living inside a field that had already been narrowed before the emus arrived. Soldier settlement after the war had promised livelihood, independence, and national development.
 
@@ -108,7 +108,9 @@ The emu enters at the rupture point.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-115.png)
 
-A comfortable farm can tolerate a nuisance. A brittle farm cannot. A crop that stands between a family and failure turns every trampling animal into a crisis. A fence that separates crop from animal, animal from rabbit, inside from outside, owned field from moving biosphere, is not just a fence.
+A comfortable farm can tolerate a nuisance. A brittle farm cannot. A crop that stands between a family and failure turns every trampling animal into a crisis.
+
+A fence that separates crop from animal, animal from rabbit, inside from outside, owned field from moving biosphere, is not just a fence.
 
 This is an argument with the continent.
 
@@ -129,7 +131,7 @@ The first emu does not have to be the cause of the disaster. It can be the body 
 
 * * *
 
-# **III. The Emu Is Not Invading.**
+# **The Emu Is Not Invading.**
 
 The **invasion** frame is almost irresistible because these birds arrived in huge numbers and the humans had crops to defend.
 
@@ -169,7 +171,7 @@ It can hide the fact that the human-maintained system is fragile, invasive, badl
 
 * * *
 
-# **IV. The Hole.**
+# **The Hole.**
 
 The emus damaged crops and fences. That is bad already.
 
@@ -219,7 +221,7 @@ The machine gun was not wrong because it was incapable of killing very funny bir
 
 * * *
 
-# **V. Sir George Pearce Sends Help.**
+# **Sir George Pearce Sends Help.**
 
 Sir George Pearce does not need to be written as a cartoon villain.
 
@@ -270,7 +272,7 @@ That argument prepares to continue.
 
 * * *
 
-# **VI. Major Meredith Meets His Match.**
+# **Major Meredith Meets His Match.**
 
 Major Gwynydd Purves Wynne-Aubrey Meredith is the second major figure here.
 
@@ -322,7 +324,7 @@ This is a very strong career move for a bird.
 
 * * *
 
-# **VII. The Gun Jams.**
+# **The Gun Jams.**
 
 Then comes the scene that belongs in every museum of field mismatch.
 
@@ -350,7 +352,7 @@ Then their own gun declined to participate.
 
 * * *
 
-# **VIII. The Emu Tank Corps.**
+# **The Emu Tank Corps.**
 
 Meredith, to his eternal credit as a source of diagnostic literature, later compared the emus to tanks.
 
@@ -400,7 +402,7 @@ That was enough to win.
 
 * * *
 
-# **IX. Taxation By Dead Emu.**
+# **Taxation By Dead Emu.**
 
 One newspaper report found two local farmers tried and failed to pay their tax bill with emus.
 
@@ -441,7 +443,7 @@ Nobody involved has yet solved the hole in the fence, by the way.
 
 * * *
 
-# **X. The Trampling.**
+# **The Trampling.**
 
 A later local memory cuts through much of the myth.
 
@@ -473,7 +475,7 @@ That may be part of a cull. It may have some local effect. But it is one instrum
 
 * * *
 
-# **XI. What Worked Less Stupidly.**
+# **What Worked Less Stupidly.**
 
 After the first phase, the soldiers were withdrawn.
 
@@ -507,7 +509,7 @@ Continuing contact is slow, compromised, expensive, locally specific, politicall
 
 * * *
 
-# **XII. Australia vs. The Biosphere.**
+# **Australia vs. The Biosphere.**
 
 **_Australia vs. The Biosphere_** is another new side-series about instrument-field mismatch in one of the world's greatest theaters for it.
 
@@ -548,7 +550,7 @@ The biosphere does not have to be invincible to be a real belligerent. It only h
 
 * * *
 
-# **XIII. The Ruling.**
+# **The Ruling.**
 
 The Emu War is funny because the instrument was visibly ridiculous.
 

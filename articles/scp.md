@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T14:10:59.379Z"
+mirror_generated_at: "2026-07-04T19:47:50.746Z"
 sha256_plaintext: "13bb5db1bb1ad851431ace833eade2d1c666cf061e6331372ffd7f75b3856092"
 ---
 # Applied Case: The SCP Foundation
