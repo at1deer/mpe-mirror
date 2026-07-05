@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
 published_at: "2026-07-03T06:00:12.000-05:00"
-updated_at: "2026-07-03T23:36:16.000-05:00"
+updated_at: "2026-07-05T04:28:19.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T04:43:35.976Z"
-sha256_plaintext: "c343ddc14f61e59f1da6eab1f0a638eca0c794970f8f62e5ad71037c9a886d46"
+mirror_generated_at: "2026-07-05T09:29:28.871Z"
+sha256_plaintext: "c756ee90a2bb2cf27ab278f1e0c337769cc8d69c7dfc013ce33c454f9ee5be50"
 ---
 # Tales of Distortion: The Great Disappointment
 
@@ -154,7 +154,7 @@ The calculation then became visible. This is the next step in the distortion.
 
 The Millerite movement became famous for prophetic charts.
 
-Himes helped equip Miller with a great chart displaying the millennial calculations in graphic form. The famous 1843 prophetic chart was a large lithographed object; [Ministry Magazine](https://www.ministrymagazine.org/archive/1942/05/historical-data-on-1843-chart?ref=modalpathethics.com) reports that 300 copies were printed in Boston at 3 feet 4 inches by 4 feet 7 inches, with Joshua V. Himes listed as publisher. That same article carefully notes that these charts belonged to the earlier 1843 phase and were of course not used in the final “seventh-month movement” phase from July to October 1844.
+Himes helped equip Miller with a great chart displaying the millennial calculations in graphic form. The famous 1843 prophetic chart was a large lithographed object; [Ministry Magazine](https://www.ministrymagazine.org/archive/1942/05/historical-data-on-1843-chart?ref=modalpathethics.com) reports that 300 copies were printed in Boston at 3 feet 4 inches by 4 feet 7 inches, with Joshua V. Himes listed as publisher.
 
 The chart is the earlier distortion image. It shows what the field is learning to do.
 
