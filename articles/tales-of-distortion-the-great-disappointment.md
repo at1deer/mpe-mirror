@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
 published_at: "2026-07-03T06:00:12.000-05:00"
-updated_at: "2026-07-05T04:28:19.000-05:00"
+updated_at: "2026-07-05T04:37:20.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T09:29:28.871Z"
-sha256_plaintext: "c756ee90a2bb2cf27ab278f1e0c337769cc8d69c7dfc013ce33c454f9ee5be50"
+mirror_generated_at: "2026-07-05T14:19:00.316Z"
+sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
 

@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-05T09:29:28.871Z
+Generated: 2026-07-05T14:19:00.316Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-05 — [Tales of Distortion: Münster’s New Jerusalem](/articles/tales-of-distortion-munsters-new-jerusalem.md) ([HTML](/articles/tales-of-distortion-munsters-new-jerusalem.html))
 - 2026-07-04 — [Australia vs. The Biosphere: The Emu Front](/articles/australia-vs-the-biosphere-the-emu-front.md) ([HTML](/articles/australia-vs-the-biosphere-the-emu-front.html))
 - 2026-07-04 — [Tales of Distortion: Operation Cottage](/articles/tales-of-distortion-operation-cottage.md) ([HTML](/articles/tales-of-distortion-operation-cottage.html))
 - 2026-07-03 — [Applied Case: The Assassination of Charles Jones](/articles/applied-case-the-assassination-of-charles-jones.md) ([HTML](/articles/applied-case-the-assassination-of-charles-jones.html))

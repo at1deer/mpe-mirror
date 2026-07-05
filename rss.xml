@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 05 Jul 2026 09:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:19:00 GMT</lastBuildDate>
     
+    <item>
+      <title>Tales of Distortion: Münster’s New Jerusalem</title>
+      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-munsters-new-jerusalem.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-munsters-new-jerusalem.html</guid>
+      <pubDate>Sun, 05 Jul 2026 12:00:15 GMT</pubDate>
+      <description>Question every Jan. [L]</description>
+    </item>
+
     <item>
       <title>Australia vs. The Biosphere: The Emu Front</title>
       <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-emu-front.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/citadel-archive-eden-prime.html</guid>
       <pubDate>Wed, 10 Jun 2026 12:30:23 GMT</pubDate>
       <description>Commander Shepard finally gets to play this game('s tutorial). Failed Field Analysts: Saren Arterius. [L]</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Finiteness Problem</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-finiteness-problem.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-finiteness-problem.html</guid>
-      <pubDate>Wed, 10 Jun 2026 02:43:13 GMT</pubDate>
-      <description>Enough for what?</description>
     </item>
   </channel>
 </rss>

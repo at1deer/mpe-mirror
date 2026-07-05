@@ -7,8 +7,9 @@ updated_at: "2026-07-01T07:30:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
+  - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T09:29:28.871Z"
+mirror_generated_at: "2026-07-05T14:19:00.316Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
