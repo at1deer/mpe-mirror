@@ -7,8 +7,9 @@ updated_at: "2026-07-04T05:31:42.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T19:47:50.746Z"
+mirror_generated_at: "2026-07-05T04:43:35.976Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T19:47:50.746Z",
+  "generated_at": "2026-07-05T04:43:35.976Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 155,
@@ -47,7 +47,8 @@
       "excerpt": "Foolio, Vodou, Voodoo, and the Jacksonville retaliation field",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Bad Religion"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-assassination-of-charles-jones.md",
       "mirror_html_path": "/articles/applied-case-the-assassination-of-charles-jones.html",
@@ -128,9 +129,9 @@
       "title": "Applied Case: The SCP Foundation",
       "slug": "scp",
       "published_at": "2026-07-01T02:46:54.000-05:00",
-      "updated_at": "2026-07-01T15:57:14.000-05:00",
+      "updated_at": "2026-07-04T17:46:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/scp/",
-      "excerpt": "The file was always a contact event.",
+      "excerpt": "Cognitohazards, Pataphysics, the Foundation-function. External minds and AI Psychosis.",
       "tags": [
         "Applied Case",
         "Modal Path Ethics"
@@ -139,7 +140,7 @@
       "mirror_html_path": "/articles/scp.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/scp.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/scp.html",
-      "sha256_plaintext": "13bb5db1bb1ad851431ace833eade2d1c666cf061e6331372ffd7f75b3856092"
+      "sha256_plaintext": "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
     },
     {
       "title": "Tales of Distortion: The Lake Peigneur Drilling Accident",

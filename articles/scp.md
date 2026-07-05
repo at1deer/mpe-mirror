@@ -3,13 +3,13 @@ title: "Applied Case: The SCP Foundation"
 slug: "scp"
 canonical_url: "https://modalpathethics.com/scp/"
 published_at: "2026-07-01T02:46:54.000-05:00"
-updated_at: "2026-07-01T15:57:14.000-05:00"
+updated_at: "2026-07-04T17:46:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T19:47:50.746Z"
-sha256_plaintext: "13bb5db1bb1ad851431ace833eade2d1c666cf061e6331372ffd7f75b3856092"
+mirror_generated_at: "2026-07-05T04:43:35.976Z"
+sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
 
@@ -191,7 +191,7 @@ SCP understands instrumentation as drama. _Scranton Reality Anchors_, mnestics, 
 
 The setting is full of tools that exist because ordinary contact is insufficient.
 
-[The instrument is never outside the metaphysics](https://modalpathethics.com/transition-action-shape-is-already-code/). The tool belongs to the weird it measures. Put God in a crate, ask God if it has allergies, redact the allergy, and the crate starts humming in Latin. Congratulations: your procedure has joined the choir.
+[The instrument is never outside the metaphysics](https://modalpathethics.com/transition-action-shape-is-already-code/). The tool belongs to the weird it measures. Put God in a crate, ask God if it has allergies, redact the answer, and the crate starts humming in Latin. Congratulations: your procedure has joined the choir.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_291715299.jpeg)
 

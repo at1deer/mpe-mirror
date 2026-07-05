@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-04T19:47:50.746Z"
+mirror_generated_at: "2026-07-05T04:43:35.976Z"
 sha256_plaintext: "c343ddc14f61e59f1da6eab1f0a638eca0c794970f8f62e5ad71037c9a886d46"
 ---
 # Tales of Distortion: The Great Disappointment
