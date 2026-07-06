@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations

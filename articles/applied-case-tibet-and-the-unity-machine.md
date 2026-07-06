@@ -3,13 +3,13 @@ title: "Applied Case: Tibet and the Unity Machine"
 slug: "applied-case-tibet-and-the-unity-machine"
 canonical_url: "https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/"
 published_at: "2026-07-05T10:00:07.000-05:00"
-updated_at: "2026-07-05T10:00:11.000-05:00"
+updated_at: "2026-07-05T16:44:58.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
-sha256_plaintext: "823196cc714511b784b1c9021c7f3911eacb3ac685ff7e04b195fc6c6af36038"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
+sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
 
@@ -31,7 +31,9 @@ The gap has now become too visible.
 
 Then a man died near the United Nations in New York.
 
-[Police said](https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york?ref=modalpathethics.com) a man was found with severe burns near United Nations headquarters and later pronounced dead at Bellevue Hospital. Police did not name him or provide a motive while the investigation was ongoing. Voice of Tibet and Tibetan activists identified him as Lobga Rangzen and described his death as an appeal for Tibetan independence and unity. 
+[Police said](https://www.theguardian.com/world/2026/jul/03/tibet-china-man-tibetan-flag-set-himself-on-fire-dies-un-united-nations-new-york?ref=modalpathethics.com) a man was found with severe burns near United Nations headquarters and later pronounced dead at Bellevue Hospital. Police did not name him or provide a motive while the investigation was ongoing.
+
+Voice of Tibet and Tibetan activists identified him as Lobga Rangzen and described his death as an appeal for Tibetan independence and unity. 
 
 The Guardian also reported the International Campaign for Tibet's count of more than 150 Tibetan self-immolations from 2009 to 2022, including cases in exile.
 
@@ -160,7 +162,7 @@ That flag says Tibetan political memory exists outside the People's Republic of 
 
 It says the story continues elsewhere.
 
-That threatens the story.
+That threatens the unity story. Someone must explain that now.
 
 A costume can be managed.
 

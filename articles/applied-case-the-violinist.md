@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist

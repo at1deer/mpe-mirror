@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care

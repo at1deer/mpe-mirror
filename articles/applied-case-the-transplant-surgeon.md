@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon

@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money

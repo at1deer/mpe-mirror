@@ -10,7 +10,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto

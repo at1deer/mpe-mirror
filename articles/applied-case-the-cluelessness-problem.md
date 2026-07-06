@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness

@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging

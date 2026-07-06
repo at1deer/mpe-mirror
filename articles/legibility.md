@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth

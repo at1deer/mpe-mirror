@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human

@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-05T19:53:44.675Z"
+mirror_generated_at: "2026-07-06T04:55:08.900Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
