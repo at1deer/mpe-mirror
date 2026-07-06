@@ -8,7 +8,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-06T16:03:33.504Z"
+mirror_generated_at: "2026-07-06T20:30:05.175Z"
 sha256_plaintext: "937d5bc927a9563c6087af480122fb450f0262e47be5b4058c9be1ca88ed5af4"
 ---
 # Australia vs. The Biosphere: The Emu Front
