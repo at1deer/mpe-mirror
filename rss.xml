@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 06 Jul 2026 04:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 11:14:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Tales of Distortion: The Six-Cable Admiral</title>
+      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-six-cable-admiral.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-six-cable-admiral.html</guid>
+      <pubDate>Mon, 06 Jul 2026 10:30:29 GMT</pubDate>
+      <description>Geometry declined the realities of command.</description>
+    </item>
+
     <item>
       <title>Applied Case: Tibet and the Unity Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-tibet-and-the-unity-machine.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/the-problem-of-time.html</guid>
       <pubDate>Sat, 13 Jun 2026 00:09:22 GMT</pubDate>
       <description>Modal Path Ethics defends itself with honor and courage against the Problem of Time and relativity in general.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Levant Leverage Field</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-levant-leverage-field.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-levant-leverage-field.html</guid>
-      <pubDate>Fri, 12 Jun 2026 07:16:12 GMT</pubDate>
-      <description>Hostages, Sacred Title, and the Closure of Repair</description>
     </item>
   </channel>
 </rss>

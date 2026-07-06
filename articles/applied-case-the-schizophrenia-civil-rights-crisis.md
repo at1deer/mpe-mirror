@@ -7,7 +7,7 @@ updated_at: "2026-06-11T13:23:14.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-06T04:55:08.900Z"
+mirror_generated_at: "2026-07-06T11:14:57.770Z"
 sha256_plaintext: "1a9c6052954ef834ea620aebbf02a343edfe373af98cb9a39826bd9aabaa7887"
 ---
 # Applied Case: The Schizophrenia Firewall

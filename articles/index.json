@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-06T04:55:08.900Z",
+  "generated_at": "2026-07-06T11:14:57.770Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 157,
+  "article_count": 158,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Six-Cable Admiral",
+      "slug": "tales-of-distortion-the-six-cable-admiral",
+      "published_at": "2026-07-06T05:30:29.000-05:00",
+      "updated_at": "2026-07-06T05:30:28.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-six-cable-admiral/",
+      "excerpt": "Geometry declined the realities of command.",
+      "tags": [
+        "Tales of Distortion",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-six-cable-admiral.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-six-cable-admiral.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-six-cable-admiral.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-six-cable-admiral.html",
+      "sha256_plaintext": "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
+    },
     {
       "title": "Applied Case: Tibet and the Unity Machine",
       "slug": "applied-case-tibet-and-the-unity-machine",
