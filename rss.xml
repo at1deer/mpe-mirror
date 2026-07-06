@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 06 Jul 2026 11:14:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:03:33 GMT</lastBuildDate>
     
+    <item>
+      <title>Fictional Earth: Bluesky and the Safe Room</title>
+      <link>https://modal-path-ethics.ghost.io/articles/fictional-earth-bluesky-and-the-safe-room.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/fictional-earth-bluesky-and-the-safe-room.html</guid>
+      <pubDate>Mon, 06 Jul 2026 12:18:43 GMT</pubDate>
+      <description>“Better weather” is not the same as Real Earth.</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: The Six-Cable Admiral</title>
       <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-six-cable-admiral.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-the-extance-strategy-game.html</guid>
       <pubDate>Sat, 13 Jun 2026 06:28:37 GMT</pubDate>
       <description>Modal Path Ethics is now available for preorder!</description>
-    </item>
-
-    <item>
-      <title>The Problem of Time</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-problem-of-time.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-problem-of-time.html</guid>
-      <pubDate>Sat, 13 Jun 2026 00:09:22 GMT</pubDate>
-      <description>Modal Path Ethics defends itself with honor and courage against the Problem of Time and relativity in general.</description>
     </item>
   </channel>
 </rss>

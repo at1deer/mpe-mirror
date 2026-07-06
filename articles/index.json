@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-06T11:14:57.770Z",
+  "generated_at": "2026-07-06T16:03:33.504Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 158,
+  "article_count": 159,
   "articles": [
+    {
+      "title": "Fictional Earth: Bluesky and the Safe Room",
+      "slug": "fictional-earth-bluesky-and-the-safe-room",
+      "published_at": "2026-07-06T07:18:43.000-05:00",
+      "updated_at": "2026-07-06T07:18:43.000-05:00",
+      "canonical_url": "https://modalpathethics.com/fictional-earth-bluesky-and-the-safe-room/",
+      "excerpt": "“Better weather” is not the same as Real Earth.",
+      "tags": [
+        "Fictional Earth",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/fictional-earth-bluesky-and-the-safe-room.md",
+      "mirror_html_path": "/articles/fictional-earth-bluesky-and-the-safe-room.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-bluesky-and-the-safe-room.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-bluesky-and-the-safe-room.html",
+      "sha256_plaintext": "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
+    },
     {
       "title": "Tales of Distortion: The Six-Cable Admiral",
       "slug": "tales-of-distortion-the-six-cable-admiral",
