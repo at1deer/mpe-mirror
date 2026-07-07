@@ -3,12 +3,12 @@ title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
 published_at: "2026-07-07T06:05:02.000-05:00"
-updated_at: "2026-07-07T06:05:02.000-05:00"
+updated_at: "2026-07-07T14:03:13.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T15:31:53.489Z"
+mirror_generated_at: "2026-07-07T20:29:04.556Z"
 sha256_plaintext: "1ebd288fabca4ce6738faaed0090c985e9b36e847bc4ec6f3cb3b5c4813572fa"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -558,6 +558,8 @@ The settler field wanted visibility.
 It wanted to see, classify, display, collect, explain, suppress, and own the surfaces of sacred practice.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/d3ba4116-32d3-4cbf-89c9-5f2853435f3c.png)
+
+___Nocturne___
 
 It wanted the shirt to become evidence. Evidence of fanaticism. Evidence of delusion. Evidence of danger. Evidence of “Indian trouble.”
 
