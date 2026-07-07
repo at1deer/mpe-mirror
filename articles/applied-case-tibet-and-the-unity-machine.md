@@ -3,12 +3,12 @@ title: "Applied Case: Tibet and the Unity Machine"
 slug: "applied-case-tibet-and-the-unity-machine"
 canonical_url: "https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/"
 published_at: "2026-07-05T10:00:07.000-05:00"
-updated_at: "2026-07-05T16:44:58.000-05:00"
+updated_at: "2026-07-07T00:24:47.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T04:35:27.023Z"
+mirror_generated_at: "2026-07-07T10:07:43.598Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -17,8 +17,8 @@ China governs territory, law, schools, infrastructure, speech, archives, borders
 
 Tibet exposes a missing joint in the earlier China sequence.
 
--   The Great Leap Forward showed the party story commanding material reality into a future the field could not bear. Fields, grain, tools, kitchens, reports, cadres, birds, furnaces, and hunger were forced through a historical machine that treated correction as sabotage.
--   The Silicon Shield showed the national restoration story turning outward toward Taiwan, a living democratic polity Beijing reads as unfinished history. Taiwan is not a chip tray. It is not a transferable strategic object. That is a field with its own people, institutions, elections, risks, fears, arguments, and reachable futures.
+-   [The Great Leap Forward](https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/) showed the party story commanding material reality into a future the field could not bear. Fields, grain, tools, kitchens, reports, cadres, birds, furnaces, and hunger were forced through a historical machine that treated correction as sabotage.
+-   [The Silicon Shield](https://modalpathethics.com/applied-case-the-silicon-shield/) showed the national restoration story turning outward toward Taiwan, a living democratic polity Beijing reads as unfinished history. Taiwan is not a chip tray. It is not a transferable strategic object. That is a field with its own people, institutions, elections, risks, fears, arguments, and reachable futures.
 -   Tibet is the middle the loop had not yet faced.
 
 Taiwan shows the completion story aimed at a polity outside Beijing's control.
