@@ -1,6 +1,1682 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-07-07T10:07:43.598Z
+Generated: 2026-07-07T15:31:53.489Z
+
+
+<!-- ARTICLE_START slug="moonlight-with-figures-the-ghost-dance" title="Moonlight with Figures: The Ghost Dance" published_at="2026-07-07T06:05:02.000-05:00" -->
+
+---
+title: "Moonlight with Figures: The Ghost Dance"
+slug: "moonlight-with-figures-the-ghost-dance"
+canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
+published_at: "2026-07-07T06:05:02.000-05:00"
+updated_at: "2026-07-07T06:05:02.000-05:00"
+tags:
+  - "Moonlight with Figures"
+  - "Modal Path Ethics"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
+sha256_plaintext: "1ebd288fabca4ce6738faaed0090c985e9b36e847bc4ec6f3cb3b5c4813572fa"
+---
+# Moonlight with Figures: The Ghost Dance
+
+**Ralph Albert Blakelock** is [my ancestor](https://modalpathethics.com/author/).
+
+That is [not a credential](https://modalpathethics.com/tales-of-distortion-symmess-hole/).
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/79460.jpg)
+
+He was my great-great-great-grandfather, and he painted _The Ghost Dance (Vision of Life)_ after the Ghost Dance had already been forced through several other machines: newspaper, agency report, cavalry fear, ethnographic rescue.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/data-src-image-4cba0a2a-754c-458e-96e4-c9773c1d260a.jpeg)
+
+___The Ghost Dance (Vision of Life)___
+
+By the time this painting reached me, this dance had already been translated way too many times.
+
+A translation can preserve contact.
+
+A translation can also carry the wound that made translation necessary.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/79461.jpg)
+
+That is the first danger.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ralph-albert-blakelock-oil-painting-on-c-UI09Z-3-1.png)
+
+___(Unknown)___
+
+Blakelock left school. He went West, lived among Native people for a short time, and carried the West back into paintings of encampments, horses, trees, fires, figures, distance, and moonlight that he would create again and again.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-207.png)
+
+___Moon Memory___
+
+Then his own life entered a different kind of night. Poverty, grief, madness, confinement; fame arriving in the wrong room. Hungry dealers and collectors circling the work while the man himself was kept outside ordinary modes of continuance. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-205-1.png)
+
+___Into the Night___
+
+Blakelock spent about two decades confined in asylums. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-210-1-1.png)
+
+___Untitled (Moonlight with Figures)___
+
+The paintings kept traveling the world without him.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-198.png)
+
+___Moonlight Landscape___
+
+A family does not receive that history as clean romance.
+
+It also does not receive it as clinical disposal.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-199.png)
+
+___Unknown (The Painting in Marmar's House)___
+
+**Vision** is not a safe word. That one has never meant only sight. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-203.png)
+
+___Autumn Touches___
+
+**Vision** can mean art, rupture, summons, hallucination, correspondence, terror, beauty, possession, illness, vocation, and that old brutal possibility that a human mind may become a doorway before anyone at all knows who or what is knocking.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-206-1-1.png)
+
+___Moonlight and Clouds___
+
+That cannot be allowed to own the Ghost Dance.
+
+The Ghost Dance does not belong to Blakelock. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-202.png)
+
+___Moonlight over the Encampment___
+
+It does not belong to American art. It does not belong to the museum, the critic, the collector, the army, the agent, the newspaper, the psychiatry file, or the descendant.
+
+A door is not ownership. Only access.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-208-2-1-1.png)
+
+___Indian Encampment___
+
+Blakelock's painting does not explain the dance. It does not interpret the dancers. It does not become a sacred title over the sacred instrument it depicts.
+
+It opens the trouble. And the trouble begins with light.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-211.png)
+
+___Moon Mood___
+
+Blakelock read Swedenborg. In Swedenborg, **correspondence** is not a metaphor. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-212.png)
+
+___Prospect Park, Edge of Common___
+
+The natural world corresponds to the spiritual world; not only as a general whole, in its particulars. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-214.png)
+
+___The Mountain Lake___
+
+The visible thing is an effect, an out-form, a natural body answering to a spiritual cause. The two worlds do not become identical.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-232.png)
+
+___Mountainous Landscape with Indian Scout___
+
+They communicate through correspondence. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-213-1.png)
+
+___Evening Landscape of a Woman Walking Along a Path___
+
+Heat and light in the natural world answer to love and truth in the spiritual world.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-215.png)
+
+___Forest Fire___
+
+A face discloses affection. Gesture carries will. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/30.58.jpg)
+
+___Portrait of Artist's Wife___
+
+The body speaks what the interior field cannot keep entirely hidden.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-217.png)
+
+___Cora Bailey (Mrs. Ralph Blakelock)___
+
+This is very dangerous knowledge for art.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/27.10_bw_IMLS-1-1.jpg)
+
+___Woodland Scene with Two Figures___
+
+It means a painted moon is never safely only a painted moon.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-218.png)
+
+___Harvest Moon___
+
+It also means the painted moon cannot be promoted into proof.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-233-1.png)
+
+___Moonlight___
+
+That is the right register here: correspondence under discipline. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-189.png)
+
+___The Pow Wow___
+
+The visible thing answers. It does not testify alone. It must be kept in contact with the field it opens, or the image becomes an oracle, the oracle becomes a throne, and the throne begins issuing commands over living people.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-201.png)
+
+___Sunset___
+
+Modal Path Ethics already knows this danger from sacred instruments.
+
+An instrument can deepen contact. It can also become sovereign over correction. Blakelock's Swedenborg register enters precisely there: image as contact, image as danger, image as threshold, image as possible trespass.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-186.png)
+
+___Moonlight___
+
+In Blakelock, the moon is not a lamp.
+
+The moon is a relation.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-235.png)
+
+___Moonlight___
+
+It makes the landscape correspond. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/moonlight_2014.136.20.jpg)
+
+___Moonlight___
+
+Trees become witnesses. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-261.png)
+
+___Brook by Moonlight___
+
+Horses become movement. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-266-1.png)
+
+___Pegasus (Lady Godiva)___
+
+Campfires become small earthly suns holding human warmth against enormous night. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-259.png)
+
+___Around the Campfire___
+
+Figures gather as though the ground beneath them remembers something the official history has not learned how to say. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-263.png)
+
+___Earthen Spirits___
+
+The sky does not sit above the scene. It presses down and into it.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-265.png)
+
+___Moonlight___
+
+That is how _The Ghost Dance (Vision of Life)_ enters this article: not evidence, nor property, nor family magic, nor diagnosis.
+
+> **Pressure**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-236.png)
+
+___Untitled___
+
+The painting does not tell us what the Ghost Dance was.
+
+It tells us that America could not stop seeing the Ghost Dance through haunted instruments.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-197-1.png)
+
+___Encampment___
+
+* * *
+
+## **The Horse != the Rider.**
+
+[In Vodou, the horse is not the rider](https://modalpathethics.com/applied-case-the-assassination-of-charles-jones/).
+
+That sentence is not decoration. This is a way of keeping agency honest when a field begins speaking through bodies.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/data-src-image-27905a9c-78fd-4b78-9376-de4925fa03f5-1.jpeg)
+
+___Indians, Ogden, Utah___
+
+A person may tremble, dance, speak, fall, bless, warn, receive, refuse, or become strangely more than the surface of the person. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/data-src-image-a39ed836-03e7-4d39-ba21-f9554466f1d5-1.jpeg)
+
+___Figure in a Landscape___
+
+The body may be mounted by a power.
+
+-   The person is still present.
+-   The rider is also present.
+
+The ethical question is not solved by staring at the motion and saying “the body goes.”
+
+> What is riding it?
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-196-1-1.png)
+
+___Indian with Horse and Cart___
+
+This article needs that grammar as well because the Ghost Dance was surrounded by possessed fields.
+
+-   The dancers were not the only bodies moving.
+    -   The newspapers were ridden.
+    -   The agencies were ridden.
+    -   The Army was ridden.
+    -   The Seventh Cavalry was ridden by an old wound it converted into readiness. 
+    -   The reservation office was ridden by the fantasy that a sacred field could be controlled by removing a leader. 
+    -   The public was ridden by stories of Indian outbreak before the field had been read. 
+    -   The museum was ridden by the desire to preserve objects after the world that made them had been attacked. 
+    -   The art market was ridden by hunger for visionary surfaces. 
+    -   My own family line is ridden by an image that will not stop looking back.
+
+The Ghost Dance did not ride the Army.
+
+**Fear** rode the Army.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-219.png)
+
+_Landscape with Rider_
+
+That is the first ruling this article will keep returning to.
+
+When a people dance under annihilatory pressure, the dance may be prayer, discipline, grief, return, social repair, historical refusal, or a future held bodily when the ordinary paths of continuation have been cut. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/15.3108_acetate_bw-1-1.jpg)
+
+___The Edge of the Woods___
+
+When the state sees that dance and reads a war, the possession has entered the state.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-191-1.png)
+
+___Indian Dancer___
+
+* * *
+
+## **The World Had Ended Once.**
+
+The Ghost Dance did not appear in a functioning moral field that suddenly became strange because Native people danced.
+
+This field was already damaged.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-188.png)
+
+___Indian Woman___
+
+The **buffalo** were not an image. They were food, motion, economy, relation, season, technique, teaching, robe, tool, trade, ceremony; world. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-187.png)
+
+___Indian Encampment at Sunset___
+
+Their destruction was not only ecological loss, though of course it was. It was a direct assault on the reachability of a people’s continuance. A people whose life had been built through relation with buffalo lost a whole set of lawful transitions by which bodies, camps, kinship, movement, winter, hunger, memory, and future had once answered one another.
+
+Then came reservation confinement.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/05.86_PS2-1-1.jpg)
+
+___The Captive___
+
+Then came rations.
+
+Then came agents.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-234-1.png)
+
+___The Girl in Red___
+
+Then came 
+
+-   allotment logic, 
+-   farming demands, 
+-   schools, 
+-   churches, 
+-   prohibitions, 
+-   inspections, 
+-   censuses, 
+-   coercive dependency, 
+-   bad faith, 
+-   shrinking land, 
+-   broken treaty, and 
+-   the everyday terror of being told that survival required becoming legible to the institutions that had already misunderstood nearly **everything** that mattered.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-192-1.png)
+
+___The Lost Tribe___
+
+This is where ordinary moral language starts failing.
+
+-   Settler administration could say “order.”
+-   The field answered “contraction.”
+-   Settler administration could say civilization.
+-   The field answered hunger.
+-   Settler administration could say education.
+-   The field answered child-removal and future interruption.
+-   Settler administration could say peace.
+-   The field answered disarmament under threat.
+-   Settler administration could say ration.
+-   The field answered dependence engineered by theft.
+
+A ration line is not just a line. 
+
+This is also a diagram of power after a way of life has been attacked. A person standing in that line is not just waiting around for flour or beef. They are standing inside a forced translation of sovereignty into dependency. 
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-193-1-1.png)
+
+___Encampment at Sunset with a Lone Figure___
+
+The line tells the body where to go. It tells the family who controls the next day. It tells the agent that hunger can become a lever. It tells the state that starvation can be made administrative enough to deny itself.
+
+The Ghost Dance enters after all that.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-195.png)
+
+___In the Primordial Woods___
+
+So when the settler field later says, “look, irrational religion,” it is simply lying at the level of sequence. The dance was not a failure to understand reality. It was a response to a reality that had become a closure machine.
+
+The world had already ended once.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-220.png)
+
+___Forgotten Forest___
+
+People danced because the world still had to come back.
+
+* * *
+
+## **Wovoka.**
+
+The Ghost Dance carried very many things as it moved across peoples, languages, wounds, hopes, and local histories.
+
+-   It carried the return of the dead.
+-   It carried the return of buffalo.
+-   It carried the restoration of land.
+-   It carried peace.
+-   It carried discipline.
+-   It carried the possibility that the white world’s domination did not have final metaphysical title over the future.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-221.png)
+
+___Evening Silhouettes___
+
+A cheap account hears that and says fantasy.
+
+A better account asks what exactly the fantasy was doing to a field whose ordinary repair paths had been destroyed.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-223.png)
+
+___Rip Van Winkle (The Hermit)___
+
+A sacred repair instrument does not have to resemble a policy proposal.
+
+It may hold what policy has already failed to hold: grief, dead, relation, continuity, vow, and the impossible demand that history remain answerable to those it tried to bury.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-224.png)
+
+___Mist in the Valley___
+
+The Ghost Dance was bodily.
+
+It was a **circle**. Hands held hands. Bodies moved side to side. Songs repeated.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-237.png)
+
+___Indian Pipe Dance___
+
+The dance did not typically require the central drum of other round dance forms. Sometimes there was a pole, a tree, or nothing at the center.
+
+The center did not need a throne.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-229.png)
+
+_Moonlit Landscape_
+
+The **circle** was not a military formation.
+
+It was a return instrument.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-228.png)
+
+___A Landscape With Stream Among Cliffs___
+
+-   A line advances.
+    -   A column marches.
+        -   A formation aims.
+-   A **circle** holds relation.
+    -   It turns without leaving itself.
+        -   It brings the living into a shape where each body is beside another body and no single figure owns the direction.
+
+The circle is not innocent because geometry is magic. No shape is innocent.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-230.png)
+
+___Night Scene___
+
+But the **circle** tells the field something that the settler eye repeatedly failed to read:
+
+> This is not an arrow.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-238.png)
+
+___The Hunter___
+
+This is not an attack plan.
+
+This is not a map of invasion.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-239.png)
+
+___The Canoe Builders___
+
+This is a people trying to keep relation alive when nearly every official instrument surrounding them has been built to sever relation and call the cut progress.
+
+In Swedenborgian terms, the circle corresponds.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-260-1.png)
+
+___The Sun___
+
+It is a natural shape answering to a spiritual relation. Return. Continuity. Mutual presence. No final edge. A moving boundary that holds instead of penetrates. The circle says the dead are not gone in the way the state wants them gone. The land is not dead in the way the allotment map wants it dead. The buffalo are not disposable biological inventory. The future has not consented to the administrative calendar.
+
+The settler field did not read this.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-240.png)
+
+___Canadian Indian Hunters___
+
+It saw bodies moving together and translated the motion into a threat surface.
+
+That is one of the oldest failures of power.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-241.png)
+
+___Sunset, Navarro Ridge, California Coast___
+
+Power sees relation among the wounded and fears conspiracy because conspiracy is the only form of relation power understands when it is not in charge of the meeting.
+
+* * *
+
+## **The Shirt Whose Image Is Withheld.**
+
+The Ghost Dance shirt has to be approached as a sacred instrument, not as a curiosity, costume, proof of irrationality, and absolutely not as a punchline about failed protection.
+
+There are shirts in museum records now.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/6cc1dd94-61ca-4ae3-b875-eda24adc755e.png)
+
+___Darkness Coming___
+
+Some are shown. Some are not.
+
+One National Museum of the American Indian entry gives the object and withholds the image. It is a Lakota Ghost Dance shirt, cotton cloth, paint, feathers, collected by a United States marshal at Pine Ridge around the time of Wounded Knee.
+
+The record is already an entire moral field.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/9ea5ac22-2a6c-499f-9db0-1f1bc428091a-1.png)
+
+___View Through the Trees___
+
+-   A sacred garment.
+    -   Paint.
+    -   Feathers.
+-   Pine Ridge.
+-   A United States marshal.
+-   A museum.
+    -   Image withheld.
+
+The withheld image may be one of the most ethically intelligent things in the whole archive.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/dd947a90-fc86-417c-860a-5520097638aa-1.png)
+
+___Hunter and Dog___
+
+The settler field wanted visibility.
+
+It wanted to see, classify, display, collect, explain, suppress, and own the surfaces of sacred practice.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/d3ba4116-32d3-4cbf-89c9-5f2853435f3c.png)
+
+It wanted the shirt to become evidence. Evidence of fanaticism. Evidence of delusion. Evidence of danger. Evidence of “Indian trouble.”
+
+Later, evidence of history. Evidence of tragedy. Evidence of culture. Evidence of museum custody. Evidence of American complexity for people who want to feel morally enlarged by looking at what their institutions helped break.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-243-1.png)
+
+___Moonlight___
+
+The withheld image interrupts that appetite.
+
+Some objects have been seen enough by the wrong powers.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-244-1-1.png)
+
+___Evening Landscape___
+
+This is not [anti-oblivion as exposure](https://modalpathethics.com/the-anti-oblivion-doctrine/). Modal Path Ethics has already distinguished retention from permission. The field retains. The archive may retain.
+
+But retention does not mean everyone gets to look. Privacy is not erasure. Withholding can protect contact from becoming consumption.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/fe8c7777-5d96-4d9d-9f97-1d89c503a065.png)
+
+___Two Seated Indians___
+
+Sacred instruments can be made from cloth.
+
+That sentence should not surprise anyone.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-246.png)
+
+___Japanese Lantern___
+
+A nation can be made from cloth. A surrender can be made from cloth. A wedding can be made from cloth. A soldier can put cloth on a body and become a target under law. A child can cling to cloth and make the cloth home.
+
+Sacred material is not primitive superstition.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-248.png)
+
+___Wildfire Approaching Camp___
+
+Material is how human bodies carry invisible claims.
+
+The Ghost Dance shirt carried relation, hope, protection, and return through a body under threat. It carried a people’s attempt to make continuance wearable.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-249.png)
+
+___Native Americans on Horseback___
+
+The settler field looked at it and often saw military delusion because the settler field had already decided that its own uniforms were rational and everyone else’s sacred clothing was evidence.
+
+This is how distorted fields protect themselves.
+
+-   They call their own cloth order.
+    -   They call your cloth mania.
+
+* * *
+
+## **The Press.**
+
+A newspaper is a **possession instrument** with columns.
+
+That is not a metaphor.
+
+That is a description of what happens when panic learns typography.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-250.png)
+
+___Sunset Landscape___
+
+The Ghost Dance entered the press field as a story the press already knew how to want. “Messiah craze.” “Indian excitement.” “Outbreak.” “Fanaticism.”
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-251.png)
+
+___Indian Encampment___
+
+These words did not describe the field. They trained the field. They taught settlers how to feel before understanding arrived. They prepared agency reports to sound reasonable. They prepared troop movement to feel prudent. They prepared readers to treat Native hope as a pre-violent condition.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-252-1.png)
+
+___Nocturnal Woodland Landscape___
+
+This is the bad magic of print culture under fear.
+
+-   A dance becomes a symptom.
+    -   A symptom becomes a warning.
+        -   A warning becomes a demand for action.
+            -   Action becomes proof that the warning was serious.
+
+The circle had not changed. The receiving field had.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-253.png)
+
+___Lagoon with Figure___
+
+James Mooney becomes important because he tried to correct this.
+
+He studied the Ghost Dance, traveled, listened, wrote, and tried to place the movement inside a real historical and religious field rather than the settler fever dream.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-267.png)
+
+___Nocturne___
+
+His work is still mediated, still marked by its time, still an ethnographic instrument. But Mooney understood something the panic field did not want to understand:
+
+The Ghost Dance was not an army hiding under a hymn.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-254.png)
+
+___Landscape___
+
+In 1894, he recorded Ghost Dance songs.
+
+The recordings are likely Mooney himself singing. At the time, ethnographers often memorized and repeated songs before recording technology could travel easily into every field. Human memory functioned as the recorder before the machine.
+
+So the Ghost Dance entered the recording machine through a borrowed throat.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-255.png)
+
+___The Boulder and the Flume___
+
+Do not rush past that.
+
+-   A song of return,
+    -   sung by someone who was not its source,
+        -   preserved by a machine from the age that helped make the preservation necessary,
+            -   now heard as archive.
+
+That is not simple theft. It is also not simple rescue.
+
+It is a contact problem.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-256.png)
+
+___Stingtown Pike___
+
+The song survives, but survival has passed through a mouth, discipline, memory, language, cylinder, institution, catalog, playback, and listener. The archive is not outside the wound. It is one of the ways the wound itself keeps becoming audible.
+
+In Swedenborgian correspondence, voice is never only sound.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-257.png)
+
+___Indian Encampment Along Snake River___
+
+Voice is interior made exterior through breath.
+
+A borrowed throat is a natural form answering to a damaged transmission. The song does not arrive from the field untouched. It arrives through mediation.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-258-1.png)
+
+___The Lagoon___
+
+That does not make it worthless.
+
+Mooney’s borrowed throat is one of the few settler instruments in this story that understood it was receiving something it did not own.
+
+The press did not. The press wanted possession without discipline.
+
+The press wanted to ride the field.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-268.png)
+
+___Indian Hunters___
+
+And once fear was in print, the state could call the printed fear public knowledge.
+
+* * *
+
+## **McLaughlin's Node.**
+
+Every bureaucracy has a favorite superstition.
+
+One of the strongest is the belief that a field can be fixed by finding the right person to remove.
+
+This is often false. It is also often convenient.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-270-1.png)
+
+___The Chase___
+
+At Standing Rock, Major James McLaughlin and others looked at the Ghost Dance field and saw Sitting Bull. That is already a distortion.
+
+Sitting Bull definitely mattered. His reputation and presence mattered. He was not irrelevant to this field. But the sacred instrument was not reducible to one leader’s command, and treating him as the removable node transformed religious contact into a control problem.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-273.png)
+
+___Morning Glory___
+
+This is the move:
+
+-   The dance becomes trouble.
+    -   Trouble becomes influence.
+        -   Influence becomes leader.
+            -   Leader becomes arrest.
+                -   Arrest becomes violence.
+                    -   Violence becomes confirmation.
+
+A circle is pretty hard to arrest. Hunger is very hard to arrest. A broken treaty is hard to arrest. Destroyed buffalo are hard to arrest in a way that is not a farce. A people’s relation with the dead is hard to arrest. Sacred repair under annihilatory pressure is generally very hard to put in handcuffs.
+
+A man can be arrested, though. This instrument already knows how to do that.
+
+So the field becomes a man.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-272.png)
+
+That is how McLaughlin becomes a distorted figure. Distorted figures often catch fragments of truth. Sitting Bull’s name did carry power. The dance did carry collective force. The reservation field was unstable. Settler fear was real fear, even when its object was wrong.
+
+The failure lies in what the instrument did with those fragments.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-274-1-1.png)
+
+___Solitary Tree at Sunset___
+
+McLaughlin’s field translated sacred repair into a leadership-control problem. The answer then became removal.
+
+When a living field is reduced to a node, repair paths disappear.
+
+-   Conversation becomes custody.
+-   Understanding becomes surveillance.
+-   Spiritual practice becomes sedition.
+-   The agent’s report begins to impersonate the field.
+
+Sitting Bull’s cabin becomes the place where this compression enters bodies.
+
+* * *
+
+## **The Cabin.**
+
+A cabin should be a shelter.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-222.png)
+
+_House by a Stream_
+
+In this field, it becomes a hinge between sacred panic and armed administration.
+
+Indian police arrived before dawn to arrest Sitting Bull. The use of Native police inside the reservation state here is important to note. This was not a clean line between “the United States” and “Native people” as two abstract blocks.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-275.png)
+
+___Moonlight___
+
+Colonial governance often works by forcing damaged fields to fracture into the instruments that administer them. Native police could be placed into the role of enforcing the reservation order against Native sacred-political life, under pressure from federal authority, inside communities already shaped by hunger, fear, rival judgments, and survival.
+
+The cabin fills.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-276.png)
+
+___In Central Park___
+
+People gather.
+
+Sitting Bull refuses to go quietly into the role prepared for him.
+
+Shots follow.
+
+He dies.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-277.png)
+
+___Hawley, Pennsylvania___
+
+A field had been compressed into a man, [then the man was approached through arrest, then the arrest produced death, and the death widened the fear-field it was supposed to control](https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/).
+
+The leadership-node model failed immediately.
+
+If removing Sitting Bull was supposed to make the Ghost Dance fade, his death did the opposite kind of work. It sent shock, grief, flight, and confirmation through the field. The state had read the dance as danger; then the state arrived armed at a home and made danger more real.
+
+Power often does this and calls itself unlucky.
+
+* * *
+
+## **Spotted Elk.**
+
+Spotted Elk should not enter this article as “Big Foot” first.
+
+That name belongs to the colonial record too loudly. It is not unusable; history has carried it, signs have carried it, memorial accounts have carried it. But the article should keep the person from being swallowed by the caption.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-227.png)
+
+___Autumn Landscape with Deer___
+
+Spotted Elk was sick.
+
+He was gravely ill with pneumonia, unable to walk, traveling with a band that included many women, children, elders, and people in poor condition.
+
+He was trying to reach safety and preserve a field.
+
+The security instrument saw **motion**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-278-1.png)
+
+___Autumn Landscape with Deer___
+
+Motion under fear becomes
+
+-   maneuver.
+    -   Maneuver becomes threat.
+        -   Threat becomes interception.
+            -   Interception becomes disarmament.
+                -   Disarmament becomes massacre.
+
+The state field imagined danger.
+
+The extant field contained a sick leader, families, cold, hunger, exhausted movement, and a desperate attempt to remain reachable to safety.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/534850ldsdl.jpg)
+
+___Out of the Deepening Shadows___
+
+* * *
+
+## **Wounded Knee Creek.**
+
+The photograph of Spotted Elk dead in the snow is one of the most brutal American images.
+
+Modal Path Ethics has to enter before the photograph.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-225.png)
+
+___Sunset___
+
+-   The band is stopped.
+-   They camp.
+    -   Soldiers surround.
+    -   The Seventh Cavalry is present with its own memory, its own institutional wound, its own desire not to be surprised, its own need to turn fear into position.
+    -   The field is already armed before any shot is fired.
+        -   Disarmament begins.
+            -   Disarmament is supposed to produce safety.
+
+This is one of the most dangerous sentences in any security field.
+
+Sometimes it is true. Sometimes weapons must be removed for the field to become less dangerous. A security instrument that never disarms anyone is not serious about protection.
+
+But disarmament is not a sacrament. It does not become safe because the armed power says "safety." It must answer to the field.
+
+-   Who is disarming whom?
+    -   Under what history?
+    -   Under what relation?
+        -   With what numbers, guns, hunger, cold, language, fear, and prior violence already present?
+        -   What off-ramp exists if fear spikes?
+            -   Who is allowed to live through a misunderstanding?
+            -   Who controls the story after the first body falls?
+
+At Wounded Knee, disarmament entered a field already possessed by threat-translation.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-279-1-1.png)
+
+___Deer in a Deep Woods___
+
+A shot was fired. Accounts differ over the immediate spark. The field did not differ about what followed.
+
+-   The soldiers opened fire.
+    -   Women died.
+    -   Children died.
+    -   Men died.
+    -   Spotted Elk died.
+    -   Soldiers also died,
+        -   many in the chaos of their own field of fire.
+
+The Hotchkiss guns are the opposite of the circle.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-280.png)
+
+___Landscape Study___
+
+-   The circle gathers.
+    -   The gun arrays.
+-   The circle moves relation through bodies.
+    -   The gun translates bodies into sweep, angle, burst, field of fire.
+-   The circle returns.
+    -   The gun clears.
+
+This is not a claim that circles are holy and guns are evil in all possible worlds. The gun can be protection. The circle can be coercion in other contexts. Modal Path Ethics does not evaluate objects by the pretty feelings attached to their shape.
+
+But here, in this field, the correspondence is clear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-301.png)
+
+___Night Scene___
+
+* * *
+
+## **Snow.**
+
+Snow is the wrong color for this work. That is why history keeps using it.
+
+**Snow** makes massacre look silent after the sound has left. It covers movement. It takes blood as contrast. It lets the photograph pretend that time has stopped long enough to be looked at.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-282.png)
+
+___Winter___
+
+**Snow** can make the world seem clean while recording exactly where it is not.
+
+This is another correspondence.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/47.121_bw.jpg)
+
+___Snow Scene___
+
+A natural surface becomes moral exposure. White ground, dark bodies, dead leader, camera, caption, aftermath. The snow does not purify. It reveals the obscenity of [purification fantasies](https://modalpathethics.com/bad-religion-the-anti-ai-religion/).
+
+Settler America has always loved clean stories about dirty actions.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-302.png)
+
+___Snow Scene___
+
+Wounded Knee refuses the clean story because the snow kept too much.
+
+* * *
+
+## **The Archive.**
+
+Mooney arrives as a corrective instrument after the damage has already done much of its work.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-226-1-1.png)
+
+___Ship at Sunset___
+
+Ethnography often enters late.
+
+It records the world after policy has wounded it, then becomes one of the ways the wounded world can still be known by people who were not allowed or willing to know it in time. This does not make ethnography useless, but it makes it morally compromised at the root.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-283.png)
+
+___Forest Interior___
+
+Mooney tried to counter the panic version. He took the Ghost Dance seriously as religion, history, and peaceful resistance. He traced older prophetic traditions. He documented songs and words. He did not treat the whole field as newspaper madness.
+
+Good. Also insufficient.
+
+The archive is not repair by itself. A cylinder is not a returned buffalo. A book is not a restored treaty. A recorded song is not a living circle. A study can preserve contact and still arrive after the field has been narrowed beyond what the study can reopen.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-285-1.png)
+
+___California Red Woods___
+
+Mooney’s borrowed throat remains the perfect emblem of this. The songs survive through a voice that is not the source. The machine receives the song through mediation.
+
+Modal Path Ethics should know this about itself too.
+
+> This article is also a mediated instrument.
+
+It is written by a descendant of Blakelock, through the register of Swedenborgian correspondence, through Vodou grammar, through a philosophical framework, through public sources, family inheritance, chains of bad translation, and the dangerous desire to say something true about a sacred practice that does not belong to you.
+
+The danger there does not cancel the task. It governs the posture.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-284-1.png)
+
+___Figure in a Woodland Landscape___
+
+No article ever repairs Wounded Knee. No theory repairs the Ghost Dance by describing it. The best any mediation can ever do is refuse the old distortion and make the false translation harder to repeat.
+
+**The Ghost Dance** was never the distortion in this field.
+
+The settler field spent more than a century trying to make the opposite sentence feel natural.
+
+The distortion was the field that could only read Indigenous hope as threat.
+
+* * *
+
+## **Blakelock.**
+
+At the beginning, Blakelock was the door. Here he becomes the afterimage.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ap1981.212.png)
+
+___Digger Indians, Elk Creek___
+
+He painted _The Ghost Dance (Vision of Life)_ in the American visionary field after the massacre, after the press panic, after the images, after the stories had crossed into art and memory. The painting belongs to a settler art history that cannot be made innocent.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-309.png)
+
+___Landscape___
+
+It also belongs to a man who had seen Native life firsthand, carried it into moonlit pictorial correspondence, and later lived inside confinement while his work became valuable to other people.
+
+The painting’s title is _Vision of Life_.
+
+-   Not Vision of Death.
+-   Not Outbreak.
+-   Not Messiah Craze.
+-   Not Indian Trouble.
+
+_Vision of Life_.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-303.png)
+
+___Ghost Dance (Vision of Life)___
+
+That title is not enough to absolve the painting. A title does not purify the instrument. But it gives us the angle from which the painting may be approached. Blakelock did not title the dance as threat. He painted it under the sign of life, vision, return, correspondence.
+
+The painting cannot speak for the dancers.
+
+It **can** testify directly against the settler translation that saw only danger.
+
+That is a narrower claim. It is enough.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-286.png)
+
+___Moonrise___
+
+Blakelock's moon is still risky.
+
+It can enchant the viewer into thinking the scene has been spiritually possessed by the painter’s vision.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/79462.jpg)
+
+___Moonlit Landscape___
+
+That would repeat a quieter version of the theft. The viewer must resist the painter’s power enough to let the dance remain itself.
+
+Correspondence is not possession. Correspondence is relation.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-304-1.png)
+
+___Landscape with Two Waterfalls___
+
+The **moon** corresponds to another order of seeing.
+
+It does not own the field it reveals.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-287-1.png)
+
+___Moonlight Sonata___
+
+The **tree** corresponds to witness. It does not become judge.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-289.png)
+
+___By the Lake___
+
+The **horse** corresponds to passage. It does not become rider over the people shown.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-290-1-1-1.png)
+
+___Moonlight___
+
+The **circle** corresponds to return. It does not become a decorative motif for a family mythology.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-305-1.png)
+
+___The Glow of an Indian Encampment at Night___
+
+This is where Swedenborg helps without becoming master.
+
+-   Visible things answer to invisible things.
+    -   They are not interchangeable with them.
+
+The painting is a natural body through which spiritual pressure may appear. The Ghost Dance is a sacred repair instrument through which a people carried relation under colonial annihilation. The article is another natural body, made of words, trying to let the pressure pass without claiming the source.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-308.png)
+
+___A Rose___
+
+That is the discipline.
+
+* * *
+
+## **America.**
+
+The Ghost Dance did not possess America.
+
+America was possessed already.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-292.png)
+
+___Dark Landscape___
+
+-   It was ridden by land hunger.
+    -   It was ridden by the fantasy that treaties could be broken and still leave law intact.
+-   It was ridden by hunger for clean categories:
+    -   peaceful Indian,
+        -   hostile Indian,
+            -   progressive Indian,
+                -   fanatical Indian,
+                    -   agency Indian,
+                        -   reservation Indian,
+                            -   outlaw Indian,
+                                -   picturesque Indian,
+                                    -   vanishing Indian.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-306.png)
+
+___Yellow Light___
+
+-   It was ridden by the need to convert living peoples into stages of its own destiny.
+-   It was ridden by fear that the dead had not accepted the paperwork.
+
+The body of the state moved under powers it would not name. It called those powers order, civilization, security, progress, property, peace, necessity.
+
+But the motion tells the truth.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-293-1-1.png)
+
+___Landscape with Waterfall, East Orange, New Jersey___
+
+A state ridden by security fear cannot read sacred repair. It reads gathering as threat. It reads song as signal. It reads clothing as armor. It reads movement as maneuver. It reads a leader as node. It reads a sick band as danger. It reads disarmament as peace while surrounding the field with guns.
+
+Then, after the bodies fall, it reads the record as tragedy.
+
+This sequence is possession.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-294-1-1-1.png)
+
+___Landscape with Pond, East Orange, New Jersey___
+
+-   The Ghost Dance was a sacred instrument for carrying relation with the dead and the world to come.
+-   The settler state was a secular instrument ridden by the fear that Indigenous continuance might still be stronger than American closure.
+
+That fear did not need to be logically consistent. Possession rarely is.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-296-1.png)
+
+___Moonlight___
+
+A starving people dancing for return could be called **dangerous** because the danger was not what they were about to do to the state. The danger was what their hope story did to the state’s story about completion.
+
+-   If the dead might return, then conquest had not finished.
+-   If the buffalo might return, then ecological destruction had not settled moral title.
+-   If the land might be restored, then the map was not final.
+-   If the people could dance, then the field had not been fully converted into dependency.
+    -   If hope was still real, then America had not won the way it needed to believe it had won.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-307.png)
+
+___Shanties, Seventh Avenue and Fifty-Fifth Street___
+
+So the state panicked.
+
+* * *
+
+## **The Ruling.**
+
+The Ghost Dance was a sacred repair instrument under annihilatory pressure.
+
+It gathered bodies, songs, dead, buffalo, land, discipline, vision, and future into a form that could still be carried after ordinary continuance had been attacked.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-298.png)
+
+___Morning – near the Devil's Den, White Mountains___
+
+It was not pathology. It was not a military conspiracy.
+
+It was also not the distortion. The distortion was the settler-security field that translated Indigenous hope into threat and then treated its own fear as evidence of the threat.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-299.png)
+
+___Cheyenne Encampment___
+
+The field had already been damaged by land theft, treaty violation, buffalo destruction, reservation confinement, hunger, child-removal, administrative coercion, and the long campaign to make Native continuance answerable to institutions that misunderstood it.
+
+The Ghost Dance entered that field as repair, return, relation, and refusal.
+
+-   The press called it frenzy.
+    -   The agents called it trouble.
+        -   The Army called it risk.
+            -   So McLaughlin found a leader-node.
+                -   The cabin became a trap.
+                    -   Spotted Elk’s sick body became a threat-object.
+                        -   Disarmament became the path into massacre.
+                            -   The Hotchkiss guns answered a circle.
+                                -   The snow kept the record.
+
+Afterward, Mooney tried to preserve the songs, and the songs passed into the machine through a borrowed throat. The museum kept shirts whose image remains withheld. Blakelock painted the dance as a vision of life, and his correspondence still opens a dangerous door.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-300-1-1-1-1.png)
+
+___A Waterfall, Moonlight___
+
+There is a terrible truth beneath the moon.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-194.png)
+
+
+<!-- ARTICLE_END slug="moonlight-with-figures-the-ghost-dance" -->
+
+
+<!-- ARTICLE_START slug="field-instruments-sacred-title" title="Field Instruments: Sacred Title" published_at="2026-07-07T06:00:07.000-05:00" -->
+
+---
+title: "Field Instruments: Sacred Title"
+slug: "field-instruments-sacred-title"
+canonical_url: "https://modalpathethics.com/field-instruments-sacred-title/"
+published_at: "2026-07-07T06:00:07.000-05:00"
+updated_at: "2026-07-07T06:00:06.000-05:00"
+tags:
+  - "Field Instruments"
+  - "Modal Path Ethics"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
+sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
+---
+# Field Instruments: Sacred Title
+
+A deed is a little object.
+
+This is usually just paper, or parchment, or a line in a registry, or a digital entry somewhere in a system that nobody wants to understand until a lawyer arrives and begins using words like encumbrance.
+
+The deed does not look strong.
+
+A shovel looks strong. A wall looks strong. A locked gate looks strong. A man with a rifle at a checkpoint has made his argument about strength fairly clear.
+
+A deed just says: this place has been translated into a claim.
+
+That is already quite a spell.
+
+The deed is not imaginary. It does real work. It can protect continuity. It can preserve stable dwelling. It can prevent theft. It can let a family build without wondering every morning.
+
+Then, someone brings the deed to an altar. Or places a grave beside it. Or wraps it in a flag. Or reads it under scripture.
+
+Or says the dead have signed it.
+
+Now the deed has a halo. That is where this instrument begins.
+
+**Sacred title** is the claim that sacred memory, sacred land, sacred law, sacred suffering, sacred promise, martyrdom, covenant, destiny, ancestry, revelation, or inherited wound grants ownership over living continuance.
+
+It is one of the most dangerous instruments in the sacred field because it begins so close to truth.
+
+-   A place really can carry memory.
+-   A shrine really can preserve contact.
+-   A grave really can obligate the living.
+-   A covenant really can bind a community to discipline.
+-   A language really can keep a destroyed world from finishing its death.
+
+A wound really can demand repair after every empire has filed the paperwork saying everyone should please move on.
+
+Sacred memory is real.
+
+**Sacred title** is what happens when memory starts behaving like ownership.
+
+The living field begins to pay.
+
+* * *
+
+## **Memory != the Enemy.**
+
+Forgetting is one of domination’s favorite repair costumes.
+
+Power damages a field, waits, changes vocabulary, and then returns wearing the cardigan of reconciliation. 
+
+It says the past is complicated. It says everybody suffered. It says we should focus on the future. It says old grievances are divisive. It says memory is unhealthy. It says the children should not be burdened by history, which is a remarkable sentence to say after **giving** the children the history.
+
+Sacred memory can be a defense against that laundering.
+
+-   A prayer can keep a dead village from becoming a footnote.
+-   A pilgrimage can keep a route open after the road has been politically erased.
+-   A feast can carry gratitude across centuries of hunger.
+-   A fast can keep the body in contact with dependence.
+-   A sacred language can preserve a people against administrative replacement.
+-   A liturgy can name a wound that the official archive would prefer to describe as a disturbance during a transitional period.
+-   A burial place can stop a government from turning the dead into buildable space with a tasteful plaque near the parking lot.
+
+Modal Path Ethics has no interest in flattening this into superstition. That move is morally illiterate and historically lazy.
+
+Memory is one of the ways a damaged field refuses final capture. Sacred memory can keep contact alive where ordinary political memory has already been bribed, exhausted, intimidated, bought, archived, or professionally smoothed into a commemorative pamphlet with terrible font choices.
+
+[The dead do sometimes bind the living](https://modalpathethics.com/applied-case-the-assassination-of-charles-jones/).
+
+They bind the living to truth. They bind the living to repair. They bind the living to warning. They bind the living to inheritance that must be carried honestly instead of metabolized into innocence.
+
+That is not the distortion.
+
+The distortion begins when the dead are given property rights over the future.
+
+A grave may demand reverence.
+
+It may not become a land office.
+
+* * *
+
+## **The Deed.**
+
+Sacred title turns contact into entitlement.
+
+It says:
+
+-   because we suffered here, we own this;
+-   because God promised this, the living field must yield;
+-   because our dead are buried here, your children live here conditionally;
+-   because our law names this place, your law has arrived late and should lower its eyes;
+-   because our story began here, your story is trespass;
+-   because our ancestors were driven out, every present occupant is already an argument against repair;
+-   because our martyrs died, the living must keep paying their invoice;
+-   because our wound was real, correction belongs to us alone.
+
+This is how sacred memory becomes a deed with a halo.
+
+Ordinary title can still be challenged by counter-title, adverse possession, statute, treaty, fraud, compensation, eminent domain, land reform, local habitation, use, abandonment, and all the other instruments by which human beings make the ownership of reality even more exhausting than reality already was.
+
+**Sacred title** tries to move the claim outside that ordinary correction field.
+
+It does not say only:
+
+> We have a claim.
+
+It says:
+
+> [The claim has been protected by ultimacy](https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/).
+
+This changes the room.
+
+A person can argue with a deed.
+
+Arguing with a deed that has been baptized, martyred, promised, sung, buried, inherited, and wrapped around a people’s survival story is harder.
+
+The challenge begins to smell like betrayal. The harmed neighbor becomes a trespasser against memory. The child born inside the contested field becomes a theological inconvenience. The family that cannot leave becomes an obstacle to destiny. The city becomes proof. The border becomes scripture with asphalt.
+
+The sacred instrument has changed the kind of claim being made.
+
+The deed no longer says this belongs to us under a contestable order.
+
+It says reality is in arrears.
+
+* * *
+
+## **The Living Field Answers Back.**
+
+Modal Path Ethics asks the unfashionable question sacred title tries hardest to postpone:
+
+> Who is living inside the claim?
+
+-   Not as a symbol.
+-   Not as a demographic fact dragged across a policy brief.
+-   Not as an unfortunate complication.
+    -   As extant loci.
+
+Bodies. Families. Neighborhoods. Graves. Schools. Wells. Language. Roads. Shops. Olive trees. Apartment blocks. Pastures. Shrines. Buses. Tunnels. Songs. Arguments. Elections. Fear. Garbage collection. Births. Funerals.
+
+Children learning the shape of their world before anyone explains that their world has apparently been subject to an older claim filed by history, heaven, blood, empire, scripture, security, or some thrilling combination of all available bad paperwork.
+
+A sacred title claim must answer to that field.
+
+-   Who can remain?
+    -   Who can return?
+    -   Who must ask permission to live where they already live?
+    -   Who is made foreign by someone else’s memory?
+        -   Who is fenced,
+            -   bombed,
+            -   surveilled,
+            -   absorbed,
+            -   displaced,
+            -   converted,
+            -   resettled,
+            -   renamed,
+            -   erased,
+            -   registered,
+            -   excluded, or
+            -   tolerated as a temporary resident inside another people’s sacred sentence?
+-   Which children inherit the cost of an argument they did not make?
+-   Which dead are being used to command living bodies?
+
+This is the point where sacred title usually begins to raise its voice.
+
+-   It says the wound was real.
+    -   Often, yes.
+-   It says the promise was sacred.
+    -   Perhaps it was.
+-   It says the place has weight.
+    -   Of course.
+-   It says memory cannot be abandoned.
+    -   Good.
+
+Then the living field answers:
+
+> What are you making unreachable now?
+
+That is the question no sacred instrument gets to outrank.
+
+A sacred claim that cannot be interrupted by living harm has become sovereign.
+
+It has stopped serving repair. It has [started eating correction](https://modalpathethics.com/tales-of-distortion-operation-cottage/).
+
+* * *
+
+## **Wound != Jurisdiction.**
+
+**Wounds** change moral reality.
+
+-   A **stolen home**
+    -   is not morally identical to
+        -   a **home never stolen**.
+
+An exiled people is not morally identical to a people who wandered away because the weather was unpleasant and the local bread was disappointing. A desecrated shrine is not morally identical to a neglected shed.
+
+Repair must know the wound.
+
+That means return, restitution, recognition, land, sacred sites, burial, language, and continuity can all matter.
+
+The living field has to carry real history instead of pretending every present arrangement began **this morning** with neutrality and a clean shirt.
+
+Sacred title becomes dangerous when wound is converted into jurisdiction.
+
+The move is often subtle because repair already requires authority of some kind.
+
+A claim must have enough force to interrupt denial. It must be able to say:
+
+-   this happened,
+    -   this mattered,
+        -   this cost remains,
+        -   this record is false,
+            -   this inheritance is not innocent.
+
+But **wound-jurisdiction** says more.
+
+-   It says the wounded party now possesses a special sovereignty over the field of repair.
+-   It says the old injury decides which present harms count.
+-   It says the wound may spend other people’s reachability because it has not yet been healed.
+-   It says the world must continue through the wound’s preferred instrument or be accused of abandoning the wound.
+
+That is a failure.
+
+-   A wound may demand repair.
+    -   A wound may not become a throne.
+
+This rule applies with special force when sacred suffering enters political territory. Suffering can preserve truth. Suffering can also begin claiming authority over those who did not cause it, cannot repair it alone, or now live inside the attempted repair.
+
+The living are not raw material for symbolic completion.
+
+No martyrdom, exile, covenant, conquest, revelation, famine, genocide, expulsion, humiliation, betrayal, or sacred map grants ownership over living continuance.
+
+No wound grants sovereignty over repair.
+
+* * *
+
+## **The Levant Cut.**
+
+This instrument became unavoidable in the [Levant Leverage Field](https://modalpathethics.com/applied-case-the-levant-leverage-field/).
+
+A **leverage field** forms when one locus’s continuance becomes another actor’s bargaining power. Sacred title is one of the ways that leverage stabilizes itself.
+
+It gives the bargaining power a deep past. It lets a present restriction speak as memory, destiny, promise, law, vengeance, survival, holiness, or historical correction.
+
+This does not mean sacred claims are fake.
+
+It means sacred claims are morally dangerous exactly where they are real.
+
+-   Sacred memory can obligate repair.
+-   Sacred title can make repair answer first to ownership.
+
+That is the difference.
+
+A sacred title claim in a leverage field does not have to govern every institution. It only has to make enough repair paths feel like betrayal. A settlement can become proof. A border can become a wound. A hostage can become a sacred object inside retaliatory imagination. A civilian field can be asked to carry somebody else’s proof of seriousness. A shrine can become an argument against the neighbor’s future. A map can become a devotional object with checkpoints.
+
+The refusal is simple:
+
+-   Hostage-taking does not authorize civilian-field destruction.
+-   Civilian-field destruction does not erase hostage-taking.
+    -   Sacred memory may obligate repair.
+    -   Sacred title may not own the living field.
+
+> No sacred title owns the living.
+
+That line is not a slogan. It is an instrument boundary.
+
+Without it, the sacred past becomes a machine for making the present hostage to the unfinished.
+
+* * *
+
+## **Civic Sacred Title.**
+
+Sacred title does not always say God.
+
+Sometimes it says nation.
+
+Sometimes it says revolution.
+
+Sometimes it says constitution, homeland, founders, blood, soil, liberation, destiny, martyrs, ancestors, democracy, civilization, race, class, the fallen, the flag, the republic, the people, or the last true version of us before decadence crawled in through the television.
+
+The title is sacred whenever the claim is protected from correction by reverence.
+
+This is why [Timothy McVeigh](https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/) belongs near this instrument even though his field was not an ordinary religious field.
+
+McVeigh routed real state violence, militia fantasy, revolutionary memory, and civic scripture through a retaliation machine. The Constitution, Waco, Ruby Ridge, Lexington, tyranny, patriots, and martyrs became a sacred Americanized title over civilian death.
+
+He treated inherited grievance as targeting authority.
+
+That is sacred title wearing civic clothes.
+
+The same pattern appears whenever a community treats its revered past as permission to close another locus’s reachable future.
+
+-   The old battle becomes title.
+-   The founders become title.
+-   The revolution becomes title.
+-   The ancestors become title.
+-   The anthem becomes title.
+-   The flag becomes title.
+
+Then a present person gets crushed under a claim whose moral glamour comes from someone else’s dead.
+
+Modal Path Ethics does not care whether the claim has incense on it or brass bands.
+
+The question remains:
+
+> Can the harmed field answer back?
+
+If it cannot, the title has become sovereign.
+
+* * *
+
+## **The Golden Rule.**
+
+A sacred title claim must survive reciprocity.
+
+This is not politeness. This is structural hygiene.
+
+The same move that licenses **your claim** must survive being made **against you** by another wounded memory, another sacred place, another martyr, another covenant, another expulsion, another ancestor, another map, another grave, another song, another revelation, another revolutionary story, another child standing in the road while adults argue about whose dead have priority.
+
+-   If your sacred title grants you the right to make another population’s continuance conditional,
+    -   then their sacred title can do the same to you.
+-   If your memory can suspend their repair,
+    -   their memory can suspend yours.
+-   If your wound can demote their child into obstacle,
+    -   their wound can demote your child into obstacle.
+
+[A logical move is logical against you](https://modalpathethics.com/applied-case-the-golden-rule/).
+
+Sacred title almost always hates this test.
+
+It wants asymmetry. It wants its own wound to be historically singular enough, metaphysically charged enough, politically urgent enough, or spiritually authorized enough that reciprocity becomes offensive.
+
+It wants to say:
+
+> Yes, claims like this **_are_** dangerous when others make them, **_but_** ours is the one that finally deserves to govern reality.
+
+That sentence has harmed so many fields.
+
+The reciprocity test does not erase difference. Some claims are stronger than others. Some wounds are deeper. Some histories are better evidenced. Some repairs are more urgent. Modal Path Ethics does not collapse all memory into a flat debate club where the loudest footnote wins.
+
+But no sacred title is exempt from the structure of the move it makes.
+
+If the move would be domination when applied against you, it has not become repair because you placed your dead behind it.
+
+A title that cannot survive the Golden Rule is not sacred memory. It's another weapon made of ancestors.
+
+* * *
+
+## **Correction.**
+
+Sacred title can be corrected.
+
+This instrument does not have to be destroyed or completed every time it appears.
+
+Many communities need sacred memory to remain coherent enough to pursue repair at all. People who have been scattered, occupied, enslaved, colonized, dispossessed, persecuted, assimilated, or administratively erased may need **thick** memory. _Thin_ memory often belongs to the safe.
+
+The problem is sovereignty over correction.
+
+A sacred title claim must be asked:
+
+-   Does it preserve memory without owning the living?
+-   Does it allow harmed loci to answer back?
+-   Does it distinguish return from domination?
+-   Does it distinguish repair from replacement?
+-   Does it distinguish inheritance from command?
+-   Does it allow shared continuance after truth is named?
+-   Does it make exit, refusal, and contestation reachable?
+-   Does it carry the dead without conscripting them into present closure?
+-   Can it admit that another field has become real while the old wound remained real too?
+
+That last question is often the hardest.
+
+History does not pause while repair is delayed.
+
+People are born inside unsettled claims. Cities grow around unresolved wrongs. Languages mix. Graves multiply. Memory travels. Children become adults under legal fictions, security regimes, exile stories, refugee camps, borders, deeds, checkpoints, local jokes, bus routes, house keys, and inherited fear.
+
+A sacred title claim that **_could have_** supported repair at one point may become more and more dangerous as the living field thickens around and inside it.
+
+That still does not make the original wound vanish.
+
+It means the repair instrument must remain in contact with extance.
+
+A title that refuses that contact has become a monument.
+
+Monuments are very good at standing still.
+
+Repair moves.
+
+* * *
+
+## **Ruling.**
+
+Sacred title is sacred memory after it has begun claiming ownership over living continuance.
+
+It is powerful because sacred memory is powerful. A people can survive through memory. A place can carry obligation. A grave can speak. A covenant can discipline. A wound can remain morally active long after the paperwork has declared the matter resolved and turned to its next act of supervised forgetting.
+
+Modal Path Ethics protects that contact.
+
+It also refuses the deed with a halo.
+
+-   The dead may obligate truth.
+    -   They may not own living children.
+-   The past may demand repair.
+    -   It may not make the living field collateral.
+
+Sacred memory keeps the wound answerable to reality.
+
+Sacred title tries to make reality answerable to the wound.
+
+That is the break.
+
+A sacred instrument may carry memory, grief, promise, gratitude, repentance, discipline, return, and warning. It may bring the living back into contact with what power tried to erase. It may preserve a field that would otherwise be flattened into whatever the current map finds convenient.
+
+It may not claim sovereignty over correction.
+
+It may not turn neighbors into trespassers against memory.
+
+It may not make children carry deeds signed by the dead.
+
+
+<!-- ARTICLE_END slug="field-instruments-sacred-title" -->
 
 
 <!-- ARTICLE_START slug="fictional-earth-bluesky-and-the-safe-room" title="Fictional Earth: Bluesky and the Safe Room" published_at="2026-07-06T07:18:43.000-05:00" -->
@@ -15,7 +1691,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -648,7 +2324,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -1008,7 +2684,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -1514,7 +3190,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -2766,7 +4442,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "937d5bc927a9563c6087af480122fb450f0262e47be5b4058c9be1ca88ed5af4"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -3352,7 +5028,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -3963,7 +5639,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -5190,7 +6866,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -5882,7 +7558,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -6521,7 +8197,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -7051,7 +8727,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -7529,7 +9205,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -8110,7 +9786,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -8798,7 +10474,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -9224,7 +10900,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -9508,7 +11184,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -11324,7 +13000,7 @@ tags:
   - "Field Creature"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -11903,7 +13579,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -12413,7 +14089,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -12719,7 +14395,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -13246,7 +14922,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -13310,7 +14986,7 @@ updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -13394,7 +15070,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -13499,7 +15175,7 @@ tags:
   - "Patch Notes"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -13789,7 +15465,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -14168,7 +15844,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -14693,7 +16369,7 @@ updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -14842,7 +16518,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -15104,7 +16780,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -15416,7 +17092,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -15984,7 +17660,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -16678,7 +18354,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -17263,7 +18939,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -18176,7 +19852,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -18553,7 +20229,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -19155,7 +20831,7 @@ tags:
   - "Supplement"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -19480,7 +21156,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -20000,7 +21676,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -21721,7 +23397,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
 ---
 # Applied Case: Click (2006)
@@ -22193,7 +23869,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)
@@ -22754,7 +24430,7 @@ updated_at: "2026-06-17T14:51:42.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -28131,7 +29807,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -28230,7 +29906,7 @@ updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -28430,7 +30106,7 @@ updated_at: "2026-06-17T00:40:54.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -29116,7 +30792,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -29449,7 +31125,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -30554,7 +32230,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8eb93c4034d948ba068881d44a5c87a9627eaa90b9b4fd998d7249e5c70fc564"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -31908,7 +33584,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -32970,7 +34646,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -33977,7 +35653,7 @@ updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -34036,7 +35712,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -34698,7 +36374,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -35796,7 +37472,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -37307,7 +38983,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -37681,7 +39357,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -38112,7 +39788,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -38410,7 +40086,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -38899,7 +40575,7 @@ updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -41478,7 +43154,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -42126,7 +43802,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -42596,7 +44272,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -46357,7 +48033,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -46908,7 +48584,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -47631,7 +49307,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -48333,7 +50009,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -50782,7 +52458,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -51256,7 +52932,7 @@ updated_at: "2026-05-26T21:08:30.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
 ---
 # Field Instruments: Accounting
@@ -51619,7 +53295,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -52365,7 +54041,7 @@ updated_at: "2026-06-11T13:23:14.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "1a9c6052954ef834ea620aebbf02a343edfe373af98cb9a39826bd9aabaa7887"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -57151,7 +58827,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
 ---
 # Applied Case: The TempleOS
@@ -57716,7 +59392,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -58283,7 +59959,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -58704,7 +60380,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -59223,7 +60899,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -59765,7 +61441,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -60026,7 +61702,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -60599,7 +62275,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -61814,7 +63490,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -62101,7 +63777,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -62521,7 +64197,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -63036,7 +64712,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -63892,7 +65568,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -64545,7 +66221,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -65304,7 +66980,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -66170,7 +67846,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -66733,7 +68409,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -66965,7 +68641,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -67451,7 +69127,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -67696,7 +69372,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -68535,7 +70211,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -68848,7 +70524,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -69205,7 +70881,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -69441,7 +71117,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -70100,7 +71776,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -70724,7 +72400,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -71011,7 +72687,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -71254,7 +72930,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -71476,7 +73152,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -71898,7 +73574,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -72617,7 +74293,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -73030,7 +74706,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -73309,7 +74985,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -73670,7 +75346,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -73865,7 +75541,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -74290,7 +75966,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -74725,7 +76401,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -74818,7 +76494,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -78660,7 +80336,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -79195,7 +80871,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -79430,7 +81106,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -79651,7 +81327,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -79862,7 +81538,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -79975,7 +81651,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -80250,7 +81926,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -80547,7 +82223,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -80791,7 +82467,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -80996,7 +82672,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -81125,7 +82801,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -81266,7 +82942,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -81375,7 +83051,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -81492,7 +83168,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -81627,7 +83303,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -81718,7 +83394,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -81843,7 +83519,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -81984,7 +83660,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -82089,7 +83765,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -82202,7 +83878,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -82367,7 +84043,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -82512,7 +84188,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -82641,7 +84317,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -82730,7 +84406,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -82801,7 +84477,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -82940,7 +84616,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -83092,7 +84768,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -83702,7 +85378,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -83847,7 +85523,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -83927,7 +85603,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -84380,7 +86056,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -84671,7 +86347,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -85206,7 +86882,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -85682,7 +87358,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -85917,7 +87593,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -86258,7 +87934,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -86555,7 +88231,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -87330,7 +89006,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -87479,7 +89155,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -87610,7 +89286,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -87917,7 +89593,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -88539,7 +90215,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -88676,7 +90352,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -88799,7 +90475,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -88925,7 +90601,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -89154,7 +90830,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -89383,7 +91059,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -89814,7 +91490,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -89939,7 +91615,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -90112,7 +91788,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -90432,7 +92108,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -90891,7 +92567,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th

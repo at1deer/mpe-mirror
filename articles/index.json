@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-07-07T10:07:43.598Z",
+  "generated_at": "2026-07-07T15:31:53.489Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 159,
+  "article_count": 161,
   "articles": [
+    {
+      "title": "Moonlight with Figures: The Ghost Dance",
+      "slug": "moonlight-with-figures-the-ghost-dance",
+      "published_at": "2026-07-07T06:05:02.000-05:00",
+      "updated_at": "2026-07-07T06:05:02.000-05:00",
+      "canonical_url": "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/",
+      "excerpt": "The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.",
+      "tags": [
+        "Moonlight with Figures",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/moonlight-with-figures-the-ghost-dance.md",
+      "mirror_html_path": "/articles/moonlight-with-figures-the-ghost-dance.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.html",
+      "sha256_plaintext": "1ebd288fabca4ce6738faaed0090c985e9b36e847bc4ec6f3cb3b5c4813572fa"
+    },
+    {
+      "title": "Field Instruments: Sacred Title",
+      "slug": "field-instruments-sacred-title",
+      "published_at": "2026-07-07T06:00:07.000-05:00",
+      "updated_at": "2026-07-07T06:00:06.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-sacred-title/",
+      "excerpt": "Sacred title binds the living to a claim.",
+      "tags": [
+        "Field Instruments",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-sacred-title.md",
+      "mirror_html_path": "/articles/field-instruments-sacred-title.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-title.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-title.html",
+      "sha256_plaintext": "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
+    },
     {
       "title": "Fictional Earth: Bluesky and the Safe Room",
       "slug": "fictional-earth-bluesky-and-the-safe-room",

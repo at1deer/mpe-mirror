@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T10:07:43.598Z"
+mirror_generated_at: "2026-07-07T15:31:53.489Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)

@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 07 Jul 2026 10:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:31:53 GMT</lastBuildDate>
     
+    <item>
+      <title>Moonlight with Figures: The Ghost Dance</title>
+      <link>https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.html</guid>
+      <pubDate>Tue, 07 Jul 2026 11:05:02 GMT</pubDate>
+      <description>The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.</description>
+    </item>
+
+    <item>
+      <title>Field Instruments: Sacred Title</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-title.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-title.html</guid>
+      <pubDate>Tue, 07 Jul 2026 11:00:07 GMT</pubDate>
+      <description>Sacred title binds the living to a claim.</description>
+    </item>
+
     <item>
       <title>Fictional Earth: Bluesky and the Safe Room</title>
       <link>https://modal-path-ethics.ghost.io/articles/fictional-earth-bluesky-and-the-safe-room.html</link>
@@ -392,22 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-field-intelligence-gap.html</guid>
       <pubDate>Sat, 13 Jun 2026 20:59:58 GMT</pubDate>
       <description>Modal Path Ethics returns to the Prisoner’s Dilemma, slightly embarrassed, this time with the literature.</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: Morpheus</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-morpheus.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-morpheus.html</guid>
-      <pubDate>Sat, 13 Jun 2026 18:46:50 GMT</pubDate>
-      <description>The prison was always real.</description>
-    </item>
-
-    <item>
-      <title>The Extance Strategy Game</title>
-      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-the-extance-strategy-game.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-the-extance-strategy-game.html</guid>
-      <pubDate>Sat, 13 Jun 2026 06:28:37 GMT</pubDate>
-      <description>Modal Path Ethics is now available for preorder!</description>
     </item>
   </channel>
 </rss>

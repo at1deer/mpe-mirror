@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-07T10:07:43.598Z
+Generated: 2026-07-07T15:31:53.489Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-07 — [Moonlight with Figures: The Ghost Dance](/articles/moonlight-with-figures-the-ghost-dance.md) ([HTML](/articles/moonlight-with-figures-the-ghost-dance.html))
+- 2026-07-07 — [Field Instruments: Sacred Title](/articles/field-instruments-sacred-title.md) ([HTML](/articles/field-instruments-sacred-title.html))
 - 2026-07-06 — [Fictional Earth: Bluesky and the Safe Room](/articles/fictional-earth-bluesky-and-the-safe-room.md) ([HTML](/articles/fictional-earth-bluesky-and-the-safe-room.html))
 - 2026-07-06 — [Tales of Distortion: The Six-Cable Admiral](/articles/tales-of-distortion-the-six-cable-admiral.md) ([HTML](/articles/tales-of-distortion-the-six-cable-admiral.html))
 - 2026-07-05 — [Applied Case: Tibet and the Unity Machine](/articles/applied-case-tibet-and-the-unity-machine.md) ([HTML](/articles/applied-case-tibet-and-the-unity-machine.html))
