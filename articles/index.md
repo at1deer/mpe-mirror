@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-08T09:09:52.819Z
+Generated: 2026-07-08T14:58:31.637Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-08 — [Simone Weil and the Field Under Force](/articles/simone-weil-and-the-field-under-force.md) ([HTML](/articles/simone-weil-and-the-field-under-force.html))
+- 2026-07-08 — [Transition Action: The Clock Becomes an Entropy Leak](/articles/transition-action-the-clock-becomes-an-entropy-leak.md) ([HTML](/articles/transition-action-the-clock-becomes-an-entropy-leak.html))
 - 2026-07-07 — [Moonlight with Figures: The Ghost Dance](/articles/moonlight-with-figures-the-ghost-dance.md) ([HTML](/articles/moonlight-with-figures-the-ghost-dance.html))
 - 2026-07-07 — [Field Instruments: Sacred Title](/articles/field-instruments-sacred-title.md) ([HTML](/articles/field-instruments-sacred-title.html))
 - 2026-07-06 — [Fictional Earth: Bluesky and the Safe Room](/articles/fictional-earth-bluesky-and-the-safe-room.md) ([HTML](/articles/fictional-earth-bluesky-and-the-safe-room.html))

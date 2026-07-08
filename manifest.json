@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-07-08T09:09:52.819Z",
+  "generated_at": "2026-07-08T14:58:31.637Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 161,
+  "article_count": 163,
   "articles": [
+    {
+      "title": "Simone Weil and the Field Under Force",
+      "slug": "simone-weil-and-the-field-under-force",
+      "published_at": "2026-07-08T08:30:08.000-05:00",
+      "updated_at": "2026-07-08T08:30:07.000-05:00",
+      "canonical_url": "https://modalpathethics.com/simone-weil-and-the-field-under-force/",
+      "excerpt": "Force turns persons into things. Attention keeps the field from obeying.",
+      "tags": [
+        "Modal Path Ethics",
+        "Supplement"
+      ],
+      "mirror_markdown_path": "/articles/simone-weil-and-the-field-under-force.md",
+      "mirror_html_path": "/articles/simone-weil-and-the-field-under-force.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.html",
+      "sha256_plaintext": "e706552ea43714c955597b6707433108c24c1273b0110f5b0bba30707059e435"
+    },
+    {
+      "title": "Transition Action: The Clock Becomes an Entropy Leak",
+      "slug": "transition-action-the-clock-becomes-an-entropy-leak",
+      "published_at": "2026-07-08T08:00:41.000-05:00",
+      "updated_at": "2026-07-08T08:00:40.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-clock-becomes-an-entropy-leak/",
+      "excerpt": "Time may be an emergent relation inside the field. [L]",
+      "tags": [
+        "Transition Action",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-clock-becomes-an-entropy-leak.md",
+      "mirror_html_path": "/articles/transition-action-the-clock-becomes-an-entropy-leak.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-clock-becomes-an-entropy-leak.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-clock-becomes-an-entropy-leak.html",
+      "sha256_plaintext": "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
+    },
     {
       "title": "Moonlight with Figures: The Ghost Dance",
       "slug": "moonlight-with-figures-the-ghost-dance",
@@ -111,7 +145,7 @@
       "title": "Australia vs. The Biosphere: The Emu Front",
       "slug": "australia-vs-the-biosphere-the-emu-front",
       "published_at": "2026-07-04T07:00:51.000-05:00",
-      "updated_at": "2026-07-04T13:25:09.000-05:00",
+      "updated_at": "2026-07-08T06:28:53.000-05:00",
       "canonical_url": "https://modalpathethics.com/australia-vs-the-biosphere-the-emu-front/",
       "excerpt": "AUS 0 • BIO 1",
       "tags": [
@@ -122,7 +156,7 @@
       "mirror_html_path": "/articles/australia-vs-the-biosphere-the-emu-front.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-emu-front.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-emu-front.html",
-      "sha256_plaintext": "937d5bc927a9563c6087af480122fb450f0262e47be5b4058c9be1ca88ed5af4"
+      "sha256_plaintext": "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
     },
     {
       "title": "Tales of Distortion: Operation Cottage",

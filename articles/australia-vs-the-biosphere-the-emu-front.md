@@ -3,13 +3,13 @@ title: "Australia vs. The Biosphere: The Emu Front"
 slug: "australia-vs-the-biosphere-the-emu-front"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-emu-front/"
 published_at: "2026-07-04T07:00:51.000-05:00"
-updated_at: "2026-07-04T13:25:09.000-05:00"
+updated_at: "2026-07-08T06:28:53.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-08T09:09:52.819Z"
-sha256_plaintext: "937d5bc927a9563c6087af480122fb450f0262e47be5b4058c9be1ca88ed5af4"
+mirror_generated_at: "2026-07-08T14:58:31.637Z"
+sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
 
@@ -239,14 +239,9 @@ This is where Pearce becomes one of the distorted figures of the episode: not be
 
 Visible help is very seductive.
 
--   A cheque can be argued over.
-    -   A price policy can vanish into administrative sludge.
+A price policy can vanish into administrative sludge. A fencing program takes time. "Ecological management" sounds like someone saying difficult things.
 
-A fencing program takes time. "Ecological management" sounds like someone saying difficult and useful things.
-
-"Debt relief" raises questions about precedent.
-
-"Local repair" has committees hiding inside it.
+"Debt relief" raises questions about precedent. "Local repair" has committees hiding inside it.
 
 A Lewis gun, by contrast, looks like a government that has arrived.
 
