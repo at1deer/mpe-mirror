@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-08T14:58:31.637Z"
+mirror_generated_at: "2026-07-08T20:06:33.532Z"
 sha256_plaintext: "e706552ea43714c955597b6707433108c24c1273b0110f5b0bba30707059e435"
 ---
 # Simone Weil and the Field Under Force
