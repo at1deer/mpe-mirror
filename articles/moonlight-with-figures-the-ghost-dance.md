@@ -3,13 +3,13 @@ title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
 published_at: "2026-07-07T06:05:02.000-05:00"
-updated_at: "2026-07-07T14:03:13.000-05:00"
+updated_at: "2026-07-07T17:56:18.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-07T20:29:04.556Z"
-sha256_plaintext: "1ebd288fabca4ce6738faaed0090c985e9b36e847bc4ec6f3cb3b5c4813572fa"
+mirror_generated_at: "2026-07-08T03:56:58.137Z"
+sha256_plaintext: "c8229f2ecc67f43fe840728b5d9248eaabf8f3653005c08e51ef218d3781f95f"
 ---
 # Moonlight with Figures: The Ghost Dance
 
@@ -521,8 +521,6 @@ Power sees relation among the wounded and fears conspiracy because conspiracy is
 
 ## **The Shirt Whose Image Is Withheld.**
 
-The Ghost Dance shirt has to be approached as a sacred instrument, not as a curiosity, costume, proof of irrationality, and absolutely not as a punchline about failed protection.
-
 There are shirts in museum records now.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/6cc1dd94-61ca-4ae3-b875-eda24adc755e.png)
@@ -834,9 +832,9 @@ Power often does this and calls itself unlucky.
 
 ## **Spotted Elk.**
 
-Spotted Elk should not enter this article as “Big Foot” first.
+Spotted Elk should not enter as “Big Foot."
 
-That name belongs to the colonial record too loudly. It is not unusable; history has carried it, signs have carried it, memorial accounts have carried it. But the article should keep the person from being swallowed by the caption.
+That name belongs to the colonial record too loudly. It is not unusable; history has carried it, signs have carried it, memorial accounts have carried it. But an account like this one should keep the person from being swallowed by the caption.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-227.png)
 
