@@ -3,13 +3,13 @@ title: "Simone Weil and the Field Under Force"
 slug: "simone-weil-and-the-field-under-force"
 canonical_url: "https://modalpathethics.com/simone-weil-and-the-field-under-force/"
 published_at: "2026-07-08T08:30:08.000-05:00"
-updated_at: "2026-07-08T08:30:07.000-05:00"
+updated_at: "2026-07-08T17:34:34.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-08T20:06:33.532Z"
-sha256_plaintext: "e706552ea43714c955597b6707433108c24c1273b0110f5b0bba30707059e435"
+mirror_generated_at: "2026-07-09T04:34:59.123Z"
+sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
 ---
 # Simone Weil and the Field Under Force
 
@@ -52,6 +52,8 @@ A harmed, hungry, brilliant, severe, often impossible woman becomes a symbol, th
 Wrong.
 
 The work is simpler and more dangerous.
+
+* * *
 
 # **Force.**
 
@@ -97,6 +99,8 @@ Weil helps Modal Path Ethics say this more sharply:
 **Force** is the instrument that makes a person easier to move than to hear.
 
 Once a field accepts that conversion, ethical analysis has already entered a very dangerous room.
+
+* * *
 
 # **Convergences.**
 
@@ -164,7 +168,7 @@ The afflicted person is not spiritual scenery.
 
 **Attention** refuses the substitution.
 
-It asks the observer to stop consuming the scene and let the scene answer back. This is very close to the Field Intelligence Gap. Correct action requires direct contact with extance. Safe answers, doctrines, metrics, rules, and slogans cannot replace the real field.
+It asks the observer to stop consuming the scene and let the scene answer back. This is very close to the [Field Intelligence Gap](https://modalpathethics.com/applied-case-the-field-intelligence-gap/). Correct action requires direct contact with extance. Safe answers, doctrines, metrics, rules, and slogans cannot replace the real field.
 
 Weil gives that claim a discipline of perception.
 
@@ -320,6 +324,8 @@ So the convergence has a guardrail.
 Necessity tells Modal Path Ethics where fantasy paths end.
 
 It does not tell Modal Path Ethics to kneel to every field that has learned to call its own violence inevitable.
+
+* * *
 
 # **The Divergences.**
 
@@ -523,6 +529,8 @@ Modal Path Ethics gives Weil dirt.
 
 Someone had to.
 
+* * *
+
 # **Lessons.**
 
 Weil teaches Modal Path Ethics that force is deeper than violence.
@@ -552,6 +560,8 @@ A real field contains weight. It does not yield to slogans, wishes, declarations
 Modal Path Ethics accepts these gifts with both hands.
 
 Then it checks what those hands are now holding.
+
+* * *
 
 # **Additions.**
 
@@ -584,6 +594,8 @@ Attention can become sovereign. Affliction can become currency. Rootedness can b
 Weil gives Modal Path Ethics several of its sharpest tools.
 
 Modal Path Ethics keeps the tools from becoming relics.
+
+* * *
 
 # **Ruling.**
 

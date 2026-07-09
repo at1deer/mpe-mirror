@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T20:06:33.532Z",
+  "generated_at": "2026-07-09T04:34:59.123Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 163,
@@ -8,7 +8,7 @@
       "title": "Simone Weil and the Field Under Force",
       "slug": "simone-weil-and-the-field-under-force",
       "published_at": "2026-07-08T08:30:08.000-05:00",
-      "updated_at": "2026-07-08T08:30:07.000-05:00",
+      "updated_at": "2026-07-08T17:34:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/simone-weil-and-the-field-under-force/",
       "excerpt": "Force turns persons into things. Attention keeps the field from obeying.",
       "tags": [
@@ -19,7 +19,7 @@
       "mirror_html_path": "/articles/simone-weil-and-the-field-under-force.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.html",
-      "sha256_plaintext": "e706552ea43714c955597b6707433108c24c1273b0110f5b0bba30707059e435"
+      "sha256_plaintext": "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
     },
     {
       "title": "Transition Action: The Clock Becomes an Entropy Leak",
@@ -1244,7 +1244,7 @@
       "title": "Applied Case: The Schizophrenia Firewall",
       "slug": "applied-case-the-schizophrenia-civil-rights-crisis",
       "published_at": "2026-05-22T18:43:25.000-05:00",
-      "updated_at": "2026-06-11T13:23:14.000-05:00",
+      "updated_at": "2026-07-08T18:08:17.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/",
       "excerpt": "The law is not asking whether schizophrenia makes you uncomfortable. It is asking whether your exclusion of this class is justified.",
       "tags": [
@@ -1254,7 +1254,7 @@
       "mirror_html_path": "/articles/applied-case-the-schizophrenia-civil-rights-crisis.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-schizophrenia-civil-rights-crisis.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-schizophrenia-civil-rights-crisis.html",
-      "sha256_plaintext": "1a9c6052954ef834ea620aebbf02a343edfe373af98cb9a39826bd9aabaa7887"
+      "sha256_plaintext": "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
     },
     {
       "title": "Applied Case: The TempleOS",

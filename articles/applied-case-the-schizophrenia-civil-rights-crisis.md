@@ -3,12 +3,12 @@ title: "Applied Case: The Schizophrenia Firewall"
 slug: "applied-case-the-schizophrenia-civil-rights-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/"
 published_at: "2026-05-22T18:43:25.000-05:00"
-updated_at: "2026-06-11T13:23:14.000-05:00"
+updated_at: "2026-07-08T18:08:17.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-08T20:06:33.532Z"
-sha256_plaintext: "1a9c6052954ef834ea620aebbf02a343edfe373af98cb9a39826bd9aabaa7887"
+mirror_generated_at: "2026-07-09T04:34:59.123Z"
+sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
 
@@ -20,7 +20,7 @@ Archived PDFs, screenshots, access dates, and additional legal/access sources wi
 
 ## **Opening: The Intake.**
 
-This crisis always begins when a patient tells the truth.
+This always begins when a patient tells the truth.
 
 Not with violence, refusal, or noncompliance. Not with denial or paranoia. 
 
@@ -4764,7 +4764,7 @@ Build the voluntary path. Or keep feeding the coercive one.
 
 But do not keep pretending this is ambiguous.
 
-It is not. We see you.
+It is not.
 
 The schizophrenia-spectrum firewall does not meet the legal language.
 
