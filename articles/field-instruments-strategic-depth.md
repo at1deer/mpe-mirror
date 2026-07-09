@@ -7,7 +7,7 @@ updated_at: "2026-07-09T05:30:48.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-09T15:44:03.157Z"
+mirror_generated_at: "2026-07-09T20:25:43.379Z"
 sha256_plaintext: "0377d444e0cf6780e793e9bc2ff78d79785b7a70a5199d693a2fe24e23c6d6e0"
 ---
 # Field Instruments: Strategic Depth
