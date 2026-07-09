@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-09T10:06:06.172Z
+Generated: 2026-07-09T15:44:03.157Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-09 — [Failed Field Analysts: Robert McNamara and the Body Count Machine](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md) ([HTML](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html))
+- 2026-07-09 — [Field Instruments: Strategic Depth](/articles/field-instruments-strategic-depth.md) ([HTML](/articles/field-instruments-strategic-depth.html))
 - 2026-07-08 — [Simone Weil and the Field Under Force](/articles/simone-weil-and-the-field-under-force.md) ([HTML](/articles/simone-weil-and-the-field-under-force.html))
 - 2026-07-08 — [Transition Action: The Clock Becomes an Entropy Leak](/articles/transition-action-the-clock-becomes-an-entropy-leak.md) ([HTML](/articles/transition-action-the-clock-becomes-an-entropy-leak.html))
 - 2026-07-07 — [Moonlight with Figures: The Ghost Dance](/articles/moonlight-with-figures-the-ghost-dance.md) ([HTML](/articles/moonlight-with-figures-the-ghost-dance.html))

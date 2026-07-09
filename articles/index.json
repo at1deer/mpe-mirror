@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-07-09T10:06:06.172Z",
+  "generated_at": "2026-07-09T15:44:03.157Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 163,
+  "article_count": 165,
   "articles": [
+    {
+      "title": "Failed Field Analysts: Robert McNamara and the Body Count Machine",
+      "slug": "failed-field-analysts-robert-mcnamara-and-the-body-count-machine",
+      "published_at": "2026-07-09T06:00:32.000-05:00",
+      "updated_at": "2026-07-09T06:00:32.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-robert-mcnamara-and-the-body-count-machine/",
+      "excerpt": "The body count taught the war how to report itself, not how to measure.",
+      "tags": [
+        "Failed Field Analysts",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md",
+      "mirror_html_path": "/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html",
+      "sha256_plaintext": "ce2a2342d4bbaaa5599496ba297ea3af44dc4e64f600fc0e927a5f1430a22418"
+    },
+    {
+      "title": "Field Instruments: Strategic Depth",
+      "slug": "field-instruments-strategic-depth",
+      "published_at": "2026-07-09T05:30:49.000-05:00",
+      "updated_at": "2026-07-09T05:30:48.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-strategic-depth/",
+      "excerpt": "The map wants more room.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-strategic-depth.md",
+      "mirror_html_path": "/articles/field-instruments-strategic-depth.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-strategic-depth.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-strategic-depth.html",
+      "sha256_plaintext": "0377d444e0cf6780e793e9bc2ff78d79785b7a70a5199d693a2fe24e23c6d6e0"
+    },
     {
       "title": "Simone Weil and the Field Under Force",
       "slug": "simone-weil-and-the-field-under-force",
@@ -2356,7 +2389,7 @@
       "title": "Citadel Archive: Commander Shepard",
       "slug": "applied-case-commander-shepard",
       "published_at": "2026-04-26T03:10:28.000-05:00",
-      "updated_at": "2026-06-13T00:33:07.000-05:00",
+      "updated_at": "2026-07-09T05:15:03.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-commander-shepard/",
       "excerpt": "Commander Shepard is not a real person whose continuance is actually at stake. [L]",
       "tags": [

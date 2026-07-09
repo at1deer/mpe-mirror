@@ -7,7 +7,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-09T10:06:06.172Z"
+mirror_generated_at: "2026-07-09T15:44:03.157Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code

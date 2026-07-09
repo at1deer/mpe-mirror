@@ -3,13 +3,13 @@ title: "Citadel Archive: Commander Shepard"
 slug: "applied-case-commander-shepard"
 canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
 published_at: "2026-04-26T03:10:28.000-05:00"
-updated_at: "2026-06-13T00:33:07.000-05:00"
+updated_at: "2026-07-09T05:15:03.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-09T10:06:06.172Z"
+mirror_generated_at: "2026-07-09T15:44:03.157Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -106,7 +106,7 @@ The stakes have indeed been higher.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73433.png)
 
-_Secure connection confirmed_
+_Secure connection established_
 
 The character creation menu offers the following options:
 
