@@ -3,13 +3,13 @@ title: "Failed Field Analysts: Robert McNamara and the Body Count Machine"
 slug: "failed-field-analysts-robert-mcnamara-and-the-body-count-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-mcnamara-and-the-body-count-machine/"
 published_at: "2026-07-09T06:00:32.000-05:00"
-updated_at: "2026-07-09T06:00:32.000-05:00"
+updated_at: "2026-07-09T18:12:38.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-09T20:25:43.379Z"
-sha256_plaintext: "ce2a2342d4bbaaa5599496ba297ea3af44dc4e64f600fc0e927a5f1430a22418"
+mirror_generated_at: "2026-07-10T04:36:41.439Z"
+sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
 
@@ -1778,7 +1778,7 @@ Now the record enters.
 
 A late record can be morally serious. A late record can keep a field from losing its own path. A late record can expose concealment, give future agents better instruments, preserve names, preserve arguments, force institutions to admit what they would rather convert into fog, and prevent later power from pretending the old disaster was unknowable.
 
-Modal Path Ethics already has an anti-oblivion commitment. The field retains. Records can preserve contact after the people who bore the cost have been scattered, killed, silenced, aged, or made tired enough to stop explaining.
+Records can preserve contact after the people who bore the cost have been scattered, killed, silenced, aged, or made tired enough to stop explaining.
 
 So McNamara’s retrospective record cannot be dismissed.
 
@@ -1862,9 +1862,8 @@ It means he saw a real field and then built, trusted, or protected an instrument
 
 The Failed Field Analyst is not usually a fool. Fools rarely build instruments strong enough to damage the world at scale. The failed analyst is more dangerous because the first perception is often real.
 
--   Robert Moses really saw flow.
--   Elizabeth Holmes really saw a false path inside medicine’s pain and inconvenience.
--   L. Ron Hubbard really saw capture, suggestibility, and locked rooms of the mind.
+-   [Robert Moses](https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/) really saw flow.
+-   [L. Ron Hubbard](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/) really saw capture, suggestibility, and locked rooms of the mind.
 -   McNamara really saw systems.
 
 He saw that modern defense had become too large for inherited gentlemanly confidence. He saw that the services protected themselves. He saw that budgets hid doctrine. He saw that cost could become a fog machine. He saw that procurement can turn patriotic language into industrial appetite. He saw that a Secretary of Defense needed tools strong enough to force the machine to explain itself.
