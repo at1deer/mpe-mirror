@@ -3,12 +3,12 @@ title: "Thought Gauntlet X: The Predator"
 slug: "applied-case-the-predator"
 canonical_url: "https://modalpathethics.com/applied-case-the-predator/"
 published_at: "2026-04-26T21:32:16.000-05:00"
-updated_at: "2026-05-08T22:06:11.000-05:00"
+updated_at: "2026-07-10T04:55:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T04:36:41.439Z"
+mirror_generated_at: "2026-07-10T10:02:30.198Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -20,10 +20,6 @@ Predation is the fact that some living beings continue by killing and eating oth
 This case is morally difficult because the prey and predator are both extant loci.
 
 The predator is not an evil agent in a costume.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/62311.jpg)
-
-_Well most of them aren't_
 
 It is, like the prey, an extant locus continuing through the structure available to it. Its hunger matters. Its offspring matter. It's role in the ecosystem matters.
 
@@ -46,10 +42,6 @@ Nature is not our magical moral solvent. Pain does not become unreal because it 
 Others might look at wild animal suffering and imagine the moral task must be to eliminate predation entirely.
 
 Please, just relax.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/40294-1.jpg)
-
-_She cannot eat the tennis balls instead she has tried_
 
 A world without predators is not automatically a repaired world. Predators shape ecosystems. They regulate populations, alter movement, affect vegetation, remove the sick and weak, and participate in relations far larger than the individual kill.
 
@@ -90,10 +82,6 @@ Using contraception to prevent starvation in an overpopulated field may be Bette
 Treating an injured animal may even be Good where the intervention is local and does not destabilize the wider field.
 
 What the agent must never do is assume that nature, somehow, knows best.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/40306-1.jpg)
-
-_Is this one food_
 
 Nature does not know anything.
 

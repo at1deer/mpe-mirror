@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-10T04:36:41.439Z
+Generated: 2026-07-10T10:02:30.198Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-10 — [Field Instruments: Martyrdom](/articles/f.md) ([HTML](/articles/f.html))
 - 2026-07-09 — [Failed Field Analysts: Robert McNamara and the Body Count Machine](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md) ([HTML](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html))
 - 2026-07-09 — [Field Instruments: Strategic Depth](/articles/field-instruments-strategic-depth.md) ([HTML](/articles/field-instruments-strategic-depth.html))
 - 2026-07-08 — [Simone Weil and the Field Under Force](/articles/simone-weil-and-the-field-under-force.md) ([HTML](/articles/simone-weil-and-the-field-under-force.html))

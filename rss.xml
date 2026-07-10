@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 10 Jul 2026 04:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:02:30 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Instruments: Martyrdom</title>
+      <link>https://modal-path-ethics.ghost.io/articles/f.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/f.html</guid>
+      <pubDate>Fri, 10 Jul 2026 10:00:03 GMT</pubDate>
+      <description>The dead may obligate memory. They may not own future agency.</description>
+    </item>
+
     <item>
       <title>Failed Field Analysts: Robert McNamara and the Body Count Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/humanity-does-not-possess-a-radioactive-half-life.html</guid>
       <pubDate>Wed, 17 Jun 2026 06:25:40 GMT</pubDate>
       <description>David Gross, nuclear risk, and the counterfeit countdown.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics Ruins Its Life</title>
-      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-ruins-its-life.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-ruins-its-life.html</guid>
-      <pubDate>Tue, 16 Jun 2026 09:34:20 GMT</pubDate>
-      <description>The self-model has been sealed inside the wisdom of Diogenes.</description>
     </item>
   </channel>
 </rss>

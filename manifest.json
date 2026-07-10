@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-07-10T04:36:41.439Z",
+  "generated_at": "2026-07-10T10:02:30.198Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 165,
+  "article_count": 166,
   "articles": [
+    {
+      "title": "Field Instruments: Martyrdom",
+      "slug": "f",
+      "published_at": "2026-07-10T05:00:03.000-05:00",
+      "updated_at": "2026-07-10T05:00:03.000-05:00",
+      "canonical_url": "https://modalpathethics.com/f/",
+      "excerpt": "The dead may obligate memory. They may not own future agency.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/f.md",
+      "mirror_html_path": "/articles/f.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/f.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/f.html",
+      "sha256_plaintext": "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
+    },
     {
       "title": "Failed Field Analysts: Robert McNamara and the Body Count Machine",
       "slug": "failed-field-analysts-robert-mcnamara-and-the-body-count-machine",
@@ -25,7 +39,7 @@
       "title": "Field Instruments: Strategic Depth",
       "slug": "field-instruments-strategic-depth",
       "published_at": "2026-07-09T05:30:49.000-05:00",
-      "updated_at": "2026-07-09T05:30:48.000-05:00",
+      "updated_at": "2026-07-09T23:54:54.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-strategic-depth/",
       "excerpt": "The map wants more room.",
       "tags": [
@@ -35,7 +49,7 @@
       "mirror_html_path": "/articles/field-instruments-strategic-depth.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-strategic-depth.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-strategic-depth.html",
-      "sha256_plaintext": "0377d444e0cf6780e793e9bc2ff78d79785b7a70a5199d693a2fe24e23c6d6e0"
+      "sha256_plaintext": "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
     },
     {
       "title": "Simone Weil and the Field Under Force",
@@ -2219,7 +2233,7 @@
       "title": "Thought Gauntlet X: The Predator",
       "slug": "applied-case-the-predator",
       "published_at": "2026-04-26T21:32:16.000-05:00",
-      "updated_at": "2026-05-08T22:06:11.000-05:00",
+      "updated_at": "2026-07-10T04:55:46.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-predator/",
       "excerpt": "Nature does not know anything.",
       "tags": [
