@@ -1,6 +1,1027 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-07-10T10:02:30.198Z
+Generated: 2026-07-10T15:16:33.361Z
+
+
+<!-- ARTICLE_START slug="tales-of-distortion-course-095-to-eternity" title="Tales of Distortion: Course 095" published_at="2026-07-10T06:00:00.000-05:00" -->
+
+---
+title: "Tales of Distortion: Course 095"
+slug: "tales-of-distortion-course-095-to-eternity"
+canonical_url: "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/"
+published_at: "2026-07-10T06:00:00.000-05:00"
+updated_at: "2026-07-10T05:59:59.000-05:00"
+tags:
+  - "Tales of Distortion"
+  - "Modal Path Ethics"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
+sha256_plaintext: "344a846de06d288bda578dc2ba0d0de55317bae2e22d291aa748c13228dd0996"
+---
+# Tales of Distortion: Course 095
+
+**Course** **095** was a direction until fourteen destroyers agreed to make it reality.
+
+At 9:00 p.m. on September 8, 1923, the USS _Delphy_ turned east off the California coast.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-340.png)
+
+She was the flagship of Destroyer Squadron Eleven.
+
+Thirteen other destroyers followed her in a long single column, each ship spaced behind the next, each bridge watching the lights ahead, each captain temporarily receiving the same idea through steel, habit, hierarchy, and darkness.
+
+The squadron believed it had passed Point Arguello and reached the mouth of the Santa Barbara Channel.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-342.png)
+
+It had not.
+
+The line was still north of the point and frighteningly close to shore.
+
+A bank of fog lay in front of the ships.
+
+Beyond the fog waited Point Pedernales, known locally as Honda: a hard, steep stretch of coast fronted by reefs, submerged pinnacles, boulders, surf, and a geography that had no interest in the flagship’s estimate.
+
+The _Delphy_ entered the fog at twenty knots.
+
+The column followed.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-341.png)
+
+Five minutes later, seven destroyers had become wrecks.
+
+Twenty-three sailors died. Hundreds more were thrown into cold water, sharp rock, oil, darkness, broken compartments, outgoing surf, and the sudden administrative problem of discovering that their squadron had arrived somewhere no one on the bridge believed existed beneath them.
+
+The Honda Point Disaster remains the largest peacetime loss of United States Navy ships.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-343.png)
+
+It did not require an enemy.
+
+No mine had been planted. No submarine waited offshore. No hostile commander had studied the American formation and found the one elegant move that would send seven ships onto the same rocks.
+
+The weather was difficult, the sea was heavy, the coast was dangerous, and the available navigation technology was imperfect.
+
+But none of these things issued **course 095**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-344-1-1-1.png)
+
+The squadron had brought the decisive instrument with it.
+
+The first mistake was navigational. The fleet disaster was institutional.
+
+* * *
+
+## **Open the Fuel Spigots.**
+
+The disaster began with good news.
+
+For more than two years, United States Navy destroyers had been limited to fifteen knots during ordinary cruising and passage between ports. The reason was painfully modern: budgets. Fuel had to be conserved. The Navy possessed fast ships and insufficient enthusiasm for paying to let them behave like fast ships.
+
+Then the new fiscal year arrived.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-345.png)
+
+The fuel restrictions loosened enough for Rear Admiral Sumner Kittelle to authorize a twenty-knot run from San Francisco to San Diego. Destroyers needed to test their cruising turbines. Crews needed experience operating at speed. A fleet that only handled itself economically in peacetime would have a rough awakening when war declined to respect the appropriations cycle.
+
+The order applied to two destroyer squadrons traveling south that day.
+
+-   Captain James Tomb of Destroyer Squadron Twelve heard **_per_mission**.
+-   Captain Edward H. Watson of Destroyer Squadron Eleven heard **_a_ mission**.
+
+That subtle difference would place fourteen ships inside two very different fields.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-346.png)
+
+Watson wanted his squadron to make an exemplary run. A recent collision during fleet maneuvers had embarrassed Destroyer Squadron Eleven. Twenty knots offered a chance to restore confidence, prove readiness, test machinery, and perhaps set a record for the passage.
+
+None of this was absurd.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-347.png)
+
+A commander should care whether ships can perform. A squadron should be able to move quickly. A recent operational failure should produce corrective effort rather than a tasteful little plaque about lessons learned.
+
+The distortion entered when twenty knots stopped behaving like one condition among many.
+
+**Speed** became the fixed object around which uncertainty had to negotiate.
+
+-   Visual fixes might require an inshore movement and a reduction in speed.
+-   Soundings would require a reduction in speed.
+-   Conflicting radio bearings could justify a slower approach.
+-   A deteriorating sea could justify revising the estimate of distance traveled.
+-   Fog could justify rebuilding the navigational field from fresh evidence.
+
+Each correction had a cost. The cost was time.
+
+But the squadron had begun treating time as already spent.
+
+This is how institutional goals become sovereign without anyone announcing a coup. The goal begins as one valuable outcome.
+
+Then every instrument that complicates it is recategorized as delay. Caution becomes softness. Verification becomes an obstacle. The absence of a visible disaster becomes proof that the current rate remains safe.
+
+The Navy had opened the fuel spigots.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-348.png)
+
+California was about to receive the budget update directly.
+
+* * *
+
+## **Four Stacks.**
+
+The ships themselves deserve a moment before the instrument stack starts moving them.
+
+Destroyer Squadron Eleven sailed in Clemson-class destroyers, the long, narrow, four-funneled ships produced in enormous numbers around the end of the First World War. They were approximately 314 feet long, displaced about 1,250 tons, and had book speeds above thirty knots. Their silhouettes looked like maybe speed had been given four smokestacks and a government contract.
+
+These were not floating fortresses. They were lean machines crowded with boilers, turbines, torpedoes, guns, fuel, communications equipment, navigation spaces, and crews expected to make all of it behave in rough water. A destroyer can turn sharply, accelerate quickly, and stop within distances that look almost miraculous next to its size.
+
+[It can still only turn through water that exists](https://modalpathethics.com/tales-of-distortion-the-six-cable-admiral/).
+
+The Navy had built so many of these ships that postwar austerity produced a peculiar condition. The destroyers were numerous, capable, and often undercrewed. Authorized complements ran above 130, but budget reductions left many ships twenty or thirty percent below strength. So the fleet possessed a great deal of machinery and fewer people than the machinery imagined.
+
+The twenty-knot run therefore tested more than turbines.
+
+This one tested crews maintaining formation, communications, machinery, and watch discipline through a sustained high-speed coastal passage.
+
+Ships had already dropped out because their engines could not keep up. The trial was already revealing useful information. So Watson’s desire to complete it was not some aristocratic wager staged for applause. A destroyer squadron needed to know whether it could, in fact, move as a squadron.
+
+That is exactly why the field failure matters.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-349.png)
+
+The vessels were being tested as **instruments of coordinated movement**.
+
+So, naturally, their success criterion gradually collapsed into continued coordinated movement. The harder the ships worked to remain a squadron, the more completely they inherited the flagship’s position.
+
+Each destroyer still had a captain.
+
+Each had bridge officers, charts, compasses, radio operators, engine-room crews, lookouts, and people fully capable of noticing that the world near their own hull did not fully resemble the world transmitted from ahead.
+
+The formation did not erase these local instruments.
+
+It arranged them beneath a central one.
+
+This hierarchy was often necessary. Fourteen destroyers cannot enter every turn through fourteen separate philosophical traditions. These things need common course, speed, spacing, and timing. A line of warships whose captains continuously renegotiate the flagship’s meaning will eventually create a collision without **any** assistance from California.
+
+The problem was the direction of correction.
+
+-   Commands flowed backward through the line quickly.
+    -   Doubt moved forward slowly.
+-   A turn performed by the flagship could be copied in seconds.
+    -   A position discrepancy discovered ten ships back had to
+        -   become serious enough to interrupt protocol,
+        -   survive assumptions about superior information at the front,
+        -   reach an officer able to challenge Hunter or Watson, and
+        -   do all of this before the next coast arrived.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-350.png)
+
+The squadron had built a fast channel for action and a narrow channel for contradiction.
+
+That asymmetry usually looks like discipline.
+
+At Honda Point, it became a delivery system.
+
+* * *
+
+## **The Navigator.**
+
+Lieutenant Commander Donald T. Hunter commanded the _Delphy_.
+
+He also assumed primary responsibility for navigating her and, through the flagship, the squadron.
+
+Hunter was not improvising beyond his competence. He was regarded as an expert navigator. He had taught navigation at the United States Naval Academy. He knew the California route. He understood dead reckoning, charts, speed, course, current, and the discipline required to move a ship through a field no human eye could fully hold at once.
+
+That competence is why he belongs at the center of this Tale.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-352.png)
+
+A weak instrument can fail cheaply. Everyone sees it wobble. People become cautious. The field is allowed to correct it before much weight has been placed on the answer.
+
+A **strong** instrument can carry an institution [much farther into error](https://modalpathethics.com/failed-field-analysts-robert-mcnamara-and-the-body-count-machine/).
+
+Hunter’s expertise had matured before radio direction finding became an established navigational tool. **Dead reckoning** belonged to his professional body. The newer radio system belonged to a less settled world of shore stations, reciprocal bearings, limited coverage, unfamiliar operators, and signals capable of returning an answer exactly opposite the one the navigator needed.
+
+His skepticism had real material underneath it.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-353.png)
+
+Radio direction finding in 1923 was not a glowing blue dot placed by God on a clean digital chart. A ship transmitted a signal. A shore station rotated a loop antenna to determine the line from which the signal arrived. The device could identify an axis, but not always which direction on that axis contained the ship.
+
+The station could therefore offer two reciprocal bearings, 180 degrees apart.
+
+Along this part of the coast, only one station was normally available at a time.
+
+There was no easy triangulation from multiple shore points. Operators were busy serving naval, commercial, and private traffic. Early in the run, the Point Arguello station supplied a bearing that appeared to place the _Delphy_ south of the station while the squadron was still approaching from the north. Only after the reciprocal was requested did the answer correctly place the ship northwest of Point Arguello.
+
+This was exactly the kind of opening a trusted older instrument could use to discredit a younger one. The first answer looked wrong. Hunter remembered.
+
+Later answers would arrive under that inheritance.
+
+Meanwhile, the _Delphy_’s assigned navigator, Lieutenant Lawrence Blodgett, had been pushed into a supporting role. Hunter was the commanding officer, the acknowledged expert, and the man actively conning the ship. Blodgett could calculate, advise, and worry. He could not make those worries command the squadron.
+
+Blodgett is not the clean prophet of this disaster. His later testimony protected him through omission and ambiguity. He remained inside the command field and did not force the issue into open refusal. Still, his presence proves that the flagship contained doubt before the rocks arrived.
+
+The correction existed.
+
+It did not possess enough authority to change speed, course, or method.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-355.png)
+
+The _Delphy_ had also lost her gyrocompass before departure. The [magnetic compass](https://modalpathethics.com/tales-of-distortion-symmess-hole/) introduced a small landward error. That error alone did not doom the squadron. Heavy following seas repeatedly lifted destroyer sterns and made propeller revolutions unreliable as a measure of speed. Winds and onshore current pushed the navigational estimate farther from the actual path. Hunter sometimes calculated progress at roughly twenty-one knots when the ships were making closer to nineteen through the water.
+
+Again, no single failure was enough.
+
+-   A two-knot error is an inconvenience when the model remains corrigible.
+-   A two-knot error becomes a coastline when the model is allowed to accumulate confidence faster than evidence.
+
+The squadron’s last solid visual fix came near Pigeon Point late that morning.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-356.png)
+
+After that, the lighthouses disappeared behind haze, distance, and weather. Point Sur could not be sighted. Point Piedras Blancas could not be sighted. The sun briefly emerged, but the horizon remained too indistinct for a reliable celestial fix.
+
+A **ship** is a large argument with water.
+
+**Dead reckoning** tries to remember every clause:
+
+-   where the ship was last known to be;
+-   what course it steered;
+-   how fast it moved;
+-   what the sea did to that motion;
+-   what the wind did;
+-   what the current did;
+-   how much error has accumulated since the last external answer.
+
+The method is not fake. It is historical. It carries the ship forward from a known state through estimated transitions.
+
+That is also its danger.
+
+Once the last known state recedes, every new estimate inherits the uncorrected remainder of the previous one.
+
+Dead reckoning becomes dead command when the reckoning can no longer be corrected.
+
+* * *
+
+## **The Radio Says North.**
+
+At 2:15 in the afternoon, the _Delphy_ requested a radio bearing from Point Arguello.
+
+The first response appeared to place the flagship on the wrong side of the station. A second response did the same. The reciprocal correctly placed the ship northwest of the point.
+
+This system had introduced itself by asking the navigator to decide which of two opposite worlds he occupied. Hunter chose correctly that time.
+
+Then he waited almost four hours before asking again.
+
+During that interval, the squadron continued south by dead reckoning. The sea continued complicating the propeller count. Wind and current continued moving the ships toward shore and slowing their progress down the coast. The expected lighthouses did not appear. A suggestion to move the inshore division closer for a possible visual fix was rejected because the maneuver would interfere with the fast run.
+
+Another destroyer squadron traveled behind them, Destroyer Squadron Twelve.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-357.png)
+
+Its commander, Captain Tomb, received radio bearings that disagreed with his dead reckoning. He did not treat the disagreement as an insult. He slowed the squadron to fifteen knots.
+
+Destroyer Squadron Eleven continued.
+
+As evening approached, the formation changed. The destroyers moved from three parallel divisions into one long line ahead, all following the _Delphy_.
+
+This made sense under poor visibility. A single column is easier to coordinate than three columns moving abreast. It also concentrated navigational authority into a physical chain.
+
+Every ship behind the flagship now received its future through the ship ahead.
+
+The column had fourteen destroyers by then. Machinery trouble had peeled another ship away. The remaining line stretched through darkness and spray, its bridge crews watching the stern lights ahead and trusting that someone closer to the front possessed a better map of the invisible coast.
+
+Many officers behind the _Delphy_ had their own doubts.
+
+Watson had ordered the other ships to stay off the radio-direction-finding frequency so the flagship could manage the shore contact without interference. Several ships quietly monitored it anyway. Their own estimates sometimes placed the squadron miles away from the flagship’s reported position. The _Stoddert_ went farther and requested bearings of its own. Those readings put the ship northwest of Point Arguello.
+
+-   The information did not remain hidden.
+    -   It remained **subordinate**.
+
+The captains assumed the flagship had better data. The flagship had the squadron navigator, the experienced Hunter, direct radio access, the chart, and command authority.
+
+Disagreement from farther back could be a small local discrepancy. It could be a misheard signal. It could be a rough calculation made without the whole picture.
+
+This is how distributed intelligence gets compressed into centralized confidence. The ships did not lack observers. They lacked a procedure by which observation could outrank formation.
+
+At 8:39 p.m., Hunter requested another bearing.
+
+Point Arguello placed the _Delphy_ northwest of the station.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-358.png)
+
+Hunter believed the squadron had already passed the point. So he asked for the reciprocal. The opposite bearing placed the ships southeast of the station, where his model expected them to be.
+
+The radio had delivered an axis. The model selected the world.
+
+This decision was not pure delusion. The coast above and below Point Arguello bends in different directions. A southbound ship approaching the station from the northwest could receive a bearing in the 300s; after passing, the reciprocal in the 160s could describe the ship moving away to the southeast.
+
+The earlier confusion had established the possibility of reversal. Hunter knew the route and believed the squadron had covered enough distance to be south.
+
+He was also worried the line might continue too far and approach San Miguel Island. That island had acquired a persuasive recent witness.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-359-1.png)
+
+A steamer called the SS _Cuba_ lay wrecked there.
+
+The model now contained a danger it was determined to avoid.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-360.png)
+
+At 8:58, the station again returned a bearing placing the _Delphy_ north of Point Arguello and aimed toward the station.
+
+Hunter ignored it.
+
+Two minutes remained before course 095.
+
+* * *
+
+## **The Fathometer.**
+
+There was another instrument aboard.
+
+It did not depend on a distant operator, a reciprocal bearing, remembered coastline, propeller revolutions, celestial visibility, or confidence in the accumulated estimate.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-362.png)
+
+The **fathometer** could measure the depth beneath the ship.
+
+A fifty-fathom contour marked the beginning of shoaling toward shore. A sounding would not have produced a perfect position. It would have answered the most urgent question in the field:
+
+> Is the ocean beneath this squadron becoming **alarmingly shallow**?
+
+But the equipment could not operate properly at twenty knots.
+
+That was its defect.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-361.png)
+
+The machine required the ship to slow down before it would explain the water.
+
+So a trailing destroyer could have been detached, reduced speed, taken soundings, and rejoined. The entire squadron could have slowed.
+
+The speed trial could have been treated as one objective inside a changing navigational field rather than the field’s temporary constitution.
+
+Neither Watson nor Hunter gave that option serious weight.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-363.png)
+
+They remained satisfied with the dead-reckoning position. The run was simulating wartime conditions. The squadron had a schedule, an exercise, turbine performance to establish, and no visible sign that a reduction in speed was necessary.
+
+-   The fathometer was available.
+    -   The truth it could produce had a price.
+        -   That price was slowing down.
+
+This tiny machine holds the whole disaster more clearly than any speech about arrogance.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-364.png)
+
+A safety instrument is often tolerated until it interferes with the performance instrument. Then suddenly the institution discovers that verification is expensive, delay is dangerous, caution is demoralizing, and the current estimate has worked perfectly right up to the final available moment.
+
+The fathometer could have found the bottom before the ships did.
+
+But the instrument asked for time the schedule had already spent.
+
+* * *
+
+## **The Other Squadron.**
+
+Destroyer Squadron Twelve received the same permission to make a twenty-knot run.
+
+It traveled along the same coast, through the same broad weather field, with the same new radio-direction-finding system and the same destination.
+
+Its ships did **not** wreck.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-365.png)
+
+This is one of the facts that keeps Honda Point from dissolving into weather, current, unfortunate technology, and the safe historical fog known as “these things happen.”
+
+Captain Tomb treated the order as **permissive**.
+
+When his dead reckoning diverged from radio bearings, he slowed to fifteen knots.
+
+Later he slowed to ten.
+
+His squadron took repeated soundings.
+
+It received successive bearings from Point Arguello.
+
+It allowed the ships’ actual progress through the heavy following sea to replace the speed everyone hoped they were making.
+
+Near the Santa Barbara Channel, Tomb’s squadron obtained visual bearings on Point Conception Light. The fix confirmed that the radio bearings and soundings had placed the squadron within roughly half a mile of its true position.
+
+Nothing about this route was heroic.
+
+Nobody set a record here.
+
+No admiral received a thrilling dispatch announcing that caution had once again completed a routine transit.
+
+A line of destroyers reached San Diego without becoming a future article.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-366.png)
+
+This is the normal invisibility of successful field contact.
+
+The intervention that prevents disaster often looks like reduced speed, an extra measurement, an inconvenient turn, a delay, a conversation no one remembers, or a commander allowing uncertainty to retain its proper rank.
+
+Destroyer Squadron Twelve did not possess better weather.
+
+It allowed uncertainty to alter behavior.
+
+That is the control group.
+
+* * *
+
+## **The Ghost of the _Cuba_.**
+
+Earlier that same afternoon, the detached destroyer _Reno_ encountered a lifeboat carrying survivors from the _SS Cuba_.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-367.png)
+
+The steamer had grounded on San Miguel Island, well south of the Santa Barbara Channel. The wreck entered Destroyer Squadron Eleven by radio.
+
+Commander Walter Roper, whose division included the _Reno_, asked permission to send more ships to assist. Watson declined. One destroyer seemed sufficient.
+
+Roper pressed the matter and eventually yielded after a tense exchange heard across the squadron’s ship-to-ship line. The refusal left Roper irritated and attentive.
+
+The wreck left Hunter worried.
+
+As his dead-reckoning plot carried the squadron south, he became concerned that they might overshoot the channel and approach the same island that had caught the _Cuba_.
+
+This fear was not invented.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-368.png)
+
+San Miguel Island was dark, dangerous, and now demonstrably capable of wrecking a ship. A fast squadron continuing south in fog needed to avoid it.
+
+The real wreck became a false locator.
+
+Hunter was trying to prevent one known disaster while moving directly toward another one whose existence his model had removed.
+
+That is a particularly durable distortion pattern.
+
+-   A prior wound teaches caution.
+    -   The caution hardens around the shape of the previous wound.
+        -   New evidence is interpreted according to the old danger.
+            -   The field changes.
+                -   The instrument keeps protecting against what happened last time.
+
+The _Cuba_ lay on San Miguel Island.
+
+Therefore the squadron must already be near the channel.
+
+Therefore bearings that placed it north of Point Arguello were probably reversed.
+
+Therefore the eastward turn was not reckless.
+
+Delay itself risked carrying the destroyers toward the island.
+
+They were trying not to become the _Cuba_.
+
+This helped them invent an entirely new wreck.
+
+* * *
+
+## **The Squadron as One Ship.**
+
+By evening, the three divisions had folded into a single column.
+
+The formation looked like fourteen ships. Operationally, it had begun behaving like one long ship with a bridge at the front and a [segmented body stretching backward through darkness](https://modalpathethics.com/samsara-repair/).
+
+The metaphor has limits, which is useful because the squadron had limits too.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-369.png)
+
+A real ship has nerves engineered into it. The bridge can order engine changes, receive soundings, hear alarms, monitor machinery, and know when the hull has struck something. Destroyer Squadron Eleven had radio, signal lamps, sirens, lookouts, and the visual wake of the leader. It did not have a shared nervous system capable of making every local contradiction present at the flagship with equal speed.
+
+The long ship could transmit motion better than sensation.
+
+That imbalance placed unusual weight on the front.
+
+Watson and Hunter did not simply choose for the _Delphy_. **Their position** became the assumed position of thirteen following vessels.
+
+Every mile of navigational error gained fourteen hulls.
+
+Every minute of uncorrected confidence acquired more sailors.
+
+The flagship’s chart was not one chart among many once the line-ahead formation formed. This chart was the temporary geography of the squadron.
+
+Officers farther back understood this. That is why private disagreement did not automatically become a challenge. Their own plots might be incomplete.
+
+Radio operators might have misheard a bearing. The flagship could have received information they lacked. The commander might already be accounting for a current, an equipment problem, or a tactical consideration not transmitted down the line.
+
+Competent people often obey precisely because they understand the limits of their own view. That humility becomes dangerous when the center mistakes everyone else’s humility for confirmation.
+
+-   Hunter saw Watson’s nods as support for his calculations.
+-   Watson saw Hunter’s expertise as reason not to reconstruct the calculations himself.
+
+Captains behind them saw the flagship’s continued speed and course as evidence that the discrepancies were known and judged. The formation generated confidence recursively.
+
+-   The expert was confident because the commander did not object.
+-   The commander did not object because the expert was confident.
+-   The captains did not object because the flagship was confident.
+-   The flagship encountered no official objection and therefore remained confident indefinitely.
+
+No conspiracy was necessary.
+
+No one needed to announce that contradictory information was forbidden.
+
+The silence itself became data.
+
+This is one of the reasons centralized instruments can remain stable long after their factual foundation has started moving. The people around the center do not all agree. They behave as though the disagreement has already been considered elsewhere.
+
+[The center receives coordinated behavior and interprets it as shared belief](https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/).
+
+Destroyer Squadron Eleven became one ship socially before it became seven wrecks physically.
+
+* * *
+
+## **20:58.**
+
+At 8:58 p.m., Point Arguello placed the squadron north of the station.
+
+The bearing contradicted the flagship’s position.
+
+Watson expected the squadron to reach the Santa Barbara Channel entrance at nine. Hunter’s estimate said the turn was due. The ships were moving in one column at twenty knots. The coast was obscured ahead. San Miguel Island waited somewhere in the danger model to the south.
+
+**Course 095** would turn the line east into the channel.
+
+A heading is an instrument of astonishing compression.
+
+Three digits can contain wind, engines, rudder angle, coastline, hydrography, orders, trust, and several thousand people.
+
+The number does not need to understand any of these things. It only needs to be translated into action.
+
+-   At 9:00, the _Delphy_ turned.
+    -   For reasons the later record never fully settled, the flagship did not signal the course change in advance.
+    -   The ships behind her saw the turn and reproduced it.
+        -   The _S. P. Lee_ followed.
+        -   Then the _Young_.
+        -   Then the _Woodbury_,
+        -   _Nicholas_,
+        -   _Farragut_,
+        -   _Fuller_,
+        -   _Percival_,
+        -   _Somers_,
+        -   _Chauncey_,
+        -   _Kennedy_,
+        -   _Paul Hamilton_,
+        -   _Stoddert_, and
+        -   _Thompson_.
+
+The flagship disappeared into the fog roughly two minutes later.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-370.png)
+
+This is the real visual center of the Tale.
+
+-   The lead ship is gone.
+    -   The maneuver remains.
+
+Each bridge sees stern lights bending east. Each officer of the deck has seconds to decide whether the flagship has begun an expected channel turn or entered some invisible mistake. Formation doctrine supplies the ordinary answer. Ships in column follow the leader’s wake. The squadron has one navigational center because a squadron cannot become fourteen independent boats every time visibility worsens.
+
+**Forty-five seconds** may separate one ship from the turning point reached by the ship ahead. That is enough time to wonder. It is not very much time to revolt against the flagship.
+
+The first three ships receive almost no evidence beyond the turn itself. Farther back, more seconds accumulate. So do warning sounds, distorted lights, strange silhouettes, sudden stops, sirens, radio traffic, and the sight of ships ahead behaving in ways a safe channel entrance does not normally require.
+
+The formation converts one officer’s model into everyone else’s approaching coastline.
+
+The ships did not all make the same mistake. They obeyed the first mistake.
+
+* * *
+
+## **California Receives the Formation.**
+
+Honda had wrecked ships before.
+
+It had never received them in a queue.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-371.png)
+
+The coast there rises in a steep bluff with little forgiving beach. Offshore rock forms submerged pinnacles, rough boulders, reefs, and narrow channels churned by exposed Pacific surf. The Spanish name Point Pedernales came from the flint-like character of the stone. Local people also called the area Honda, Honda Head, or Honda Mesa.
+
+The field contained more names than safe water.
+
+At approximately 9:04, the _Young_ found the first submerged pinnacle.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-372.png)
+
+The rock opened her starboard side. Water entered quickly. The destroyer rolled over within minutes, trapping men below and throwing others into the sea and onto the exposed side of the hull.
+
+At 9:05, the _Delphy_ struck bow-first.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-373.png)
+
+The impact drove her onto stone with enough force to stop the flagship and turn certainty into wreckage. The _S. P. Lee_, running close behind, sheered left to avoid her and drove broadside into the bluffs.
+
+The command map had become physical.
+
+Unfortunately, it remained the wrong map.
+
+Watson and Hunter believed they had struck San Miguel Island. The flagship sent warnings intended to direct the following ships toward what command still understood as deeper channel water.
+
+That direction pointed toward the mainland coast.
+
+The first collision had not corrected the instrument.
+
+It had been absorbed as confirmation of the instrument’s final fear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-374.png)
+
+The _Woodbury_ and _Nicholas_ entered the rocks next. All four ships of the lead division were now wrecked.
+
+Then came the second division.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-375.png)
+
+The _Farragut_ saw ships ahead skewing and stopping. Her captain slowed, stopped, and ordered emergency full astern. The maneuver brought her into contact with the _Fuller_, which passed and slammed onto the rocks, losing power.
+
+The _Farragut_ found enough reverse motion and water to escape.
+
+The _Percival_ and _Somers_ took violent avoiding action and cleared the trap, though _Somers_ was damaged.
+
+The _Chauncey_ tried to escape and help the capsized _Young_. Current and undertow caught her. The _Young_’s exposed propeller tore into _Chauncey_’s engine room. She lost power and joined the wreck field.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-376.png)
+
+The third division approached under Commander Roper.
+
+Roper had already opened distance from the ships ahead. He had been paying attention to the intercepted radio bearings. His earlier confrontation with Watson over the _Cuba_ rescue had given him a fresh reason to watch the flagship rather than dissolve into it.
+
+Something struck the bow of the _Kennedy_.
+
+Her captain backed full and took a sounding.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-377.png)
+
+Seven fathoms. The water had become catastrophically shallow.
+
+The _Stoddert_ began maneuvering to pass. Roper ordered her back into station. The entire rear division stopped short of the wrecks.
+
+In minutes, the squadron separated into three moral facts:
+
+-   ships that followed before the field could warn them;
+-   ships that received warning and restored local judgment in time;
+-   ships whose command structure carried them into the rocks after correction had already begun traveling backward through the line.
+
+Honda Point did not defeat the United States Navy.
+
+It just answered the position the Navy had brought to it.
+
+* * *
+
+## **The Flagship Remains Wrong.**
+
+The deepest failure occurred after the first impact.
+
+The _Delphy_ had struck land.
+
+Men had been thrown forward. Steel had buckled. Engines, hull, sound, and momentum had all entered the command room carrying the same message:
+
+> The position is wrong.
+
+Yet the mental field remained **San Miguel Island**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-378.png)
+
+Watson sent a warning for the following ships to keep west and ordered a simultaneous port turn intended to move the column **northward** into what he believed was the deep water of the Santa Barbara Channel.
+
+**North was the coast**.
+
+The commander had physical evidence of a grounding and still issued a corrective instruction through the geometry that just caused it.
+
+This is not uniquely naval. A model can survive contact with consequence when consequence is allowed to appear only as a local failure inside the model.
+
+-   The policy did not fail; implementation was incomplete.
+-   The prophecy did not fail; the event occurred somewhere less visible.
+-   The metric did not fail; reporting became unreliable.
+-   The war did not fail; insufficient force prevented success.
+-   The institution did not fail; one office misunderstood the procedure.
+-   The position did not fail; the flagship struck the island it had already feared.
+
+The collision supplies new information.
+
+Then the model tells the information what it means. It thinks it is still the authority over the field.
+
+This is where and why _Course 095 to Eternity_ follows _Field Instruments: Martyrdom_ in the braid.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_212920773-1.jpeg)
+
+The living field has changed, but the inherited instruction continues issuing action through people who are still able to obey it.
+
+The difference is that at Honda Point, the source of authority remained alive.
+
+That makes the failure even cleaner. Watson and Hunter could still observe, revise, and speak. Yet the model carried enough accumulated structure to survive the rock for the fatal seconds that remained.
+
+Evidence had just struck the flagship at twenty knots.
+
+The model survived this collision.
+
+* * *
+
+## **The Captains Who Stop Following.**
+
+Formation discipline is not stupidity.
+
+A squadron cannot function if every captain treats personal unease as permission to invent a separate fleet. Shared maneuver lets ships concentrate force, avoid collision, transmit orders, maintain screens, protect vulnerable vessels, and act faster than a committee of fourteen floating jurisdictions.
+
+But the same discipline becomes dangerous when the formation’s coordination center has lost the field.
+
+At Honda Point, several captains broke the chain.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-379.png)
+
+The _Farragut_ stopped and reversed. The _Percival_ and _Somers_ maneuvered away. Roper’s division held back. The _Kennedy_ converted contact at the bow into a sounding rather than an interpretation. Seven fathoms became locally authoritative. The ships behind her did not continue simply because the flagship had continued first.
+
+This is not a hymn to heroic individualism.
+
+The captains who escaped relied on instruments, distance, warning signals, soundings, visible confusion, and their obligations to the people aboard their own ships.
+
+Their independence was relational.
+
+They did not declare themselves free from the United States Navy.
+
+They did not become pirates.
+
+They restored a lower-level command instrument after the higher-level one became the threat.
+
+The captain of a following ship occupied two roles at once:
+
+-   member of the squadron;
+-   custodian of a ship full of lives.
+
+Formation discipline served both roles until it separated them. Then, command required disobedience to one layer in order to preserve the other.
+
+Institutions routinely pretend this threshold will announce itself clearly.
+
+It rarely does.
+
+The subordinate usually sees partial evidence, knows the superior may have information they lack, understands the cost of disorder, fears mistaking caution for courage, and has seconds or minutes to decide whether the shared instrument has become the danger.
+
+A healthy command structure does not solve this problem by telling everyone to follow orders until the smoke becomes undeniable. It gives local contact a legitimate route into action before the correction requires insubordination.
+
+Destroyer Squadron Eleven also had captains who could save their ships.
+
+The instrument made them wait too long to discover whether **saving the ship** was still considered obedience.
+
+* * *
+
+## **The Men.**
+
+The command failure was complete.
+
+The human response was not.
+
+One moment, sailors were performing normal duties during an evening passage. The next, decks tilted, compartments flooded, propellers broke open friendly ships, lights vanished into fog, and cold water began sorting people according to where they happened to be standing when the formation found land.
+
+The _Young_ capsized quickly. Men trapped below died. Others climbed onto the exposed side of the hull, holding broken portholes and whatever edges remained available above the sea.
+
+The _Delphy_ lost three sailors.
+
+Twenty from the _Young_ were gone when the final muster settled.
+
+That number could have been **vastly** higher.
+
+Crews rigged lines from ships to shore. Sailors crossed oil-dark water and surf. Men climbed sharp volcanic rock, often in sleeping clothes, bare feet, or whatever they had managed to reach after the impact.
+
+The bluff above the wrecks became part rescue station, part field hospital, part supply problem, and part witness to nearly eight hundred people emerging from a sequence the official formation had made unreachable only minutes earlier.
+
+Local fishermen came through fog and surf.
+
+One fishing captain maneuvered close to rocks where sailors from the _Woodbury_ were stranded, rescued them with lines, and then made repeated trips to carry roughly 150 men from wrecked ships to shore.
+
+Afterward, he returned to fishing without arranging a speech about leadership.
+
+Nearby ranchers brought blankets, coffee, food, vehicles, and practical knowledge of the coast. A ranch woman heard the sirens, rang a bell to gather workers, loaded her automobile with bedding and provisions, and drove toward the wrecks. Her approaching headlights became evidence to freezing sailors that the land contained people.
+
+Breeches buoys were rigged from the cliffs. Destroyers that had escaped the rocks launched boats and joined the rescue. Railroad crews spread word and helped convert a remote stretch of coast into an evacuation route. Special trains carried survivors south.
+
+The last sailor was rescued the following afternoon.
+
+So, the same Navy that transmitted one fatal position still contained hundreds of people capable of immediate field contact, discipline, courage, improvisation, and care. Local civilians with no part in the speed trial became essential nodes in the repair field.
+
+The institution failed at the level of navigation and command.
+
+It did not erase the capacities of every person inside it.
+
+The sailors were delivered into the rocks by a distorted instrument.
+
+Then sailors, fishermen, ranchers, railroad workers, and local crews built exits with what remained.
+
+-   Command delivered the men into the rocks.
+-   Local intelligence brought many of them back out.
+
+* * *
+
+## **Eleven Officers.**
+
+A Court of Inquiry began within days.
+
+The Navy faced an unusual problem here. The squadron commander, division commanders, commanding officers of the lost ships, and navigational personnel were all possible defendants. The people with the most knowledge of the event were also the people whose careers and honor stood inside the investigation.
+
+Eleven officers were sent to general court-martial, which is the largest such group proceeding in the Navy’s history.
+
+Captain Watson and Lieutenant Commander Hunter were convicted. The captain of the _Nicholas_ was also initially convicted, though that result was later set aside. Watson and Hunter lost future promotion and finished their naval service in lesser posts.
+
+The trials could assign responsibility. They could not make responsibility simple.
+
+-   Hunter made the navigational error and repeatedly subordinated contradictory evidence to his dead-reckoning model.
+-   Watson imposed speed, failed to supervise the navigation closely enough, trusted Hunter without preserving an independent correction channel, and turned the estimate into squadron action.
+-   Blodgett saw danger without forcing his concern into an authoritative interruption, then later protected himself through partial disclosure.
+-   Captains farther back possessed their own obligations to their ships, heard some of the contradictory bearings, and waited for the flagship to resolve discrepancies that several privately recognized.
+-   The radio system had real limitations.
+    -   The station’s records and ship logs did not align perfectly.
+    -   Equipment at the direction-finding site may have affected calibration.
+-   Heavy seas, wind, current, a broken gyrocompass, ambiguous bearings, loss of visual fixes, and the unusual performance of destroyers at sustained speed all contributed.
+
+None of this dissolves responsibility. It distributes causal structure.
+
+The institution’s temptation was to locate the disaster inside **one bad navigator**.
+
+Hunter was certainly central. He **also** occupied a field made dangerous by Watson’s performance goal, centralized radio protocol, formation doctrine, weak challenge procedures, professional reverence for expertise, and captains trained to treat the flagship as the owner of the larger picture.
+
+Watson accepted responsibility publicly and asked that blame not be allowed to descend indiscriminately upon subordinates whose conduct during the rescue had shown courage and initiative.
+
+That does not repair the ships or restore the dead. But that shows that he did not end as a commander trying to turn this wreck into everyone else’s misunderstanding.
+
+The inquiry also encountered the Navy’s unwritten **follow-the-leader culture**.
+
+Captains were responsible for their ships, yet squadron operation depended on disciplined conformity. This court could not honestly claim each wrecked captain independently navigated to Honda. They had followed the flagship because following the flagship was part of how the squadron existed.
+
+-   The legal question here was **who** **had failed in duty**.
+-   The deeper field question at hand was how many independent correction points the command system had permitted before obedience became a cascade.
+
+The first mistake did not need fourteen believers. It needed fourteen ships.
+
+* * *
+
+## **The Squadron Is Replaced.**
+
+The Navy punished officers.
+
+It did not rebuild the command instrument in proportion to this wreck.
+
+No sweeping operational reform followed Honda Point.
+
+The fleet studied the case. Navigation instruction absorbed lessons. Radio direction finding matured. The disaster became an example of vigilance, responsibility, and the danger of trusting an estimate against contradictory evidence. Yet the Navy did not emerge with some single redesigned doctrine guaranteeing that local field intelligence would always interrupt a failed flagship.
+
+Institutions rarely receive disasters as cleanly as disaster summaries suggest.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-380.png)
+
+A court can identify negligence. A training school can add a case. A memorandum can require more checks. None of these automatically changes the incentives, authority gradients, professional habits, and performance pressures that made the local failure transmissible.
+
+The material repair was almost perversely easy.
+
+Arms-limitation treaties and postwar reductions had left many Clemson-class destroyers in reserve. The Navy possessed replacements. Destroyer Squadron Eleven could be reconstituted without waiting for seven new ships to be built. The fleet had enough four-stackers stored elsewhere to fill the holes.
+
+This was good in the immediate institutional sense. The Navy still required destroyers. National defense did not somehow become safer by preserving seven empty entries in the squadron roster as a permanent act of mourning.
+
+The ease of replacement carried its own distortion risk.
+
+A destroyed instrument can be replaced faster than the field that produced its destruction can be understood.
+
+-   New hulls can fill the berths.
+-   New officers can receive commands.
+-   New crews can paint numbers and resume schedules.
+-   The organization can become operational again before it becomes corrigible.
+
+The ships were replaceable to the fleet.
+
+The twenty-three sailors were not replaceable to their own continuance.
+
+Institutional resilience is real and often necessary.
+
+It can also let a system mistake restored capacity for learned structure.
+
+The Navy salvaged weapons, records, and equipment from the wrecks. Contractors then demonstrated that even wreck removal could become its own small comedy of failed capacity. Surf and time finished much of what the salvage plans could not. Pieces of the ships remained in the field long after the squadron had regained its numbers.
+
+Honda Point therefore produced two long tails.
+
+-   One stayed in naval education as a warning.
+-   The other stayed in the coast as metal.
+
+* * *
+
+## **The Name on the Railroad Station.**
+
+Destroyer Squadron Twelve entered the Santa Barbara Channel safely.
+
+Later, confused reports began reaching its flagship.
+
+-   One destroyer was said to be aground on San Miguel Island.
+-   Another reported wrecking on a pinnacle with deep water nearby.
+-   A third said ships were aground at Point Honda.
+
+The officers aboard _McDermut_ searched the chart.
+
+**There was no Point Honda**.
+
+The naval chart called the location _Point Pedernales_.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-381-1.png)
+
+That local name had come through the railroad station near the wreck site.
+
+This is one of those details that reduces an institution to its correct size.
+
+-   The **Navy** had charts, radio stations, signal protocols, navigation instructors, squadron formations, courts, engines, compasses, and fourteen destroyers moving as one tactical body.
+-   The **railroad** had a sign.
+-   The **sign** knew where it was.
+-   The **squadron** did not.
+
+After the rocks had completed the introduction, the local landscape supplied the vocabulary.
+
+The disaster became **Honda Point** because the name closest to the people who lived and worked there survived the fleet’s arrival more effectively than the position carried by the flagship.
+
+This is not a mystical triumph of local words over technical maps. Charts are necessary. Radio bearings are useful. Dead reckoning is real navigation.
+
+A railroad sign cannot actually guide a destroyer from San Francisco to San Diego.
+
+It can still humiliate the full instrument stack after that stack brings seven ships to the sign.
+
+* * *
+
+## **The Distortion.**
+
+Honda Point is often told as a story about old-fashioned sailors distrusting new technology. That is present. It is way too small.
+
+It is also told as a story about blind obedience. That is present. Still too small.
+
+This fleet disaster required a full sequence:
+
+-   A permissive speed authorization became a performance objective.
+-   The performance objective made slowing down costly.
+-   The last visual fix receded for hours.
+-   Heavy seas made propeller-based speed estimation unreliable.
+-   Wind and current thickened the accumulating dead-reckoning error.
+-   The gyrocompass was unavailable.
+-   An early ambiguous radio bearing taught the navigator to distrust the new instrument.
+-   Later correct bearings were judged against the older model.
+-   The navigator selected the reciprocal that preserved his estimate.
+-   The fathometer remained unused because it required reduced speed.
+-   The assigned navigator’s caution lacked enough authority.
+-   Other captains privately held different positions but assumed the flagship had better information.
+-   The squadron formed one column, giving one position physical reach across fourteen ships.
+-   The flagship turned without an advance signal.
+-   Formation behavior transmitted the maneuver faster than doubt could travel backward.
+-   The first collision was interpreted through the wrong geography.
+-   A second command continued from the same failed model.
+
+No single item in that list sank seven destroyers.
+
+The sequence did.
+
+This is why [**Tales of Distortion**](https://modalpathethics.com/tag/tales-of-distortion/) is not a series about people being stupid.
+
+Stupidity would be easier and more fun.
+
+A person who does not know how navigation works can be removed from the bridge. Honda Point was produced by people who knew navigation, command, machinery, discipline, and the route. Their instruments each held partial truth.
+
+-   Dead reckoning carried real historical position.
+-   Radio direction finding carried real bearing information through an immature system.
+-   Formation carried real coordination.
+-   Speed carried real readiness and machinery testing.
+-   hierarchy carried real command efficiency.
+-   The _Cuba_ carried a real warning about the island farther south.
+-   Caution against fragmented communication carried a real need for radio discipline.
+
+The distortion did not invent a false world from nothing.
+
+It arranged true fragments such that the field could no longer correct the full arrangement. That is a much more common danger than simple ignorance.
+
+Institutions regularly operate through instruments that work well enough to deserve trust. The map is usually useful. The metric often tracks something. The expert genuinely knows more. The chain of command frequently prevents chaos. The schedule coordinates real dependencies. The prior disaster contains real lessons.
+
+Then, the instrument becomes sovereign.
+
+It begins deciding which contradictions count as noise.
+
+At Honda Point, the sea did not need to defeat the model intellectually.
+
+It only needed to remain right where it was.
+
+* * *
+
+## **Ruling.**
+
+Course 095 was an ordinary heading made sovereign by expertise, speed, command, and formation.
+
+Hunter’s estimate stopped answering to the field. Watson gave it squadron authority. The column carried it east. Several captains restored contact in time.
+
+Seven ships did not.
+
+The fathometer could have found the bottom before the ships did.
+
+It required them to slow down.
+
+They learned where they were at twenty knots instead.
+
+The chart called it Point Pedernales. The railroad station said Honda.
+
+The Navy learned the local name after arrival.
+
+
+<!-- ARTICLE_END slug="tales-of-distortion-course-095-to-eternity" -->
 
 
 <!-- ARTICLE_START slug="f" title="Field Instruments: Martyrdom" published_at="2026-07-10T05:00:03.000-05:00" -->
@@ -14,7 +1035,7 @@ updated_at: "2026-07-10T05:00:03.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -631,7 +1652,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -2674,7 +3695,7 @@ updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -3322,7 +4343,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
 ---
 # Simone Weil and the Field Under Force
@@ -3962,7 +4983,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -4498,13 +5519,13 @@ title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
 published_at: "2026-07-07T06:05:02.000-05:00"
-updated_at: "2026-07-07T17:56:18.000-05:00"
+updated_at: "2026-07-10T05:20:11.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
-sha256_plaintext: "c8229f2ecc67f43fe840728b5d9248eaabf8f3653005c08e51ef218d3781f95f"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
+sha256_plaintext: "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
 ---
 # Moonlight with Figures: The Ghost Dance
 
@@ -5628,14 +6649,14 @@ ___Dark Landscape___
     -   It was ridden by the fantasy that treaties could be broken and still leave law intact.
 -   It was ridden by hunger for clean categories:
     -   peaceful Indian,
-        -   hostile Indian,
-            -   progressive Indian,
-                -   fanatical Indian,
-                    -   agency Indian,
-                        -   reservation Indian,
-                            -   outlaw Indian,
-                                -   picturesque Indian,
-                                    -   vanishing Indian.
+    -   hostile Indian,
+    -   progressive Indian,
+    -   fanatical Indian,
+    -   agency Indian,
+    -   reservation Indian,
+    -   outlaw Indian,
+    -   picturesque Indian,
+    -   vanishing Indian.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-306.png)
 
@@ -5709,17 +6730,7 @@ The field had already been damaged by land theft, treaty violation, buffalo dest
 
 The Ghost Dance entered that field as repair, return, relation, and refusal.
 
--   The press called it frenzy.
-    -   The agents called it trouble.
-        -   The Army called it risk.
-            -   So McLaughlin found a leader-node.
-                -   The cabin became a trap.
-                    -   Spotted Elk’s sick body became a threat-object.
-                        -   Disarmament became the path into massacre.
-                            -   The Hotchkiss guns answered a circle.
-                                -   The snow kept the record.
-
-Afterward, Mooney tried to preserve the songs, and the songs passed into the machine through a borrowed throat. The museum kept shirts whose image remains withheld. Blakelock painted the dance as a vision of life, and his correspondence still opens a dangerous door.
+Blakelock painted the dance as a vision of life, and his correspondence still opens a dangerous door.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-300-1-1-1-1.png)
 
@@ -5745,7 +6756,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -6179,7 +7190,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -6812,7 +7823,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -7172,7 +8183,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -7678,7 +8689,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -8930,7 +9941,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -9511,7 +10522,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -10122,7 +11133,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -11349,7 +12360,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -12041,7 +13052,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -12680,7 +13691,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -13210,7 +14221,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -13688,7 +14699,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -14269,7 +15280,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -14957,7 +15968,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -15383,7 +16394,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -15667,7 +16678,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -17483,7 +18494,7 @@ tags:
   - "Field Creature"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -18062,7 +19073,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -18572,7 +19583,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -18878,7 +19889,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -19405,7 +20416,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -19469,7 +20480,7 @@ updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -19553,7 +20564,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -19658,7 +20669,7 @@ tags:
   - "Patch Notes"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -19948,7 +20959,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -20327,7 +21338,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -20852,7 +21863,7 @@ updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -21001,7 +22012,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -21263,7 +22274,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -21575,7 +22586,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -22143,7 +23154,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -22837,7 +23848,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -23422,7 +24433,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -24335,7 +25346,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -24712,7 +25723,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -25314,7 +26325,7 @@ tags:
   - "Supplement"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -25639,7 +26650,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -26159,7 +27170,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -27880,7 +28891,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
 ---
 # Applied Case: Click (2006)
@@ -28352,7 +29363,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)
@@ -28913,7 +29924,7 @@ updated_at: "2026-06-17T14:51:42.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -34290,7 +35301,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -34389,7 +35400,7 @@ updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -34589,7 +35600,7 @@ updated_at: "2026-06-17T00:40:54.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -35275,7 +36286,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -35608,7 +36619,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -36713,7 +37724,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8eb93c4034d948ba068881d44a5c87a9627eaa90b9b4fd998d7249e5c70fc564"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -38067,7 +39078,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -39129,7 +40140,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -40136,7 +41147,7 @@ updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -40195,7 +41206,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -40857,7 +41868,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -41955,7 +42966,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -43466,7 +44477,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -43840,7 +44851,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -44271,7 +45282,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -44569,7 +45580,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -45058,7 +46069,7 @@ updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -47637,7 +48648,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -48285,7 +49296,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -48755,7 +49766,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -52516,7 +53527,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -53067,7 +54078,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -53790,7 +54801,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -54492,7 +55503,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -56941,7 +57952,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -57415,7 +58426,7 @@ updated_at: "2026-05-26T21:08:30.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
 ---
 # Field Instruments: Accounting
@@ -57778,7 +58789,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -58524,7 +59535,7 @@ updated_at: "2026-07-08T18:08:17.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -63310,7 +64321,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
 ---
 # Applied Case: The TempleOS
@@ -63875,7 +64886,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -64442,7 +65453,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -64863,7 +65874,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -65382,7 +66393,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -65924,7 +66935,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -66185,7 +67196,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -66758,7 +67769,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -67973,7 +68984,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -68260,7 +69271,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -68680,7 +69691,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -69195,7 +70206,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -70051,7 +71062,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -70704,7 +71715,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -71463,7 +72474,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -72329,7 +73340,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -72892,7 +73903,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -73124,7 +74135,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -73610,7 +74621,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -73855,7 +74866,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -74694,7 +75705,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -75007,7 +76018,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -75364,7 +76375,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -75600,7 +76611,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -76259,7 +77270,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -76883,7 +77894,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -77170,7 +78181,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -77413,7 +78424,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -77635,7 +78646,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -78057,7 +79068,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -78776,7 +79787,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -79189,7 +80200,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -79468,7 +80479,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -79829,7 +80840,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -80024,7 +81035,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -80449,7 +81460,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -80884,7 +81895,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -80977,7 +81988,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -84819,7 +85830,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -85354,7 +86365,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -85589,7 +86600,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -85810,7 +86821,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -86021,7 +87032,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -86134,7 +87145,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -86409,7 +87420,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -86706,7 +87717,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -86950,7 +87961,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -87155,7 +88166,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -87284,7 +88295,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -87425,7 +88436,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -87534,7 +88545,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -87651,7 +88662,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -87786,7 +88797,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -87877,7 +88888,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -88002,7 +89013,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -88131,7 +89142,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -88236,7 +89247,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -88349,7 +89360,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -88514,7 +89525,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -88659,7 +89670,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -88788,7 +89799,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -88877,7 +89888,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -88948,7 +89959,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -89087,7 +90098,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -89239,7 +90250,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -89849,7 +90860,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -89994,7 +91005,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -90074,7 +91085,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -90527,7 +91538,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -90818,7 +91829,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -91353,7 +92364,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -91829,7 +92840,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -92064,7 +93075,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -92405,7 +93416,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -92702,7 +93713,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -93477,7 +94488,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -93626,7 +94637,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -93757,7 +94768,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -94064,7 +95075,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -94686,7 +95697,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -94823,7 +95834,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -94946,7 +95957,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -95072,7 +96083,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -95301,7 +96312,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -95530,7 +96541,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -95961,7 +96972,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -96086,7 +97097,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -96259,7 +97270,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -96579,7 +97590,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -97038,7 +98049,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th

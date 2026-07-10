@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 10 Jul 2026 10:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 15:16:33 GMT</lastBuildDate>
     
+    <item>
+      <title>Tales of Distortion: Course 095</title>
+      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.html</guid>
+      <pubDate>Fri, 10 Jul 2026 11:00:00 GMT</pubDate>
+      <description>The ships did not all make the same mistake at Honda Point. They obeyed the first mistake.</description>
+    </item>
+
     <item>
       <title>Field Instruments: Martyrdom</title>
       <link>https://modal-path-ethics.ghost.io/articles/f.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-has-been-published.html</guid>
       <pubDate>Wed, 17 Jun 2026 07:22:31 GMT</pubDate>
       <description>This has become official.</description>
-    </item>
-
-    <item>
-      <title>Humanity Does Not Possess a Radioactive Half-Life</title>
-      <link>https://modal-path-ethics.ghost.io/articles/humanity-does-not-possess-a-radioactive-half-life.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/humanity-does-not-possess-a-radioactive-half-life.html</guid>
-      <pubDate>Wed, 17 Jun 2026 06:25:40 GMT</pubDate>
-      <description>David Gross, nuclear risk, and the counterfeit countdown.</description>
     </item>
   </channel>
 </rss>

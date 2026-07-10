@@ -3,13 +3,13 @@ title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
 published_at: "2026-07-07T06:05:02.000-05:00"
-updated_at: "2026-07-07T17:56:18.000-05:00"
+updated_at: "2026-07-10T05:20:11.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T10:02:30.198Z"
-sha256_plaintext: "c8229f2ecc67f43fe840728b5d9248eaabf8f3653005c08e51ef218d3781f95f"
+mirror_generated_at: "2026-07-10T15:16:33.361Z"
+sha256_plaintext: "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
 ---
 # Moonlight with Figures: The Ghost Dance
 
@@ -1133,14 +1133,14 @@ ___Dark Landscape___
     -   It was ridden by the fantasy that treaties could be broken and still leave law intact.
 -   It was ridden by hunger for clean categories:
     -   peaceful Indian,
-        -   hostile Indian,
-            -   progressive Indian,
-                -   fanatical Indian,
-                    -   agency Indian,
-                        -   reservation Indian,
-                            -   outlaw Indian,
-                                -   picturesque Indian,
-                                    -   vanishing Indian.
+    -   hostile Indian,
+    -   progressive Indian,
+    -   fanatical Indian,
+    -   agency Indian,
+    -   reservation Indian,
+    -   outlaw Indian,
+    -   picturesque Indian,
+    -   vanishing Indian.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-306.png)
 
@@ -1214,17 +1214,7 @@ The field had already been damaged by land theft, treaty violation, buffalo dest
 
 The Ghost Dance entered that field as repair, return, relation, and refusal.
 
--   The press called it frenzy.
-    -   The agents called it trouble.
-        -   The Army called it risk.
-            -   So McLaughlin found a leader-node.
-                -   The cabin became a trap.
-                    -   Spotted Elk’s sick body became a threat-object.
-                        -   Disarmament became the path into massacre.
-                            -   The Hotchkiss guns answered a circle.
-                                -   The snow kept the record.
-
-Afterward, Mooney tried to preserve the songs, and the songs passed into the machine through a borrowed throat. The museum kept shirts whose image remains withheld. Blakelock painted the dance as a vision of life, and his correspondence still opens a dangerous door.
+Blakelock painted the dance as a vision of life, and his correspondence still opens a dangerous door.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-300-1-1-1-1.png)
 

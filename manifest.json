@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-10T10:02:30.198Z",
+  "generated_at": "2026-07-10T15:16:33.361Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 166,
+  "article_count": 167,
   "articles": [
+    {
+      "title": "Tales of Distortion: Course 095",
+      "slug": "tales-of-distortion-course-095-to-eternity",
+      "published_at": "2026-07-10T06:00:00.000-05:00",
+      "updated_at": "2026-07-10T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/",
+      "excerpt": "The ships did not all make the same mistake at Honda Point. They obeyed the first mistake.",
+      "tags": [
+        "Tales of Distortion",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-course-095-to-eternity.md",
+      "mirror_html_path": "/articles/tales-of-distortion-course-095-to-eternity.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.html",
+      "sha256_plaintext": "344a846de06d288bda578dc2ba0d0de55317bae2e22d291aa748c13228dd0996"
+    },
     {
       "title": "Field Instruments: Martyrdom",
       "slug": "f",
@@ -89,7 +106,7 @@
       "title": "Moonlight with Figures: The Ghost Dance",
       "slug": "moonlight-with-figures-the-ghost-dance",
       "published_at": "2026-07-07T06:05:02.000-05:00",
-      "updated_at": "2026-07-07T17:56:18.000-05:00",
+      "updated_at": "2026-07-10T05:20:11.000-05:00",
       "canonical_url": "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/",
       "excerpt": "The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.",
       "tags": [
@@ -100,7 +117,7 @@
       "mirror_html_path": "/articles/moonlight-with-figures-the-ghost-dance.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/moonlight-with-figures-the-ghost-dance.html",
-      "sha256_plaintext": "c8229f2ecc67f43fe840728b5d9248eaabf8f3653005c08e51ef218d3781f95f"
+      "sha256_plaintext": "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
     },
     {
       "title": "Field Instruments: Sacred Title",

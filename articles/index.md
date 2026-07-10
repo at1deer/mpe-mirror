@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-10T10:02:30.198Z
+Generated: 2026-07-10T15:16:33.361Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-10 — [Tales of Distortion: Course 095](/articles/tales-of-distortion-course-095-to-eternity.md) ([HTML](/articles/tales-of-distortion-course-095-to-eternity.html))
 - 2026-07-10 — [Field Instruments: Martyrdom](/articles/f.md) ([HTML](/articles/f.html))
 - 2026-07-09 — [Failed Field Analysts: Robert McNamara and the Body Count Machine](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md) ([HTML](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html))
 - 2026-07-09 — [Field Instruments: Strategic Depth](/articles/field-instruments-strategic-depth.md) ([HTML](/articles/field-instruments-strategic-depth.html))
