@@ -3,13 +3,13 @@ title: "Tales of Distortion: Course 095"
 slug: "tales-of-distortion-course-095-to-eternity"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/"
 published_at: "2026-07-10T06:00:00.000-05:00"
-updated_at: "2026-07-10T05:59:59.000-05:00"
+updated_at: "2026-07-10T21:27:19.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T20:02:38.770Z"
-sha256_plaintext: "344a846de06d288bda578dc2ba0d0de55317bae2e22d291aa748c13228dd0996"
+mirror_generated_at: "2026-07-11T03:54:55.960Z"
+sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
 
@@ -696,16 +696,6 @@ The collision supplies new information.
 
 Then the model tells the information what it means. It thinks it is still the authority over the field.
 
-This is where and why _Course 095 to Eternity_ follows _Field Instruments: Martyrdom_ in the braid.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_212920773-1.jpeg)
-
-The living field has changed, but the inherited instruction continues issuing action through people who are still able to obey it.
-
-The difference is that at Honda Point, the source of authority remained alive.
-
-That makes the failure even cleaner. Watson and Hunter could still observe, revise, and speak. Yet the model carried enough accumulated structure to survive the rock for the fatal seconds that remained.
-
 Evidence had just struck the flagship at twenty knots.
 
 The model survived this collision.
@@ -800,9 +790,6 @@ It did not erase the capacities of every person inside it.
 The sailors were delivered into the rocks by a distorted instrument.
 
 Then sailors, fishermen, ranchers, railroad workers, and local crews built exits with what remained.
-
--   Command delivered the men into the rocks.
--   Local intelligence brought many of them back out.
 
 * * *
 
@@ -975,7 +962,7 @@ A person who does not know how navigation works can be removed from the bridge. 
 -   Radio direction finding carried real bearing information through an immature system.
 -   Formation carried real coordination.
 -   Speed carried real readiness and machinery testing.
--   hierarchy carried real command efficiency.
+-   Hierarchy carried real command efficiency.
 -   The _Cuba_ carried a real warning about the island farther south.
 -   Caution against fragmented communication carried a real need for radio discipline.
 

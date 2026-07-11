@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T20:02:38.770Z",
+  "generated_at": "2026-07-11T03:54:55.960Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 167,
@@ -8,7 +8,7 @@
       "title": "Tales of Distortion: Course 095",
       "slug": "tales-of-distortion-course-095-to-eternity",
       "published_at": "2026-07-10T06:00:00.000-05:00",
-      "updated_at": "2026-07-10T05:59:59.000-05:00",
+      "updated_at": "2026-07-10T21:27:19.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/",
       "excerpt": "The ships did not all make the same mistake at Honda Point. They obeyed the first mistake.",
       "tags": [
@@ -19,7 +19,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-course-095-to-eternity.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-course-095-to-eternity.html",
-      "sha256_plaintext": "344a846de06d288bda578dc2ba0d0de55317bae2e22d291aa748c13228dd0996"
+      "sha256_plaintext": "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
     },
     {
       "title": "Field Instruments: Martyrdom",
@@ -454,7 +454,8 @@
       "tags": [
         "Applied Case",
         "Modal Path Ethics",
-        "Field Instruments"
+        "Field Instruments",
+        "Fictional Earth"
       ],
       "mirror_markdown_path": "/articles/the-ultimate-human.md",
       "mirror_html_path": "/articles/the-ultimate-human.html",

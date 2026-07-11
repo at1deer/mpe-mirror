@@ -8,8 +8,9 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Field Instruments"
+  - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-10T20:02:38.770Z"
+mirror_generated_at: "2026-07-11T03:54:55.960Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
