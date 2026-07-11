@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-11T08:23:20.708Z
+Generated: 2026-07-11T14:04:44.699Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-11 — [Tales of Distortion: The Subway Oracle](/articles/tales-of-distortion-the-subway-oracle.md) ([HTML](/articles/tales-of-distortion-the-subway-oracle.html))
+- 2026-07-11 — [Pragmatism and the Moral Field](/articles/pragmatism-and-the-moral-field.md) ([HTML](/articles/pragmatism-and-the-moral-field.html))
 - 2026-07-10 — [Tales of Distortion: Course 095](/articles/tales-of-distortion-course-095-to-eternity.md) ([HTML](/articles/tales-of-distortion-course-095-to-eternity.html))
 - 2026-07-10 — [Field Instruments: Martyrdom](/articles/f.md) ([HTML](/articles/f.html))
 - 2026-07-09 — [Failed Field Analysts: Robert McNamara and the Body Count Machine](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md) ([HTML](/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.html))
