@@ -3,13 +3,13 @@ title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
 published_at: "2026-07-11T06:30:48.000-05:00"
-updated_at: "2026-07-11T06:30:48.000-05:00"
+updated_at: "2026-07-11T14:44:09.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-11T14:04:44.699Z"
+mirror_generated_at: "2026-07-11T19:46:34.574Z"
 sha256_plaintext: "6c1c4f2597982d599f981b53a57733bd5815ee6d27c095e799366208bcd760e2"
 ---
 # Tales of Distortion: The Subway Oracle
