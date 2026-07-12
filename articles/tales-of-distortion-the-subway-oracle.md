@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
 published_at: "2026-07-11T06:30:48.000-05:00"
-updated_at: "2026-07-11T17:02:03.000-05:00"
+updated_at: "2026-07-12T02:08:28.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-12T04:08:34.996Z"
-sha256_plaintext: "234a84cf0d23fc8f88c8f857946ccc92fc820041c889b04348ca1e825ceabfdd"
+mirror_generated_at: "2026-07-12T08:51:33.598Z"
+sha256_plaintext: "3c9d9c7845b57ab7a2fd308dff5e4bcee0ab4ce85ff081268425633f9acd179b"
 ---
 # Tales of Distortion: The Subway Oracle
 
@@ -2144,8 +2144,6 @@ Its name changed. Its founder was executed.
 
 But the attack still continued through compensation disputes, health problems, trauma, public forgetting, successor recruitment, and the labor required to keep the event from becoming a historical spectacle detached from living people.
 
-The field retains. The tail never goes away.
-
 The public field cannot declare the event finished while obligations remain active.
 
 This attack still has unpaid bills. It still has bodies. It still has followers.
@@ -2173,15 +2171,13 @@ It returns the event to people who were commuting, working, helping, recovering,
 -   A person can carry symptoms other people cannot see.
 -   A person can distrust both Aum and the institutions that failed to prevent Aum.
 
-The counter-archive does not solve the attack.
-
-It prevents the perpetrator's system from remaining the most interesting thing in the room.
+The counter-archive does not solve the attack. It prevents the perpetrator's system from remaining the most interesting thing in the room.
 
 This is an obligation for any long-form analysis like this.
 
 This is very important for any writer to understand clearly:
 
-## **A ninety-minute article can become perpetrator architecture with victims used as moral lighting.**
+## **A fifty-seven-minute article can become perpetrator architecture with victims used as moral lighting.**
 
 The structure has to return repeatedly to the people whose lives were entered by the bags.
 
