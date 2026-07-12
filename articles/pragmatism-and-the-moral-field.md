@@ -3,12 +3,12 @@ title: "Pragmatism and the Moral Field"
 slug: "pragmatism-and-the-moral-field"
 canonical_url: "https://modalpathethics.com/pragmatism-and-the-moral-field/"
 published_at: "2026-07-11T06:00:18.000-05:00"
-updated_at: "2026-07-11T06:01:21.000-05:00"
+updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-11T19:46:34.574Z"
-sha256_plaintext: "27c10f7b48f5e7cd267d8faee836cf08dd5b276e846706e803ec2e9ac707ba2e"
+mirror_generated_at: "2026-07-12T04:08:34.996Z"
+sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
 
@@ -74,8 +74,6 @@ Modal Path Ethics recognizes this immediately.
 The field answers back.
 
 A framework may arrive with beautiful concepts, a coherent argument, and the best available intentions. Reality can still reject the fit. The harmed locus may remain unheard. The intervention may open a path nobody modeled. The instrument may create a new resistance profile while continuing to report success.
-
-Peirce gives Modal Path Ethics a philosophical ancestor for Patch Notes.
 
 The correction is part of the work.
 
