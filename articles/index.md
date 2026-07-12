@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-12T08:51:33.598Z
+Generated: 2026-07-12T14:08:46.424Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-12 — [SEAM: Now Playable](/articles/seam-now-playable.md) ([HTML](/articles/seam-now-playable.html))
+- 2026-07-12 — [Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne](/articles/penroses-tiny-throne.md) ([HTML](/articles/penroses-tiny-throne.html))
 - 2026-07-11 — [Tales of Distortion: The Subway Oracle](/articles/tales-of-distortion-the-subway-oracle.md) ([HTML](/articles/tales-of-distortion-the-subway-oracle.html))
 - 2026-07-11 — [Pragmatism and the Moral Field](/articles/pragmatism-and-the-moral-field.md) ([HTML](/articles/pragmatism-and-the-moral-field.html))
 - 2026-07-10 — [Tales of Distortion: Course 095](/articles/tales-of-distortion-course-095-to-eternity.md) ([HTML](/articles/tales-of-distortion-course-095-to-eternity.html))

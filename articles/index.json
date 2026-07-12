@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-07-12T08:51:33.598Z",
+  "generated_at": "2026-07-12T14:08:46.424Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 169,
+  "article_count": 171,
   "articles": [
+    {
+      "title": "SEAM: Now Playable",
+      "slug": "seam-now-playable",
+      "published_at": "2026-07-12T05:30:39.000-05:00",
+      "updated_at": "2026-07-12T05:30:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/seam-now-playable/",
+      "excerpt": "Introducing SEAM, a free endless runner game from Modal Path Ethics",
+      "tags": [
+        "Chirality",
+        "SEAM",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/seam-now-playable.md",
+      "mirror_html_path": "/articles/seam-now-playable.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/seam-now-playable.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/seam-now-playable.html",
+      "sha256_plaintext": "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
+    },
+    {
+      "title": "Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne",
+      "slug": "penroses-tiny-throne",
+      "published_at": "2026-07-12T05:00:34.000-05:00",
+      "updated_at": "2026-07-12T05:41:35.000-05:00",
+      "canonical_url": "https://modalpathethics.com/penroses-tiny-throne/",
+      "excerpt": "Penrose, Hameroff, consciousness, and the unfortunate return of the mathematician-priest. [L]",
+      "tags": [
+        "Modal Path Ethics",
+        "Supplement"
+      ],
+      "mirror_markdown_path": "/articles/penroses-tiny-throne.md",
+      "mirror_html_path": "/articles/penroses-tiny-throne.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/penroses-tiny-throne.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/penroses-tiny-throne.html",
+      "sha256_plaintext": "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
+    },
     {
       "title": "Tales of Distortion: The Subway Oracle",
       "slug": "tales-of-distortion-the-subway-oracle",
@@ -967,7 +1002,7 @@
       "title": "Failed Field Analysts: Timothy McVeigh and the Retaliation Machine",
       "slug": "failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine",
       "published_at": "2026-06-14T04:19:19.000-05:00",
-      "updated_at": "2026-06-14T04:19:19.000-05:00",
+      "updated_at": "2026-07-12T05:07:21.000-05:00",
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/",
       "excerpt": "The federal building was not one body. Applied Case: Ruby Ridge & Waco.",
       "tags": [
@@ -979,7 +1014,7 @@
       "mirror_html_path": "/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.html",
-      "sha256_plaintext": "8eb93c4034d948ba068881d44a5c87a9627eaa90b9b4fd998d7249e5c70fc564"
+      "sha256_plaintext": "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
     },
     {
       "title": "Applied Case: The Field Intelligence Gap",

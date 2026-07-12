@@ -3,14 +3,14 @@ title: "Failed Field Analysts: Timothy McVeigh and the Retaliation Machine"
 slug: "failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/"
 published_at: "2026-06-14T04:19:19.000-05:00"
-updated_at: "2026-06-14T04:19:19.000-05:00"
+updated_at: "2026-07-12T05:07:21.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-12T08:51:33.598Z"
-sha256_plaintext: "8eb93c4034d948ba068881d44a5c87a9627eaa90b9b4fd998d7249e5c70fc564"
+mirror_generated_at: "2026-07-12T14:08:46.424Z"
+sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
 
@@ -944,7 +944,7 @@ Ruby Ridge and Waco were very different events.
 
 McVeigh and the militia movement compressed them into one clean story because clean stories are portable.
 
-The actual shared structure is more precise and less sharable.
+The actual shared structure is more precise and less shareable.
 
 -   A lawful state interest enters a resistant field.
 -   The subject’s danger is real.
@@ -963,7 +963,7 @@ The pipeline does not mean law enforcement should abandon armed warrants.
 
 This means the state must identify the moment when its own method begins manufacturing the resistance used to justify the next method.
 
-That is extremely difficult. It is also this job.
+That is extremely difficult. It is also the job.
 
 * * *
 

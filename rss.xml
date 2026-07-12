@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 12 Jul 2026 08:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 14:08:46 GMT</lastBuildDate>
     
+    <item>
+      <title>SEAM: Now Playable</title>
+      <link>https://modal-path-ethics.ghost.io/articles/seam-now-playable.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/seam-now-playable.html</guid>
+      <pubDate>Sun, 12 Jul 2026 10:30:39 GMT</pubDate>
+      <description>Introducing SEAM, a free endless runner game from Modal Path Ethics</description>
+    </item>
+
+    <item>
+      <title>Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne</title>
+      <link>https://modal-path-ethics.ghost.io/articles/penroses-tiny-throne.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/penroses-tiny-throne.html</guid>
+      <pubDate>Sun, 12 Jul 2026 10:00:34 GMT</pubDate>
+      <description>Penrose, Hameroff, consciousness, and the unfortunate return of the mathematician-priest. [L]</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: The Subway Oracle</title>
       <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-subway-oracle.html</link>
@@ -392,22 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-skynet.html</guid>
       <pubDate>Sat, 20 Jun 2026 12:00:33 GMT</pubDate>
       <description>Causal reach handed down to target logic. A full-franchise audit. [L]</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Click (2006)</title>
-      <link>https://modal-path-ethics.ghost.io/articles/click.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/click.html</guid>
-      <pubDate>Fri, 19 Jun 2026 11:30:47 GMT</pubDate>
-      <description>Michael Newman destroys his son’s entire extance by finally becoming a better father.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Primer (2004)</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-primer-2004.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-primer-2004.html</guid>
-      <pubDate>Thu, 18 Jun 2026 11:00:17 GMT</pubDate>
-      <description>The problem here was not the time travel.</description>
     </item>
   </channel>
 </rss>
