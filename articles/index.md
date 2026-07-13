@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-13T09:56:01.088Z
+Generated: 2026-07-13T15:29:07.375Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-13 — [Tales of Distortion: The Climbing Target](/articles/tales-of-distortion-the-climbing-target.md) ([HTML](/articles/tales-of-distortion-the-climbing-target.html))
 - 2026-07-12 — [SEAM: Now Playable](/articles/seam-now-playable.md) ([HTML](/articles/seam-now-playable.html))
 - 2026-07-12 — [Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne](/articles/penroses-tiny-throne.md) ([HTML](/articles/penroses-tiny-throne.html))
 - 2026-07-11 — [Tales of Distortion: The Subway Oracle](/articles/tales-of-distortion-the-subway-oracle.md) ([HTML](/articles/tales-of-distortion-the-subway-oracle.html))

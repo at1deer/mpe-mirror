@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-13T09:56:01.088Z",
+  "generated_at": "2026-07-13T15:29:07.375Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 171,
+  "article_count": 172,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Climbing Target",
+      "slug": "tales-of-distortion-the-climbing-target",
+      "published_at": "2026-07-13T05:45:41.000-05:00",
+      "updated_at": "2026-07-13T05:45:41.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-climbing-target/",
+      "excerpt": "The machine saw the climb. The threat field saw the attack. Only one existed. Flight 655. Flight 752.",
+      "tags": [
+        "Tales of Distortion",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-climbing-target.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-climbing-target.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html",
+      "sha256_plaintext": "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
+    },
     {
       "title": "SEAM: Now Playable",
       "slug": "seam-now-playable",

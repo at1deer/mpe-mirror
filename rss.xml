@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 13 Jul 2026 09:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:29:07 GMT</lastBuildDate>
     
+    <item>
+      <title>Tales of Distortion: The Climbing Target</title>
+      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html</guid>
+      <pubDate>Mon, 13 Jul 2026 10:45:41 GMT</pubDate>
+      <description>The machine saw the climb. The threat field saw the attack. Only one existed. Flight 655. Flight 752.</description>
+    </item>
+
     <item>
       <title>SEAM: Now Playable</title>
       <link>https://modal-path-ethics.ghost.io/articles/seam-now-playable.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-twelve-monkeys-1995.html</guid>
       <pubDate>Sun, 21 Jun 2026 12:30:24 GMT</pubDate>
       <description>The machine is ethical; the probe is Bruce Willis.</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Skynet</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-skynet.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-skynet.html</guid>
-      <pubDate>Sat, 20 Jun 2026 12:00:33 GMT</pubDate>
-      <description>Causal reach handed down to target logic. A full-franchise audit. [L]</description>
     </item>
   </channel>
 </rss>
