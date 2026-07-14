@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T03:45:54.843Z"
+mirror_generated_at: "2026-07-14T08:39:37.178Z"
 sha256_plaintext: "3c9d9c7845b57ab7a2fd308dff5e4bcee0ab4ce85ff081268425633f9acd179b"
 ---
 # Tales of Distortion: The Subway Oracle

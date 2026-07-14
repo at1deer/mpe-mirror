@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T03:45:54.843Z"
+mirror_generated_at: "2026-07-14T08:39:37.178Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
