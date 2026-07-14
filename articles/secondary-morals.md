@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-13T20:00:57.223Z"
+mirror_generated_at: "2026-07-14T03:45:54.843Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
