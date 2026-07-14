@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-14T08:39:37.178Z",
+  "generated_at": "2026-07-14T14:26:15.674Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 172,
+  "article_count": 173,
   "articles": [
+    {
+      "title": "Applied Case: The Immortal Corpus",
+      "slug": "the-immortal-corpus",
+      "published_at": "2026-07-14T04:20:46.000-05:00",
+      "updated_at": "2026-07-14T05:05:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-immortal-corpus/",
+      "excerpt": "The priests kept every philosopher alive and let philosophy die. [L]",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/the-immortal-corpus.md",
+      "mirror_html_path": "/articles/the-immortal-corpus.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html",
+      "sha256_plaintext": "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
+    },
     {
       "title": "Tales of Distortion: The Climbing Target",
       "slug": "tales-of-distortion-the-climbing-target",

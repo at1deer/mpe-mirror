@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 14 Jul 2026 08:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:26:15 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Immortal Corpus</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html</guid>
+      <pubDate>Tue, 14 Jul 2026 09:20:46 GMT</pubDate>
+      <description>The priests kept every philosopher alive and let philosophy die. [L]</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: The Climbing Target</title>
       <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/roger-penrose-and-the-reality-of-structure.html</guid>
       <pubDate>Mon, 22 Jun 2026 02:04:56 GMT</pubDate>
       <description>A Modal Path Ethics engagement with mathematics, physical law, and the field beneath the three worlds</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Twelve Monkeys (1995)</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-twelve-monkeys-1995.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-twelve-monkeys-1995.html</guid>
-      <pubDate>Sun, 21 Jun 2026 12:30:24 GMT</pubDate>
-      <description>The machine is ethical; the probe is Bruce Willis.</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-14T08:39:37.178Z
+Generated: 2026-07-14T14:26:15.674Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-14 — [Applied Case: The Immortal Corpus](/articles/the-immortal-corpus.md) ([HTML](/articles/the-immortal-corpus.html))
 - 2026-07-13 — [Tales of Distortion: The Climbing Target](/articles/tales-of-distortion-the-climbing-target.md) ([HTML](/articles/tales-of-distortion-the-climbing-target.html))
 - 2026-07-12 — [SEAM: Now Playable](/articles/seam-now-playable.md) ([HTML](/articles/seam-now-playable.html))
 - 2026-07-12 — [Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne](/articles/penroses-tiny-throne.md) ([HTML](/articles/penroses-tiny-throne.html))

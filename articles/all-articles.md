@@ -1,6 +1,893 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-07-14T08:39:37.178Z
+Generated: 2026-07-14T14:26:15.674Z
+
+
+<!-- ARTICLE_START slug="the-immortal-corpus" title="Applied Case: The Immortal Corpus" published_at="2026-07-14T04:20:46.000-05:00" -->
+
+---
+title: "Applied Case: The Immortal Corpus"
+slug: "the-immortal-corpus"
+canonical_url: "https://modalpathethics.com/the-immortal-corpus/"
+published_at: "2026-07-14T04:20:46.000-05:00"
+updated_at: "2026-07-14T05:05:59.000-05:00"
+tags:
+  - "Applied Case"
+  - "Modal Path Ethics"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
+sha256_plaintext: "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
+---
+# Applied Case: The Immortal Corpus
+
+No philosopher is allowed to die.
+
+The body may go. Academic philosophy can accommodate that much. It has _excellent_ libraries.
+
+The name remains under protection.
+
+Once a recognized thinker enters the corpus, death just becomes an administrative inconvenience.
+
+The thinker can now be taught forever, interpreted forever, rescued forever, refuted forever, reconstructed forever, placed in dialogue with every later event forever, and assigned one more graduate seminar whenever the department needs to prove that time has not passed.
+
+The person is gone.
+
+![the-erdtree-as-cosmic-pillar-v0-nwy7zl8zm47a1.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/the-erdtree-as-cosmic-pillar-v0-nwy7zl8zm47a1.webp)
+
+Their professional afterlife has begun.
+
+A philosopher in the corpus does not have to remain right. Being wrong is also highly renewable.
+
+A successful refutation produces a literature. The literature produces replies. The replies produce revised interpretations. The revised interpretations produce a conference titled something like **Rethinking the Rethinking of the Late Whatever the Fuck**, and everyone involved returns home carrying a tote bag dense enough to distort spacetime.
+
+Academic philosophy has built up an afterlife industry.
+
+This is the institutional Applied Case that was not-so-subtly hidden inside [Modal Path Ethics Is Doomed](https://modalpathethics.com/modal-path-ethics-is-doomed/).
+
+![78642.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/78642.jpg)
+
+That article named **continuance capture**: the reversal that occurs when an instrument's persistence stops serving its work and becomes a protected good in itself.
+
+Professional academic philosophy is what continuance capture looks like at civilizational scale.
+
+![ER\_Object\_Erdtree\_Burial01.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Object_Erdtree_Burial01.webp)
+
+Its archive was built to preserve instruments of thought.
+
+Its canon was built to orient inheritance.
+
+Its departments were built to teach, test, extend, and sometimes reject those instruments.
+
+Then, preservation became sacred.
+
+The inherited body became the discipline's sovereign object.
+
+A specialist class formed around keeping every recognized organ professionally alive.
+
+New work became legitimate by attaching itself to the unkillable body.
+
+Old questions became territories.
+
+Old names became jurisdictions.
+
+The institution acquired an almost unlimited capacity to produce new material while remaining structurally unable to let **anything** finish.
+
+This article audits that institution as what it is.
+
+The target is specifically professionalized academic philosophy, especially the departments, journals, graduate pipelines, prestige systems, curricular boundaries, and "interpretive authorities" that claim the power to decide what counts as philosophy.
+
+To be clear: many philosophers are sincere, generous, brave, creative, and _painfully_ aware of the problem here. Many papers are pivotal. Historical scholarship is very important. Logic is important. Translation matters. Archives matter. The difficult texts are important. Apprenticeship matters.
+
+Philosophy continues to produce real concepts, arguments, criticisms, formal systems, and public goods.
+
+The charge here is much more severe than the claim that "nothing new ever happens around here."
+
+> Academic philosophy can produce endless new philosophical material while remaining completely unable to build, recognize, or release new philosophical instruments.
+
+Its content changes.
+
+Its operating form survives.
+
+That is the shape of the immortal corpus.
+
+* * *
+
+## **The Body.**
+
+_Corpus_ means body.
+
+This is already suspiciously helpful.
+
+![504387092\_2957581161109457\_5532010655185055760\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/504387092_2957581161109457_5532010655185055760_n.jpg)
+
+A body of work can preserve continuity across time. It lets later minds encounter arguments they did not invent, mistakes they did not have to repeat, and conceptual structures too large for one lifetime.
+
+Human thought needs memory. A civilization that burns every old map does not become free. It becomes lost with confidence.
+
+The archive is therefore good technology.
+
+The **canon** is so much more dangerous.
+
+A canon selects which inherited objects receive sustained attention, curricular protection, translation, institutional reproduction, and the presumption of continuing relevance.
+
+Selection is unavoidable.
+
+No student can read everything. No department can teach every tradition. No civilization ever carries its whole memory at full resolution.
+
+The problem arrives when selection hardens into **jurisdiction**.
+
+> **An immortal corpus is an inherited body of thought whose continued interpretation, institutional relevance, and specialist maintenance have become ends in themselves.**
+
+A canon can preserve memory.
+
+An immortal corpus turns memory into jurisdiction.
+
+The distinction is incredibly simple.
+
+-   Memory says: this instrument existed; learn what it could see.
+-   Jurisdiction says: the next question must pass through this instrument before it may count.
+
+Memory keeps the dead available.
+
+Jurisdiction gives the dead voting rights they do not deserve.
+
+Academic philosophy has spent centuries building a senate whose members cannot ever retire, cannot lose reelection, and cannot be asked whether their district **still even fucking exists**.
+
+The result is an incredibly strange temporal constitution.
+
+A living thinker may encounter a new field condition: artificial intelligence, climate engineering, mass social media, synthetic biology, global supply chains, neurotechnology, ecological collapse, algorithmic governance, machine-mediated intimacy, or some other piece of reality with the indecency to arrive after the syllabus was finalized.
+
+The institutional reflex is often genealogical well before it is operational.
+
+-   Wow. [What would Aristotle say](https://modalpathethics.com/what-about-macintyre/)?
+-   So where does Kant fit?
+-   Is this already in [Heidegger](https://modalpathethics.com/heidegger-sorge-and-care/), maybe?
+-   Which line of [Marx](https://modalpathethics.com/applied-case-the-communist-manifesto/), Wittgenstein, Hegel, Foucault, Rawls, [Deleuze](https://modalpathethics.com/gilles-deleuze-and-modal-path-ethics/), Aquinas, Nietzsche, Confucius, Nāgārjuna, or whoever else has been granted permanent committee status can authorize the first move?
+
+These questions can reveal real structure.
+
+Old thinkers remain useful because it turns out reality has continuities and human confusion repeats itself with outstanding reliability.
+
+Still, usefulness does not create **permanent jurisdiction**.
+
+![Screenshot 2026-07-13 041222.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Screenshot-2026-07-13-041222.png)
+
+A hammer designed centuries ago may remain excellent.
+
+That does not mean every new bridge must now begin by **proving its descent from the hammer's inventor**.
+
+That would clearly be **fucking insane**.
+
+Except academic philosophy increasingly behaves as though ancestry were part of extant validity.
+
+A new concept **must** locate its lineage. A new argument **must** position itself in a literature. A new practice **must** explain which established debate it contributes to. A new field instrument **must** first become an interpretation of an old field instrument or a paper in our format about why it counts as philosophy to the priesthood.
+
+Novelty pays an insane ancestry tax.
+
+And that tax protects memory at first.
+
+But then, pretty soon, it begins selecting against forms of thought that do not naturally arrive with institutionally recognized grandparents.
+
+This is how a discipline can become very good at expansion and very bad at birth.
+
+Everything new is admitted as another organ of the old sacred body. Nothing is allowed to become a different animal, and this priesthood has already decided which parents even existed.
+
+The problem here should have been **incredibly obvious**.
+
+* * *
+
+## **The Immortality Economy.**
+
+Academic philosophy rarely speaks openly about immortality.
+
+This would be as embarrassing as what they are really doing.
+
+![elden-ring-how-to-beat-godrick-the-grafted-guide-6.large.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/elden-ring-how-to-beat-godrick-the-grafted-guide-6.large.jpg)
+
+It prefers much more professional terms:
+
+-   contribution;
+-   impact;
+-   influence;
+-   citation;
+-   legacy;
+-   school;
+-   interpretation;
+-   the view associated with one's name.
+
+Except the structure is still there.
+
+A successful professional contribution attaches a name to a distinction, problem, objection, position, interpretation, or vocabulary strongly enough that later scholars may have to cite the name to enter the territory.
+
+The publication becomes a small immortality technology.
+
+> **This does not require every philosopher to be privately vain.**
+
+The institution does not need a conspiracy of narcissists carrying tiny busts of themselves through the hallway.
+
+Sincere people can reproduce this machine perfectly well. It only needs the locally rational choices to align.
+
+-   Teach the recognized figure because students need the background.
+-   Publish the new interpretation because the literature already has readers and referees.
+-   Defend the continuing importance of the question because one's expertise lives there.
+-   Train the next specialist because the archive requires competent maintenance.
+-   Explain why the apparent refutation leaves a deeper version unresolved.
+-   Keep the course, conference, journal section, and hiring line alive.
+-   Never hold the funeral.
+
+Each move can make sense from inside the field.
+
+The aggregate becomes a kingdom of wannabe-immortals because the route to professional survival trains everyone to leave a citable ghost.
+
+![is-grafting-ever-explained-v0-eoskbyh7khw81.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/is-grafting-ever-explained-v0-eoskbyh7khw81.webp)
+
+The greed involved is far wider than simple money.
+
+It is **jurisdictional greed**: the desire of an instrument, literature, department, or specialist class to _retain authority over the field that once made it useful_.
+
+Money still matters.
+
+Jobs matter. Grants matter. Enrollment matters. Institutional budgets matter.
+
+But professional philosophy is economically marginal enough that money alone cannot explain its afterlife machinery.
+
+**Prestige** is a currency.
+
+**Recognition** is a currency.
+
+**Citation** is a currency.
+
+**Pedigree** is a currency.
+
+**The right to define seriousness** is a currency.
+
+Inside this economy, irrelevance functions as death.
+
+A problem that no longer matters leaves less professional territory behind. A vocabulary absorbed into ordinary competence stops generating attribution.
+
+So a successful instrument threatens the name attached to it by making the name unnecessary.
+
+A philosopher may possess very little money and still hold a very valuable territorial claim inside the corpus.
+
+That claim says that anyone entering this problem must pass through these names, this vocabulary, this dispute, this authorized history, and the people professionally trained to interpret it.
+
+That is an aristocratic resource.
+
+The corpus protects it by converting every threat into material.
+
+-   A critic of Kant becomes more Kant scholarship.
+-   A rejection of metaphysics becomes a metaphysical position.
+-   An attack on disciplinary boundaries becomes a literature on disciplinary boundaries.
+-   A claim that philosophy should abandon the paper becomes a paper.
+-   An attempt to escape the corpus becomes one more item in the corpus.
+
+The immortal corpus eats its own fucking obsolescence to survive.
+
+It can survive radical content because radical content still arrives in the authorized container.
+
+A conclusion may be revolutionary. The method of admission remains conservative.
+
+Write the paper. Cite the dead.
+
+Anticipate the referee.
+
+Enter our great body.
+
+* * *
+
+## **The House Philosophy Helped Build.**
+
+Philosophy did not single-handedly invent the university. My earlier article veered dangerously close to such a claim.
+
+The university emerged through several institutional lineages, disciplines, religious structures, legal corporations, schools, translation movements, and political arrangements.
+
+Medieval universities organized arts, theology, law, and medicine in different forms. Their intellectual worlds were also full of censorship, hierarchy, exclusion, doctrinal pressure, and every other familiar human method for ruining a good instrument.
+
+Still, philosophy belonged to the load-bearing architecture.
+
+![Shadow-of-the-Erdtree-Scadutree-Avatar-Boss-Guide-Featured-Image-1536x864.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Shadow-of-the-Erdtree-Scadutree-Avatar-Boss-Guide-Featured-Image-1536x864.jpg)
+
+The medieval arts curriculum placed grammar and logic near the foundation of higher learning.
+
+University philosophy developed through commentary, disputation, questions, sophisms, and other practices that treated thought as an activity performed under structured pressure. The historical repertoire was much wider than the modern paper pipeline now suggests. The [history of medieval philosophy](https://plato.stanford.edu/entries/medieval-philosophy/?ref=modalpathethics.com) and its [literary forms](https://plato.stanford.edu/entries/medieval-literary/?ref=modalpathethics.com) preserve a world where philosophy could move through commentary, dialogue, allegory, disputed questions, quodlibets, obligationes, and forms whose structure carried part of the thought.
+
+[Modal Path Ethics has already called many surviving texts the post-game logs of older philosophical play](https://modalpathethics.com/why-chirality-games-and-the-lost-ludic-tradition/).
+
+Philosophy did not "invent the university", but it helped furnish the university with the machinery through which the university could argue with itself.
+
+Then, philosophy became one of the institution's most obedient internal markets.
+
+That reversal should be fucking humiliating.
+
+The discipline that taught generations to ask what knowledge is, what value is, what justice is, what a person is, what a reason is, and what institutions are for eventually found itself inside an academy asking a simpler question:
+
+> What do you produce?
+
+**Philosophy should have interrogated the motherfucking question.**
+
+But it was too embarassed. Too small. It completed the application instead.
+
+It learned to answer in outputs.
+
+-   Articles.
+-   Books.
+-   Citations.
+-   Placements.
+-   Grants.
+-   Conferences.
+-   Student credit hours.
+-   Professional visibility.
+-   Recognized contribution to a recognized literature.
+
+The institution asked philosophy to make itself legible to administrative and market instruments.
+
+Philosophy responded to this by turning those instruments inward.
+
+The discipline charged with auditing value allowed the university to **define value for it**.
+
+This is what it means to say philosophy was shamed into destroying itself.
+
+This is what it means to say "philosophy is dead."
+
+The accusation of uselessness entered philosophy from outside and reorganized it from within.
+
+The field learned that it had to prove seriousness through professional form, productivity, technical specialization, and visible contribution to an academic economy.
+
+It **could have answered** that usefulness was already the wrong selecting cut.
+
+It **could have** defended public conceptual work, existential orientation, intellectual play, civic argument, disciplined doubt, ethical formation, metaphysical courage, and the construction of new instruments for fields nobody yet knew how to read.
+
+Instead, it became professionally useful to the pipeline. Fantastic.
+
+* * *
+
+## **The Market-Pipeline Academy.**
+
+[Balancing the Broken Meta of Academic Philosophy](https://modalpathethics.com/balancing-academic-philosophy/) already described the shitty gameplay.
+
+The evidence is not hidden.
+
+[Johns Hopkins describes a graduate proseminar that trains students to research and write for publication in top philosophy journals, followed by seminars preparing them for academic and non-academic job markets](https://philosophy.jhu.edu/graduate/?ref=modalpathethics.com). [Northwestern publishes a professionalization timeline running through the later years of the doctorate](https://philosophy.northwestern.edu/graduate/professionalization-timeline.html?ref=modalpathethics.com). Departments elsewhere describe seminar papers, dissertation formation, conference presentation, fellowship applications, publication, placement, and market readiness with similar openness.
+
+None of these activities is individually corrupt. That should be clear.
+
+Students deserve training. They deserve funding, supervision, job preparation, publication guidance, and honest support in a brutal employment field.
+
+A department that abandons students to professional mystery has not preserved philosophical purity. It has exported the burden onto people with less power.
+
+The distortion lies in dominance.
+
+The secondary systems for managing the profession have become _the primary systems for forming the philosopher_.
+
+The core loops now look like this:
+
+-   learn the literature;
+-   identify the contribution gap;
+-   build a defensible claim;
+-   anticipate objections;
+-   satisfy the genre;
+-   publish the artifact;
+-   convert the artifact into professional survival;
+-   train others to repeat the process.
+
+The student enters a degenerate pipeline whose most legible output is another person capable of maintaining the same goddamned pipeline.
+
+This is a market even where direct profit is thin.
+
+The scarce goods are positions, publication slots, recommendation strength, institutional affiliation, conference invitations, prestige, security, attention, and the right kind of time.
+
+The product is authorized philosophical material.
+
+So any amount of honest analysis should quickly reveal that _this_ market's deepest selection pressure is legibility to the market itself.
+
+A risky new instrument is hard to evaluate. A paper positioned inside an existing literature is much easier.
+
+A public practice that changes how a community reasons may be philosophically profound and professionally awkward. A narrow article with recognizable citations can be reviewed, ranked, filed, and counted.
+
+So, the pipeline therefore selects for the most countable residue.
+
+It selects **against** the event that produced the residue.
+
+![1920x1080-vtime10\_14-take2022-03-24-07-26-31.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg)
+
+A seminar paper can **record** philosophical discovery. Over time, the institution begins treating the record as the discovery.
+
+A journal article can stabilize an argument. Over time, the institution begins treating the article as the natural body of philosophy.
+
+A credential can certify apprenticeship. Over time, the credential begins deciding who is allowed to appear as a philosopher.
+
+The paper becomes the corpse on which the profession performs life signs. This is how a discipline can be full of intelligent motion and still fail to advance anywhere.
+
+**Advancement** requires more than accumulated propositions. It requires new ways of seeing, testing, practicing, transmitting, and releasing philosophical capacity.
+
+This pipeline is excellent at producing additions.
+
+It is _**fucking terrible**_ at permitting succession.
+
+* * *
+
+## **The Aristocracy of Time.**
+
+The walls of this little kingdom are made of time.
+
+Academic philosophy often presents its corpus as publicly available.
+
+The books can be bought. Many papers can be downloaded. Lectures are online. Libraries exist. Anyone may begin.
+
+Technically true. I was willing to do this.
+
+A city is also _technically_ walkable if the sidewalk ends every two hundred feet but the pedestrian is willing to climb a drainage ditch full of rabid hounds.
+
+![487872517\_9037565559681886\_390765732002225693\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/487872517_9037565559681886_390765732002225693_n.jpg)
+
+**Access** is a path through reality, not a permission statement.
+
+The professional corpus requires years of protected attention, institutional libraries, specialist language, intellectual socialization, confidence inside adversarial rooms, familiarity with inherited disputes, and enough material stability to survive the route before one's speech becomes audible.
+
+A free PDF does not create a public discipline when the reader needs years, mentorship, no immediate crisis, and a map of several hundred inherited feuds before the institution claiming "access" will recognize the reader as serious.
+
+Real difficulty exists here.
+
+Logic can be very difficult. Historical reconstruction can be difficult. Languages can be difficult. Archives can be difficult. Metaphysics can be difficult. Some distinctions do require long apprenticeship because reality is under no obligation to become simple for an audience.
+
+So difficulty can justify training.
+
+It absolutely **cannot** justify feudal ownership of human thought.
+
+The institutional route also demands resources _completely unrelated_ to philosophical capacity.
+
+The [Blog of the American Philosophical Association has documented the barriers faced by first-generation and low-income philosophers](https://blog.apaonline.org/2020/03/10/philosophy-and-socioeconomic-status-unmasking-problems-and-sparking-conversations/?ref=modalpathethics.com): application costs, relocation assumptions, delayed reimbursements, conference travel, stipend negotiation, class-coded social knowledge, caregiving conflict, and the expectation that participants can carry expenses until the institution decides to return the money.
+
+These are not side inconveniences. They are clearly not neutral.
+
+These are active selection instruments.
+
+This field filters for people who can survive long uncertainty, low control, deferred stability, professional migration, [narrow employment odds](https://blog.apaonline.org/2023/02/27/doctoral-program-attrition/?ref=modalpathethics.com), and the emotional demand to treat all of this shit as evidence of devotion to the field.
+
+It also filters for institutional temperament.
+
+-   Comfort with the approved prose.
+-   Patience with long feedback loops.
+-   Willingness to subordinate live questions to literature positioning.
+-   Ability to convert confusion into a defensible thesis before the confusion has finished teaching.
+-   Tolerance for prestige rituals.
+-   Skill at sounding unthreatening to the right gatekeepers while also sounding original enough to count.
+
+Then the institution looks at the survivors and calls the result rigor.
+
+This aristocracy does not primarily protect philosophy from the public.
+
+It protects the right of the special chosen few to certify what philosophy is.
+
+It is deeply fucking shameful and backwards.
+
+Work outside their kingdom is repeatedly denied citizenship.
+
+-   A community develops a practice for resolving conceptual conflict: sociology spotted.
+-   A designer builds an interface that changes how people perceive agency: design, doesn't count.
+-   A game makes a moral topology playable: just entertainment.
+-   A therapist develops a disciplined account of self, responsibility, and repair: psychology, go away.
+-   A religious tradition trains attention, humility, metaphysical orientation, and moral formation: theology or religious studies, do not touch our corpus.
+-   A programmer builds a formal environment in which reasoning can be tested: computer science, Heidegger never spoke of this.
+-   An organizer discovers a new structure of power through practice: activism.
+-   A novelist makes a category visible that argument had failed to stabilize: that's not philosophy. That's just literature.
+
+All of these classifications may be locally useful.
+
+The problem appears when the philosophy department treats classification as deportation.
+
+Philosophical work always continues everywhere, whether your institution approves or understands it or not.
+
+* * *
+
+## **New Material, No New Tools.**
+
+Academic philosophy has produced genuine novelty.
+
+Formal logic changed. Philosophy of science changed. Feminist philosophy changed the field. Critical race philosophy changed the field. Experimental philosophy, conceptual engineering, philosophy of technology, bioethics, public philosophy, philosophy of disability, renewed engagement with long-excluded traditions, and many other movements have opened questions, corrected exclusions, and built serious new material.
+
+So clearly any claim that philosophy has simply repeated the same propositions for centuries would be lazy and false.
+
+The deeper failure concerns the operational form through which novelty becomes recognizable.
+
+A new proposition is not automatically a new instrument.
+
+A new interpretation is not automatically a new instrument.
+
+A new subfield is not automatically a new instrument.
+
+An **instrument** changes what a mind, group, or institution can perceive and do. It may be a distinction, but it may also be a procedure, a game, a ritual, an interface, a software environment, a method of disputation, an institutional design, a public practice, a map, a test, a protocol, a form of attention, or a structure for collaborative inquiry.
+
+The dominant professional system can accept these objects only after they have been converted into papers about themselves.
+
+That idiotic demand is the obvious problem.
+
+-   The game becomes philosophy when a paper explains the game in terms the priests can bother to read.
+-   The protocol becomes philosophy when a paper locates it in the sacred literature.
+-   The public practice now becomes philosophy when a credentialed interpreter extracts a theory from it. It was just sociology before, of course.
+-   The software becomes philosophy when someone publishes on its implications in a way the gatekeeper can begin to almost understand.
+-   The community's conceptual discovery becomes philosophy after the academy cites it correctly.
+
+The artifact receives legitimacy through commentary.
+
+The field event that made the artifact possible remains outside philosophy. The only outside relation is more extraction.
+
+This is why academic philosophy cannot put down centuries-old tools even when the present field demands something new.
+
+The old tools are attached to their recognition system. A paper knows how to enter peer review. A lineage knows how to enter a syllabus. A named position knows how to enter a hiring area.
+
+A new instrument arrives without the right organs.
+
+So the institution performs an assimilation. It turns the new instrument into literature about the old.
+
+This is how radical thought becomes professionally safe enough to die. This is how philosophy kills philosophy.
+
+The conclusion can attack everything.
+
+The operating form still protects the divine corpus.
+
+The critic publishes against the corpus.
+
+The archive expands. The immortal kingdom of priests survives.
+
+* * *
+
+## **The Dead Have Fucking Voting Rights.**
+
+The canon problem is often framed as a question of membership.
+
+> Which thinkers were excluded?
+
+> Which traditions were erased?
+
+> Which languages were ignored?
+
+> Which populations were treated as incapable of philosophy until a university department discovered them?
+
+> Which lineages were admitted only as history, anthropology, religion, literature, or area studies while a narrower European inheritance received the sacred title of "philosophy"?
+
+These are all real repair questions.
+
+A canon that **erased whole civilizations of thought** requires aggressive correction, not eternal worship by a priesthood.
+
+Translation requires support. Excluded traditions require institutional space, living teachers, curricular authority, and protection from being turned into decorative diversity around the same old center.
+
+Still, an expanded immortal corpus can remain immortal. This doesn't solve the core problem here.
+
+Adding more dead philosophers to the corpse senate does not return sovereignty to the living field.
+
+The deepest question concerns **jurisdiction**.
+
+How much authority should any inherited thinker possess over a problem that has changed beyond the thinker's world?
+
+How many generations must a new concept spend proving that it is secretly an old concept before it may finally stand under its own name?
+
+When does a tradition become a resource rather than a border checkpoint?
+
+When does commentary complete its work?
+
+When may the living say:
+
+> We learned from this. We are going somewhere else now. Goodbye.
+
+Academic philosophy has poor funeral practices because its prestige economy is entirely built from continuing relevance.
+
+A thinker losing relevance can look like a failure of scholarship.
+
+A question closing can look like a loss of territory.
+
+A vocabulary being absorbed into ordinary competence can look like disappearance rather than success.
+
+So every important thinker remains important. Every debate remains open at some deeper level. Every literature waits for one more intervention.
+
+No one dies.
+
+Nothing ever finishes.
+
+Today is always yesterday, forever.
+
+The living inherit a room already full of permanent voters.
+
+* * *
+
+## **Priesthood With Zero Service.**
+
+Calling academic philosophers "priests" can become a cheap insult very quickly.
+
+That insult would be to religion. Religion does not deserve to function as our universal metaphor for intellectual corruption.
+
+Sacred traditions can preserve care, grief, humility, discipline, repentance, ritual, memory, community, beauty, obligation, and contact with realities ordinary appetite would prefer to ignore. [Modal Path Ethics has already argued that a sacred instrument becomes dangerous when it loses its correction paths](https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/). The sacred form itself is not the pathology.
+
+That makes the comparison worse for academic philosophy.
+
+Professional philosophy openly retained **many** priestly structures while abandoning much of the service that could ever justify them.
+
+-   A canon.
+-   A clerisy.
+-   Ordination through credential.
+-   Sanctioned lineages.
+-   Authorized commentary.
+-   Heresies and boundary disputes.
+-   Sacred names.
+-   Institutional custody of difficult texts.
+-   A promise that specialist training grants access to deeper reality.
+-   A route by which the interpreter may survive through the interpreted object.
+
+Then, the discipline withdrew from much of the **sacred burden**.
+
+Death.
+
+Grief.
+
+Transcendence.
+
+Moral formation.
+
+Ritual.
+
+Belonging.
+
+Ecstasy.
+
+Metaphysical terror.
+
+Ultimate obligation.
+
+The need to place a life inside something larger without surrendering that life to a sovereign answer-channel.
+
+Philosophers still work on all of these subjects. Philosophy of religion exists. Existential philosophy exists. Ethics exists. Traditions of philosophy as a way of life exist. Public philosophers, chaplains, clergy, therapists, teachers, organizers, and ordinary people carry philosophical work into these fields every day.
+
+Except, the dominant academic form still tends to receive the sacred as an object.
+
+It can analyze arguments about God while leaving the person who needs a practice of discernment to someone else, wherever that is.
+
+It can classify theories of death while leaving the dying to another institution to handle.
+
+It can debate moral responsibility while treating moral formation as simple pedagogy, psychology, religion, or self-help.
+
+It can write about meaning while regarding the public need for meaning as intellectually embarrassing.
+
+This is priesthood without service. This is unearned.
+
+The institution preserved the robes of interpretive authority and outsourced the human work that once made such authority answerable.
+
+The sacred slack remained.
+
+Human beings did not stop needing orientation because the philosophy department became uncomfortable with supplying it.
+
+Technical modernity did not dissolve metaphysical hunger. Secularization did not make grief procedural. Scientific literacy did not eliminate the desire for revelation, belonging, purification, destiny, transcendence, and a world whose suffering means something.
+
+So other instruments entered the field to fill the gap.
+
+Some were religious traditions performing real care.
+
+Some were markets selling identity.
+
+Some were political mythologies.
+
+Some were nationalist cults, conspiratorial systems, therapeutic empires, wellness machines, charismatic movements, apocalyptic communities, and private answer-channels with no correction path back to reality.
+
+Academic philosophy observed and commented on many of these from a safe disciplinary altitude.
+
+The hunger just kept moving below.
+
+* * *
+
+## **The Subway Oracle.**
+
+Aum Shinrikyo is evidence here.
+
+It is not philosophy's direct crime.
+
+![会見するオウム真理教の麻原彰晃ら.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/------------------------------------------------.jpg)
+
+Philosophy did not cause Aum. A more accessible philosophy department would not have inoculated Japan against Shoko Asahara. No seminar on epistemology could have guaranteed that a wounded person, frightened society, or ambitious technical expert would resist a charismatic apocalyptic system.
+
+The case proves something narrower and harder to avoid.
+
+Technical modernity did not dissolve sacred need.
+
+Aum recruited highly trained graduates and specialists from leading universities, including people educated in medicine, chemistry, physics, architecture, engineering, artificial intelligence, and other technical fields. A 1995 United States Senate staff report described the movement's success among young intellectuals and technically trained recruits, including a science ministry with skilled scientists involved in sarin production. The [report's account of Aum's operation](https://irp.fas.org/congress/1995_rpt/aum/part04.htm?ref=modalpathethics.com) reads like a warning about technical competence placed downstream of a sovereign oracle.
+
+In 1995, Aum members released sarin in the Tokyo subway, killing commuters and injuring thousands. The movement had built a chemical-weapons facility designed by cult engineers and had recruited scientists and engineers into an apocalyptic structure organized around Asahara's authority. The [Centers for Disease Control and Prevention's historical account](https://wwwnc.cdc.gov/eid/article/5/4/99-0409_article?ref=modalpathethics.com) describes a shrine that housed a chemical production facility capable of work far beyond a private devotional practice.
+
+This is the sacred slack in operational form.
+
+Educated people still needed metaphysical orientation, community, discipline, destiny, purification, and contact with a reality larger than professional life.
+
+Their technical training supplied no automatic protection. Expertise in chemistry did not tell them which authority deserved obedience. Engineering could build the apparatus. It could not decide what the apparatus was for.
+
+Aum answered the sacred question with a sovereign instrument.
+
+The instrument could not be corrected by the field.
+
+The world could object only as enemy, impurity, persecution, or evidence that the prophecy was approaching fulfillment.
+
+Academic philosophy was discussing transcendence as an inherited object while the oracle was building an operational interface for it in reality.
+
+That sentence does not make philosophy responsible for sarin.
+
+It identifies an abandoned field of work.
+
+Philosophy did not need to become a church.
+
+It did not need to promise salvation, invent rituals for everyone, or compete with living religious traditions for custody of the sacred.
+
+It needed to remain publicly available to the questions that make people vulnerable to bad answers.
+
+-   How should revelation be tested?
+-   What makes an authority corrigible?
+-   How does a community distinguish discipline from capture?
+-   When does transcendence deepen contact with reality?
+-   When does it protect the answer-channel from reality?
+-   How can a person carry metaphysical hunger without surrendering agency?
+-   What practices keep sacred experience answerable to harmed bodies, ordinary care, dissent, and the visible condition of the field?
+
+These are philosophical questions.
+
+The kingdom treated them as specialist territory, historical material, or someone else's pastoral problem.
+
+Bad instruments did not wait for peer review. The field paid.
+
+* * *
+
+## **The Disappearance Test.**
+
+[Modal Path Ethics Is Doomed](https://modalpathethics.com/modal-path-ethics-is-doomed/) proposed a disappearance test for any instrument tempted to make its own continuation sacred.
+
+Academic philosophy should take the test at once.
+
+-   Can a philosophical instrument complete its work?
+-   Can a concept become ordinary competence and lose its proper name?
+-   Can a canonical thinker lose jurisdiction without being erased from memory?
+-   Can a literature conclude?
+-   Can a problem close strongly enough that the specialist class moves on?
+-   Can a better instrument enter without first proving itself as commentary on the old one?
+-   Can a game, protocol, public practice, software system, ritual, or institutional experiment count as philosophy before a paper authorizes it?
+-   Can a community gain philosophical capacity without becoming dependent on philosophers?
+-   Can translation into another vocabulary count as successful transmission?
+-   Can a philosopher succeed by making their own name unnecessary?
+-   Can the archive remain while the dependency ends?
+-   Can reality tell the discipline that its work here is finished?
+
+The dominant institution fails too many of these questions.
+
+It creates specialists whose positions depend upon continued command of the corpus. It treats translation as loss of rigor. It treats departure as ignorance. It treats supersession as a new interpretive problem. It treats the disappearance of a named framework as a failure of influence rather than a successful handoff.
+
+This is continuance capture.
+
+The corpus does not need every member to consciously protect it.
+
+Its structure protects itself.
+
+-   The hiring area protects the literature.
+-   The literature protects the course.
+-   The course protects the specialist.
+-   The specialist protects the interpretive object.
+-   The interpretive object protects the canon.
+-   The canon protects the claim that philosophy lives here.
+
+The loop can continue after the work has died. It has no reason to ever stop.
+
+That is the second death described in **Modal Path Ethics Is Doomed**: the instrument survives as vocabulary, identity, territory, and liturgy while its perceptual function disappears.
+
+Academic philosophy has already built the prototype for us.
+
+* * *
+
+## **A Funeral != a Bonfire.**
+
+The immortal corpus does not need to be burned in an alleyway.
+
+![Screenshot 2026-07-13 042707.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Screenshot-2026-07-13-042707.png)
+
+It needs to lose sovereignty.
+
+Keep the archive.
+
+Keep the translations.
+
+Keep Aristotle, Plato, Confucius, Nāgārjuna, Ibn Sīnā, Maimonides, Aquinas, Kant, Hegel, Marx, Nietzsche, Du Bois, Wollstonecraft, Arendt, Fanon, Beauvoir, Wittgenstein, Anscombe, Williams, and every other thinker whose work still teaches something real.
+
+Recover the thinkers the older canon excluded.
+
+Preserve difficult disagreements.
+
+Teach the history honestly, including the institutions, empires, religions, exclusions, languages, bodies, and material conditions that made the texts possible.
+
+Then, _**remove the motherfucking throne**_.
+
+The dead may teach.
+
+**They may not own the next question.**
+
+A **living** philosophy would treat inherited texts as instruments available for use, criticism, adaptation, and retirement.
+
+It would treat papers as records of inquiry rather than the ontology of inquiry.
+
+It would recognize philosophical work in games, software, institutions, rituals, public practices, collaborative maps, scientific methods, artistic forms, community disciplines, and new interfaces for thought.
+
+It would build more paths into philosophical work than the long credential corridor.
+
+It would reward translation that lets the source name disappear.
+
+It would permit literatures to end.
+
+It would treat the public acquisition of capacity as a philosophical success, even when no one receives a permanent job from it.
+
+It would ask whether an idea changed the field before asking whether it entered the journal.
+
+It would let philosophy happen outside philosophy departments without rushing to annex it.
+
+The academy could participate in that field.
+
+But it would have to surrender its monopoly first.
+
+That surrender would not destroy philosophy.
+
+It would destroy the kingdom's exclusive claim to the name.
+
+# Good.
+
+A living practice does not need a palace to prove it is fucking alive.
+
+It just lives.
+
+* * *
+
+## **The Ruling.**
+
+Academic philosophy is dead wherever the corpus matters more than the field.
+
+It is dead wherever preserving the recognized body outranks building the next instrument.
+
+It is dead wherever a question must pay tribute to ancestry before it may answer reality.
+
+It is dead wherever professional survival depends upon keeping every literature open, every name relevant, every territory staffed, and every superseding practice outside the border until commentary domesticates it.
+
+The archive was supposed to preserve instruments.
+
+The institution made preservation sacred.
+
+It trained a clerisy to maintain the body, charged admission to the commentarial kingdom, selected for people with the time and institutional temperament to survive the route, and called the enclosure rigor.
+
+Then it accepted the market pipeline as the price of seriousness.
+
+Then it left the sacred burden to whoever was willing to pick it up.
+
+Then it wondered why the public found philosophy irrelevant while continuing to build careers around the permanent relevance of philosophers who had been dead for centuries.
+
+-   The greed was jurisdiction.
+-   The fear was disappearance.
+
+The result was an immortal corpus with no living authority beyond its own continuation.
+
+Philosophical work continues outside the walls.
+
+It continues wherever people build concepts, arguments, practices, games, interfaces, rituals, institutions, disciplines of attention, and ways of seeing that make previously hidden structure available to the mind.
+
+It continues in religion where sacred practice remains corrigible.
+
+It continues in science where instruments answer to the field.
+
+It continues in art where form carries thought.
+
+It continues in public life wherever a community learns to perceive a problem it could not previously name.
+
+It continues in the academy too, whenever a philosopher risks the corpus to reach reality.
+
+The kingdom preserved the title after surrendering the work.
+
+The priests kept every philosopher alive and let philosophy die.
+
+Philosophy does not need another immortal.
+
+It needs something alive enough to become obsolete.
+
+![ER\_NPC\_Goldmask\_(Forest-Spanning\_Greatbridge)\_(9.16).webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_NPC_Goldmask_-Forest-Spanning_Greatbridge-_-9.16-.webp)
+
+
+<!-- ARTICLE_END slug="the-immortal-corpus" -->
 
 
 <!-- ARTICLE_START slug="tales-of-distortion-the-climbing-target" title="Tales of Distortion: The Climbing Target" published_at="2026-07-13T05:45:41.000-05:00" -->
@@ -15,7 +902,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -1855,7 +2742,7 @@ tags:
   - "SEAM"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -1910,7 +2797,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -2519,7 +3406,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "3c9d9c7845b57ab7a2fd308dff5e4bcee0ab4ce85ff081268425633f9acd179b"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -4843,7 +5730,7 @@ updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -5412,7 +6299,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -6419,7 +7306,7 @@ updated_at: "2026-07-10T05:00:03.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -7036,7 +7923,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -9079,7 +9966,7 @@ updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -9727,7 +10614,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
 ---
 # Simone Weil and the Field Under Force
@@ -10367,7 +11254,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -10908,7 +11795,7 @@ tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -12140,7 +13027,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -12574,7 +13461,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -13207,7 +14094,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -13567,7 +14454,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -14073,7 +14960,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -15325,7 +16212,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -15906,7 +16793,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -16517,7 +17404,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -17744,7 +18631,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -18436,7 +19323,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -19075,7 +19962,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -19605,7 +20492,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -20083,7 +20970,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -20664,7 +21551,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -21352,7 +22239,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -21778,7 +22665,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -22062,7 +22949,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -23878,7 +24765,7 @@ tags:
   - "Field Creature"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -24457,7 +25344,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -24968,7 +25855,7 @@ tags:
   - "Field Instruments"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -25274,7 +26161,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -25801,7 +26688,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -25865,7 +26752,7 @@ updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -25949,7 +26836,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -26054,7 +26941,7 @@ tags:
   - "Patch Notes"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -26344,7 +27231,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -26723,7 +27610,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -27248,7 +28135,7 @@ updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -27397,7 +28284,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -27659,7 +28546,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -27971,7 +28858,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -28539,7 +29426,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -29233,7 +30120,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -29818,7 +30705,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -30731,7 +31618,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -31108,7 +31995,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -31710,7 +32597,7 @@ tags:
   - "Supplement"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -32035,7 +32922,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -32555,7 +33442,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -34276,7 +35163,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
 ---
 # Applied Case: Click (2006)
@@ -34748,7 +35635,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)
@@ -35309,7 +36196,7 @@ updated_at: "2026-06-17T14:51:42.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -40686,7 +41573,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -40785,7 +41672,7 @@ updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -40985,7 +41872,7 @@ updated_at: "2026-06-17T00:40:54.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -41671,7 +42558,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -42004,7 +42891,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -43109,7 +43996,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -44463,7 +45350,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -45525,7 +46412,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -46532,7 +47419,7 @@ updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -46591,7 +47478,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -47253,7 +48140,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -48351,7 +49238,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -49862,7 +50749,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -50236,7 +51123,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -50667,7 +51554,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -50965,7 +51852,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -51454,7 +52341,7 @@ updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -54033,7 +54920,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -54681,7 +55568,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -55151,7 +56038,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -58912,7 +59799,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -59463,7 +60350,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -60186,7 +61073,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -60888,7 +61775,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -63337,7 +64224,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -63811,7 +64698,7 @@ updated_at: "2026-05-26T21:08:30.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
 ---
 # Field Instruments: Accounting
@@ -64174,7 +65061,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -64920,7 +65807,7 @@ updated_at: "2026-07-08T18:08:17.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -69706,7 +70593,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
 ---
 # Applied Case: The TempleOS
@@ -70271,7 +71158,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -70838,7 +71725,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -71259,7 +72146,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -71778,7 +72665,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -72320,7 +73207,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -72581,7 +73468,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -73154,7 +74041,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -74369,7 +75256,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -74656,7 +75543,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -75076,7 +75963,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -75591,7 +76478,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -76447,7 +77334,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -77100,7 +77987,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -77859,7 +78746,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -78725,7 +79612,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -79288,7 +80175,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -79520,7 +80407,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -80006,7 +80893,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -80251,7 +81138,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -81090,7 +81977,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -81403,7 +82290,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -81760,7 +82647,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -81996,7 +82883,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -82655,7 +83542,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -83279,7 +84166,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -83566,7 +84453,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -83809,7 +84696,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -84031,7 +84918,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -84453,7 +85340,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -85172,7 +86059,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -85585,7 +86472,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -85864,7 +86751,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -86225,7 +87112,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -86420,7 +87307,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -86845,7 +87732,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -87280,7 +88167,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -87373,7 +88260,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -91215,7 +92102,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -91750,7 +92637,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -91985,7 +92872,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -92206,7 +93093,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -92417,7 +93304,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -92530,7 +93417,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -92805,7 +93692,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -93102,7 +93989,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -93346,7 +94233,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -93551,7 +94438,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -93680,7 +94567,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -93821,7 +94708,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -93930,7 +94817,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -94047,7 +94934,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -94182,7 +95069,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -94273,7 +95160,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -94398,7 +95285,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -94527,7 +95414,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -94632,7 +95519,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -94745,7 +95632,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -94910,7 +95797,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -95055,7 +95942,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -95184,7 +96071,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -95273,7 +96160,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -95344,7 +96231,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -95483,7 +96370,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -95635,7 +96522,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -96245,7 +97132,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -96390,7 +97277,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -96470,7 +97357,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -96923,7 +97810,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -97214,7 +98101,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -97749,7 +98636,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -98225,7 +99112,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -98460,7 +99347,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -98801,7 +99688,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -99098,7 +99985,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -99873,7 +100760,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -100022,7 +100909,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -100153,7 +101040,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -100460,7 +101347,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -101082,7 +101969,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -101219,7 +102106,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -101342,7 +102229,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -101468,7 +102355,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -101697,7 +102584,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -101926,7 +102813,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -102357,7 +103244,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -102482,7 +103369,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -102655,7 +103542,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -102975,7 +103862,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -103434,7 +104321,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T08:39:37.178Z"
+mirror_generated_at: "2026-07-14T14:26:15.674Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th
