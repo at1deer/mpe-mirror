@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 15 Jul 2026 08:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:23:47 GMT</lastBuildDate>
     
+    <item>
+      <title>Failed Field Analysts: Savonarola and the Purity Machine</title>
+      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html</guid>
+      <pubDate>Wed, 15 Jul 2026 10:30:34 GMT</pubDate>
+      <description>He saw the rot and took fire for medicine.</description>
+    </item>
+
     <item>
       <title>Transition Action: The Sensor Cleans Itself</title>
       <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-trace-becomes-a-dataset.html</guid>
       <pubDate>Tue, 23 Jun 2026 00:10:30 GMT</pubDate>
       <description>The past is not gone just because it stopped answering normally.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Edge of Tomorrow (2014)</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-edge-of-tomorrow-2014.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-edge-of-tomorrow-2014.html</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:26 GMT</pubDate>
-      <description>Edge of Tomorrow sits on the gentler side of the loop spectrum. It's over there with Bill Murray.</description>
     </item>
   </channel>
 </rss>
