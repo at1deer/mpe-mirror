@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-14T19:52:50.424Z",
+  "generated_at": "2026-07-15T03:46:23.513Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 173,
+  "article_count": 174,
   "articles": [
+    {
+      "title": "Transition Action: The Sensor Cleans Itself",
+      "slug": "transition-action-the-sensor-cleans-itself",
+      "published_at": "2026-07-14T19:44:34.000-05:00",
+      "updated_at": "2026-07-14T19:44:34.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-sensor-cleans-itself/",
+      "excerpt": "A battery-free sweat patch can now regenerate its own molecular sensing surface, induce a fresh sample, and keep monitoring for weeks.",
+      "tags": [
+        "Transition Action",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-sensor-cleans-itself.md",
+      "mirror_html_path": "/articles/transition-action-the-sensor-cleans-itself.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html",
+      "sha256_plaintext": "004a2bf973fdf21adf1eabb0aac532d64b613f1e4be85bcc37c1cf6085169965"
+    },
     {
       "title": "Applied Case: The Immortal Corpus",
       "slug": "the-immortal-corpus",

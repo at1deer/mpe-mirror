@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T19:52:50.424Z"
+mirror_generated_at: "2026-07-15T03:46:23.513Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck

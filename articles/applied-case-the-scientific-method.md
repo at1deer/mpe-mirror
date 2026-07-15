@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T19:52:50.424Z"
+mirror_generated_at: "2026-07-15T03:46:23.513Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method

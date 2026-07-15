@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-14T19:52:50.424Z"
+mirror_generated_at: "2026-07-15T03:46:23.513Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard

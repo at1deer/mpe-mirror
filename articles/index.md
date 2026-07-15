@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-14T19:52:50.424Z
+Generated: 2026-07-15T03:46:23.513Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-14 — [Transition Action: The Sensor Cleans Itself](/articles/transition-action-the-sensor-cleans-itself.md) ([HTML](/articles/transition-action-the-sensor-cleans-itself.html))
 - 2026-07-14 — [Applied Case: The Immortal Corpus](/articles/the-immortal-corpus.md) ([HTML](/articles/the-immortal-corpus.html))
 - 2026-07-13 — [Tales of Distortion: The Climbing Target](/articles/tales-of-distortion-the-climbing-target.md) ([HTML](/articles/tales-of-distortion-the-climbing-target.html))
 - 2026-07-12 — [SEAM: Now Playable](/articles/seam-now-playable.md) ([HTML](/articles/seam-now-playable.html))

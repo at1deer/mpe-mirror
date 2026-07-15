@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 14 Jul 2026 19:52:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:46:23 GMT</lastBuildDate>
     
+    <item>
+      <title>Transition Action: The Sensor Cleans Itself</title>
+      <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</guid>
+      <pubDate>Wed, 15 Jul 2026 00:44:34 GMT</pubDate>
+      <description>A battery-free sweat patch can now regenerate its own molecular sensing surface, induce a fresh sample, and keep monitoring for weeks.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Immortal Corpus</title>
       <link>https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-edge-of-tomorrow-2014.html</guid>
       <pubDate>Mon, 22 Jun 2026 13:00:26 GMT</pubDate>
       <description>Edge of Tomorrow sits on the gentler side of the loop spectrum. It's over there with Bill Murray.</description>
-    </item>
-
-    <item>
-      <title>Roger Penrose and the Reality of Structure</title>
-      <link>https://modal-path-ethics.ghost.io/articles/roger-penrose-and-the-reality-of-structure.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/roger-penrose-and-the-reality-of-structure.html</guid>
-      <pubDate>Mon, 22 Jun 2026 02:04:56 GMT</pubDate>
-      <description>A Modal Path Ethics engagement with mathematics, physical law, and the field beneath the three worlds</description>
     </item>
   </channel>
 </rss>
