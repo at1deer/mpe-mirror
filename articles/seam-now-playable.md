@@ -9,7 +9,7 @@ tags:
   - "SEAM"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-15T03:46:23.513Z"
+mirror_generated_at: "2026-07-15T08:56:58.586Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable

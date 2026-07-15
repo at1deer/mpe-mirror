@@ -3,13 +3,13 @@ title: "Transition Action: The Sensor Cleans Itself"
 slug: "transition-action-the-sensor-cleans-itself"
 canonical_url: "https://modalpathethics.com/transition-action-the-sensor-cleans-itself/"
 published_at: "2026-07-14T19:44:34.000-05:00"
-updated_at: "2026-07-14T19:44:34.000-05:00"
+updated_at: "2026-07-15T03:38:20.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-15T03:46:23.513Z"
-sha256_plaintext: "004a2bf973fdf21adf1eabb0aac532d64b613f1e4be85bcc37c1cf6085169965"
+mirror_generated_at: "2026-07-15T08:56:58.586Z"
+sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
 
@@ -33,6 +33,8 @@ Today, someone is sweating.
 This is much healthier for the series.
 
 In May 2026, researchers at the University of California, Irvine published a wearable sweat-sensing platform in _Nature Biomedical Engineering_. The device is flexible, wireless, battery-free, capable of inducing a local sweat sample, and able to track cortisol, glucose, lactate, and urea (ew) over extended use.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-419.png)
 
 Its full name is the In-Situ Regeneratable, Environmentally Stable, Multimodal, Wireless, Wearable Molecular Sweat Sensing System.
 
@@ -143,7 +145,7 @@ IREM-W2MS3 includes on-demand sweat induction.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-417.png)
 
-A near-field communication reader - either a compatible Android phone or a custom watch-like device - supplies power through an electromagnetic field. The patch uses that small current to activate a biocompatible hydrogel and produce a localized sweat sample. Microfluidic channels then move the sample across the sensing panel.
+A near-field communication reader (either a compatible Android phone or a custom watch-like device) supplies power through an electromagnetic field. The patch uses that small current to activate a biocompatible hydrogel and produce a localized sweat sample. Microfluidic channels then move the sample across the sensing panel.
 
 No onboard battery is required.
 
@@ -155,7 +157,7 @@ The phone or wrist reader becomes temporary power source, controller, data recei
 
 The old workflow waited for the body to generate a convenient sample.
 
-The new workflow can request one.
+The new workflow can request one on demand.
 
 * * *
 
