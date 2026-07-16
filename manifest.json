@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-16T08:56:54.450Z",
+  "generated_at": "2026-07-16T14:35:26.295Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 175,
+  "article_count": 176,
   "articles": [
+    {
+      "title": "Applied Case: The Ever-Brilliant Goldmask",
+      "slug": "applied-case-the-ever-brilliant-goldmask",
+      "published_at": "2026-07-16T06:00:28.000-05:00",
+      "updated_at": "2026-07-16T06:00:27.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-ever-brilliant-goldmask/",
+      "excerpt": "Do you know of the Noble Goldmask? [Spoilers for Elden Ring and Shadow of the Erdtree.]",
+      "tags": [
+        "Applied Case",
+        "Chirality"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-ever-brilliant-goldmask.md",
+      "mirror_html_path": "/articles/applied-case-the-ever-brilliant-goldmask.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.html",
+      "sha256_plaintext": "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
+    },
     {
       "title": "Failed Field Analysts: Savonarola and the Purity Machine",
       "slug": "failed-field-analysts-savonrola-and-the-purity-machine",

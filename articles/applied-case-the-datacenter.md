@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-16T08:56:54.450Z"
+mirror_generated_at: "2026-07-16T14:35:26.295Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter

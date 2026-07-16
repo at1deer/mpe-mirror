@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-16T08:56:54.450Z
+Generated: 2026-07-16T14:35:26.295Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-16 — [Applied Case: The Ever-Brilliant Goldmask](/articles/applied-case-the-ever-brilliant-goldmask.md) ([HTML](/articles/applied-case-the-ever-brilliant-goldmask.html))
 - 2026-07-15 — [Failed Field Analysts: Savonarola and the Purity Machine](/articles/failed-field-analysts-savonrola-and-the-purity-machine.md) ([HTML](/articles/failed-field-analysts-savonrola-and-the-purity-machine.html))
 - 2026-07-14 — [Transition Action: The Sensor Cleans Itself](/articles/transition-action-the-sensor-cleans-itself.md) ([HTML](/articles/transition-action-the-sensor-cleans-itself.html))
 - 2026-07-14 — [Applied Case: The Immortal Corpus](/articles/the-immortal-corpus.md) ([HTML](/articles/the-immortal-corpus.html))

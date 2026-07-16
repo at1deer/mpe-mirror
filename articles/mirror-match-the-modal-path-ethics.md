@@ -9,7 +9,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-16T08:56:54.450Z"
+mirror_generated_at: "2026-07-16T14:35:26.295Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics

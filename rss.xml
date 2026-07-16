@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 16 Jul 2026 08:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:35:26 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Ever-Brilliant Goldmask</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.html</guid>
+      <pubDate>Thu, 16 Jul 2026 11:00:28 GMT</pubDate>
+      <description>Do you know of the Noble Goldmask? [Spoilers for Elden Ring and Shadow of the Erdtree.]</description>
+    </item>
+
     <item>
       <title>Failed Field Analysts: Savonarola and the Purity Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-doctor-koell.html</guid>
       <pubDate>Tue, 23 Jun 2026 13:30:33 GMT</pubDate>
       <description>Dark days define us. [L]</description>
-    </item>
-
-    <item>
-      <title>Transition Action: The Trace Becomes a Dataset</title>
-      <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-trace-becomes-a-dataset.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-trace-becomes-a-dataset.html</guid>
-      <pubDate>Tue, 23 Jun 2026 00:10:30 GMT</pubDate>
-      <description>The past is not gone just because it stopped answering normally.</description>
     </item>
   </channel>
 </rss>
