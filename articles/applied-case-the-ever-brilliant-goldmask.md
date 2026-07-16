@@ -3,12 +3,13 @@ title: "Applied Case: The Ever-Brilliant Goldmask"
 slug: "applied-case-the-ever-brilliant-goldmask"
 canonical_url: "https://modalpathethics.com/applied-case-the-ever-brilliant-goldmask/"
 published_at: "2026-07-16T06:00:28.000-05:00"
-updated_at: "2026-07-16T06:00:27.000-05:00"
+updated_at: "2026-07-16T14:02:19.000-05:00"
 tags:
   - "Applied Case"
   - "Chirality"
+  - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-16T14:35:26.295Z"
+mirror_generated_at: "2026-07-16T19:43:26.814Z"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -1047,8 +1048,6 @@ A cruel god with unrestricted sovereignty is easy to fear. A loving god can make
 
 Miquella offers the best ruler imaginable and preserves the ruler as the bottleneck.
 
-[![What happens if Miquella steals your heart in Elden Ring? – Destructoid](https://www.destructoid.com/wp-content/uploads/2024/06/Miquella-in-Elden-Ring.jpg)](https://www.destructoid.com/what-happens-if-miquella-steals-your-heart-in-elden-ring/?ref=modalpathethics.com)
-
 Goldmask offers no guarantee that the ruler will be good.
 
 He tries to make the ruler less capable of defining good by personal will.
@@ -1111,8 +1110,6 @@ The sacred bureaucracy continued after the line went dead.
 Goldmask's rune may constrain the gods who acted through that bureaucracy.
 
 > **What constrains the bureaucracy's inherited error?**
-
-[![Elden Ring Count Ymir quest guide](https://www.pcgamesn.com/wp-content/sites/pcgamesn/2024/06/elden-ring-ymir-1.jpg)](https://www.pcgamesn.com/elden-ring/ymir-quest?ref=modalpathethics.com)
 
 Count Ymir recognizes the rotten root. He argues that Marika and the Fingers were defective from the beginning because their own mother was damaged. He moves the diagnosis beneath the divine sovereign to the instrument that authorized divine sovereignty.
 

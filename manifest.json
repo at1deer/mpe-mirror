@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T14:35:26.295Z",
+  "generated_at": "2026-07-16T19:43:26.814Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 176,
@@ -8,12 +8,13 @@
       "title": "Applied Case: The Ever-Brilliant Goldmask",
       "slug": "applied-case-the-ever-brilliant-goldmask",
       "published_at": "2026-07-16T06:00:28.000-05:00",
-      "updated_at": "2026-07-16T06:00:27.000-05:00",
+      "updated_at": "2026-07-16T14:02:19.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-ever-brilliant-goldmask/",
-      "excerpt": "Do you know of the Noble Goldmask? [Spoilers for Elden Ring and Shadow of the Erdtree.]",
+      "excerpt": "\"Do you know of the Noble Goldmask?\" [Spoilers for Elden Ring and Shadow of the Erdtree.]",
       "tags": [
         "Applied Case",
-        "Chirality"
+        "Chirality",
+        "Modal Path Ethics"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-ever-brilliant-goldmask.md",
       "mirror_html_path": "/articles/applied-case-the-ever-brilliant-goldmask.html",
