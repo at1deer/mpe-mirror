@@ -7,7 +7,7 @@ updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-17T19:42:23.856Z"
+mirror_generated_at: "2026-07-18T03:42:57.654Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field

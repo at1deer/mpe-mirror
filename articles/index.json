@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-17T19:42:23.856Z",
+  "generated_at": "2026-07-18T03:42:57.654Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 176,
+  "article_count": 177,
   "articles": [
+    {
+      "title": "Kant and the Corrigible Field",
+      "slug": "kant-and-the-corrigible-field",
+      "published_at": "2026-07-17T17:05:20.000-05:00",
+      "updated_at": "2026-07-17T19:37:23.000-05:00",
+      "canonical_url": "https://modalpathethics.com/kant-and-the-corrigible-field/",
+      "excerpt": "Reason can audit the instrument. It cannot become the field.",
+      "tags": [
+        "Modal Path Ethics",
+        "Supplement"
+      ],
+      "mirror_markdown_path": "/articles/kant-and-the-corrigible-field.md",
+      "mirror_html_path": "/articles/kant-and-the-corrigible-field.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/kant-and-the-corrigible-field.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/kant-and-the-corrigible-field.html",
+      "sha256_plaintext": "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
+    },
     {
       "title": "Applied Case: The Ever-Brilliant Goldmask",
       "slug": "applied-case-the-ever-brilliant-goldmask",

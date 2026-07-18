@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 17 Jul 2026 19:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:42:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Kant and the Corrigible Field</title>
+      <link>https://modal-path-ethics.ghost.io/articles/kant-and-the-corrigible-field.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/kant-and-the-corrigible-field.html</guid>
+      <pubDate>Fri, 17 Jul 2026 22:05:20 GMT</pubDate>
+      <description>Reason can audit the instrument. It cannot become the field.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Ever-Brilliant Goldmask</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/backpath-evidence-for-what-transitions-make-unrecoverable.html</guid>
       <pubDate>Wed, 24 Jun 2026 02:00:54 GMT</pubDate>
       <description>A CLI for finding lost distinctions, failed returns, divergent routes, and the edge where a path collapsed.</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: Doctor Koell</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-doctor-koell.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-doctor-koell.html</guid>
-      <pubDate>Tue, 23 Jun 2026 13:30:33 GMT</pubDate>
-      <description>Dark days define us. [L]</description>
     </item>
   </channel>
 </rss>
