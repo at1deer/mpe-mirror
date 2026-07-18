@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-18T08:24:41.086Z"
+mirror_generated_at: "2026-07-18T14:01:44.880Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem

@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-18T08:24:41.086Z"
+mirror_generated_at: "2026-07-18T14:01:44.880Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics

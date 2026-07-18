@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-18T08:24:41.086Z
+Generated: 2026-07-18T14:01:44.880Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-18 — [Applied Case: The Early AI Religions](/articles/applied-case-the-early-ai-religions.md) ([HTML](/articles/applied-case-the-early-ai-religions.html))
+- 2026-07-18 — [Failed Field Analysts: Kissinger and the Stability Machine](/articles/failed-field-analysts-kissinger-and-the-stability-machine.md) ([HTML](/articles/failed-field-analysts-kissinger-and-the-stability-machine.html))
 - 2026-07-17 — [Kant and the Corrigible Field](/articles/kant-and-the-corrigible-field.md) ([HTML](/articles/kant-and-the-corrigible-field.html))
 - 2026-07-16 — [Applied Case: The Ever-Brilliant Goldmask](/articles/applied-case-the-ever-brilliant-goldmask.md) ([HTML](/articles/applied-case-the-ever-brilliant-goldmask.html))
 - 2026-07-15 — [Failed Field Analysts: Savonarola and the Purity Machine](/articles/failed-field-analysts-savonrola-and-the-purity-machine.md) ([HTML](/articles/failed-field-analysts-savonrola-and-the-purity-machine.html))

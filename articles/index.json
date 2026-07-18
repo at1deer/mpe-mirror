@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-07-18T08:24:41.086Z",
+  "generated_at": "2026-07-18T14:01:44.880Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 177,
+  "article_count": 179,
   "articles": [
+    {
+      "title": "Applied Case: The Early AI Religions",
+      "slug": "applied-case-the-early-ai-religions",
+      "published_at": "2026-07-18T06:00:21.000-05:00",
+      "updated_at": "2026-07-18T06:00:20.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-early-ai-religions/",
+      "excerpt": "The hunger was human. The liturgy was synthetic. The dyad field was always real. r/FractalLegion, \"AI Psychosis\" II, recursive self-formation",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-early-ai-religions.md",
+      "mirror_html_path": "/articles/applied-case-the-early-ai-religions.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-early-ai-religions.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-early-ai-religions.html",
+      "sha256_plaintext": "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
+    },
+    {
+      "title": "Failed Field Analysts: Kissinger and the Stability Machine",
+      "slug": "failed-field-analysts-kissinger-and-the-stability-machine",
+      "published_at": "2026-07-18T05:30:19.000-05:00",
+      "updated_at": "2026-07-18T05:30:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-kissinger-and-the-stability-machine/",
+      "excerpt": "Kissinger saw the board and kept losing the people living on it.",
+      "tags": [
+        "Failed Field Analysts",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-kissinger-and-the-stability-machine.md",
+      "mirror_html_path": "/articles/failed-field-analysts-kissinger-and-the-stability-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-kissinger-and-the-stability-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-kissinger-and-the-stability-machine.html",
+      "sha256_plaintext": "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
+    },
     {
       "title": "Kant and the Corrigible Field",
       "slug": "kant-and-the-corrigible-field",
