@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 08:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 14:07:15 GMT</lastBuildDate>
     
+    <item>
+      <title>Fictional Earth: Reddit and the Local World Machine</title>
+      <link>https://modal-path-ethics.ghost.io/articles/fictional-earth-reddit-and-the-local-world-machine.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/fictional-earth-reddit-and-the-local-world-machine.html</guid>
+      <pubDate>Sun, 19 Jul 2026 11:00:42 GMT</pubDate>
+      <description>Every subreddit gets a constitution. [L]</description>
+    </item>
+
     <item>
       <title>Applied Case: The Early AI Religions</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-early-ai-religions.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-garbage-collection-2026.html</guid>
       <pubDate>Wed, 24 Jun 2026 14:07:35 GMT</pubDate>
       <description>Reversibility has to preserve the trace.</description>
-    </item>
-
-    <item>
-      <title>Introducing TimeVault</title>
-      <link>https://modal-path-ethics.ghost.io/articles/introducing-timevault.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/introducing-timevault.html</guid>
-      <pubDate>Wed, 24 Jun 2026 14:06:09 GMT</pubDate>
-      <description>Closed Timelike Combat.</description>
     </item>
   </channel>
 </rss>

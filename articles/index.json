@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-19T08:55:52.551Z",
+  "generated_at": "2026-07-19T14:07:15.190Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 179,
+  "article_count": 180,
   "articles": [
+    {
+      "title": "Fictional Earth: Reddit and the Local World Machine",
+      "slug": "fictional-earth-reddit-and-the-local-world-machine",
+      "published_at": "2026-07-19T06:00:42.000-05:00",
+      "updated_at": "2026-07-19T06:00:41.000-05:00",
+      "canonical_url": "https://modalpathethics.com/fictional-earth-reddit-and-the-local-world-machine/",
+      "excerpt": "Every subreddit gets a constitution. [L]",
+      "tags": [
+        "Fictional Earth",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/fictional-earth-reddit-and-the-local-world-machine.md",
+      "mirror_html_path": "/articles/fictional-earth-reddit-and-the-local-world-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-reddit-and-the-local-world-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-reddit-and-the-local-world-machine.html",
+      "sha256_plaintext": "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
+    },
     {
       "title": "Applied Case: The Early AI Religions",
       "slug": "applied-case-the-early-ai-religions",

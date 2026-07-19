@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-19T08:55:52.551Z
+Generated: 2026-07-19T14:07:15.190Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-19 — [Fictional Earth: Reddit and the Local World Machine](/articles/fictional-earth-reddit-and-the-local-world-machine.md) ([HTML](/articles/fictional-earth-reddit-and-the-local-world-machine.html))
 - 2026-07-18 — [Applied Case: The Early AI Religions](/articles/applied-case-the-early-ai-religions.md) ([HTML](/articles/applied-case-the-early-ai-religions.html))
 - 2026-07-18 — [Failed Field Analysts: Kissinger and the Stability Machine](/articles/failed-field-analysts-kissinger-and-the-stability-machine.md) ([HTML](/articles/failed-field-analysts-kissinger-and-the-stability-machine.html))
 - 2026-07-17 — [Kant and the Corrigible Field](/articles/kant-and-the-corrigible-field.md) ([HTML](/articles/kant-and-the-corrigible-field.html))
