@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-19T04:05:16.703Z"
+mirror_generated_at: "2026-07-19T08:55:52.551Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25

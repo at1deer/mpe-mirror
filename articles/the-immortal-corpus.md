@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-19T04:05:16.703Z"
+mirror_generated_at: "2026-07-19T08:55:52.551Z"
 sha256_plaintext: "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
 ---
 # Applied Case: The Immortal Corpus
