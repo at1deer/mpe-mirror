@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 19 Jul 2026 19:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:24:21 GMT</lastBuildDate>
     
+    <item>
+      <title>The Schizophrenia Firewall Has Been Published</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html</guid>
+      <pubDate>Sun, 19 Jul 2026 22:53:55 GMT</pubDate>
+      <description>Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.</description>
+    </item>
+
     <item>
       <title>Fictional Earth: Reddit and the Local World Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/fictional-earth-reddit-and-the-local-world-machine.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/the-anti-oblivion-doctrine.html</guid>
       <pubDate>Thu, 25 Jun 2026 05:30:40 GMT</pubDate>
       <description>Perfect Archaeology &amp; Privacy at Depth.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Garbage Collection (2026)</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-garbage-collection-2026.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-garbage-collection-2026.html</guid>
-      <pubDate>Wed, 24 Jun 2026 14:07:35 GMT</pubDate>
-      <description>Reversibility has to preserve the trace.</description>
     </item>
   </channel>
 </rss>

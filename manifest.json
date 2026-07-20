@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-07-19T19:46:25.348Z",
+  "generated_at": "2026-07-20T04:24:21.184Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 180,
+  "article_count": 181,
   "articles": [
+    {
+      "title": "The Schizophrenia Firewall Has Been Published",
+      "slug": "the-schizophrenia-firewall-has-been-published",
+      "published_at": "2026-07-19T17:53:55.000-05:00",
+      "updated_at": "2026-07-19T17:53:55.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/",
+      "excerpt": "Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.",
+      "tags": [
+        "News",
+        "Modal Path Ethics",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/the-schizophrenia-firewall-has-been-published.md",
+      "mirror_html_path": "/articles/the-schizophrenia-firewall-has-been-published.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html",
+      "sha256_plaintext": "9cb6a385202fad5c4c379797d398d59501d9cf12355ee87572877da4609aba14"
+    },
     {
       "title": "Fictional Earth: Reddit and the Local World Machine",
       "slug": "fictional-earth-reddit-and-the-local-world-machine",
