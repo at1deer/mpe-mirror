@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-21T09:13:18.851Z",
+  "generated_at": "2026-07-21T14:36:42.370Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 182,
+  "article_count": 183,
   "articles": [
+    {
+      "title": "Applied Case: The Brother of Jesus Christ",
+      "slug": "applied-case-the-brother-of-jesus-christ",
+      "published_at": "2026-07-21T05:30:37.000-05:00",
+      "updated_at": "2026-07-21T05:30:36.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/",
+      "excerpt": "Sacred Instruments Capstone. He failed the examination, so he moved the examination to Heaven.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-brother-of-jesus-christ.md",
+      "mirror_html_path": "/articles/applied-case-the-brother-of-jesus-christ.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-brother-of-jesus-christ.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-brother-of-jesus-christ.html",
+      "sha256_plaintext": "4d09553d8cefe9dd2f7e0aa758c3070ee91b5fd167c71b721201ee4d073071fa"
+    },
     {
       "title": "Transition Action: The Signal Never Becomes Data",
       "slug": "transition-action-the-signal-never-becomes-data",
