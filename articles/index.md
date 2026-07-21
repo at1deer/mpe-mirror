@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-20T20:09:35.758Z
+Generated: 2026-07-21T03:58:04.699Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-20 — [Transition Action: The Signal Never Becomes Data](/articles/transition-action-the-signal-never-becomes-data.md) ([HTML](/articles/transition-action-the-signal-never-becomes-data.html))
 - 2026-07-19 — [The Schizophrenia Firewall Has Been Published](/articles/the-schizophrenia-firewall-has-been-published.md) ([HTML](/articles/the-schizophrenia-firewall-has-been-published.html))
 - 2026-07-19 — [Fictional Earth: Reddit and the Local World Machine](/articles/fictional-earth-reddit-and-the-local-world-machine.md) ([HTML](/articles/fictional-earth-reddit-and-the-local-world-machine.html))
 - 2026-07-18 — [Applied Case: The Early AI Religions](/articles/applied-case-the-early-ai-religions.md) ([HTML](/articles/applied-case-the-early-ai-religions.html))

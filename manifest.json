@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-20T20:09:35.758Z",
+  "generated_at": "2026-07-21T03:58:04.699Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 181,
+  "article_count": 182,
   "articles": [
+    {
+      "title": "Transition Action: The Signal Never Becomes Data",
+      "slug": "transition-action-the-signal-never-becomes-data",
+      "published_at": "2026-07-20T21:46:37.000-05:00",
+      "updated_at": "2026-07-20T21:47:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-signal-never-becomes-data/",
+      "excerpt": "A mechanical soft force sensor converts touch directly into fluidic action. Data remains available. The first response no longer has to wait for it.",
+      "tags": [
+        "Transition Action",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-signal-never-becomes-data.md",
+      "mirror_html_path": "/articles/transition-action-the-signal-never-becomes-data.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-signal-never-becomes-data.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-signal-never-becomes-data.html",
+      "sha256_plaintext": "4eb68719cc051f68d9c0a55c316421b46e3b7dec657ea2ef1f3faeab8ba09a5f"
+    },
     {
       "title": "The Schizophrenia Firewall Has Been Published",
       "slug": "the-schizophrenia-firewall-has-been-published",

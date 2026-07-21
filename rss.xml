@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 20 Jul 2026 20:09:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 03:58:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Transition Action: The Signal Never Becomes Data</title>
+      <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-signal-never-becomes-data.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-signal-never-becomes-data.html</guid>
+      <pubDate>Tue, 21 Jul 2026 02:46:37 GMT</pubDate>
+      <description>A mechanical soft force sensor converts touch directly into fluidic action. Data remains available. The first response no longer has to wait for it.</description>
+    </item>
+
     <item>
       <title>The Schizophrenia Firewall Has Been Published</title>
       <link>https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-half-stupid.html</guid>
       <pubDate>Thu, 25 Jun 2026 08:56:19 GMT</pubDate>
       <description>Don't get confused.</description>
-    </item>
-
-    <item>
-      <title>The Anti-Oblivion Doctrine</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-anti-oblivion-doctrine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-anti-oblivion-doctrine.html</guid>
-      <pubDate>Thu, 25 Jun 2026 05:30:40 GMT</pubDate>
-      <description>Perfect Archaeology &amp; Privacy at Depth.</description>
     </item>
   </channel>
 </rss>
