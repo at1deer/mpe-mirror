@@ -3,12 +3,12 @@ title: "Failed Field Analysts: Kissinger and the Stability Machine"
 slug: "failed-field-analysts-kissinger-and-the-stability-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-kissinger-and-the-stability-machine/"
 published_at: "2026-07-18T05:30:19.000-05:00"
-updated_at: "2026-07-18T05:30:18.000-05:00"
+updated_at: "2026-07-21T03:58:10.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-21T03:58:04.699Z"
+mirror_generated_at: "2026-07-21T09:13:18.851Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
