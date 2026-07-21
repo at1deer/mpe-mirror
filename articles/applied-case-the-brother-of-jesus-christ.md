@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-21T14:36:42.370Z"
+mirror_generated_at: "2026-07-21T20:03:48.061Z"
 sha256_plaintext: "4d09553d8cefe9dd2f7e0aa758c3070ee91b5fd167c71b721201ee4d073071fa"
 ---
 # **I. The Brother Applies for Office**

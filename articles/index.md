@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-21T14:36:42.370Z
+Generated: 2026-07-21T20:03:48.061Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-21 — [Field Instruments: Disruption](/articles/field-instruments-disruption.md) ([HTML](/articles/field-instruments-disruption.html))
 - 2026-07-21 — [Applied Case: The Brother of Jesus Christ](/articles/applied-case-the-brother-of-jesus-christ.md) ([HTML](/articles/applied-case-the-brother-of-jesus-christ.html))
 - 2026-07-20 — [Transition Action: The Signal Never Becomes Data](/articles/transition-action-the-signal-never-becomes-data.md) ([HTML](/articles/transition-action-the-signal-never-becomes-data.html))
 - 2026-07-19 — [The Schizophrenia Firewall Has Been Published](/articles/the-schizophrenia-firewall-has-been-published.md) ([HTML](/articles/the-schizophrenia-firewall-has-been-published.html))

@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-21T14:36:42.370Z",
+  "generated_at": "2026-07-21T20:03:48.061Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 183,
+  "article_count": 184,
   "articles": [
+    {
+      "title": "Field Instruments: Disruption",
+      "slug": "field-instruments-disruption",
+      "published_at": "2026-07-21T10:00:03.000-05:00",
+      "updated_at": "2026-07-21T11:58:45.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-disruption/",
+      "excerpt": "Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-disruption.md",
+      "mirror_html_path": "/articles/field-instruments-disruption.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html",
+      "sha256_plaintext": "c3974acb5ba15fbf40d5cf1a42738f7b1d9578f8df51020123b3dcb267019d05"
+    },
     {
       "title": "Applied Case: The Brother of Jesus Christ",
       "slug": "applied-case-the-brother-of-jesus-christ",
