@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-22T14:36:31.265Z
+Generated: 2026-07-22T19:54:24.587Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-22 — [Pope Leo and the Optimizable Human](/articles/pope-leo-and-the-optimizable-human.md) ([HTML](/articles/pope-leo-and-the-optimizable-human.html))
 - 2026-07-21 — [Field Instruments: Disruption](/articles/field-instruments-disruption.md) ([HTML](/articles/field-instruments-disruption.html))
 - 2026-07-21 — [Applied Case: The Brother of Jesus Christ](/articles/applied-case-the-brother-of-jesus-christ.md) ([HTML](/articles/applied-case-the-brother-of-jesus-christ.html))
 - 2026-07-20 — [Transition Action: The Signal Never Becomes Data](/articles/transition-action-the-signal-never-becomes-data.md) ([HTML](/articles/transition-action-the-signal-never-becomes-data.html))

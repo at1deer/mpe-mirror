@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-22T14:36:31.265Z",
+  "generated_at": "2026-07-22T19:54:24.587Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 184,
+  "article_count": 185,
   "articles": [
+    {
+      "title": "Pope Leo and the Optimizable Human",
+      "slug": "pope-leo-and-the-optimizable-human",
+      "published_at": "2026-07-22T13:15:55.000-05:00",
+      "updated_at": "2026-07-22T13:15:55.000-05:00",
+      "canonical_url": "https://modalpathethics.com/pope-leo-and-the-optimizable-human/",
+      "excerpt": "Magnifica Humanitas warns that artificial intelligence may teach people to treat themselves as optimization projects. The project shipped years ago.",
+      "tags": [
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/pope-leo-and-the-optimizable-human.md",
+      "mirror_html_path": "/articles/pope-leo-and-the-optimizable-human.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/pope-leo-and-the-optimizable-human.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/pope-leo-and-the-optimizable-human.html",
+      "sha256_plaintext": "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
+    },
     {
       "title": "Field Instruments: Disruption",
       "slug": "field-instruments-disruption",

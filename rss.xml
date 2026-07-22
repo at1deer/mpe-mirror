@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 22 Jul 2026 14:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:54:24 GMT</lastBuildDate>
     
+    <item>
+      <title>Pope Leo and the Optimizable Human</title>
+      <link>https://modal-path-ethics.ghost.io/articles/pope-leo-and-the-optimizable-human.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/pope-leo-and-the-optimizable-human.html</guid>
+      <pubDate>Wed, 22 Jul 2026 18:15:55 GMT</pubDate>
+      <description>Magnifica Humanitas warns that artificial intelligence may teach people to treat themselves as optimization projects. The project shipped years ago.</description>
+    </item>
+
     <item>
       <title>Field Instruments: Disruption</title>
       <link>https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html</guid>
       <pubDate>Fri, 26 Jun 2026 15:00:34 GMT</pubDate>
       <description>Surgical separation is not easy.</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: L. Ron Hubbard and the Sealed Room</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.html</guid>
-      <pubDate>Fri, 26 Jun 2026 10:00:55 GMT</pubDate>
-      <description>Hubbard saw capture clearly enough to build with it, then made the route out of capture pass through an instrument that could not let itself disappear.</description>
     </item>
   </channel>
 </rss>
