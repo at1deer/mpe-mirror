@@ -8,7 +8,7 @@ tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-21T20:03:48.061Z"
+mirror_generated_at: "2026-07-22T03:59:09.869Z"
 sha256_plaintext: "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
 ---
 # Moonlight with Figures: The Ghost Dance
