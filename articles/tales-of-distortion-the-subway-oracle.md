@@ -3,14 +3,14 @@ title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
 published_at: "2026-07-11T06:30:48.000-05:00"
-updated_at: "2026-07-12T02:08:28.000-05:00"
+updated_at: "2026-07-22T23:25:28.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-23T03:56:57.138Z"
-sha256_plaintext: "3c9d9c7845b57ab7a2fd308dff5e4bcee0ab4ce85ff081268425633f9acd179b"
+mirror_generated_at: "2026-07-23T09:11:50.692Z"
+sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
 
@@ -610,7 +610,7 @@ This is where the sealed room changes kind.
 -   A captured community interprets departure as contamination.
     -   A violent sacred enclosure treats departure as attack.
 
-This instrument no longer exists to transform people and release them toward wider contact. Aum now exists to preserve the conditions under Aum remains necessary.
+This instrument no longer exists to transform people and release them toward wider contact. Aum now exists to preserve the conditions under which Aum remains necessary.
 
 The murder also exposes a distributed correction failure.
 
