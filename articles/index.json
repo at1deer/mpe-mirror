@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-23T09:11:50.692Z",
+  "generated_at": "2026-07-23T14:51:47.974Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 185,
+  "article_count": 186,
   "articles": [
+    {
+      "title": "Applied Case: The Pregnancy Test for Consciousness",
+      "slug": "applied-case-the-pregnancy-test-for-consciousness",
+      "published_at": "2026-07-23T06:00:07.000-05:00",
+      "updated_at": "2026-07-23T06:00:07.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-pregnancy-test-for-consciousness/",
+      "excerpt": "A simulation is not proof of experience. A substrate is not proof of emptiness.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-pregnancy-test-for-consciousness.md",
+      "mirror_html_path": "/articles/applied-case-the-pregnancy-test-for-consciousness.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-pregnancy-test-for-consciousness.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-pregnancy-test-for-consciousness.html",
+      "sha256_plaintext": "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
+    },
     {
       "title": "Pope Leo and the Optimizable Human",
       "slug": "pope-leo-and-the-optimizable-human",
