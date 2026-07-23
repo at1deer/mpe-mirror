@@ -9,7 +9,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-22T19:54:24.587Z"
+mirror_generated_at: "2026-07-23T03:56:57.138Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine

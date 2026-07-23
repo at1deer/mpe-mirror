@@ -8,7 +8,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-22T19:54:24.587Z"
+mirror_generated_at: "2026-07-23T03:56:57.138Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime

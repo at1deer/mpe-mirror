@@ -3,13 +3,13 @@ title: "Applied Case: The Brother of Jesus Christ"
 slug: "applied-case-the-brother-of-jesus-christ"
 canonical_url: "https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/"
 published_at: "2026-07-21T05:30:37.000-05:00"
-updated_at: "2026-07-21T05:30:36.000-05:00"
+updated_at: "2026-07-22T20:39:42.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-22T19:54:24.587Z"
-sha256_plaintext: "4d09553d8cefe9dd2f7e0aa758c3070ee91b5fd167c71b721201ee4d073071fa"
+mirror_generated_at: "2026-07-23T03:56:57.138Z"
+sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
 
@@ -816,7 +816,7 @@ The brother alone could remain an unusual religious figure.
 
 The brother with an organizer could become a congregation.
 
-Amd the brother with a congregation, common resources, divine possession, enemies, and state repression could become something else entirely.
+And the brother with a congregation, common resources, divine possession, enemies, and state repression could become something else entirely.
 
 For now, Jesus has acquired a new brother.
 
