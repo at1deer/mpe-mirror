@@ -3,13 +3,13 @@ title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
 published_at: "2026-07-07T06:05:02.000-05:00"
-updated_at: "2026-07-10T05:20:11.000-05:00"
+updated_at: "2026-07-23T13:25:02.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-23T14:51:47.974Z"
-sha256_plaintext: "ba15a07a7ca030ed663ce3f63ccdc46c44ffdff92dddbd7a7794c55327c1c39b"
+mirror_generated_at: "2026-07-23T19:57:29.959Z"
+sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
 
@@ -99,7 +99,7 @@ A door is not ownership. Only access.
 
 ___Indian Encampment___
 
-Blakelock's painting does not explain the dance. It does not interpret the dancers. It does not become a sacred title over the sacred instrument it depicts.
+Blakelock's painting does not explain the dance. It does not interpret the dancers.
 
 It opens the trouble. And the trouble begins with light.
 

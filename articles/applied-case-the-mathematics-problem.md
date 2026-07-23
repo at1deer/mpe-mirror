@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-23T14:51:47.974Z"
+mirror_generated_at: "2026-07-23T19:57:29.959Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
