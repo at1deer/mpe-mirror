@@ -3,13 +3,13 @@ title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
 published_at: "2026-07-11T06:30:48.000-05:00"
-updated_at: "2026-07-22T23:25:28.000-05:00"
+updated_at: "2026-07-23T15:00:01.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-23T19:57:29.959Z"
+mirror_generated_at: "2026-07-24T03:56:19.672Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -1783,8 +1783,6 @@ Each attacker carried sarin in plastic bags wrapped in newspaper.
 The bags were placed on train floors.
 
 Umbrellas punctured them.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/data-src-image-a203e9fe-0955-43b8-a776-f26b1e4070b7.png)
 
 The men left.
 
