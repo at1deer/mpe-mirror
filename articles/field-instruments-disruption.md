@@ -7,7 +7,7 @@ updated_at: "2026-07-21T11:58:45.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-24T14:22:31.079Z"
+mirror_generated_at: "2026-07-24T19:58:23.955Z"
 sha256_plaintext: "c3974acb5ba15fbf40d5cf1a42738f7b1d9578f8df51020123b3dcb267019d05"
 ---
 # Field Instruments: Disruption
