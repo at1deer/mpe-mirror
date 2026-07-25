@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time

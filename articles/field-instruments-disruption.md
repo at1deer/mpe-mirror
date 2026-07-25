@@ -3,12 +3,12 @@ title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
 published_at: "2026-07-21T10:00:03.000-05:00"
-updated_at: "2026-07-24T22:07:42.000-05:00"
+updated_at: "2026-07-25T04:38:50.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
-sha256_plaintext: "49079daf29ddbfcbc265b678f655038bb941558107b8b4be79867475f4c28dae"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
+sha256_plaintext: "6378b0fa5423ced1c7b81d9ffee3509d436b9fb8bff771db9ed89f3208b70818"
 ---
 # Field Instruments: Disruption
 
@@ -26,7 +26,7 @@ A strange founder leaves the approved route, creates something the old instituti
 -   The credential loses.
 -   The market changes.
 
-The old people who controlled admission discover that history has opened a second door while they were still debating the first applicant. Classic.
+The old people who controlled admission discover that history has opened a second door while they were still debating the first applicant.
 
 A [Guardian feature on Kim Phillips-Fein's new book _Country of Lords_](https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords?ref=modalpathethics.com) places Thiel at the end of a long American tradition of argument against equality. 
 

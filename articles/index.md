@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-25T08:33:31.788Z
+Generated: 2026-07-25T14:13:26.090Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-25 — [Failed Field Analysts: Ted Kaczynski and the Collapse Machine](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md) ([HTML](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html))
 - 2026-07-24 — [Australia vs. the Biosphere: The Rabbit Fence](/articles/australia-vs-the-biosphere-the-rabbit-fence.md) ([HTML](/articles/australia-vs-the-biosphere-the-rabbit-fence.html))
 - 2026-07-23 — [Applied Case: The Tower of Babel](/articles/applied-case-the-tower-of-babel.md) ([HTML](/articles/applied-case-the-tower-of-babel.html))
 - 2026-07-23 — [Applied Case: The Pregnancy Test for Consciousness](/articles/applied-case-the-pregnancy-test-for-consciousness.md) ([HTML](/articles/applied-case-the-pregnancy-test-for-consciousness.html))

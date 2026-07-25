@@ -1,6 +1,1754 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-07-25T08:33:31.788Z
+Generated: 2026-07-25T14:13:26.090Z
+
+
+<!-- ARTICLE_START slug="failed-field-analysts-ted-kaczynski-and-the-collapse-machine" title="Failed Field Analysts: Ted Kaczynski and the Collapse Machine" published_at="2026-07-25T06:00:47.000-05:00" -->
+
+---
+title: "Failed Field Analysts: Ted Kaczynski and the Collapse Machine"
+slug: "failed-field-analysts-ted-kaczynski-and-the-collapse-machine"
+canonical_url: "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/"
+published_at: "2026-07-25T06:00:47.000-05:00"
+updated_at: "2026-07-25T06:00:46.000-05:00"
+tags:
+  - "Failed Field Analysts"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
+sha256_plaintext: "bd4c3a1b3aa7dd62e82d991e2a2fd036701bf2d99a9bd0d54adbb61d49371347"
+---
+# Failed Field Analysts: Ted Kaczynski and the Collapse Machine
+
+## I. The Paper.
+
+On September 19, 1995, _The Washington Post_ printed a bomb.
+
+No explosive had been placed between the pages.
+
+The force had already been delivered elsewhere.
+
+The document was approximately 35,000 words long. Its author had spent **seventeen years** building and delivering sixteen explosive devices. Three people had been killed. Nearly two dozen more had been injured. After the two fatal attacks immediately preceding publication, the bomber offered the country a deal:
+
+-   Print the essay.
+-   Give the argument national reach.
+    -   The bombing campaign will stop.
+
+Federal officials supported publication for another reason. They hoped someone would recognize the author through his language.
+
+The result was one of the strangest editorial arrangements in American history.
+
+A newspaper gave a serial bomber the public hearing he had demanded because the alternative might be another package arriving at another office, another home, another university, another business, another pair of hands.
+
+The essay appeared under the title **_Industrial Society and Its Future_**.
+
+Its opening argument was already a verdict.
+
+Industrial and technological civilization had produced severe psychological suffering, ecological destruction, dependence, indignity, and the progressive adaptation of human beings to systems increasingly beyond their control.
+
+Reform could not solve the problem. The system would either survive by transforming life into machinery or collapse under its own contradictions.
+
+Collapse would be terrible.
+
+Earlier collapse would still be preferable to later collapse. Revolution should target the economic and technological basis of industrial civilization itself.
+
+-   This was a serious argument.
+-   The method by which it reached the breakfast table was murder.
+
+That distinction has to remain in place through everything that follows.
+
+The bombing campaign did not become serious because the manifesto had ideas. The manifesto did not become empty because its author had killed people. The intellectual field and the criminal field entered through the same person. They remain distinguishable without becoming separable.
+
+Ted Kaczynski wanted the industrial system placed on trial.
+
+He made strangers pay the filing fee.
+
+* * *
+
+The publication plan worked in a direction he had not intended.
+
+David Kaczynski’s wife, Linda Patrik, had already begun wondering whether David’s estranged older brother might be the Unabomber. The published essay gave that suspicion a body. David returned to letters and earlier writings from Ted. Through an attorney, he eventually supplied investigators with a twenty-three-page essay Kaczynski had written in 1971.
+
+The language matched.
+
+A phrase about the shrinking **sphere of human freedom** appeared across the writings. So did patterns of vocabulary, spelling, syntax, argument, and concern. The man who had spent years designing bombs from difficult-to-trace materials had finally built something carrying his handwriting all the way through.
+
+The bomb became a printing press.
+
+The printing press became a fingerprint.
+
+On April 3, 1996, federal agents and a Forest Service officer arrived at Kaczynski’s small cabin near Lincoln, Montana. Inside, investigators found bomb components, tens of thousands of handwritten journal pages, descriptions of the attacks, the manifesto manuscript, and a completed bomb ready to be mailed.
+
+This was the final inversion.
+
+Kaczynski had spent decades constructing an exit from technological civilization.
+
+The path back to him ran through language, document comparison, public circulation, family memory, forensic investigation, law, transportation, archival retention, and the institutional coordination of one of the largest investigations in Federal Bureau of Investigation history.
+
+The system found the man who wanted to destroy the system.
+
+It found him because the system could read.
+
+* * *
+
+## II. The Dead in the Argument.
+
+A Failed Field Analyst carries a true fragment into collapse.
+
+That requirement matters especially here.
+
+Without it, Kaczynski becomes incredibly easy.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-513.png)
+
+He becomes a wild beard, a dirty cabin, an antisocial prodigy, a bombmaker, a diagnosis, a grievance with handwriting, a person whose ideas can be pushed into the same dark container as his crimes and stored somewhere beyond serious attention.
+
+That container would be convenient.
+
+It would **_also_** leave the technological field largely unaudited.
+
+-   Kaczynski’s crimes **cannot** be allowed to protect technological civilization from criticism.
+-   Technological civilization **cannot** be allowed to protect Kaczynski from his crimes.
+
+The bodies prevent both evasions.
+
+Hugh Scrutton owned a computer-rental business in Sacramento. In December 1985, he encountered an object left in the parking lot. The bomb killed him.
+
+Thomas Mosser was an advertising executive. A package arrived at his New Jersey home in December 1994. He opened it in his kitchen. The bomb killed him in front of his family.
+
+Gilbert Murray was president of the California Forestry Association. A package arrived at the organization’s Sacramento office in April 1995. It had been addressed to Murray’s predecessor. Murray opened it. The bomb killed him.
+
+These three men have often been compressed into the ideological story Kaczynski built around them.
+
+-   Scrutton becomes **_computers_**.
+-   Mosser becomes **_public relations_**.
+-   Murray becomes **_industrial forestry_**.
+
+The human being disappears inside the profession. The profession disappears inside the institution. The institution disappears inside the system.
+
+Then the package has a destination.
+
+That sequence is the first **collapse machine**.
+
+Kaczynski did not need to know the target as a person. Investigators later concluded that targets had often been selected through library research. A name could be found through professional directories, articles, institutional listings, or associations. The category did the rest.
+
+Thomas Mosser demonstrates the danger especially cleanly.
+
+Kaczynski claimed that Mosser’s public-relations work connected him to the rehabilitation of Exxon’s image after the _Exxon Valdez_ oil spill. Reports at the time disputed the claimed connection, and Mosser himself had no demonstrated personal role in the spill. The _organizational category_ was enough for Kaczynski.
+
+**This was supposed to be an attack on abstraction**.
+
+**The abstraction selected the victim**.
+
+* * *
+
+The injured likewise entered the bombing campaign as representatives.
+
+A security officer opened the first known package.
+
+A graduate student opened another.
+
+Passengers inhaled smoke aboard American Airlines Flight 444 after a bomb detonated in the cargo compartment and failed to bring down the aircraft as intended.
+
+A university secretary opened a package addressed to someone else.
+
+An engineering student picked up an object in a common room.
+
+A psychology professor and his assistant opened a binder presented as academic correspondence.
+
+John Hauser, an engineering graduate student, lost fingers and suffered severe injury.
+
+Gary Wright picked up an object outside a computer store and received extensive shrapnel wounds.
+
+Geneticist Charles Epstein lost fingers and suffered damage to his hearing.
+
+Computer scientist David Gelernter suffered extensive injuries to his hand, eye, and body.
+
+The _categories_ remained stable.
+
+The **bodies** did not.
+
+A bomb does not ever strike **technological society**.
+
+It tears tissue, fractures bone, destroys nerves, burns skin, ruptures organs, removes fingers, damages hearing, blinds, frightens children, widows partners, ends projects, alters families, and forces the rest of a life through an event the victim never selected.
+
+Kaczynski’s theory emphasized the humiliation of losing control over the important conditions of one’s existence.
+
+Then, **_he became one of those conditions for people he had never met_**.
+
+He placed a mechanism into their path that they could not inspect, understand, refuse, negotiate with, reform, or escape after contact.
+
+He attacked technological domination by constructing tiny sovereign systems.
+
+Each package had:
+
+-   a hidden design;
+-   an assigned function;
+-   a target selected from above;
+-   no participatory mechanism;
+-   no appeal;
+-   no correction channel;
+-   no safe refusal after activation.
+
+The bomb was the technological system in miniature.
+
+Kaczynski was its technician.
+
+* * *
+
+## III. The True Fragment.
+
+Kaczynski saw something real.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-512.png)
+
+**Technology** is often discussed as a collection of objects.
+
+-   A car.
+-   A computer.
+-   A telephone.
+-   A medical device.
+-   A factory.
+-   A surveillance camera.
+-   A power station.
+-   A machine-learning model.
+-   A weapon.
+
+That inventory encourages a familiar defense.
+
+-   The object is only a tool.
+-   So use it well.
+-   Decline it when it is unhelpful.
+    -   Blame the user when something goes wrong.
+
+This account can remain locally true while missing the field produced by adoption.
+
+Kaczynski understood that technologies reorganize the conditions around their use. A tool introduced as an option can reshape infrastructure, employment, law, education, expectation, insurance, regulation, commerce, distance, and social participation until refusal remains technically permitted while becoming practically disabling.
+
+His automobile example is still excellent.
+
+At the point of introduction, the car appears to widen movement.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_139879507.jpeg)
+
+The walker loses nothing. The driver gains speed and range.
+
+Then, cities, roads, employment patterns, commerce, housing, safety rules, and public space reorganize around motor transport. The person who does not drive now inhabits a field built by drivers. The original option has become part of the environment.
+
+This is close to one of the central distinctions in Modal Path Ethics:
+
+> Possibility is wider than **reachability**.
+
+A person may remain _formally_ free to refuse a system after the system has made refusal prohibitively expensive.
+
+-   The option exists in language.
+-   The path has closed in practice.
+
+Kaczynski recognized this transition decades before the current platform field made it ordinary.
+
+He saw that individual preference cannot govern a coupled technical environment. A person may dislike the infrastructure and still need the infrastructure. A town may oppose an industry and still depend on its tax base. A worker may hate the software and still need employment. A family may distrust a platform and still discover that school, work, medicine, government, or social life has been routed through it.
+
+The person does not choose from _outside_ the arrangement.
+
+The arrangement modifies the cost of every choice.
+
+That is field analysis.
+
+* * *
+
+Kaczynski also understood that a technical system can begin adapting human beings to itself.
+
+Large technological societies require reliability.
+
+They need trained specialists, standardized processes, coordinated schedules, predictable behavior, compatible skills, regulated movement, large organizations, administrative continuity, and people capable of functioning inside arrangements whose full operation no participant can personally understand.
+
+The system cannot wait for every person to discover a private relation to its requirements.
+
+It teaches, rewards, tests, licenses, disciplines, diagnoses, markets, screens, schedules, monitors, and reorganizes.
+
+Kaczynski argued that people increasingly live through what large systems do for them and to them. Their meaningful choices occur inside channels already produced by institutions, experts, and technical necessity. He argued that the system’s requirements become primary while human needs are interpreted through whether they interfere with continued operation.
+
+Again, the perception is real.
+
+A system can _preserve_ life while forcing life to become **system-compatible**.
+
+That tension has become one of the defining questions of modernity.
+
+-   Medicine can preserve a body while making care answer to billing architecture.
+-   Education can open knowledge while making learning answer to test architecture.
+-   Communication can connect people while making social existence answer to platform architecture.
+-   Artificial intelligence can expand cognitive reach while making thought answer to deployment architecture.
+-   Work can coordinate enormous productive capacity while making livelihood answer to organizational obedience.
+
+These instruments do real good.
+
+They also **_shape the field in which good can be pursued_**.
+
+Kaczynski refused the reassuring claim that a useful technology remains ethically exhausted by its usefulness.
+
+He was right to refuse it.
+
+* * *
+
+He also saw technological development as a process with its own momentum.
+
+A technical innovation creates dependencies. Those dependencies reward compatible innovations. Institutions invest. Competitors adopt. Professionals specialize. Rules change. People reorganize their lives. The cost of reversal rises.
+
+The machine does not need a conscious desire for domination.
+
+Each local step can carry a reasonable justification.
+
+-   Cure this disease.
+-   Increase this yield.
+-   Prevent this crime.
+-   Reduce this delay.
+-   Improve this prediction.
+-   Connect this population.
+-   Automate this burden.
+-   Make this service available.
+-   Protect this child.
+-   Stop this attack.
+
+The local claim can be sincere.
+
+The generated structure may still become coercive.
+
+Kaczynski warned that behavioral control would likely enter through a long sequence of individually defensible interventions.
+
+Each one would answer some real problem. The final environment could become deeply controlling without ever requiring a single founding moment in which society formally selected total control.
+
+This is also correct.
+
+Modern domination often arrives through accumulated usefulness.
+
+No tyrant announces the whole machine.
+
+The machine is assembled from solved problems.
+
+* * *
+
+## IV. The Power Process.
+
+Kaczynski’s most distinctive psychological instrument was the **power process**.
+
+He argued that human beings need:
+
+-   a goal;
+-   serious effort toward that goal;
+-   some success in attaining it;
+-   sufficient autonomy in choosing or pursuing it.
+
+A person deprived of this process may experience humiliation, purposelessness, powerlessness, depression, anger, or compulsive investment in substitute goals. Kaczynski called many modern pursuits **surrogate activities**: difficult projects whose deeper function is to provide challenge and accomplishment after industrial society has removed direct control over the conditions of life.
+
+This idea also contains a true fragment.
+
+-   Human beings need contact between action and consequence.
+-   A life can be materially supplied and still structurally starved.
+
+Someone else can provide food, shelter, entertainment, security, instruction, goals, metrics, and approved forms of achievement. The person may still experience the whole arrangement as a field in which their effort has no authorship.
+
+That condition appears throughout modern life.
+
+-   Work whose purpose cannot be seen from the task.
+-   Education organized around credentials disconnected from knowledge.
+-   Political participation too weak to affect the decisions under which one lives.
+-   Consumer choice presented as agency inside systems whose architecture remains inaccessible.
+-   Employment where initiative is welcomed only after the final objective has been selected elsewhere.
+-   Online creation whose reach remains dependent on a ranking system the creator cannot inspect.
+-   Institutional reform in which the harmed person may speak while possessing no authority over the decision.
+
+Kaczynski understood that **comfort** cannot substitute for agency forever.
+
+He understood that entertainment can absorb restless energy without giving the person a meaningful relation to the field.
+
+He understood that a society may produce endless goals while withholding ownership of direction.
+
+The power process names something Modal Path Ethics can preserve:
+
+> Continuance requires participatory reach.
+
+A future offered to a locus may remain structurally thin when the locus cannot help produce, alter, or refuse it.
+
+* * *
+
+Then, Kaczynski promoted his psychological instrument far beyond its jurisdiction.
+
+The _power process_ became an account of proper human life.
+
+The desired form of autonomy became increasingly narrow:
+
+-   small group;
+-   direct effort;
+-   material necessity;
+-   physical competence;
+-   immediate consequence;
+-   limited organizational mediation;
+-   minimal technical dependence.
+
+**Other** kinds of life became suspect.
+
+-   Scientific inquiry could become surrogate activity.
+-   Art could become surrogate activity.
+-   Institutional work could become surrogate activity.
+-   Political movements could become borrowed power.
+-   Professional achievement could become obedience.
+-   Material comfort could become domestication.
+-   Psychological satisfaction could become evidence that the person had adapted successfully to captivity.
+
+This model has **very** little room for a person who **knowingly chooses** interdependence.
+
+This struggles to understand:
+
+-   disability without humiliation;
+-   care without domination;
+-   specialization without loss of self;
+-   large-scale coordination without spiritual death;
+-   abstract work with concrete meaning;
+-   scholarship as contact;
+-   technology as embodied assistance;
+-   urban life as genuine human habitat;
+-   institutions that enable agency a solitary person could never produce.
+
+Kaczynski’s autonomy instrument begins demoting people whose flourishing does not resemble **his**.
+
+That is where the power process becomes **power over interpretation**.
+
+A person says:
+
+-   This relation helps me live.
+
+The model answers:
+
+-   You have been adapted to want it.
+
+A person says:
+
+-   This work is meaningful.
+
+The model answers:
+
+-   The system has supplied a surrogate.
+
+A person says:
+
+-   I choose this dependence.
+
+The model answers:
+
+-   The dependence has shaped the chooser.
+
+Each reply may reveal something.
+
+Together, they produce **a room with no outside doors**.
+
+This model can reinterpret satisfaction as capture, objection as conditioning, reform as stabilization, dependence as degradation, and disagreement as proof that the system has successfully shaped the dissenter.
+
+Kaczynski saw [the sealed room](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/).
+
+Then he built one around industrial civilization.
+
+* * *
+
+## V. The Cabin.
+
+The cabin is too easy to use badly.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-514.png)
+
+Ted Kaczynski entered Harvard at sixteen. He later completed doctoral work in mathematics at the University of Michigan and joined the faculty of the University of California, Berkeley. His academic work showed unusual ability.
+
+He resigned in 1969 and withdrew from the career available to him. By the early 1970s, he was living in a small cabin near Lincoln, Montana, without electricity or plumbing. He gardened, hunted, read, traveled into town for supplies, and attempted to build a life with fewer dependencies on industrial society.
+
+The cheap argument says:
+
+> He opposed technology while using manufactured tools.
+
+This proves almost **nothing**.
+
+A person trying to reduce dependence from _inside an industrial field_ will continue encountering _industrial products_. The existence of a knife, bicycle, library, road, store, coat, or postal service does not disprove the desire for a less technologically governed life.
+
+**Purity** would be the wrong standard.
+
+[
+
+Failed Field Analysts: Savonarola and the Purity Machine
+
+He saw the rot and took fire for medicine.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-06d89f76-ab44-4de7-958f-d701a935be8b.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Power_to_people_3-fcc96504-f928-40b9-94c6-ce6e434da1e4.webp)
+
+](https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/)
+
+The cabin deserves to be read as an experiment.
+
+Kaczynski was testing whether a human being could recover direct relation to subsistence, weather, land, skill, time, and material consequence by reducing the number of systems standing between action and continuance.
+
+That experiment contains useful evidence.
+
+-   A life can require less infrastructure than modern institutions imply.
+-   Solitude can contain discipline.
+-   Material competence can create forms of agency consumer life suppresses.
+-   Time outside administrative scheduling can reveal how much of ordinary urgency is constructed.
+-   Direct dependence on place can sharpen ecological contact.
+-   A person can reject a prestigious route without becoming incapable of serious thought.
+
+The cabin was a real path for _him_.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-517.png)
+
+That does not make it a species-level answer.
+
+* * *
+
+The cabin was never outside the field.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-516.png)
+
+-   It had a location governed by property relations.
+-   It depended on manufactured objects.
+-   Kaczynski used roads and public libraries.
+-   He purchased supplies.
+-   He corresponded through the mail.
+-   He relied on books produced through large systems of writing, paper, printing, transport, cataloging, preservation, and public access.
+-   He occasionally entered wage labor.
+-   His physical safety remained partly connected to a society whose medicine, emergency systems, law, and infrastructure he rejected at the level of theory.
+
+None of this makes the cabin _fraudulent_.
+
+It makes the cabin relational.
+
+[
+
+Moonlight with Figures: The Ghost Dance
+
+The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-3d1985ba-6e85-4814-9aa5-0aa2106f87b2.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/image-231-1-1-1-1-a74db405-c757-4cc4-b9a9-e1388a94108c.png)
+
+](https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/)
+
+Kaczynski’s life proved that partial withdrawal was reachable for one unusually capable person under specific conditions.
+
+It definitely did not prove that civilization could be dismantled without destroying the continuance of people whose routes through life differ from his.
+
+The cabin could sustain **Kaczynski**.
+
+It could not sustain:
+
+-   a neonatal intensive-care unit;
+-   a city’s water treatment;
+-   insulin production;
+-   a dialysis network;
+-   a vaccine supply chain;
+-   a power grid during extreme weather;
+-   a person requiring mechanical ventilation;
+-   millions of people living where subsistence land is unavailable;
+-   an ecology already damaged beyond recovery through simple withdrawal;
+-   the archive of technical knowledge required to maintain or repair the systems now embedded in human continuance.
+
+Kaczynski treated these dependencies as evidence against industrial society.
+
+Wrong.
+
+They are evidence against **careless collapse**.
+
+A dependency can be unjust, coercive, brittle, badly governed, and still carry lives that cannot survive its sudden removal.
+
+The ethical task is therefore larger than "escape."
+
+[
+
+Tales of Distortion: Morpheus
+
+The prison was always real.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-a69612d7-230e-4934-b946-433f2bcf895b.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/iermage-56175b0e-fb4d-4423-a69c-79d58151a975.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-morpheus/)
+
+It requires transition.
+
+Kaczynski did not build one. He could not.
+
+The cabin became a personal proof promoted into a civilizational command.
+
+* * *
+
+Then the cabin acquired another function.
+
+It became a **command station**.
+
+From the cabin, Kaczynski designed devices intended to project his will into rooms he could not enter and toward people he did not know. He could remain geographically withdrawn while acting causally across the country.
+
+The postal system carried the weapon.
+
+Universities, airlines, roads, address systems, professional directories, printing, libraries, and national media helped produce the target field.
+
+Kaczynski used industrial society’s connective tissue to attack industrial society’s connective tissue.
+
+Again, _hypocrisy_ is too small.
+
+The deeper contradiction concerns **control**.
+
+The cabin was _supposed_ to recover autonomy from a world governed at a distance.
+
+But from the cabin, Kaczynski governed strangers at a distance.
+
+* * *
+
+## VI. The System Receives a Capital Letter.
+
+Kaczynski’s strongest analysis became dangerous when **industrial-technological society** hardened into **the System**.
+
+A **system** is a useful analytical object.
+
+It allows the observer to trace relations that disappear when every technology is treated separately.
+
+The **car** belongs to roads, fuel, zoning, insurance, employment, policing, pollution, housing, logistics, manufacturing, debt, and war.
+
+The **computer** belongs to electricity, mining, chips, software, data, labor, networks, standards, surveillance, education, finance, and administration.
+
+A **medical device** belongs to research, regulation, hospitals, training, supply chains, insurance, maintenance, energy, and patient trust.
+
+The _system_ concept reveals coupled dependence.
+
+Then, the capital letter begins doing moral work.
+
+Kaczynski argued that technological civilization could not be reformed to preserve meaningful freedom. Reforms moving against the system’s developmental direction would remain temporary. Successful technical adoption would create new dependence. Society would repeatedly choose immediate utility over long-term autonomy. The only sufficient answer was revolution against the economic and technological basis of industrial life.
+
+This produces a theory with _extraordinary_ explanatory resilience.
+
+-   A harmful technology proves the system is harmful.
+-   A beneficial technology proves the system is seductive.
+-   A reform failure proves reform is impossible.
+-   A reform success proves the system can absorb resistance.
+-   Greater freedom in one region proves the system can tolerate local variation while deepening global control.
+-   Public approval proves adaptation.
+-   Public opposition proves stress inside the system.
+-   Psychological care proves behavioral management.
+-   Ecological policy proves temporary stabilization.
+-   Technological restraint proves the system is buying time.
+
+This model can carry every outcome.
+
+Except that is not strength by itself.
+
+A theory able to explain every possible result has lost a major route of correction.
+
+[
+
+Modal Path Ethics Is Doomed
+
+Instruments must disappear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-f68b99b9-bbf9-4176-bb18-923c2da671d0.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/78642-d021fd9d-e98f-4147-9d24-369a4c5e4d6f.jpg)
+
+](https://modalpathethics.com/modal-path-ethics-is-doomed/)
+
+Kaczynski’s system could be confirmed by cruelty, comfort, failure, success, resistance, acceptance, growth, crisis, and reform.
+
+Reality could _enter_.
+
+[
+
+Tales of Distortion: Course 095
+
+The ships did not all make the same mistake at Honda Point. They obeyed the first mistake.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-24c4cbde-bd1d-4993-8d6f-ecbd6d3d7c22.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/hondimages-5d05536d-9221-4020-aa3f-b57ef986d3e4.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/)
+
+It could no longer overrule.
+
+* * *
+
+This is the **sovereignty** transition.
+
+-   The system concept begins as an instrument for seeing distributed causation.
+    -   Then it claims authority over the meaning of every local relation.
+
+A hospital preserving a life becomes **system maintenance**.
+
+A parent using technology to care for a child becomes **dependence reproduction**.
+
+A disabled person gaining mobility becomes **adaptation to technical civilization**.
+
+A worker preferring specialized labor becomes **a successfully socialized component**.
+
+A community winning a regulatory limit becomes **evidence that pressure has been managed**.
+
+The instrument no longer asks what the relation does to the actual locus.
+
+It just decides the answer from the system-level model.
+
+Kaczynski correctly rejected the belief that local benefit settles the ethics of an instrument.
+
+He then committed the **inverse** error.
+
+-   Systemic suspicion settled the meaning of local benefit.
+
+The person receiving care became less authoritative about care than this analyst who has classified the care as dependency.
+
+This is exactly how an anti-sovereign theory becomes sovereign.
+
+* * *
+
+## VII. Collapse.
+
+The manifesto admits that collapse would be **_terrible_**.
+
+[
+
+Applied Case: The Second Battle of Hoover Dam
+
+Spoilers for Fallout: New Vegas. Failed Field Analysts: Colonel Moore \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-610ebece-89b6-4206-84d6-44da54423967.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/DraKulis---Fallout-New-Vegas---Full-Game-Playthrough---350--Mods---4K--KR1QwSYtZug---1280x720---2m33s--a1154a15-39af-4604-9575-96e9842675f4.png)
+
+](https://modalpathethics.com/the-second-battle-for-hoover-dam/)
+
+That admission is often used in Kaczynski’s defense.
+
+He understood that the failure of industrial civilization would cause enormous suffering. His argument was temporal: the system’s continued growth would deepen dependence, expand ecological damage, increase control, and make eventual breakdown even worse.
+
+If collapse was coming, sooner would close less than later.
+
+This is the strongest version of the case.
+
+It cannot be answered by saying collapse has costs.
+
+Kaczynski knew.
+
+The question is **how he assigned** those costs.
+
+He treated industrial civilization as a path whose endpoint was domination or catastrophe. The continued existence of the system became a greater threat than the transition required to destroy it.
+
+Once _that_ ordering was established, present lives entered as transition burden.
+
+-   The sick.
+-   The disabled.
+-   The very young.
+-   The very old.
+-   The geographically concentrated.
+-   The people without land.
+-   The people whose communities have already lost subsistence knowledge.
+-   The people dependent on clean water systems, refrigeration, medicine, sanitation, communication, transport, and climate control.
+-   The people whose bodies industrial society has harmed and whose survival now depends on other products of the same civilization.
+
+Their vulnerability did not defeat the collapse theory.
+
+It became evidence of how badly the system had trapped them.
+
+That answer contains truth.
+
+It also abandons them.
+
+* * *
+
+-   A field can create dependency and still acquire obligations through that dependency.
+
+This is one of the most difficult rules in Modal Path Ethics.
+
+An institution may have produced the vulnerability it now supports.
+
+That does not make withdrawal harmless.
+
+A company can build a town around one employer, exploit the workforce, contaminate the land, suppress alternatives, and make local continuance dependent on its presence.
+
+The answer cannot be:
+
+> The dependence is artificial, so remove the company tomorrow and let the town absorb reality.
+
+The artificial dependence has become extant.
+
+Repair must now preserve the people while changing the relation.
+
+Kaczynski’s collapse machine just refuses that burden.
+
+It treats the system’s guilt as permission to remove the system before building survivable successor paths.
+
+[
+
+Tales of Distortion: The Great Leap Forward
+
+Somewhere in the conceptual distance between “China needs industrial capacity” and “okay everyone now go outside and harass a bird until it dies,” the field has taken what appears to be a pretty serious wrong turn. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-8f09b038-9d9c-4c4e-961d-2422c8ea82c7.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/-------------------------ea0e7051-ca5b-4fec-b68e-24a4f3743d8d.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/)
+
+This confuses two claims:
+
+-   The current arrangement lacks moral title.
+-   Any transition away from it therefore acquires moral title.
+
+The second does not follow.
+
+An unjust bridge may still be carrying people over the river.
+
+Destroying it proves the bridge was destructible.
+
+[
+
+Tales of Distortion: Münster’s New Jerusalem
+
+Question every Jan. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-26d71c54-ba2c-4da5-bb1b-09ab4a0ea7e0.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/proskynetarion-with-depiction-of-jerusalem-and-scenes-from-the-life-cycles-of-christ-and-theotokos-icon-69538c68-6bc5-4e2b-914f-d7ec50e274bf.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/)
+
+It does not place anyone safely on the other side.
+
+* * *
+
+Kaczynski gave **revolutionary minorities** a special role.
+
+He argued that history is driven by active and determined minorities rather than passive majorities, and that revolution could mobilize commitments too strong for limited reform.
+
+[
+
+Field Instruments: Disruption
+
+Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-c3c9b6cb-9b0e-47b6-9eb3-20f91e28965d.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/5419fb3f69bedd176a724d94-3f830428-4b1f-488a-913c-7a55b65f3359.webp)
+
+](https://modalpathethics.com/field-instruments-disruption/)
+
+That may be historically descriptive.
+
+It is ethically _terrifying_ when paired with **collapse**.
+
+The **active minority** receives:
+
+-   the diagnosis;
+-   the timetable;
+-   the authority to reject reform;
+-   the authority to assign dependence as degradation;
+-   the authority to decide that future catastrophe outweighs present survival;
+-   the authority to impose the transition on people who cannot survive it.
+
+Industrial society may indeed govern without meaningful consent.
+
+Kaczynski’s revolution offered even **less**.
+
+The system made distant decisions over human life.
+
+The collapse machine concentrated the counter-decision in the revolutionary who had correctly identified the system.
+
+-   No wound grants sovereignty over repair.
+-   No diagnosis grants sovereignty over transition.
+-   No prediction of catastrophe grants ownership of everyone living before it.
+
+* * *
+
+## VIII. The Bombing Campaign Was the Power Process.
+
+Kaczynski believed modern civilization deprived people of consequential autonomy.
+
+The bombing campaign returned it to **him**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-518.png)
+
+This is the ugliest structural relation in the case.
+
+The campaign gave him:
+
+-   a goal;
+-   difficulty;
+-   experimentation;
+-   skill development;
+-   risk;
+-   secrecy;
+-   initiative;
+-   control;
+-   measurable effects;
+-   eventual public recognition.
+
+It was the power process in nearly ideal form.
+
+Kaczynski chose the objective.
+
+He designed the method.
+
+He improved the devices.
+
+He selected the targets.
+
+He tested the field.
+
+He observed results through news reports.
+
+He altered later designs.
+
+He remained outside organizational command.
+
+He forced national institutions to respond.
+
+He eventually forced major media to publish his theory.
+
+The bombing campaign gave him the exact relation between personal effort and external consequence that he believed industrial society had taken away.
+
+Other people’s bodies became the consequence.
+
+* * *
+
+The journals recovered from the cabin make this relation difficult to deny.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-519.png)
+
+Kaczynski recorded bomb experiments, outcomes, frustration when devices failed, and satisfaction when they killed. He could experience discomfort over an injury and then reinterpret that discomfort as social conditioning that had to be overcome. The campaign was therefore not an abstract revolutionary duty carried out without personal reward. It answered anger, impotence, grievance, ambition, and the desire to act successfully against a world experienced as controlling.
+
+His theory of the world had already prepared the translation.
+
+Conscience could become **conditioning**.
+
+Restraint could become **system control**.
+
+Ordinary horror at mutilating a stranger could become **evidence that socialization remained active inside him**.
+
+-   The moral signal entered.
+-   The theory reclassified it.
+
+[
+
+Tales of Distortion: The Subway Oracle
+
+The end of the world boarded the Tokyo subway before I was born. Failed Field Analysts: Shoko Asahara.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-d267bb55-056e-4a1a-a7be-efff27cb25ce.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/poster-people-sarin-attack-subway-system-Tokyo-March-1995-697abc37-68aa-4a94-886c-a21af4781d7a.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-the-subway-oracle/)
+
+That is another sealed room.
+
+A **conscience** says:
+
+> You have just destroyed part of another person’s life.
+
+The **collapse machine** answers:
+
+> The system trained you to fear effective resistance.
+
+Once moral inhibition becomes domination, cruelty can wear the costume of recovered autonomy.
+
+Kaczynski did not only argue that industrial society interfered with the power process.
+
+He used the industrial system as the enemy against which his own power process could become meaningful.
+
+[
+
+Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
+
+The federal building was not one body. Applied Case: Ruby Ridge & Waco.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-f071066e-b6cd-4ca2-adeb-38a1165f10dc.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/cdn.griffin-60efa2ea-5021-424c-a73c-08d7c1eb2a02.webp)
+
+](https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/)
+
+The system gave him a total opponent.
+
+The bomb gave him consequential action.
+
+The victim gave him attainment.
+
+* * *
+
+This is why the campaign cannot be honestly defended as communication under desperate conditions.
+
+Kaczynski claimed that extreme action had been required to gain public attention for a neglected argument.
+
+That claim contains a smaller truth.
+
+Public attention **is** structurally unequal. Institutions can ignore critique until disruption imposes cost. Powerful systems often control the routes through which criticism becomes visible. A polite argument may circulate among people already persuaded while the field continues moving.
+
+-   Disruption can be necessary.
+-   Violence against interchangeable strangers is a different instrument.
+
+Kaczynski did not interrupt a machine.
+
+He selected human beings whose professional category could be made to represent that machine and transferred the cost of public attention into them.
+
+The argument acquired reach by closing their futures.
+
+That is publicity through burden transfer.
+
+> The bomb became a printing press.
+
+This is a description of the crime.
+
+It is definitely not a compliment to the press.
+
+* * *
+
+## IX. The Psychiatric Solvent.
+
+Ted Kaczynski’s criminal case became a fight over who would be allowed to explain him.
+
+[
+
+Failed Field Analysts: L. Ron Hubbard and the Sealed Room
+
+Hubbard saw capture clearly enough to build with it, then made the route out of capture pass through an instrument that could not let itself disappear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-c31defe0-5e33-45e9-8a88-637c2d0550d5.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/79004-869a613a-682c-4414-b9bb-701d81a343b4.jpg)
+
+](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/)
+
+His attorneys sought to save him from execution partly through psychiatric evidence. Several defense experts characterized him as suffering from paranoid schizophrenia or related impairment. Kaczynski resisted an approach that would present his political beliefs and crimes as products of mental illness. He wanted ideological agency preserved, even under the threat of death.
+
+The prosecution had its own reasons to emphasize calculation, planning, and criminal responsibility.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-520.png)
+
+A court-appointed psychiatrist found him competent to stand trial and competent to represent himself while also offering a provisional schizophrenia diagnosis.
+
+The judge nevertheless denied Kaczynski’s late request to conduct his own defense.
+
+Shortly afterward, he pleaded guilty and accepted life imprisonment without parole.
+
+This field remains unresolved in public memory.
+
+-   The murderer becomes a patient.
+-   The patient becomes a prophet.
+-   The prophet becomes a murderer again.
+    -   Each category is asked to evict the others.
+
+Modal Path Ethics just refuses the eviction.
+
+A psychiatric condition, where present, belongs to the causal field.
+
+It does not automatically explain the technological critique.
+
+[
+
+Applied Case: The Early AI Religions
+
+The hunger was human. The liturgy was synthetic. The dyad field was always real. r/FractalLegion, “AI Psychosis” II, recursive self-formation
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-e88a5d3c-2955-41c1-9459-91bb9ccff54d.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/AdobeStock_327017992-1-e3eff4f3-01e9-47de-87dc-b3462774f503.jpeg)
+
+](https://modalpathethics.com/applied-case-the-early-ai-religions/)
+
+An ideological critique belongs to the causal field.
+
+It does not prove psychiatric health.
+
+[
+
+Failed Field Analysts: The Nashville Network Bombing
+
+Nothing was repaired here. That sentence is the signature mark of a failed field analyst.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-1c0158b2-6743-4581-a465-7b227377c35a.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-05-18-152758-1-555900c4-d882-4f1e-894e-b20f98a454cb.png)
+
+](https://modalpathethics.com/ffa-the-nashville-network-bombing/)
+
+Careful planning does not prove the absence of illness.
+
+Illness does not erase agency, victims, belief, strategy, or responsibility.
+
+[
+
+Applied Case: The TempleOS
+
+Terry Davis was an anti-field analyst. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-9ab66006-527f-4460-a531-33be2dc990de.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-05-21-003226-9c5eef0f-64f9-4f27-8f6e-75b0ff9fc10c.png)
+
+](https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/)
+
+The article does not need to settle a diagnosis in order to reject **diagnosis** as a solvent.
+
+* * *
+
+The risk of the solvent is visible in how anti-technology belief itself sometimes entered psychiatric interpretation.
+
+One forensic debate turned on whether Kaczynski’s systematized belief about technological domination should count as political philosophy or paranoid delusion. Experts disagreed.
+
+The disagreement was never only medical. **It concerned which kinds of estrangement from modern society remain recognizable as rational**.
+
+Technological civilization has **enormous** power to define functional reality.
+
+-   A person capable of working, consuming, communicating, accepting institutional dependence, and displaying just the right degree of stress is more easily recognized as healthy.
+-   A person who rejects the arrangement can become legible through pathology before their criticism becomes legible through politics.
+
+Kaczynski understood that danger.
+
+His understanding does not make him innocent.
+
+It **does** make crude pathologization analytically **useless**.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-a14b68c7-0e9d-4b8c-8981-c6d144638ce5.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-7be33013-08d3-470f-99f7-7e1db2cdf2dc.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+Saying **he was sick** may answer a legal, clinical, familial, or compassionate question.
+
+It cannot answer:
+
+-   Which technological dependencies did he identify correctly?
+-   Why did reform disappear from his model?
+-   How did autonomy become sovereign?
+-   Why were strangers translated into representatives?
+-   Why did collapse acquire moral authority?
+-   What social conditions make his diagnosis attractive now?
+-   What alternative path could preserve the true fragment without preserving the bomb?
+
+A **diagnosis** cannot carry those questions.
+
+The field still needs an analyst.
+
+* * *
+
+## X. The Harvard Room.
+
+Henry Murray’s Harvard experiments belong in the article.
+
+They cannot be given the whole article.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-521.png)
+
+As a young Harvard student, Kaczynski participated in a long psychological study involving extensive personal assessment. During its central stress procedure, students submitted statements of personal philosophy and were then confronted by an older, prepared opponent instructed to attack their beliefs aggressively. The participants were observed, filmed, and physiologically monitored. They had not been fully informed about what the confrontation would involve.
+
+By current ethical standards, the deception and stress procedures are deeply troubling. Some participants remembered the experience decades later as humiliating and distressing.
+
+The shape is difficult to ignore.
+
+-   A young man gives an institution his worldview.
+    -   The institution turns the worldview into test material.
+        -   A stranger attacks it under controlled conditions.
+-   The institution watches through glass.
+    -   The subject’s body becomes data.
+
+[
+
+Nashville Behavioral Health Treatment Center
+
+Call 833.308.5887 today to learn about our compassionate, expert mental health, and addiction treatment in Nashville, Tennessee.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/cropped-rogers-behavioral-health-favicon-512x512-1-270x270-34c79d51-2a9c-42d6-bc86-0e7c1141aecb.png)Rogers Behavioral Health
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/NashvilleLobby1-e20557ae-cd2a-4115-98fa-f088e06c261b.jpg)
+
+](https://rogersbh.org/locations/nashville/?ref=modalpathethics.com)
+
+Kaczynski later develops a theory in which technical and psychological institutions increasingly adapt human beings to system requirements.
+
+-   The resonance is real.
+-   The causal shortcut is still unavailable.
+
+No evidence establishes that Murray’s experiment produced the bombing campaign. Researchers and biographers disagree over its significance, and retrospective accounts frequently grant the episode more explanatory power than the evidence can support.
+
+Kaczynski’s later ideological formation, personal anger, isolation, environmental experience, family relations, intellectual influences, and deliberate choices occupy a much wider field.
+
+-   The study was an institutional failure.
+-   It does not become an origin bomb.
+
+* * *
+
+The Murray episode can be preserved without turning Kaczynski into a passive product.
+
+-   He was subjected to a bad instrument.
+-   Later, he built worse instruments.
+
+Both statements remain true.
+
+The study may have reinforced distrust of psychology, institutional expertise, surveillance, behavioral control, and scientific authority.
+
+It may have given experiential form to concerns already developing.
+
+It may have mattered intensely, lightly, indirectly, or differently across time.
+
+**None of those possibilities grants title over Hugh Scrutton, Thomas Mosser, Gilbert Murray, or anyone injured by the devices.**
+
+A wound can explain direction.
+
+It cannot own the destination.
+
+This is the same refusal Modal Path Ethics applied to Timothy McVeigh.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-522.png)
+
+-   The state did not need to be innocent at Ruby Ridge or Waco for McVeigh to lack authority over the people inside the Murrah Building.
+-   Harvard did not need to be innocent for Kaczynski to lack authority over the people inside his categories.
+
+The failure of one institution does not appoint the wounded person sovereign over the next field.
+
+* * *
+
+## XI. **_Uncle Ted_** Enters the Feed.
+
+Ted Kaczynski did not disappear into the prison.
+
+He became portable.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-525.png)
+
+The cabin became an image.
+
+The manifesto became a file.
+
+The beard became a meme.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-524.png)
+
+The phrase **industrial society and its future** became a caption deployed beneath malfunctioning software, collapsing infrastructure, artificial-intelligence announcements, environmental destruction, surveillance systems, alienated work, dating apps, smart appliances, biometric gates, and any sufficiently ridiculous object with Bluetooth.
+
+Kaczynski became **Uncle Ted**.
+
+This version is usually funnier than the bombing campaign.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-526.png)
+
+That is part of the danger.
+
+The meme preserves the diagnosis and lowers the cost of carrying the analyst.
+
+A user does not have to endorse murder. They only have to recognize the increasingly ordinary feeling that modern technology is being imposed by institutions nobody can stop.
+
+This meme says:
+
+> Ted had a point.
+
+Often, he did.
+
+Then, that point arrives attached to the image of a man who converted technological criticism into lethal authority.
+
+* * *
+
+Kaczynski’s writing has been appropriated by some ecofascist and other violent extremist subcultures, even though his own position did not map cleanly onto those movements and he rejected several forms of right-wing politics.
+
+His combination of ecological crisis, civilizational collapse, anti-modernity, contempt for reform, revolutionary minority action, and purified autonomy gives later extremists material they can rearrange around their own enemies.
+
+Artificial intelligence has sharpened this afterlife.
+
+[
+
+Applied Case: The Datacenter
+
+The important question is not whether or not the building is, in fact, digital infrastructure.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-098d365f-8d2b-40ea-b6b5-5bf4e9146d8a.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Engie_Feature_2_Image_7.original-8b7b5ab0-e48a-41ba-b36f-5048ad930a59.webp)
+
+](https://modalpathethics.com/applied-case-the-datacenter/)
+
+By 2025 and 2026, researchers and journalists were tracking a more visible field of anti-technology violence and sabotage drawing from several ideological traditions.
+
+Artificial intelligence, data centers, automation, surveillance, robotics, and elite technological control had become common objects around which ecological, anarchist, far-right, anti-government, and other grievances could coordinate.
+
+Kaczynski’s example frequently appears inside that emerging field.
+
+-   This does not mean opposition to artificial intelligence is extremism.
+
+[
+
+Applied Case: The Anti-AI Religion
+
+Purity is not repair. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-708b4517-db24-4600-92f9-8d4cd5b151ba.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/image-1015-1-3cfff2f4-04ff-4c6b-aad6-c2677a60d71f.png)
+
+](https://modalpathethics.com/bad-religion-the-anti-ai-religion/)
+
+That distinction is now **politically urgent**.
+
+The artificial-intelligence field contains:
+
+-   forced adoption;
+-   labor displacement;
+-   copyright extraction;
+-   energy and water burden;
+-   surveillance;
+-   military deployment;
+-   fraudulent inevitability claims;
+-   concentration of power;
+-   dependency on systems people cannot inspect;
+-   the conversion of human work and relation into optimization surfaces;
+-   decisions imposed by companies whose executives treat planetary transition as product strategy.
+
+These are real pressures.
+
+[
+
+Applied Case: The AI Field in 2026
+
+Companion to The Biosphere in 2026. Twelve unrestrained applied cases on the AI buildout, the lab race, the geopolitical competition, and the structural questions of what we are actually doing. Direct rulings. An overall ruling on the current configuration.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-8717ffdb-ccf1-4702-8f20-0dfd4c3b86ad.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-05-11-164119-8b4164a2-19d6-4c8e-bdb8-ffd354b85ac6.png)
+
+](https://modalpathethics.com/ai-2026/)
+
+A broad security category called **anti-technology extremism** can easily begin treating legitimate criticism, protest, labor action, environmental opposition, and resistance to unwanted infrastructure as preliminary stages of violence.
+
+Reporting in 2026 found civil-liberties concerns around exactly this expansion.
+
+Kaczynski therefore produces a double closure.
+
+-   His admirers use the bomb to make technological criticism feel final.
+-   Security institutions use the bomb to make technological criticism feel dangerous.
+
+One side turns him into a saint.
+
+The other turns him into a quarantine sign.
+
+The technological field receives protection from both.
+
+* * *
+
+## XII. The Critique Must Be Taken Away From Him.
+
+Ted Kaczynski cannot be allowed to own anti-technology analysis.
+
+This is one of this article’s central repair tasks.
+
+His bombing campaign gives defenders of technological sovereignty an easy move:
+
+> **Serious opposition ends at the cabin.**
+
+That is false.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-527.png)
+
+The critique of technological dependence is larger than Kaczynski.
+
+So is the critique of industrial alienation, imposed scale, artificial need, expert jurisdiction, ecological destruction, behavioral control, and human adaptation to machinery.
+
+Kaczynski entered a field already populated by labor movements, environmental struggles, disability politics, urban criticism, appropriate-technology movements, anti-nuclear activism, civil-liberties defense, community autonomy, indigenous resistance, institutional reform, democratic socialism, religious restraint, design ethics, public-interest science, and ordinary people just refusing tools that made their lives worse.
+
+Many of these movements contain better instruments precisely because they have to preserve people while changing systems.
+
+They cannot simply **blow up** the relation.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-528.png)
+
+They must carry the lives already inside it.
+
+Kaczynski’s dramatic advantage is that collapse looks cleaner than transition.
+
+**Transition** has:
+
+-   committees;
+-   compromise;
+-   maintenance;
+-   partial victories;
+-   institutional capture;
+-   funding problems;
+-   reversals;
+-   unintended consequences;
+-   annoying allies;
+-   vulnerable dependencies;
+-   people who want different things;
+-   technologies that help and harm simultaneously;
+-   no final moment when the whole machine explodes and freedom walks out wearing work boots.
+
+Transition is structurally humiliating to the revolutionary imagination.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-529.png)
+
+It does not provide one enemy.
+
+It does not provide one act.
+
+It does not provide purity.
+
+It asks the analyst to stay answerable to a damaged field.
+
+Kaczynski did not. He left.
+
+[
+
+Thought Gauntlet VI: The Omelas
+
+This is typically the voice of a field defending its own arrangement, even if some necessity is still real. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-8395b4d4-ab36-4617-b94b-d7a96e26c019.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/should-we-walk-away-from-omelas-v0-qh-Nnyf01gk7-MaBAngw8lJlbcojkBpox47Q3yYeiv8-3d64495e-e7cf-410c-bf8d-ddb5d95c35af.webp)
+
+](https://modalpathethics.com/applied-case-the-omelas/)
+
+Then he mailed instructions back.
+
+* * *
+
+## XIII. The Corrected Instrument.
+
+The true fragment survives.
+
+-   Technology can become a field.
+-   An option can become infrastructure.
+-   Infrastructure can become dependence.
+-   Dependence can narrow refusal.
+-   A system can adapt people to its requirements while continuing to call the adaptation service.
+-   Local usefulness can generate global compulsion.
+-   Technical development can acquire momentum beyond the control of any individual designer or user.
+-   A society can become very capable while losing agency over the direction of its capability.
+
+These insights belong to the public. The **collapse machine** does not.
+
+The corrected instrument begins by replacing **anti-technology** with **corrigible technology**.
+
+The question is no longer:
+
+> Which technologies belong to the system?
+
+The question becomes:
+
+> Under what conditions can this instrument remain answerable to the field it changes?
+
+That audit requires several tests.
+
+### 1\. The Optionality Test.
+
+A technology is optional only where refusal remains a live path.
+
+The presence of an opt-out button proves little.
+
+Ask:
+
+-   Can a person refuse without losing employment?
+-   Can a child refuse without losing education?
+-   Can a patient refuse without losing care?
+-   Can a citizen refuse without losing public access?
+-   Can a community refuse without losing infrastructure or economic survival?
+-   Can a worker refuse without being classified as obsolete?
+-   Can an artist refuse without becoming invisible to the distribution field?
+
+Formal consent inside an environment organized around adoption is weak evidence of freedom.
+
+### 2\. The Dependency Test.
+
+Map what will become difficult to remove after adoption.
+
+-   Which skills will disappear?
+-   Which alternatives will lose investment?
+-   Which institutions will reorganize?
+-   Which physical systems will be redesigned?
+-   Which populations will become dependent?
+-   Which maintenance burdens will accumulate?
+-   Which later decisions will be constrained by the current convenience?
+
+The most important effect of a technology may arrive after people stop treating its presence as a decision.
+
+### 3\. The Adaptation Test.
+
+Ask who is being changed to fit the instrument.
+
+-   Are workers being trained for a better life or reformatted for a production system?
+-   Are children learning, or are they becoming compatible with an assessment machine?
+-   Are patients receiving care, or are they being translated into administratively manageable forms?
+-   Are users gaining capacity, or are they learning how to become predictable inputs?
+-   Is the technology responsive to human variation, or is human variation being classified as friction?
+
+Adaptation can be necessary.
+
+Necessity does not make its direction ethically neutral.
+
+### 4\. The Jurisdiction Test.
+
+The people carrying the transition need standing inside the decision.
+
+A technical expert may understand mechanism.
+
+A company may understand deployment.
+
+A government may understand public coordination.
+
+A worker understands labor.
+
+A patient understands the care relation.
+
+A community understands place.
+
+An ecology answers through material consequence.
+
+None of these perspectives becomes the whole field.
+
+The instrument becomes dangerous when one form of expertise acquires sovereignty over the others.
+
+### 5\. The Exit Test.
+
+Can the technology be slowed, limited, separated, repaired, refused, or decommissioned without abandoning the people made dependent on it?
+
+This is the test Kaczynski failed completely.
+
+He identified systems that could not let themselves disappear.
+
+Then he proposed disappearance without a transition path.
+
+A corrigible technology must carry its own reduction conditions.
+
+-   Interoperability.
+-   Repairability.
+-   Redundancy.
+-   Data portability.
+-   Public records.
+-   Reversible deployment.
+-   Alternative providers.
+-   Non-digital access.
+-   Human review.
+-   Sunset mechanisms.
+-   Worker transition.
+-   Continuity plans for dependent users.
+-   Material routes back out.
+
+The exit has to preserve the person.
+
+Otherwise it is collapse.
+
+### 6\. The Scale Test.
+
+A tool may remain ethical at one scale and become sovereign at another.
+
+A model assisting one clinician differs from a model restructuring an entire healthcare system.
+
+A camera documenting one event differs from a surveillance network.
+
+A vehicle serving a remote household differs from a city designed around compulsory driving.
+
+A small community’s technical instrument differs from infrastructure imposed across millions of people.
+
+Scale changes relation.
+
+The audit must therefore ask when a useful tool becomes environmental law.
+
+### 7\. The Burden Test.
+
+Every technological transition distributes cost.
+
+-   Mining.
+-   Manufacturing.
+-   Energy.
+-   Water.
+-   Waste.
+-   Maintenance.
+-   Training.
+-   Displacement.
+-   Surveillance.
+-   Dependency.
+-   Cognitive adaptation.
+-   Lost alternatives.
+-   Ecological pressure.
+-   Political concentration.
+
+The interface usually appears where the benefit is cleanest.
+
+The burden lives below.
+
+A field-aware technology makes the below authoritative before deployment.
+
+### 8\. The Continuance Test.
+
+Finally:
+
+> What futures does this make reachable?
+
+A technology that expands capability while closing collective agency may be harmful.
+
+A technology that increases efficiency while destroying repairability may be harmful.
+
+A technology that preserves lives through dependencies needs stronger governance, redundancy, and public obligation because those lives now travel through it.
+
+A technology that reduces drudgery while stripping livelihood requires a transition field larger than the product.
+
+-   The correct answer will rarely be **accept everything**.
+-   It will rarely be **destroy everything**.
+
+That is why it is harder than Kaczynski’s machine.
+
+* * *
+
+## XIV. Failed Field Analysts.
+
+Ted Kaczynski was a [Failed Field Analyst](https://modalpathethics.com/tag/failed-field-analysts/).
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-530.png)
+
+That does not mean he saw nothing.
+
+-   He saw technological systems.
+-   He saw optionality decay.
+-   He saw infrastructure becoming necessity.
+-   He saw human beings adjusted to institutional requirements.
+-   He saw autonomy weakened by distant decisions.
+-   He saw environmental destruction converted into a cost of continued operation.
+-   He saw comfort used as an answer to powerlessness.
+-   He saw reforms captured by the systems they tried to constrain.
+-   He saw the growing difficulty of saying no after technical adoption had rebuilt the field around yes.
+
+Those perceptions were real.
+
+Then, he granted them sovereignty.
+
+-   Industrial civilization became one object.
+    -   One object required one opposition.
+        -   Reform became adaptation.
+        -   Care became maintenance.
+        -   Satisfaction became conditioning.
+        -   Dependence became indignity.
+        -   Conscience became social control.
+-   The cabin became proof.
+-   The revolutionary became the authorized interpreter.
+-   The stranger became a category.
+    -   The category became a target.
+        -   Collapse became an exit.
+
+* * *
+
+-   A murderer explains too little.
+-   A prophet excuses too much.
+
+Kaczynski was a field analyst whose strongest perception became dangerous at its boundary.
+
+He understood that human beings were being forced to live inside systems they could not meaningfully govern.
+
+Then, he built a theory **nobody else could meaningfully govern**.
+
+He understood that distant institutions imposed consequences on people who possessed no real control over the decision.
+
+Then, he **imposed consequences from a distant cabin**.
+
+He understood that technological systems reduced living persons to functional components.
+
+Then, he **reduced living persons to representatives of professions, industries, and ideas**.
+
+He understood that modern life could deny the power process.
+
+Then, he restored **his own** power process through strangers’ bodies.
+
+He understood that the system could not let itself disappear.
+
+Then, he designed a repair path in which millions of dependent people might disappear with it.
+
+This instrument caught a true fragment. The instrument could no longer surrender to it. That is the Failed Field Analyst move.
+
+* * *
+
+## Ruling.
+
+Ted Kaczynski saw the trap.
+
+-   A technology enters as an option.
+-   The option reorganizes the field.
+-   The field produces dependence.
+-   Dependence makes refusal harder.
+
+The system adapts human beings to the path it has already opened and calls the adaptation progress.
+
+That diagnosis survives.
+
+The collapse machine does not.
+
+Hugh Scrutton was not a computer.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-531.png)
+
+Thomas Mosser was not public relations.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-532.png)
+
+Gilbert Murray was not industrial forestry.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-533.png)
+
+The injured were not _the technician class_.
+
+They were people whose futures became material for someone else’s recovery of agency.
+
+Kaczynski wanted industrial civilization placed on trial.
+
+He appointed himself judge, transition authority, and execution instrument.
+
+The newspaper printed the argument.
+
+The argument led investigators back to the cabin.
+
+The cabin contained the evidence.
+
+The true fragment remains outside.
+
+> Technology must be made corrigible.
+
+Dependencies must become visible.
+
+Refusal must remain reachable.
+
+People shaped by a system must gain standing over its direction.
+
+Essential instruments must carry obligations to the lives routed through them.
+
+[
+
+The Schizophrenia Firewall (Applied Case)
+
+The Schizophrenia Firewall (Applied Case) \[Lawson, Aidan Edward\] on Amazon.com. \*FREE\* shipping on qualifying offers. The Schizophrenia Firewall (Applied Case)
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/favicon-7256cf36-12cf-4699-93a6-c013d78c8391.ico)AmazonAidan Edward Lawson (Author) Format: Paperback
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/61y4Kqbx6rL._SL1499_-2438e589-bcc5-4b73-823f-ab25b8499ca2.jpg)
+
+](https://www.amazon.com/Schizophrenia-Firewall-Applied-Case/dp/B0H8B838GX/ref=tmm_pap_swatch_0?ref=modalpathethics.com)
+
+No system may call itself inevitable.
+
+No revolutionary may call collapse an exit while other people are still inside.
+
+Ted Kaczynski saw that the machine had become a controller.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-534.png)
+
+Then he built another one.
+
+> An exit purchased with strangers’ lives is another controller.
+
+
+<!-- ARTICLE_END slug="failed-field-analysts-ted-kaczynski-and-the-collapse-machine" -->
 
 
 <!-- ARTICLE_START slug="australia-vs-the-biosphere-the-rabbit-fence" title="Australia vs. the Biosphere: The Rabbit Fence" published_at="2026-07-24T18:42:22.000-05:00" -->
@@ -14,7 +1762,7 @@ updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence
@@ -694,7 +2442,7 @@ updated_at: "2026-07-23T11:35:53.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel
@@ -1752,7 +3500,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness
@@ -2287,7 +4035,7 @@ updated_at: "2026-07-22T13:15:55.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human
@@ -3310,12 +5058,12 @@ title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
 published_at: "2026-07-21T10:00:03.000-05:00"
-updated_at: "2026-07-24T22:07:42.000-05:00"
+updated_at: "2026-07-25T04:38:50.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
-sha256_plaintext: "49079daf29ddbfcbc265b678f655038bb941558107b8b4be79867475f4c28dae"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
+sha256_plaintext: "6378b0fa5423ced1c7b81d9ffee3509d436b9fb8bff771db9ed89f3208b70818"
 ---
 # Field Instruments: Disruption
 
@@ -3333,7 +5081,7 @@ A strange founder leaves the approved route, creates something the old instituti
 -   The credential loses.
 -   The market changes.
 
-The old people who controlled admission discover that history has opened a second door while they were still debating the first applicant. Classic.
+The old people who controlled admission discover that history has opened a second door while they were still debating the first applicant.
 
 A [Guardian feature on Kim Phillips-Fein's new book _Country of Lords_](https://www.theguardian.com/books/2026/jul/21/kim-phillips-fein-country-of-lords?ref=modalpathethics.com) places Thiel at the end of a long American tradition of argument against equality. 
 
@@ -4297,7 +6045,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
@@ -9527,7 +11275,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data
@@ -9808,7 +11556,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9cb6a385202fad5c4c379797d398d59501d9cf12355ee87572877da4609aba14"
 ---
 # The Schizophrenia Firewall Has Been Published
@@ -10005,7 +11753,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine
@@ -11119,7 +12867,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions
@@ -12425,7 +14173,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
@@ -16712,7 +18460,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field
@@ -17806,7 +19554,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -19287,7 +21035,7 @@ updated_at: "2026-07-15T05:30:34.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d070adbbcffbf714d07999f3503a6c57bd8d2a927e076225bd55bdd7ed71beb5"
 ---
 # Failed Field Analysts: Savonarola and the Purity Machine
@@ -21925,7 +23673,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
@@ -22213,7 +23961,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
 ---
 # Applied Case: The Immortal Corpus
@@ -23100,7 +24848,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -24940,7 +26688,7 @@ tags:
   - "SEAM"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -24995,7 +26743,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -25604,7 +27352,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -27926,7 +29674,7 @@ updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -28495,7 +30243,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -29502,7 +31250,7 @@ updated_at: "2026-07-10T05:00:03.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -30119,7 +31867,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -32162,7 +33910,7 @@ updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -32810,7 +34558,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
 ---
 # Simone Weil and the Field Under Force
@@ -33450,7 +35198,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -33991,7 +35739,7 @@ tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -35223,7 +36971,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -35657,7 +37405,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -36290,7 +38038,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -36650,7 +38398,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -37150,13 +38898,13 @@ title: "Tales of Distortion: Münster’s New Jerusalem"
 slug: "tales-of-distortion-munsters-new-jerusalem"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/"
 published_at: "2026-07-05T07:00:15.000-05:00"
-updated_at: "2026-07-05T07:00:14.000-05:00"
+updated_at: "2026-07-25T06:12:45.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -37938,7 +39686,7 @@ That is the movement of sovereignty.
         -   Then it claims the household.
             -   Then it claims the body.
                 -   Then it claims reproduction.
-                    -   Then it claims the right to name [resistance](https://modalpathethics.com/glossary/) as betrayal of God’s future.
+                    -   Then it claims the right to name resistance as betrayal of God’s future.
 
 This failure mode is not unique to religion.
 
@@ -38408,7 +40156,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -38989,7 +40737,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -39600,7 +41348,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -40827,7 +42575,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -41519,7 +43267,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -42158,7 +43906,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -42688,7 +44436,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -43166,7 +44914,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -43747,7 +45495,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -44435,7 +46183,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -44861,7 +46609,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -45145,7 +46893,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -46961,7 +48709,7 @@ tags:
   - "Field Creature"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -47540,7 +49288,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -48051,7 +49799,7 @@ tags:
   - "Field Instruments"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -48357,7 +50105,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -48884,7 +50632,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -48948,7 +50696,7 @@ updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -49032,7 +50780,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -49137,7 +50885,7 @@ tags:
   - "Patch Notes"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -49427,7 +51175,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -49806,7 +51554,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -50331,7 +52079,7 @@ updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -50480,7 +52228,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -50742,7 +52490,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -51054,7 +52802,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -51622,7 +53370,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -52316,7 +54064,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -52901,7 +54649,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -53814,7 +55562,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -54191,7 +55939,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -54793,7 +56541,7 @@ tags:
   - "Supplement"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -55118,7 +56866,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -55638,7 +57386,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -57359,7 +59107,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
 ---
 # Applied Case: Click (2006)
@@ -57831,7 +59579,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)
@@ -58392,7 +60140,7 @@ updated_at: "2026-06-17T14:51:42.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -63769,7 +65517,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -63868,7 +65616,7 @@ updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -64068,7 +65816,7 @@ updated_at: "2026-06-17T00:40:54.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -64754,7 +66502,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -65087,7 +66835,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -66192,7 +67940,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -67546,7 +69294,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -68608,7 +70356,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -69615,7 +71363,7 @@ updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -69674,7 +71422,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -70336,7 +72084,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -71434,7 +73182,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -72945,7 +74693,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -73319,7 +75067,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -73750,7 +75498,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -74048,7 +75796,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -74537,7 +76285,7 @@ updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -77116,7 +78864,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -77764,7 +79512,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -78234,7 +79982,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -81995,7 +83743,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -82546,7 +84294,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -83269,7 +85017,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -83971,7 +85719,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -86420,7 +88168,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -86894,7 +88642,7 @@ updated_at: "2026-05-26T21:08:30.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
 ---
 # Field Instruments: Accounting
@@ -87257,7 +89005,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -88003,7 +89751,7 @@ updated_at: "2026-07-08T18:08:17.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -92789,7 +94537,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
 ---
 # Applied Case: The TempleOS
@@ -93354,7 +95102,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -93921,7 +95669,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -94342,7 +96090,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -94861,7 +96609,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -95403,7 +97151,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -95664,7 +97412,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -96237,7 +97985,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -97452,7 +99200,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -97739,7 +99487,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -98159,7 +99907,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -98674,7 +100422,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -99530,7 +101278,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -100183,7 +101931,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -100942,7 +102690,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -101808,7 +103556,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -102371,7 +104119,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -102603,7 +104351,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -103089,7 +104837,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -103334,7 +105082,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -104173,7 +105921,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -104486,7 +106234,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -104843,7 +106591,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -105079,7 +106827,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -105738,7 +107486,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -106362,7 +108110,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -106649,7 +108397,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -106892,7 +108640,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -107114,7 +108862,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -107536,7 +109284,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -108255,7 +110003,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -108668,7 +110416,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -108947,7 +110695,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -109308,7 +111056,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -109503,7 +111251,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -109928,7 +111676,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -110363,7 +112111,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -110456,7 +112204,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -114298,7 +116046,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -114833,7 +116581,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -115068,7 +116816,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -115289,7 +117037,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -115500,7 +117248,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -115613,7 +117361,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -115888,7 +117636,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -116185,7 +117933,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -116429,7 +118177,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -116634,7 +118382,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -116763,7 +118511,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -116904,7 +118652,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -117013,7 +118761,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -117130,7 +118878,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -117265,7 +119013,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -117356,7 +119104,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -117481,7 +119229,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -117610,7 +119358,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -117715,7 +119463,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -117828,7 +119576,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -117993,7 +119741,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -118138,7 +119886,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -118267,7 +120015,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -118356,7 +120104,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -118427,7 +120175,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -118566,7 +120314,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -118718,7 +120466,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -119328,7 +121076,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -119473,7 +121221,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -119553,7 +121301,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -120006,7 +121754,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -120297,7 +122045,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -120832,7 +122580,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -121308,7 +123056,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -121543,7 +123291,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -121884,7 +123632,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -122181,7 +123929,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -122956,7 +124704,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -123105,7 +124853,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -123236,7 +124984,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -123543,7 +125291,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -124165,7 +125913,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -124302,7 +126050,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -124425,7 +126173,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -124551,7 +126299,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -124780,7 +126528,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -125009,7 +126757,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -125440,7 +127188,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -125565,7 +127313,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -125738,7 +127486,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -126058,7 +127806,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -126517,7 +128265,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th

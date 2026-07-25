@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-25T08:33:31.788Z",
+  "generated_at": "2026-07-25T14:13:26.090Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 188,
+  "article_count": 189,
   "articles": [
+    {
+      "title": "Failed Field Analysts: Ted Kaczynski and the Collapse Machine",
+      "slug": "failed-field-analysts-ted-kaczynski-and-the-collapse-machine",
+      "published_at": "2026-07-25T06:00:47.000-05:00",
+      "updated_at": "2026-07-25T06:00:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/",
+      "excerpt": "He saw the trap and mistook collapse for an exit.",
+      "tags": [
+        "Failed Field Analysts"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md",
+      "mirror_html_path": "/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
+      "sha256_plaintext": "bd4c3a1b3aa7dd62e82d991e2a2fd036701bf2d99a9bd0d54adbb61d49371347"
+    },
     {
       "title": "Australia vs. the Biosphere: The Rabbit Fence",
       "slug": "australia-vs-the-biosphere-the-rabbit-fence",
@@ -73,7 +89,7 @@
       "title": "Field Instruments: Disruption",
       "slug": "field-instruments-disruption",
       "published_at": "2026-07-21T10:00:03.000-05:00",
-      "updated_at": "2026-07-24T22:07:42.000-05:00",
+      "updated_at": "2026-07-25T04:38:50.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-disruption/",
       "excerpt": "Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.",
       "tags": [
@@ -83,7 +99,7 @@
       "mirror_html_path": "/articles/field-instruments-disruption.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html",
-      "sha256_plaintext": "49079daf29ddbfcbc265b678f655038bb941558107b8b4be79867475f4c28dae"
+      "sha256_plaintext": "6378b0fa5423ced1c7b81d9ffee3509d436b9fb8bff771db9ed89f3208b70818"
     },
     {
       "title": "Applied Case: The Brother of Jesus Christ",
@@ -544,7 +560,7 @@
       "title": "Tales of Distortion: Münster’s New Jerusalem",
       "slug": "tales-of-distortion-munsters-new-jerusalem",
       "published_at": "2026-07-05T07:00:15.000-05:00",
-      "updated_at": "2026-07-05T07:00:14.000-05:00",
+      "updated_at": "2026-07-25T06:12:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/",
       "excerpt": "Question every Jan. [L]",
       "tags": [

@@ -3,13 +3,13 @@ title: "Tales of Distortion: Münster’s New Jerusalem"
 slug: "tales-of-distortion-munsters-new-jerusalem"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/"
 published_at: "2026-07-05T07:00:15.000-05:00"
-updated_at: "2026-07-05T07:00:14.000-05:00"
+updated_at: "2026-07-25T06:12:45.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -791,7 +791,7 @@ That is the movement of sovereignty.
         -   Then it claims the household.
             -   Then it claims the body.
                 -   Then it claims reproduction.
-                    -   Then it claims the right to name [resistance](https://modalpathethics.com/glossary/) as betrayal of God’s future.
+                    -   Then it claims the right to name resistance as betrayal of God’s future.
 
 This failure mode is not unique to religion.
 

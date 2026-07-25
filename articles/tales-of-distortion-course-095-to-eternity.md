@@ -8,7 +8,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-25T08:33:31.788Z"
+mirror_generated_at: "2026-07-25T14:13:26.090Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
