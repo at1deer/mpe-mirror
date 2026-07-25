@@ -3,12 +3,12 @@ title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
 published_at: "2026-07-21T10:00:03.000-05:00"
-updated_at: "2026-07-21T11:58:45.000-05:00"
+updated_at: "2026-07-24T22:07:42.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-24T19:58:23.955Z"
-sha256_plaintext: "c3974acb5ba15fbf40d5cf1a42738f7b1d9578f8df51020123b3dcb267019d05"
+mirror_generated_at: "2026-07-25T03:51:28.868Z"
+sha256_plaintext: "49079daf29ddbfcbc265b678f655038bb941558107b8b4be79867475f4c28dae"
 ---
 # Field Instruments: Disruption
 
@@ -528,7 +528,7 @@ A **capacity** can be real and still be deformed into usefulness by damage.
 
 The founder does not receive innocence because the future keeps selecting for his kind of action.
 
-The box has no adequate public receiver. The institutions failed.
+The box has no adequate public receiver.
 
 So the answer is to build a receiver.
 

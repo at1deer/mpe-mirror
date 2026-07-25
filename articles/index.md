@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-24T19:58:23.955Z
+Generated: 2026-07-25T03:51:28.868Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-24 — [Australia vs. the Biosphere: The Rabbit Fence](/articles/australia-vs-the-biosphere-the-rabbit-fence.md) ([HTML](/articles/australia-vs-the-biosphere-the-rabbit-fence.html))
 - 2026-07-23 — [Applied Case: The Tower of Babel](/articles/applied-case-the-tower-of-babel.md) ([HTML](/articles/applied-case-the-tower-of-babel.html))
 - 2026-07-23 — [Applied Case: The Pregnancy Test for Consciousness](/articles/applied-case-the-pregnancy-test-for-consciousness.md) ([HTML](/articles/applied-case-the-pregnancy-test-for-consciousness.html))
 - 2026-07-22 — [Pope Leo and the Optimizable Human](/articles/pope-leo-and-the-optimizable-human.md) ([HTML](/articles/pope-leo-and-the-optimizable-human.html))

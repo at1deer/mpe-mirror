@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 19:58:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 03:51:28 GMT</lastBuildDate>
     
+    <item>
+      <title>Australia vs. the Biosphere: The Rabbit Fence</title>
+      <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.html</guid>
+      <pubDate>Fri, 24 Jul 2026 23:42:22 GMT</pubDate>
+      <description>AUS 0 • BIO 2</description>
+    </item>
+
     <item>
       <title>Applied Case: The Tower of Babel</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-tower-of-babel.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html</guid>
       <pubDate>Sat, 27 Jun 2026 10:01:00 GMT</pubDate>
       <description>People are not only reacting against hype. [Bite-sized]</description>
-    </item>
-
-    <item>
-      <title>The Completion Engine</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html</guid>
-      <pubDate>Sat, 27 Jun 2026 10:01:00 GMT</pubDate>
-      <description>This is where anti-AI critique has one of its strongest points. [Bite-sized]</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-24T19:58:23.955Z",
+  "generated_at": "2026-07-25T03:51:28.868Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 187,
+  "article_count": 188,
   "articles": [
+    {
+      "title": "Australia vs. the Biosphere: The Rabbit Fence",
+      "slug": "australia-vs-the-biosphere-the-rabbit-fence",
+      "published_at": "2026-07-24T18:42:22.000-05:00",
+      "updated_at": "2026-07-24T18:42:22.000-05:00",
+      "canonical_url": "https://modalpathethics.com/australia-vs-the-biosphere-the-rabbit-fence/",
+      "excerpt": "AUS 0 • BIO 2",
+      "tags": [
+        "Australia vs. The Biosphere"
+      ],
+      "mirror_markdown_path": "/articles/australia-vs-the-biosphere-the-rabbit-fence.md",
+      "mirror_html_path": "/articles/australia-vs-the-biosphere-the-rabbit-fence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.html",
+      "sha256_plaintext": "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
+    },
     {
       "title": "Applied Case: The Tower of Babel",
       "slug": "applied-case-the-tower-of-babel",
@@ -57,7 +73,7 @@
       "title": "Field Instruments: Disruption",
       "slug": "field-instruments-disruption",
       "published_at": "2026-07-21T10:00:03.000-05:00",
-      "updated_at": "2026-07-21T11:58:45.000-05:00",
+      "updated_at": "2026-07-24T22:07:42.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-disruption/",
       "excerpt": "Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.",
       "tags": [
@@ -67,7 +83,7 @@
       "mirror_html_path": "/articles/field-instruments-disruption.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html",
-      "sha256_plaintext": "c3974acb5ba15fbf40d5cf1a42738f7b1d9578f8df51020123b3dcb267019d05"
+      "sha256_plaintext": "49079daf29ddbfcbc265b678f655038bb941558107b8b4be79867475f4c28dae"
     },
     {
       "title": "Applied Case: The Brother of Jesus Christ",
