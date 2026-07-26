@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 26 Jul 2026 08:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 14:11:17 GMT</lastBuildDate>
     
+    <item>
+      <title>Failed Field Analysts: Marty Heidegger and the Depth Machine</title>
+      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html</guid>
+      <pubDate>Sun, 26 Jul 2026 11:00:51 GMT</pubDate>
+      <description>A more neutral approach to the man who dug under ethics and lost the ladder. [L]</description>
+    </item>
+
     <item>
       <title>Failed Field Analysts: Ted Kaczynski and the Collapse Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html</link>
@@ -400,14 +408,6 @@ Starring the Notipede: the first Field Creature.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/the-ultimate-human.html</guid>
       <pubDate>Sun, 28 Jun 2026 10:00:51 GMT</pubDate>
       <description>The greatest internet handle ever is now a thought experiment; Applied Case: The Ultimate Human.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Anti-AI Religion</title>
-      <link>https://modal-path-ethics.ghost.io/articles/bad-religion-the-anti-ai-religion.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/bad-religion-the-anti-ai-religion.html</guid>
-      <pubDate>Sat, 27 Jun 2026 13:03:00 GMT</pubDate>
-      <description>Purity is not repair. [L]</description>
     </item>
   </channel>
 </rss>

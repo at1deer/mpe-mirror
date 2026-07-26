@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-26T08:58:56.176Z",
+  "generated_at": "2026-07-26T14:11:17.469Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 189,
+  "article_count": 190,
   "articles": [
+    {
+      "title": "Failed Field Analysts: Marty Heidegger and the Depth Machine",
+      "slug": "failed-field-analysts-marty-heidegger-and-the-depth-machine",
+      "published_at": "2026-07-26T06:00:51.000-05:00",
+      "updated_at": "2026-07-26T06:00:51.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/",
+      "excerpt": "A more neutral approach to the man who dug under ethics and lost the ladder. [L]",
+      "tags": [
+        "Failed Field Analysts"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md",
+      "mirror_html_path": "/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html",
+      "sha256_plaintext": "16355502ef8ba44ae0f7db11acc0b2693ace28e73db5e62c7fb4ddec32d9ae13"
+    },
     {
       "title": "Failed Field Analysts: Ted Kaczynski and the Collapse Machine",
       "slug": "failed-field-analysts-ted-kaczynski-and-the-collapse-machine",
