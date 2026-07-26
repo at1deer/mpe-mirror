@@ -7,7 +7,7 @@ updated_at: "2026-07-26T06:00:51.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-26T14:11:17.469Z"
+mirror_generated_at: "2026-07-26T19:46:26.835Z"
 sha256_plaintext: "16355502ef8ba44ae0f7db11acc0b2693ace28e73db5e62c7fb4ddec32d9ae13"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
