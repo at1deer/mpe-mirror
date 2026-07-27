@@ -7,7 +7,7 @@ updated_at: "2026-07-15T05:30:34.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-26T19:46:26.835Z"
+mirror_generated_at: "2026-07-27T04:24:27.606Z"
 sha256_plaintext: "d070adbbcffbf714d07999f3503a6c57bd8d2a927e076225bd55bdd7ed71beb5"
 ---
 # Failed Field Analysts: Savonarola and the Purity Machine

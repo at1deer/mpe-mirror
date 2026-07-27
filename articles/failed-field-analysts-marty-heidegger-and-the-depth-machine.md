@@ -3,12 +3,12 @@ title: "Failed Field Analysts: Marty Heidegger and the Depth Machine"
 slug: "failed-field-analysts-marty-heidegger-and-the-depth-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/"
 published_at: "2026-07-26T06:00:51.000-05:00"
-updated_at: "2026-07-26T06:00:51.000-05:00"
+updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-26T19:46:26.835Z"
-sha256_plaintext: "16355502ef8ba44ae0f7db11acc0b2693ace28e73db5e62c7fb4ddec32d9ae13"
+mirror_generated_at: "2026-07-27T04:24:27.606Z"
+sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
 
@@ -195,19 +195,13 @@ Heidegger’s **das Man** is often translated as **the they**, **the one**, or *
 
 It is the anonymous authority of ordinary social existence.
 
--   One dresses \*this way.
-
--   One interprets the news \*this way.
-
--   One respects \*these people.
-
--   One avoids \*those people.
-
--   One speaks with \*the accepted degree of seriousness.
-
--   One knows \*which questions make the room uncomfortable.
-
--   One repeats \*the explanation everyone already knows.
+-   One dresses _this way_.
+-   One interprets the news _this way_.
+-   One respects _these people_.
+-   One avoids _those people_.
+-   One speaks with _the accepted degree of seriousness_.
+-   One knows _which questions make the room uncomfortable_.
+-   One repeats _the explanation everyone already knows_.
 
 The **they** does not need a central office. It governs through average intelligibility. It supplies the public answer before the individual has fully encountered the question.
 
@@ -256,7 +250,7 @@ How does one’s ownmost possibility avoid becoming the historical mission of a 
 
 These are not external questions imposed by a hostile moralizer.
 
-They arise from the path Heidegger \*actually took.
+They arise from the path Heidegger _actually took_.
 
 His categories did not simply "fail to stop him."
 
