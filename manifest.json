@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-07-27T15:26:18.392Z",
+  "generated_at": "2026-07-27T20:07:17.896Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 191,
+  "article_count": 192,
   "articles": [
+    {
+      "title": "Applied Case: The Negative Boat",
+      "slug": "applied-case-the-negative-boat",
+      "published_at": "2026-07-27T13:34:27.000-05:00",
+      "updated_at": "2026-07-27T13:34:27.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-negative-boat/",
+      "excerpt": "Who owns a liability after it stops being an asset?",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-negative-boat.md",
+      "mirror_html_path": "/articles/applied-case-the-negative-boat.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-negative-boat.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-negative-boat.html",
+      "sha256_plaintext": "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
+    },
     {
       "title": "Failed Field Analysts: Thomas Szasz and the Myth Machine",
       "slug": "failed-field-analysts-thomas-szasz-and-the-myth-machine",
