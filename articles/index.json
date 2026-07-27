@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-27T10:27:53.438Z",
+  "generated_at": "2026-07-27T15:26:18.392Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 190,
+  "article_count": 191,
   "articles": [
+    {
+      "title": "Failed Field Analysts: Thomas Szasz and the Myth Machine",
+      "slug": "failed-field-analysts-thomas-szasz-and-the-myth-machine",
+      "published_at": "2026-07-27T06:00:05.000-05:00",
+      "updated_at": "2026-07-27T07:05:20.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/",
+      "excerpt": "He saw the prison inside the hospital and tried to free the patient by abolishing the hospital's language.",
+      "tags": [
+        "Failed Field Analysts"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md",
+      "mirror_html_path": "/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html",
+      "sha256_plaintext": "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
+    },
     {
       "title": "Failed Field Analysts: Marty Heidegger and the Depth Machine",
       "slug": "failed-field-analysts-marty-heidegger-and-the-depth-machine",

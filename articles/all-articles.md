@@ -1,6 +1,1567 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-07-27T10:27:53.438Z
+Generated: 2026-07-27T15:26:18.392Z
+
+
+<!-- ARTICLE_START slug="failed-field-analysts-thomas-szasz-and-the-myth-machine" title="Failed Field Analysts: Thomas Szasz and the Myth Machine" published_at="2026-07-27T06:00:05.000-05:00" -->
+
+---
+title: "Failed Field Analysts: Thomas Szasz and the Myth Machine"
+slug: "failed-field-analysts-thomas-szasz-and-the-myth-machine"
+canonical_url: "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/"
+published_at: "2026-07-27T06:00:05.000-05:00"
+updated_at: "2026-07-27T07:05:20.000-05:00"
+tags:
+  - "Failed Field Analysts"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
+sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
+---
+# Failed Field Analysts: Thomas Szasz and the Myth Machine
+
+## The Man Who Would Not Answer.
+
+Michael Chomentowski had been in psychiatric custody for seven years by the time Thomas Szasz entered an Onondaga County courtroom on his behalf.
+
+Seven years is a long time to be awaiting a criminal trial.
+
+It is an even longer time when the trial never comes.
+
+In June 1955, Chomentowski had carried a rifle outside his gas station in Fairmount, New York, while resisting a development project that threatened the property. He fired into the air. Police arrested him for unlawful possession of a dangerous weapon. He was transferred for psychiatric examination before the charge could be tried.
+
+The criminal process then disappeared behind the clinical one.
+
+Two psychiatrists found him incompetent. Other psychiatrists confirmed the finding. Chomentowski’s family advised him to stop cooperating with examinations that appeared to convert every answer into more evidence against him.
+
+So he stopped talking.
+
+**Psychiatry** found this _extremely_ helpful.
+
+His silence became
+
+-   suspiciousness.
+    -   Suspiciousness became paranoia.
+        -   Paranoia confirmed the diagnosis.
+            -   The diagnosis justified continued confinement.
+                -   Continued confinement produced more examinations.
+                    -   The examinations returned to the silence.
+
+A person had entered a machine that could use either speech or silence as fuel.
+
+By 1962, Chomentowski had been confined longer than the prison sentence he might have received if he had been tried and convicted.
+
+He had instead been detained as a **patient**, which gave the arrangement a vocabulary of help and very few of the procedural limits attached to punishment.
+
+Szasz testified that Chomentowski understood the charge and could stand trial.
+
+More important, he asked the question psychiatry preferred to keep outside the room:
+
+> **Whose agent is the psychiatrist?**
+
+-   The patient’s?
+-   The court’s?
+-   The family’s?
+-   The hospital’s?
+-   The frightened public’s?
+-   The profession’s?
+
+The person with the keys usually benefits from leaving this question vague.
+
+Szasz did not.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/_methode_times_prodmigration_web_bin_911c1ad3-bc03-3b9b-9881-075b733cb8f1.webp)
+
+-   A doctor acting for a patient offers a service.
+    -   The patient may accept, refuse, leave, seek another opinion, or decide the service has failed.
+-   A psychiatrist acting for the state can examine, classify, testify, confine, medicate, report, and translate resistance into additional evidence of the condition requiring control.
+
+The white coat remains the same.
+
+The relationship clearly does not.
+
+Szasz saw the prison inside the hospital.
+
+That was the true fragment.
+
+He would spend the rest of his life trying to pull it into public view.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-535.png)
+
+Then, he built a conceptual instrument sharp enough to cut psychiatry’s title away from the patient.
+
+However, it was **also** sharp enough to cut the patient out of the picture.
+
+* * *
+
+## Failed Field Analysts.
+
+A [Failed Field Analyst](https://modalpathethics.com/tag/failed-field-analysts/) is never interesting because he was wrong about everything.
+
+Total error has very little traction. A person who sees nothing usually cannot build an instrument powerful enough to reorganize the field around the mistake.
+
+The dangerous analyst sees something real.
+
+-   [Robert Moses](https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/) saw movement.
+-   [Elizabeth Holmes](https://modalpathethics.com/failed-field-analysts-elizabeth-holmes-and-the-false-path/) saw the access problem in diagnostic medicine.
+-   [Timothy McVeigh](https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/) saw the retaliation machine and climbed inside it.
+-   [L. Ron Hubbard](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/) saw psychiatric capture, hidden suffering, and the need for an interpretive room.
+    -   Then he built a hallway with no outside doors.
+
+Thomas Szasz belongs directly after Hubbard because he saw the same locked ward, but from another direction.
+
+-   Hubbard looked at psychiatric sovereignty and offered a rival grammar of the person.
+-   Szasz looked at psychiatric sovereignty and attacked the legitimacy of the grammar itself.
+
+This difference is enormous.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-536.png)
+
+Szasz did not offer auditing, engrams, spiritual levels, or a proprietary road to freedom. He defended voluntary psychotherapy between consenting adults. He insisted that the client should be able to fire the therapist. He refused to hospitalize unwilling people, prescribe psychiatric drugs in his own practice, or testify that a defendant was relieved of responsibility through mental illness.
+
+He wanted the therapeutic instrument to remain a **service** rather than a **jurisdiction**.
+
+Modal Path Ethics recognizes a genuine repair instinct here.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-f6e9f19c-7062-402d-8ea5-5c08e51b9331.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-f32c43a4-3f8f-4b5e-bca6-164d72d33aac.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+-   A care instrument should know whose agent it is.
+-   A diagnosis should not become a warrant.
+-   A hospital should not become a prison by changing the sign over the entrance.
+-   A physician should not acquire judicial power through medical language.
+-   A person should not lose civil standing because an expert has converted metaphysical disagreement, distress, fear, unusual belief, dependency, or incapacity into a category that **only the expert may interpret**.
+
+Szasz understood all of this.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-537.png)
+
+His failure began when a necessary attack on psychiatric sovereignty became a **total theory of what psychiatric suffering could be**.
+
+-   He saw that the diagnosis was not the person.
+    -   Then, he sometimes wrote as though the diagnosis could refer to _nothing_ in the person except behavior, conflict, metaphor, and social judgment.
+
+The institution had been claiming too much.
+
+Szasz responded by letting the concept of disease claim too **little**.
+
+That is the **Myth Machine**.
+
+* * *
+
+## The Myth.
+
+Thomas Stephen Szasz was born in Budapest in 1920.
+
+His Jewish family left Hungary for the United States in 1938. He studied physics, earned a medical degree, trained in psychoanalysis, and joined the faculty of the State University of New York Upstate Medical Center.
+
+This is important because Szasz did not arrive as an outsider throwing stones at a profession he had never entered.
+
+He was standing **inside psychiatry** when he declared that its central object **did not exist** in the way the profession said it did.
+
+His 1960 essay opened with a direct question:
+
+> Is there such a thing as mental illness?
+
+His answer was no.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-538.png)
+
+The following year, _The Myth of Mental Illness_ made that answer famous.
+
+Szasz’s point was more exact than the title allowed most readers to hear.
+
+-   He did not say human anguish was fictional.
+-   He did not say people never behaved in frightening, confusing, self-destructive, or socially catastrophic ways.
+-   He did not say hallucinations, despair, compulsion, estrangement, terror, or disorganization were fabricated.
+    -   He said the category **illness** had been imported from bodily medicine into a field of conduct, communication, conflict, value, and social relation.
+
+For Szasz, literal **disease** required bodily pathology: structural or functional abnormality in the organism. A **diseased** brain belonged to _neurology_. The **mind** was not an organ.
+
+Therefore, a diseased mind could only be metaphorical, like a _sick joke_, a _sick economy_, or a _sick society_.
+
+Psychiatric diagnosis, in his account, generally began elsewhere.
+
+A person acted, spoke, believed, desired, feared, refused, or suffered in ways that violated expectations held by themselves, their family, a physician, a court, or the wider culture. The psychiatrist named that deviation through medical language.
+
+That name then returned as if it had discovered an **objective disease entity responsible for the original conduct**.
+
+-   The judgment became a diagnosis.
+-   The diagnosis became a cause.
+-   The cause justified treatment.
+    -   Treatment justified authority.
+    -   Authority confirmed that a disease must have been present.
+
+This is a very good little capture machine.
+
+It can operate for years without anyone ever being required to point at the **disease** outside **_the language used to infer it_**.
+
+Szasz called the experiences and conflicts beneath the category **problems in living**.
+
+That phrase became one of his most durable contributions because it returned human difficulty to the field where it actually occurs in real life.
+
+-   A marriage can be collapsing.
+-   A person can hate their work.
+-   A family can be coercive.
+-   A community can punish difference.
+-   A person can be terrified by thoughts they cannot control.
+-   A life can become intolerable under debt, loneliness, grief, sexuality, shame, religious conflict, migration, war, social exclusion, or the impossible expectations of other people.
+
+The medical label can conceal these relations by placing the field problem inside the designated patient.
+
+-   The household becomes _healthy_.
+-   The workplace becomes _healthy_.
+-   The law becomes _healthy_.
+-   The culture becomes _healthy_.
+    -   One person in this clinic has **the disease**.
+
+That is the true fragment in its cleanest form.
+
+Psychiatric diagnosis can absorb a **field conflict** into **a visible body**, label it broken, and send that body away for correction.
+
+* * *
+
+## The Disease Knife.
+
+Szasz gave psychiatry a definition problem it has **never** fully escaped. They just tried to stop talking about it and use nicer language, while slowly abandoning the patients. I happened to notice.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-78a8b456-0998-4f47-bf8d-cc24e0efef9f.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-bee0e458-f02a-40f5-b2a1-1af6fde72a0c.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+-   What exactly **is** the disease?
+
+### Where is it, Doctor?
+
+What makes this pattern an **illness** rather than a _difference_, _vice_, _strategy_, _wound_, _adaptation_, _protest_, _moral conflict_, _social role_, _spiritual event_, or **response to an unlivable environment**?
+
+### Who decides?
+
+### What becomes reachable after the decision?
+
+Psychiatry often answers by pointing to _suffering_ and _impairment_.
+
+That answer has force.
+
+A person who cannot sleep for days, who is terrified by persecutory voices, who cannot maintain food or shelter, who is trapped in compulsive action, who cannot follow a conversation, or who has lost ordinary contact with the people trying to help them may be suffering in a way that deserves clinical attention.
+
+Except Szasz’s response was that _suffering_ and _incapacity_ do not automatically establish **disease**. People _suffer_ from grief, poverty, war, betrayal, imprisonment, and bad government. These are not bodily diseases. Medicine does not acquire jurisdiction over every condition that _hurts_.
+
+Correct again.
+
+So, psychiatry then points toward _biology_.
+
+[
+
+Applied Case: The Pregnancy Test for Consciousness
+
+A simulation is not proof of experience. A substrate is not proof of emptiness.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-ef0cbf48-6bb8-475c-b967-fa56a8d7ca2b.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-22-205817-f0a8951a-dc6f-4976-9ffb-a104271441e9.png)
+
+](https://modalpathethics.com/applied-case-the-pregnancy-test-for-consciousness/)
+
+**Brains** are bodies. Genetics, development, sleep, injury, substances, infection, metabolism, and neurophysiology all affect cognition and behavior. Recurrent psychiatric syndromes do have biological correlates even where no single lesion provides a diagnostic test.
+
+Except Szasz’s response was that if a bodily pathology were discovered, the condition should obviously then be classified as a **brain disease and transferred to neurology**.
+
+This preserved his distinction.
+
+It also made the distinction increasingly circular.
+
+-   If no lesion is known, the condition is not a disease.
+-   If a lesion is found, the condition becomes neurological and therefore was never properly psychiatric.
+
+Psychiatry can lose either way.
+
+That little move is intellectually satisfying when the target is a profession with a record of unearned certainty.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-e4881296-9618-401a-b331-995241147603.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-a9c2359c-49b5-4815-a179-9c817f089ffe.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+It is **less** satisfying when the question is what a person in front of us needs **tonight**.
+
+[
+
+Failed Field Analysts: Ted Kaczynski and the Collapse Machine
+
+He saw the trap and mistook collapse for an exit.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-1eff74b9-af3b-4bed-8e53-b0985e5f61b1.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/CTC-L-UNABOMBER-TED-KACZYNSKI-PLEADS-GUILTY-1998-01-03a108d3-9de1-4847-8482-f4473f05c260.webp)
+
+](https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/)
+
+The knife was also built from an _excessively_ narrow theory of **disease**.
+
+Medicine has never relied on one permanent criterion requiring a visible lesion before suffering and incapacity may be treated as illness.
+
+Migraine, epilepsy, and many other conditions have historically been recognized through characteristic patterns before their mechanisms were settled.
+
+**Disease** concepts are partly biological, partly functional, partly phenomenological, partly historical, and partly practical. They always have been. They can be misused without becoming empty.
+
+-   Szasz was right that diagnostic categories contain judgments.
+    -   He overreached greatly when judgment became **disproof**.
+
+A category can be _value-laden_ and still track a real recurrent structure.
+
+A diagnosis can be politically dangerous and still clinically useful.
+
+A disease concept can be _provisional_ without being **fictional**.
+
+A person can reject the **authority** attached to a label while still using the label to communicate, find peers, receive medication, obtain disability support, explain a recurring pattern, or ask another person to understand the kind of help that has worked before.
+
+[
+
+Aidan Edward Lawson
+
+Aidan Edward Lawson is a writer, game developer, and student living in Tennessee. He graduated from Indian Hills High School in 2014, attended and left Ithaca, Drexel, and several other colleges, earned a diploma in Cinema Production from the Nashville Film Institute, and is currently pursuing a Bachelor’s in
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-ad705ba6-b54f-4484-86fe-7a23e3940f68.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/garrison-petaled-moat-formation.rulebook-2-698b10b6-15ee-4344-96e1-1d6d9a1b11c1.png)
+
+](https://modalpathethics.com/author/)
+
+Szasz wanted to prevent the label from becoming a title deed.
+
+The **title deed** was the correct target.
+
+The **person’s right to describe themselves as ill** was the unacceptable collateral damage here.
+
+* * *
+
+## The Semantic Blackjack.
+
+Szasz was at his strongest when he described what psychiatric language could do after it left the consulting room.
+
+A **diagnosis** is never only a description.
+
+-   It changes who is believed.
+-   It changes how police read fear.
+-   It changes how courts read testimony.
+-   It changes how families read refusal.
+-   It changes how employers read conflict.
+-   It changes how physicians read pain.
+-   It changes how journalists read spiritual language.
+-   It changes how strangers read anger.
+-   It changes how every later disagreement may be routed.
+
+Szasz called psychiatric diagnoses **semantic blackjacks**.
+
+The phrase remains excellent.
+
+-   A police club announces itself as force.
+    -   A diagnosis can strike dignity, credibility, reputation, and liberty while presenting itself as neutral classification.
+
+The designated patient is then placed in a uniquely difficult position.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-af8c9c2b-701d-4d4a-a6a7-c995da657ba8.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-52ac073c-eaa8-420a-8fcc-189ba7b5b516.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+-   Agreement can prove insight into illness.
+-   Disagreement can prove lack of insight.
+-   Fear can prove paranoia.
+-   Calm can prove concealment.
+-   Anger can prove dysregulation.
+-   Restraint can prove flat affect.
+-   Silence can prove suspiciousness.
+-   Speech can prove pressure.
+
+The instrument has a path for every response.
+
+[
+
+Modal Path Ethics Is Doomed
+
+Instruments must disappear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-d41275ca-022a-40e7-bbbb-3fed5c6430d8.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/78642-0739d060-b82b-4129-bde2-0fb592ef0301.jpg)
+
+](https://modalpathethics.com/modal-path-ethics-is-doomed/)
+
+Michael Chomentowski discovered this when refusing to answer became evidence that he should remain confined.
+
+The [Schizophrenia Firewall](https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/) shows the same structure rearing its head again in a later, quieter form.
+
+Psychiatry creates the diagnosis, invokes it when prescribing, hospitalizing, certifying disability, warning families, or claiming emergency authority, then allows outpatient psychiatric clinics to use that same diagnosis as a reason to refuse voluntary care, often while openly pushing the patient toward the hospital.
+
+[
+
+Applied Case: The Schizophrenia Firewall
+
+The law is not asking whether schizophrenia makes you uncomfortable. It is asking whether your exclusion of this class is justified.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-bd1439f3-8bef-480a-9fd5-615810ccfd34.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-05-22-183756-f39948b3-8e47-4d98-abe5-21ed8a60a2a0.png)
+
+](https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/)
+
+This label becomes sovereign in both directions.
+
+-   It authorizes control.
+-   It authorizes abandonment.
+
+The patient is **too psychiatric** to remain free and **too psychiatric** to receive ordinary psychiatry.
+
+Szasz would have understood the obscenity of this idiocy immediately.
+
+[
+
+Amazon.com
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/favicon-0bc7a207-ada8-42cc-8048-968fbf38ed6c.ico)Amazon
+
+
+
+](https://www.amazon.com/Schizophrenia-Firewall-Applied-Case/dp/B0H8B838GX/ref=tmm_pap_swatch_0?ref=modalpathethics.com)
+
+He would **also** have objected to the premise of repairing it through stronger diagnostic medicine.
+
+That is where Modal Path Ethics separates from him.
+
+The problem here is not solved by _deleting schizophrenia from the language_ while people remain unable to find medication continuity, sleep, food, housing, orientation, peer support, voluntary care, or a person who will listen before the police arrive.
+
+[
+
+Tales of Distortion: The Great Leap Forward
+
+Somewhere in the conceptual distance between “China needs industrial capacity” and “okay everyone now go outside and harass a bird until it dies,” the field has taken what appears to be a pretty serious wrong turn. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-bbe186df-d199-4d0e-9716-d85519cacb61.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/-------------------------4e53b422-9fa1-4daf-9859-5b5c7d7a54da.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/)
+
+A semantic blackjack must be taken out of the institution’s hand.
+
+The **handle** may still be useful to the person who needs to point toward the wound.
+
+* * *
+
+## The Therapeutic State.
+
+Szasz’s deepest political idea was the **therapeutic state**.
+
+-   The old state punished in the language of law.
+-   The **_therapeutic state_** controls in the language of health.
+
+The distinction does not make older punishment clean. It identifies a new way authority can disappear into care.
+
+A court says:
+
+> We are restraining you because you violated a law.
+
+A therapeutic institution says:
+
+> We are restraining you because you need help.
+
+-   The first sentence can be brutal.
+-   The second can be harder to contest.
+
+**Punishment** has an accused person, a charge, counsel, evidence, a standard of proof, a sentence, and an ending.
+
+**Civil commitment** can have a patient, an expert opinion, predicted danger, need for treatment, periodic review, and a future release date that remains dependent on the same interpretive institution responsible for the confinement.
+
+The institution does not need to _hate_ the patient.
+
+Good intentions can make the arrangement more durable.
+
+Szasz insisted that involuntary psychiatric hospitalization was imprisonment.
+
+[
+
+Moonlight with Figures: The Ghost Dance
+
+The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-221ff19b-7675-4297-9681-cff28aca0192.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/image-231-1-1-1-1-719abd5f-c087-4683-bf5f-597070b7e2cb.png)
+
+](https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/)
+
+Coercive psychiatrists functioned as judges and jailers while retaining the prestige and moral shelter of _physicians_.
+
+He attacked the insanity defense for a related reason.
+
+The defense **appeared** humane because it spared some defendants ordinary punishment. Yet it _also_ allowed psychiatric experts to determine that a person was outside ordinary responsibility and should enter a medical-legal custody system whose confinement could exceed the sentence attached to the offense.
+
+The person could be declared innocent and remain locked away.
+
+The law had discovered an acquittal with bars.
+
+Szasz wanted the arrangement made honest.
+
+-   If someone committed a crime, then try them under criminal law.
+-   If they did **not** commit a crime, do not imprison them through medicine.
+-   If they wanted psychotherapy, let them purchase or enter psychotherapy voluntarily.
+-   If they wanted drugs, let them take drugs.
+-   If they wanted to stop treatment, the exit belonged to them.
+
+That is an extraordinarily coherent defense of liberty.
+
+However, it is **also** a theory built for a person whose agency can be treated as continuous enough to carry the whole contract.
+
+The field contains harder cases.
+
+[
+
+Applied Case: The Unknown Locus
+
+The unknown locus asks us to hold the field open long enough for truth to arrive, when truth is still reachable.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-48e81be6-8ff8-45a3-8ca2-edb5d971789e.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Wow_signal-cc279918-e220-427f-883a-39758f829cf2.jpg)
+
+](https://modalpathethics.com/applied-case-the-unknown-locus/)
+
+* * *
+
+## Psychiatry Between Consenting Adults.
+
+Szasz rejected the label **anti-psychiatry**.
+
+[
+
+Failed Field Analysts: L. Ron Hubbard and the Sealed Room
+
+Hubbard saw capture clearly enough to build with it, then made the route out of capture pass through an instrument that could not let itself disappear.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-2f993280-88b6-414b-be7d-da9df9a9c205.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/79004-6ca56dc4-1ed6-4183-80a9-3d04a44950a7.jpg)
+
+](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/)
+
+He approved of psychotherapy and psychoanalysis between consenting adults. His official site summarizes the position with unusual clarity: the client must be able to fire the therapist at any time.
+
+That rule is excellent.
+
+A therapist worthy of trust should remain dismissible.
+
+Szasz practiced according to it.
+
+He described the therapist as the patient’s agent. The patient selected the relationship, defined their own interest, chose whether to use the conversation, and decided when to leave. Szasz said he never committed a patient, never treated anyone who did not want to see him, never prescribed psychiatric drugs in his practice, and never testified that a defendant lacked responsibility because of mental illness.
+
+-   The room stayed small.
+-   The instrument stayed local.
+-   The patient owned the door.
+
+This is very close to the repaired auditing room described in [L. Ron Hubbard and the Sealed Room](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/).
+
+A wounded person may need another mind, a disciplined conversation, a method, a private room, and a vocabulary through which previously unmanageable structure becomes reachable.
+
+The helper must not become sovereign over **what the help means**.
+
+Szasz understood this at the level of contract.
+
+His _consulting room_ has one very serious problem.
+
+-   The world outside it remains present.
+
+A person needs money to enter the contract.
+
+They need enough stability to make and keep appointments.
+
+They need housing, transport, time, privacy, language, and some capacity to identify a professional they trust.
+
+They may need medication, medical evaluation, disability support, crisis help, family translation, peer support, or protection from a household that controls the money and transportation.
+
+They may enter an episode in which their preferences are real and morally binding while **_also_** unstable, divided, pressured, or hard to communicate.
+
+They may want help and fear it.
+
+They may ask to leave a room because the room is coercive.
+
+They may ask to leave because the person they trust has become a persecutor inside their current experience.
+
+They may refuse a treatment that has harmed them before.
+
+They may refuse the only intervention likely to restore their capacity to refuse more coherently later.
+
+The _clean bilateral contract_ does not tell us what to do with all of **this**.
+
+It tells us who should own the person.
+
+The person should.
+
+That answer remains foundational.
+
+It does **not** automatically supply the support architecture through which ownership remains usable under severe strain.
+
+A key can belong to someone who cannot currently reach the lock.
+
+The ethical task is to help them reach it without stealing the door.
+
+Szasz defended the key. He did not build enough of the path.
+
+* * *
+
+## The Patient Does Not Disappear.
+
+Szasz repeatedly clarified that the experiences called _mental illness_ were real.
+
+His target was their _classification as disease_.
+
+That clarification should protect him from the cheapest criticism.
+
+He did not look at a terrified person and claim "nothing was happening."
+
+He looked at the relationship among conduct, observer, value, law, and medicine and said psychiatry had misunderstood what kind of happening it was.
+
+The problem is that **kinds** can overlap.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-539.png)
+
+A hallucination can be communication, experience, adaptation, trauma response, spiritual interpretation, neurobiological event, social crisis, and clinical symptom at once.
+
+A delusional belief can carry meaning and still destroy the person’s ability to use evidence safely.
+
+A manic state can contain insight, pleasure, creativity, terror, sleeplessness, grandiosity, spending, conflict, physical risk, and eventual collapse.
+
+A catatonic person is not solved by a better moral vocabulary.
+
+A person who has stopped eating because food has become poisoned within their experienced world may need more than respect for their worldview.
+
+Respect is still required.
+
+[
+
+Applied Case: The Brother of Jesus Christ
+
+Sacred Instruments Capstone. He failed the examination, so he moved the examination to Heaven.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-a49bc69c-95e6-42ec-9730-f9024e8df5e5.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/457ea254-9b74-41c6-91ee-275843c57f4e_6a830088-66d3f52a-3390-4dc2-865e-9b49ed339e3a.webp)
+
+](https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/)
+
+Medicine may also be required.
+
+The false choice between those statements has injured **_generations of people_**.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-47949af6-d6b1-40e5-9d9e-e8da6c6919ed.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-834a72a3-664c-41e4-b341-c82fdd3f9780.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+-   Psychiatry has often treated **meaning** as "noise" around **pathology**.
+-   Some anti-psychiatry has treated **pathology** as "propaganda" around **meaning**.
+
+Problem is, **the person has to live through both theories**.
+
+[
+
+Thought Gauntlet XVII: Moral Uncertainty
+
+Moral theories are your instruments, not your sovereigns.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-d3897453-5188-4550-82e7-d519e0437b0a.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/hq720-b14e0150-4966-402c-9d78-87386ebf1af1.jpg)
+
+](https://modalpathethics.com/applied-case-the-uncertainty-problem/)
+
+Modal Path Ethics begins lower.
+
+-   What has become unreachable?
+    -   Can the person sleep?
+    -   Can they eat?
+    -   Can they maintain shelter?
+    -   Can they distinguish threat from ordinary contact well enough to move safely?
+    -   Can they communicate consent?
+    -   Can they preserve relationships they still value?
+    -   Can they revisit a decision tomorrow?
+    -   Can they continue the life they were trying to live before this state altered the field?
+
+These are questions about agency without worshiping a narrow performance of normality.
+
+They are questions about suffering without granting suffering automatic medical sovereignty.
+
+They are questions about care without turning care into ownership.
+
+Szasz’s _disease knife_ is too blunt for this kind of fine work precisely because it is so sharp at the category boundary.
+
+-   He can tell us that a diagnosis is not a lesion.
+    -   He cannot therefore tell us that the diagnosis tracks no real pattern of damaged reachability.
+
+The **patient** was never the myth.
+
+The _myth_ was that **psychiatry’s name for the patient exhausted what was happening**.
+
+* * *
+
+## The Myth Machine.
+
+The Myth Machine begins with a useful correction:
+
+> A psychiatric diagnosis is not a discovered object sitting cleanly inside the patient.
+
+Then, unfortunately, it continues.
+
+-   The diagnosis is metaphor.
+-   The metaphor is social judgment.
+-   The judgment supports coercion.
+    -   The coercion is the essence of institutional psychiatry.
+        -   Mental illness therefore cannot be a legitimate medical category.
+
+At **this** point, the correction has acquired sovereignty.
+
+[
+
+Field Instruments: Disruption
+
+Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-58959298-b8bd-4ab5-810c-6f22439a9fbc.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/5419fb3f69bedd176a724d94-2807cda9-da0e-48af-9824-3f67208a0dbf.webp)
+
+](https://modalpathethics.com/field-instruments-disruption/)
+
+-   A person says medication helps them.
+    -   The Myth Machine says they are choosing a drug that alters thought and feeling, which they should be free to do, while **denying that the drug treats a disease**.
+-   A person says they become ill in a recurring pattern.
+    -   The Myth Machine says they experience recurring problems in living.
+        -   That was the exact report the Machine just received, rephrased as an answer.
+-   A person says psychosis changes what they can understand and choose.
+    -   The Myth Machine says responsibility cannot be transferred into a medical fiction.
+        -   This does not answer the person.
+-   A family says someone they love has become unreachable.
+    -   The Myth Machine asks whether the family is seeking psychiatric power over an inconvenient person.
+
+**Every warning here can be valuable.**
+
+**Together, they make one instrument the privileged interpreter again.**
+
+**That was exactly the problem, Szasz.**
+
+[![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-540.png)](https://modalpathethics.com/batman/)
+
+_[You know I had to](https://modalpathethics.com/batman/)_
+
+Psychiatry says:
+
+> Your refusal may be illness.
+
+Szasz says:
+
+> Your illness may be a metaphor imposed on conduct.
+
+The person needs the right to tell **both of them** they are wrong.
+
+So, that includes the right to say:
+
+> I am ill.
+
+> I need medicine.
+
+> I do not want medicine.
+
+> The medicine helped.
+
+> The medicine injured me.
+
+> My spiritual account is part of this.
+
+> My spiritual account became dangerous.
+
+> My diagnosis describes something real.
+
+> My diagnosis has been used as a weapon.
+
+> I need help without losing citizenship.
+
+A framework that protects _only_ the refusal of psychiatric language has preserved half the exit.
+
+-   Szasz fought for the patient’s authorship against the doctor.
+    -   Then, his theory could become impatient when the patient used medical language to author themselves.
+
+The _conceptual liberator_ had begun **editing the liberated person’s vocabulary**.
+
+That is the core failure.
+
+* * *
+
+## _Responsibility_ Becomes a Cell.
+
+Szasz treated **responsibility** as the moral foundation of liberty.
+
+This was a direct attack on psychiatric paternalism.
+
+A person declared mentally ill could be denied responsibility in ways that appeared compassionate while also denying adulthood, credibility, contract, privacy, and control over the body.
+
+The patient became a protected object.
+
+-   Protection became administration.
+-   Administration became confinement.
+
+Szasz wanted the person returned to ordinary moral and legal standing.
+
+That was right.
+
+Psychiatric disability should never function as automatic civic childhood.
+
+A person may hold beliefs others consider delusional and still sign a lease, raise a child, vote, write, work, love, refuse treatment, manage medication, practice religion, testify, make art, own property, and understand exactly which clinician has treated them badly.
+
+-   Capacity is task-specific.
+-   Diagnosis is not incapacity.
+
+Szasz’s insistence on responsibility defended this terrain before much of the profession learned to speak convincingly about autonomy.
+
+Then, the theory encountered **_crime_**.
+
+[
+
+Applied Case: The Batman
+
+Modal Path Ethics will suffer this gap no more.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-d19302cf-15b8-4a63-828f-e5498809f70f.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/74111-08706cf4-b485-44d8-8930-84b679d97f47.jpg)
+
+](https://modalpathethics.com/batman/)
+
+-   If mental illness does not negate responsibility, the insanity defense loses its foundation.
+
+Szasz preferred criminal law to psychiatric custody because criminal law at least names force as force.
+
+[
+
+Simone Weil and the Field Under Force
+
+Force turns persons into things. Attention keeps the field from obeying.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-1361faac-a2e9-40aa-80f3-5cacabd1c581.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/79492-83df30a2-e691-436d-819c-5b4189928e71.jpg)
+
+](https://modalpathethics.com/simone-weil-and-the-field-under-force/)
+
+The person receives charges, counsel, proof requirements, and a sentence rather than an indefinite medical judgment about readiness for release.
+
+This critique remains devastating where an insanity acquittal opens confinement longer than the punishment attached to conviction.
+
+Yet legal honesty does not guarantee ethical adequacy.
+
+A person may commit an act while profoundly unable to understand its nature, relate it to ordinary consequence, or govern their action through the capacities the law normally assumes.
+
+The law already recognizes diminished capacities _outside_ psychiatry.
+
+-   Age matters.
+-   Neurological injury matters.
+-   Intoxication sometimes matters.
+-   Coercion matters.
+-   Mistake matters.
+-   Intent matters.
+
+The question is not whether a psychiatrist may announce that disease erased a person. The question is what capacities were actually present during the act.
+
+Szasz attacked the medical answer so completely that he sometimes made the capacity question look like an evasion of responsibility.
+
+That move risks routing a person from the hospital **directly** into the prison.
+
+Prison simply does not restore the agency psychiatry insulted.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-541.png)
+
+It places the person inside another sovereignty machine, one that is frequently less interested in care, more violent, more isolating, and fully willing to let untreated psychosis become misconduct.
+
+The honest jailer remains a jailer.
+
+The repaired path requires a legal instrument capable of recognizing altered agency without converting diagnosis into destiny.
+
+It requires evidence about the actual act and actual capacities.
+
+It requires determinate limits, review, representation, and a path back to ordinary civic status.
+
+It requires treatment that does not depend on pretending custody is medicine.
+
+It requires medicine that does not depend on custody.
+
+Szasz correctly broke the false identity between **illness** and **irresponsibility**.
+
+Except he left too little space for **damaged responsibility**.
+
+A field can preserve agency as a moral fact while recognizing that its exercise has been temporarily, locally, or catastrophically impaired.
+
+That is not an Excuse Machine.
+
+It is contact with the person who was actually there.
+
+* * *
+
+## The Door Into Weather.
+
+Szasz became one of the major intellectual voices against involuntary hospitalization. He helped found the American Association for the Abolition of Involuntary Mental Hospitalization and spent decades arguing that commitment should end rather than improve.
+
+This places him inside the history of deinstitutionalization.
+
+It does not make him the single author of it.
+
+The collapse of the American asylum system had many causes: exposure of institutional abuse, new drugs, disability-rights litigation, fiscal pressure, federal benefit structures, state budget choices, changing professional beliefs, community mental-health policy, family activism, patient activism, and a broad rejection of segregated custody.
+
+The popular story is often too neat.
+
+-   The hospitals closed.
+    -   Patients became homeless.
+        -   Homeless people entered prisons.
+
+Therefore, the hospital should return.
+
+That sequence hides housing policy, poverty, racialized policing, cuts to public services, the criminalization of public survival, and the disabling violence of prison itself. It also romanticizes institutions that many people fought **very hard** to escape.
+
+[
+
+Moonlight with Figures: The Ghost Dance
+
+The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-be54fa06-6fd3-4ba2-8062-4461c56dfc31.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/image-231-1-1-1-1-580fb5dd-bb2d-4507-930c-5b677def1212.png)
+
+](https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/)
+
+-   Deinstitutionalization was a civil-rights achievement.
+-   It was also frequently implemented as budgetary disappearance.
+
+The state discovered that **liberation** was _much_ cheaper when no one built the world outside.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-0a6e55b3-584c-46e9-bf35-15df2ad7c593.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-be9c9d73-7d05-4112-b528-2eb3c38f23bc.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+-   A locked ward closed.
+    -   The person received no housing.
+    -   No durable voluntary clinic.
+    -   No income.
+    -   No medication continuity.
+    -   No crisis house.
+    -   No peer network.
+    -   No family support.
+    -   No transportation.
+    -   No place to go during the night when sleep had vanished and the apartment had become unsafe.
+
+The institution just removed the bed and called the resulting sidewalk community care.
+
+Szasz did not design this betrayal.
+
+His framework was **very** poorly equipped to prevent it.
+
+-   He was brilliant at naming the illegitimacy of forced treatment.
+-   He was less interested in constructing a public obligation to make noncoercive care materially reachable.
+
+Contractual psychotherapy could survive as a voluntary service between two adults.
+
+The person released from a state hospital needed an entire field.
+
+The clean libertarian relation had no obvious owner for that field.
+
+-   Government was dangerous.
+-   Psychiatric medicine was conceptually fraudulent.
+-   Families could be coercive.
+-   Professionals could become agents of third parties.
+-   The market could provide chosen services to people able to purchase them.
+
+The remainder fell through.
+
+[
+
+Tales of Distortion: The Subway Oracle
+
+The end of the world boarded the Tokyo subway before I was born. Failed Field Analysts: Shoko Asahara.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-ebb1f596-fa3a-4e3c-b24b-de37a3179377.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/poster-people-sarin-attack-subway-system-Tokyo-March-1995-13560c44-3215-4874-8f52-5bf25b95d97a.jpg)
+
+](https://modalpathethics.com/tales-of-distortion-the-subway-oracle/)
+
+This is where freedom can become abandonment without anyone needing to _oppose_ freedom.
+
+Abolishing the ward without building the world outside is a door into weather.
+
+* * *
+
+## The Schizophrenia Firewall Returns.
+
+The modern outpatient field reveals why Szasz remains indispensable and entirely insufficient.
+
+-   A person with a schizophrenia-spectrum diagnosis asks for voluntary care.
+    -   The clinic refuses the diagnosis class.
+        -   Medication continuity becomes fragile.
+        -   Trust becomes fragile.
+            -   The family panics.
+            -   The emergency room becomes more reachable.
+            -   Police become more reachable.
+            -   Locked care becomes more reachable.
+                -   The profession claims coercion became necessary because the patient deteriorated.
+                -   The deterioration was partly routed through the profession’s refusal of ordinary care.
+
+Szasz would attack the coercive endpoint.
+
+Modal Path Ethics attacks the full path instead.
+
+-   Voluntary outpatient care has to become easier to reach.
+-   Medication must remain optional in principle and reliably available to the person who chooses it.
+-   Clinics must describe service limits rather than excluding a disabled class.
+-   Peer support, spiritual care, psychotherapy, primary care, housing, crisis alternatives, family help where safe, disability law, and psychiatric medicine must remain available as distinct instruments.
+    -   No one instrument gets the whole person.
+
+This is more plural than psychiatry’s sovereignty.
+
+[
+
+Applied Case: The Early AI Religions
+
+The hunger was human. The liturgy was synthetic. The dyad field was always real. r/FractalLegion, “AI Psychosis” II, recursive self-formation
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-e332129b-c5bf-4ba0-9ed4-d0ee33eb7c77.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/AdobeStock_327017992-1-877b44ca-1031-43be-b113-75f5c7c16cf1.jpeg)
+
+](https://modalpathethics.com/applied-case-the-early-ai-religions/)
+
+It is _**also**_ more plural than Szasz’s abolition of _disease_ language.
+
+-   Szasz preserved the right to refuse the doctor.
+-   The Schizophrenia Firewall reveals the matching right to enter the doctor’s office voluntarily without the diagnosis becoming a moronic barricade.
+
+Those rights belong together.
+
+-   Psychiatry does not get to invoke psychosis when it wants power and abandon psychosis when the patient asks for help.
+-   Szasz does not get to invoke liberty when the patient refuses psychiatry and demote illness when the patient uses psychiatric care to remain free.
+
+The **person** owns both paths.
+
+* * *
+
+## The Enemy of My Enemy Has a Church.
+
+In 1969, Thomas Szasz and the Church of Scientology co-founded the Citizens Commission on Human Rights.
+
+This sentence has been used for decades as a trapdoor.
+
+-   A critic says **Scientology**.
+    -   Szasz disappears through the floor.
+
+That is way too cheap.
+
+Szasz was not a Scientologist. He was an atheist with a libertarian theory of psychiatry, personal responsibility, consensual psychotherapy, and the separation of medicine from state coercion.
+
+Scientology’s war against psychiatry emerged from a rival religious and therapeutic system with its own claims over the mind, spirit, illness, memory, and human freedom.
+
+The two projects were not identical.
+
+They shared an enemy.
+
+That was enough.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-543.png)
+
+Szasz accepted organizational support from a movement willing to attack psychiatry with the scale, money, discipline, publicity, and institutional persistence his academic allies did not possess. He later praised the Citizens Commission on Human Rights as the first organization to build a politically significant international opposition to psychiatry.
+
+The alliance made practical sense.
+
+That is the problem here.
+
+A Failed Field Analyst is often most vulnerable when the useful instrument arrives.
+
+[
+
+Applied Case: The Second Battle of Hoover Dam
+
+Spoilers for Fallout: New Vegas. Failed Field Analysts: Colonel Moore \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-ad3a0fa1-d439-4083-a673-7eff0f762fe2.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/DraKulis---Fallout-New-Vegas---Full-Game-Playthrough---350--Mods---4K--KR1QwSYtZug---1280x720---2m33s--7d862e63-34bd-407d-b5bc-ab02c9a7b5a7.png)
+
+](https://modalpathethics.com/the-second-battle-for-hoover-dam/)
+
+Szasz had just spent **years** warning that institutions smuggle moral commitments into apparently neutral forms.
+
+Then, a religious movement with a **total anti-psychiatric doctrine** offered him a human-rights watchdog.
+
+"The enemy of my enemy" is just not a peer-review process.
+
+-   The Citizens Commission on Human Rights could document genuine abuse.
+    -   It could publicize involuntary treatment, restraint, institutional violence, psychiatric corruption, and the historical crimes respectable organizations preferred to place safely in the past.
+        -   Those functions had value.
+-   The organization **also** carried Scientology’s wider anti-psychiatric theology into public reform work.
+    -   Psychiatry was now not simply a coercive institution requiring civil limits.
+        -   It became a **civilizational enemy** whose destruction would expand the reach of Scientology’s own account of mental and spiritual freedom.
+
+This is the exact distinction drawn in [L. Ron Hubbard and the Sealed Room](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/).
+
+-   **Alternative repair** creates another route and preserves the person’s exits.
+-   **Rival capture** uses the old institution’s crimes as recruitment material for a new sovereign.
+
+Szasz saw the first function and then allied with an institution carrying the second.
+
+This does not make his arguments Scientology arguments.
+
+It **does** show a major failure of field analysis.
+
+-   He asked whose agent the psychiatrist was.
+-   He _should have asked_ whose agent the **watchdog** would become.
+-   The alliance gave Szasz reach.
+-   It gave Scientology legitimacy.
+
+Each could describe the other as useful while leaving the mismatch outside the immediate campaign. The conceptual knife joined a sealed room because both instruments wanted to cut the same lock.
+
+* * *
+
+## Why Psychiatry _Loved_ the Alliance.
+
+Institutional psychiatry benefited from Szasz’s Scientology relationship too.
+
+It received a cute shortcut around its own indictment.
+
+The profession no longer had to answer every civil-liberties argument.
+
+It could just say:
+
+> Scientology.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-544.png)
+
+-   Their locked ward became less visible.
+-   Their forced treatment became less visible.
+-   Their diagnostic blacklist became less visible.
+-   Their indefinite commitment became less visible.
+-   Their patient whose silence counted as illness became less visible.
+
+The critic had made himself easier to quarantine.
+
+This is one reason **Failed Field Analysts** must preserve the true fragment even when the analyst gives the field _every_ excuse to discard it.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-545.png)
+
+-   Szasz’s alliance was a serious error.
+    -   Psychiatry’s use of that error as an alibi was another one.
+
+A bad counter-institution does not sanctify the institution it opposes.
+
+Scientology’s sealed room does not make the psychiatric ward a house of freedom.
+
+The field just contains both.
+
+People harmed by one may still seek refuge in the other.
+
+The _ethical_ task is to build more exits than either sovereignty allows.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-95cda0a8-c965-491b-ba49-0cfb75b7dc2c.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-a6bf17a9-78c3-4eb4-81fd-0fcb9aa9a1c5.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+* * *
+
+## The Honest Fragment.
+
+The Szaszian fragment should now be extracted cleanly.
+
+### 1\. Psychiatric diagnosis is an act.
+
+A **diagnosis** changes the field.
+
+-   It may open treatment, medication, peer recognition, disability support, explanation, and relief.
+-   It may also close credibility, employment, custody, ordinary medical care, legal agency, privacy, and freedom.
+
+The label must therefore be judged by what it does as well as what it describes.
+
+### 2\. Psychiatry always contains values.
+
+No clinical system escapes ethics by using medical vocabulary.
+
+Decisions about normality, danger, capacity, acceptable risk, treatment goals, sexuality, productivity, family relation, spiritual belief, and social conduct all contain values.
+
+The ethical content should be exposed and contested rather than hidden behind the claim that medicine has already settled it.
+
+### 3\. Coercion is not treatment because a clinician performs it.
+
+-   Confinement remains confinement.
+-   Forced medication remains force.
+-   Restraint remains restraint.
+
+A medical purpose may affect the justification.
+
+It does not alter the act into consent.
+
+### 4\. The psychiatrist must declare the principal.
+
+Is this clinician serving the patient, the court, the employer, the insurer, the family, the hospital, the school, the military, or the state?
+
+Dual loyalty cannot be erased by "bedside manner."
+
+Most of you have none anyway.
+
+The patient must know when the person in the room can report, confine, testify, or transfer information to another authority.
+
+### 5\. A care instrument needs an exit.
+
+The person must be able to disagree, seek another view, stop, change methods, refuse a drug, request a drug, bring in a supporter, use spiritual language, reject spiritual language, and revise their interpretation later.
+
+Where emergency limits are imposed, they must remain narrow, reviewable, evidence-bound, time-limited, and aimed at restoring usable agency rather than preserving institutional convenience.
+
+### 6\. Responsibility is not erased by diagnosis.
+
+A psychiatric label does not turn an adult into a child or an object.
+
+The **person** remains a moral and political participant.
+
+Their capacities must be evaluated locally rather than presumed absent from the category.
+
+### 7\. Medicalization can hide the field.
+
+Distress may be carried by housing, debt, discrimination, violence, family capture, isolation, grief, work, spiritual crisis, or an institution that needs the designated patient to remain the problem.
+
+-   Medicine may help.
+-   Medicine must not consume the causal map.
+
+Szasz was right about every one of these.
+
+The article could end here if the patient never needed anything else.
+
+Except the patient does, Szasz.
+
+* * *
+
+## The Corrected Instrument.
+
+The corrected instrument is **bounded psychiatric jurisdiction**.
+
+-   Psychiatry may hold **a role**.
+-   It may not hold **the person**.
+
+Its legitimate tasks can include:
+
+-   evaluating bodily and neurological contributors to altered cognition or behavior;
+-   helping a person understand recurring patterns of distress or incapacity;
+-   offering medication when the person chooses it;
+-   supporting sleep, orientation, communication, and practical agency;
+-   providing psychosis-capable outpatient care;
+-   coordinating with primary care, neurology, housing, disability services, therapy, peer support, family, and spiritual care where the person permits;
+-   documenting disability without converting disability into civic death;
+-   responding to acute danger under legal standards stricter than professional discomfort;
+-   helping the person return from crisis without claiming ownership of the meaning of the crisis.
+
+The limits must be equally explicit.
+
+Psychiatry **does not** own:
+
+-   the final interpretation of a spiritual experience;
+-   the person’s credibility outside the clinic;
+-   the meaning of every unusual belief;
+-   the patient’s political or religious dissent;
+-   the right to convert diagnosis into permanent incapacity;
+-   the right to exclude a diagnosis class from ordinary voluntary care;
+-   the right to call every treatment refusal lack of insight;
+-   the right to call every request for treatment proof that psychiatric authority was always justified;
+-   the right to hide social failure inside an individual chart;
+-   the right to confuse institutional peace with recovery.
+
+A diagnosis becomes a **provisional contact instrument**.
+
+[
+
+Kant and the Corrigible Field
+
+Reason can audit the instrument. It cannot become the field.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-8777477d-da31-4d92-a172-f1f4424e58c7.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/images-92d1755a-7c55-4d1a-934b-188b0c615b56.jpg)
+
+](https://modalpathethics.com/kant-and-the-corrigible-field/)
+
+It can say:
+
+> People with this recurring pattern have sometimes found these interventions useful.
+
+> These risks require attention.
+
+> These bodily conditions should be checked.
+
+> This medication may help and may also harm.
+
+> This person’s current capacity differs across decisions.
+
+> The label does not settle what the experience means.
+
+> The person remains the principal.
+
+This is smaller than the psychiatric title deed.
+
+It is larger than Szasz’s myth.
+
+This leaves room for disease without requiring disease to own the field.
+
+It leaves room for metaphor without treating every symptom as social theater.
+
+It leaves room for medication without making medication obedience.
+
+It leaves room for refusal without converting refusal into abandonment.
+
+It leaves room for emergency action without making emergency the normal route to care.
+
+It leaves room for responsibility without pretending agency cannot be damaged.
+
+It leaves room for the patient to use the word **illness** and remain free.
+
+* * *
+
+## The Instrument Must Be Able to Lose.
+
+Szasz wanted psychiatry to lose its monopoly over the interpretation of madness.
+
+Good. Correct.
+
+The corrected field requires **every** instrument to lose sometimes.
+
+-   Psychiatry can lose to neurology.
+-   Psychiatry can lose to housing.
+-   Psychiatry can lose to grief.
+-   Psychiatry can lose to a priest,
+    -   a friend,
+    -   a peer,
+    -   a family member,
+    -   a labor organizer,
+    -   a lawyer,
+    -   a disability advocate,
+    -   a better clinic,
+    -   a different medication,
+        -   no medication,
+    -   sleep,
+        -   time,
+    -   or the person’s own later account.
+
+Anti-psychiatry must **also** be able to lose.
+
+-   It can lose when medication restores a person’s life.
+-   It can lose when a diagnosis gives someone language that helps.
+-   It can lose when a voluntary hospital stay prevents a more dangerous closure.
+-   It can lose when a clinician understands the body better than the ideology does.
+-   It can lose when a person says:
+
+> I experienced this as illness.
+
+> I want treatment.
+
+> Stop telling me my care is **capitulation**.
+
+Szasz built a theory designed to **make psychiatry lose**.
+
+He did not preserve enough conditions under which **his own theory** should lose.
+
+That is the Failed Field Analyst transition.
+
+-   The true fragment becomes an instrument.
+    -   The instrument becomes a grammar.
+        -   The grammar becomes a boundary.
+            -   The boundary becomes jurisdiction.
+                -   The jurisdiction protects itself from the person it was built to free.
+
+* * *
+
+## Diagnosis.
+
+Thomas Szasz was a **Failed Field Analyst** because he saw psychiatric power at the point where medicine preferred to call it care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-546.png)
+
+-   He saw the doctor becoming a warden.
+-   He saw the hospital becoming a prison.
+-   He saw the court borrowing medical language to weaken ordinary legal protections.
+-   He saw diagnosis becoming a semantic blackjack.
+-   He saw the patient converted into the site where families, institutions, courts, and cultures could deposit conflict.
+-   He saw the alliance between psychiatry and the state becoming a therapeutic government that controlled in the name of health.
+-   He saw that a person could be declared irresponsible and lose liberty through the same gesture.
+-   He saw that voluntary psychotherapy needed confidentiality, contract, local purpose, and an exit owned by the client.
+
+These were major perceptions.
+
+Psychiatry still has not fully answered them.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-b0ee34ab-c406-45c5-850f-498187da9e72.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-a565af96-2bcb-44e9-981c-5e55f635074a.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+Then, the analysis collapsed.
+
+-   Szasz defined disease too narrowly and let that definition govern the whole field.
+-   He exposed the social judgment inside diagnosis and sometimes treated social judgment as evidence that no clinical pattern deserved disease language.
+-   He defended responsibility and left too little room for damaged agency.
+-   He defended voluntary contract and left too much of the care field to private reachability.
+-   He attacked commitment without constructing the material world required to make freedom survivable.
+-   He allied with a rival institution that carried psychiatric criticism into its own sealed spiritual jurisdiction.
+-   He gave patients a weapon against psychiatry and did not always let them choose whether to put it down.
+
+**The Myth Machine** began by saying:
+
+> The diagnosis does not own you.
+
+It ended too often by saying:
+
+> Your illness cannot be what **you** say it is.
+
+That is just way too much jurisdiction for an **anti-jurisdiction theory**.
+
+* * *
+
+## Ruling.
+
+Michael Chomentowski entered custody through a criminal charge.
+
+The charge never reached trial.
+
+Psychiatry received him instead.
+
+His speech became evidence.
+
+His silence became evidence.
+
+His confinement became the condition under which more evidence could be produced.
+
+Thomas Szasz saw the machine.
+
+He walked into court and asked whether the psychiatrist was a healer or a warden.
+
+The question still stands.
+
+[
+
+The Schizophrenia Firewall Has Been Published
+
+Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-6d5b1f78-5c31-412a-bd48-deb2cab28ce2.svg)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-19-175237-1-d8c428c5-fb4c-4291-b4dc-d8b3cb718b81.png)
+
+](https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/)
+
+But so does the person in the room.
+
+Szasz’s true fragment survives:
+
+-   Diagnosis is never only description.
+-   Medical language can hide moral and political judgment.
+-   Coercion remains coercion under clinical intent.
+-   The patient must remain the principal.
+-   A therapist must be dismissible.
+-   A hospital cannot become a prison by calling custody treatment.
+-   A psychiatric label cannot become a warrant over citizenship.
+
+The failure was the _myth_.
+
+Mental illness did not need to be a _perfect natural kind_ for psychiatric suffering to be real.
+
+Psychiatry did not need to own the patient for medicine to help the patient.
+
+Agency did not need to be absolute for the person to remain an agent.
+
+The ward did not need to survive for society to owe the person housing, care, income, medication, friendship, law, and a path through crisis.
+
+Scientology did not become a safe ally at all because psychiatry had become a dangerous enemy.
+
+Szasz saw the prison inside the hospital.
+
+Then, he tried to free the patient by abolishing the hospital’s language.
+
+But the patient was never the myth.
+
+Psychiatry’s claim to own the patient was.
+
+A diagnosis may help describe the wound.
+
+It may not become title to the person.
+
+An abolition may open the door. It must still build somewhere to go.
+
+Thomas Szasz found the key in the doctor’s pocket, threw away the lock, and almost left the patient outside holding the door.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-547.png)
+
+
+<!-- ARTICLE_END slug="failed-field-analysts-thomas-szasz-and-the-myth-machine" -->
 
 
 <!-- ARTICLE_START slug="failed-field-analysts-marty-heidegger-and-the-depth-machine" title="Failed Field Analysts: Marty Heidegger and the Depth Machine" published_at="2026-07-26T06:00:51.000-05:00" -->
@@ -14,7 +1575,7 @@ updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
@@ -1421,7 +2982,7 @@ updated_at: "2026-07-25T06:00:46.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "bd4c3a1b3aa7dd62e82d991e2a2fd036701bf2d99a9bd0d54adbb61d49371347"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine
@@ -3169,7 +4730,7 @@ updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence
@@ -3849,7 +5410,7 @@ updated_at: "2026-07-23T11:35:53.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel
@@ -4907,7 +6468,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness
@@ -5442,7 +7003,7 @@ updated_at: "2026-07-22T13:15:55.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human
@@ -6469,7 +8030,7 @@ updated_at: "2026-07-25T04:38:50.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "6378b0fa5423ced1c7b81d9ffee3509d436b9fb8bff771db9ed89f3208b70818"
 ---
 # Field Instruments: Disruption
@@ -7452,7 +9013,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
@@ -12682,7 +14243,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data
@@ -12963,7 +14524,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9cb6a385202fad5c4c379797d398d59501d9cf12355ee87572877da4609aba14"
 ---
 # The Schizophrenia Firewall Has Been Published
@@ -13160,7 +14721,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine
@@ -14274,7 +15835,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions
@@ -15580,7 +17141,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
@@ -19867,7 +21428,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field
@@ -20961,7 +22522,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -22442,7 +24003,7 @@ updated_at: "2026-07-15T05:30:34.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d070adbbcffbf714d07999f3503a6c57bd8d2a927e076225bd55bdd7ed71beb5"
 ---
 # Failed Field Analysts: Savonarola and the Purity Machine
@@ -25080,7 +26641,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
@@ -25368,7 +26929,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
 ---
 # Applied Case: The Immortal Corpus
@@ -26255,7 +27816,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -28095,7 +29656,7 @@ tags:
   - "SEAM"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -28150,7 +29711,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -28759,7 +30320,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -31081,7 +32642,7 @@ updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -31650,7 +33211,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -32657,7 +34218,7 @@ updated_at: "2026-07-10T05:00:03.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -33274,7 +34835,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -35317,7 +36878,7 @@ updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -35965,7 +37526,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
 ---
 # Simone Weil and the Field Under Force
@@ -36605,7 +38166,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -37146,7 +38707,7 @@ tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -38378,7 +39939,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -38812,7 +40373,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -39445,7 +41006,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -39805,7 +41366,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -40311,7 +41872,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -41563,7 +43124,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -42144,7 +43705,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -42755,7 +44316,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -43982,7 +45543,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -44674,7 +46235,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -45313,7 +46874,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -45843,7 +47404,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -46321,7 +47882,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -46902,7 +48463,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -47590,7 +49151,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -48016,7 +49577,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -48300,7 +49861,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -50116,7 +51677,7 @@ tags:
   - "Field Creature"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -50695,7 +52256,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -51206,7 +52767,7 @@ tags:
   - "Field Instruments"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -51512,7 +53073,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -52039,7 +53600,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -52103,7 +53664,7 @@ updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -52187,7 +53748,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -52292,7 +53853,7 @@ tags:
   - "Patch Notes"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -52582,7 +54143,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -52961,7 +54522,7 @@ tags:
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -53486,7 +55047,7 @@ updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -53635,7 +55196,7 @@ tags:
   - "Supplement"
   - "Entropy Debt Week"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -53897,7 +55458,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -54209,7 +55770,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -54777,7 +56338,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -55471,7 +57032,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -56056,7 +57617,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -56969,7 +58530,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -57346,7 +58907,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -57948,7 +59509,7 @@ tags:
   - "Supplement"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -58273,7 +59834,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -58793,7 +60354,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -60514,7 +62075,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
 ---
 # Applied Case: Click (2006)
@@ -60986,7 +62547,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)
@@ -61547,7 +63108,7 @@ updated_at: "2026-06-17T14:51:42.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -66924,7 +68485,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -67023,7 +68584,7 @@ updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -67223,7 +68784,7 @@ updated_at: "2026-06-17T00:40:54.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -67909,7 +69470,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -68242,7 +69803,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -69347,7 +70908,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -70701,7 +72262,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -71763,7 +73324,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -72770,7 +74331,7 @@ updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -72829,7 +74390,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -73491,7 +75052,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -74589,7 +76150,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -76100,7 +77661,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -76474,7 +78035,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -76905,7 +78466,7 @@ updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -77203,7 +78764,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -77692,7 +79253,7 @@ updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -80271,7 +81832,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -80919,7 +82480,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -81389,7 +82950,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -85150,7 +86711,7 @@ tags:
   - "Field Instruments"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -85701,7 +87262,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -86424,7 +87985,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -87126,7 +88687,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -89575,7 +91136,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -90049,7 +91610,7 @@ updated_at: "2026-05-26T21:08:30.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
 ---
 # Field Instruments: Accounting
@@ -90412,7 +91973,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -91158,7 +92719,7 @@ updated_at: "2026-07-08T18:08:17.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -95944,7 +97505,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
 ---
 # Applied Case: The TempleOS
@@ -96509,7 +98070,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -97076,7 +98637,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -97497,7 +99058,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -98016,7 +99577,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -98558,7 +100119,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -98819,7 +100380,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -99392,7 +100953,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -100607,7 +102168,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -100894,7 +102455,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -101314,7 +102875,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -101829,7 +103390,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -102685,7 +104246,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -103338,7 +104899,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -104097,7 +105658,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -104963,7 +106524,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -105526,7 +107087,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -105758,7 +107319,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -106244,7 +107805,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -106489,7 +108050,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -107328,7 +108889,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -107641,7 +109202,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -107998,7 +109559,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -108234,7 +109795,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -108893,7 +110454,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -109517,7 +111078,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -109804,7 +111365,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -110047,7 +111608,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -110269,7 +111830,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -110691,7 +112252,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -111410,7 +112971,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -111823,7 +113384,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -112102,7 +113663,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -112463,7 +114024,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -112658,7 +114219,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -113083,7 +114644,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -113518,7 +115079,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -113611,7 +115172,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -117453,7 +119014,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -117988,7 +119549,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -118223,7 +119784,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -118444,7 +120005,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -118655,7 +120216,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -118768,7 +120329,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -119043,7 +120604,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -119340,7 +120901,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -119584,7 +121145,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -119789,7 +121350,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -119918,7 +121479,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -120059,7 +121620,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -120168,7 +121729,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -120285,7 +121846,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -120420,7 +121981,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -120511,7 +122072,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -120636,7 +122197,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -120765,7 +122326,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -120870,7 +122431,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -120983,7 +122544,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -121148,7 +122709,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -121293,7 +122854,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -121422,7 +122983,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -121511,7 +123072,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -121582,7 +123143,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -121721,7 +123282,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -121873,7 +123434,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -122483,7 +124044,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -122628,7 +124189,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -122708,7 +124269,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -123161,7 +124722,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -123452,7 +125013,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -123987,7 +125548,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -124463,7 +126024,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -124698,7 +126259,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -125039,7 +126600,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -125336,7 +126897,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -126111,7 +127672,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -126260,7 +127821,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -126391,7 +127952,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -126698,7 +128259,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -127320,7 +128881,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -127457,7 +129018,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -127580,7 +129141,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -127706,7 +129267,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -127935,7 +129496,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -128164,7 +129725,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -128595,7 +130156,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -128720,7 +130281,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -128893,7 +130454,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -129213,7 +130774,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -129672,7 +131233,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-27T10:27:53.438Z"
+mirror_generated_at: "2026-07-27T15:26:18.392Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th

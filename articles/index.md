@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-27T10:27:53.438Z
+Generated: 2026-07-27T15:26:18.392Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-27 — [Failed Field Analysts: Thomas Szasz and the Myth Machine](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md) ([HTML](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html))
 - 2026-07-26 — [Failed Field Analysts: Marty Heidegger and the Depth Machine](/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md) ([HTML](/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html))
 - 2026-07-25 — [Failed Field Analysts: Ted Kaczynski and the Collapse Machine](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md) ([HTML](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html))
 - 2026-07-24 — [Australia vs. the Biosphere: The Rabbit Fence](/articles/australia-vs-the-biosphere-the-rabbit-fence.md) ([HTML](/articles/australia-vs-the-biosphere-the-rabbit-fence.html))
