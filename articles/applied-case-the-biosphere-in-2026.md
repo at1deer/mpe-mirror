@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-28T15:02:32.178Z"
+mirror_generated_at: "2026-07-28T20:03:48.852Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
