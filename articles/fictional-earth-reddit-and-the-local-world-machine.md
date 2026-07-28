@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-28T09:20:05.172Z"
+mirror_generated_at: "2026-07-28T15:02:32.178Z"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine

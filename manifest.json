@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-28T09:20:05.172Z",
+  "generated_at": "2026-07-28T15:02:32.178Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 192,
+  "article_count": 193,
   "articles": [
+    {
+      "title": "Applied Case: The Assassination of Charlie Kirk",
+      "slug": "applied-case-the-assassination-of-charlie-kirk",
+      "published_at": "2026-07-28T05:30:47.000-05:00",
+      "updated_at": "2026-07-28T07:05:28.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/",
+      "excerpt": "The debate tent, the founder-body, and the American enemy business.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-assassination-of-charlie-kirk.md",
+      "mirror_html_path": "/articles/applied-case-the-assassination-of-charlie-kirk.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-assassination-of-charlie-kirk.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-assassination-of-charlie-kirk.html",
+      "sha256_plaintext": "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
+    },
     {
       "title": "Applied Case: The Negative Boat",
       "slug": "applied-case-the-negative-boat",
