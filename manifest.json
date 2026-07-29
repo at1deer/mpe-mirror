@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-07-29T09:24:06.320Z",
+  "generated_at": "2026-07-29T14:55:05.851Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 193,
+  "article_count": 195,
   "articles": [
+    {
+      "title": "Modal Path Ethics Has DoubleVision",
+      "slug": "modal-path-ethics-has-doublevision",
+      "published_at": "2026-07-29T06:00:52.000-05:00",
+      "updated_at": "2026-07-29T06:12:32.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-has-doublevision/",
+      "excerpt": "\"Fill my eyes.\" [AVGN I]",
+      "tags": [
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-has-doublevision.md",
+      "mirror_html_path": "/articles/modal-path-ethics-has-doublevision.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-has-doublevision.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-has-doublevision.html",
+      "sha256_plaintext": "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
+    },
+    {
+      "title": "Field Instruments: Active Information",
+      "slug": "field-instruments-active-information",
+      "published_at": "2026-07-29T05:45:03.000-05:00",
+      "updated_at": "2026-07-29T05:45:02.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-active-information/",
+      "excerpt": "Information is active when its uptake changes reachability.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-active-information.md",
+      "mirror_html_path": "/articles/field-instruments-active-information.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-active-information.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-active-information.html",
+      "sha256_plaintext": "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
+    },
     {
       "title": "Applied Case: The Assassination of Charlie Kirk",
       "slug": "applied-case-the-assassination-of-charlie-kirk",
@@ -204,7 +236,7 @@
       "title": "The Schizophrenia Firewall Has Been Published",
       "slug": "the-schizophrenia-firewall-has-been-published",
       "published_at": "2026-07-19T17:53:55.000-05:00",
-      "updated_at": "2026-07-19T17:53:55.000-05:00",
+      "updated_at": "2026-07-29T07:08:40.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/",
       "excerpt": "Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.",
       "tags": [
@@ -216,7 +248,7 @@
       "mirror_html_path": "/articles/the-schizophrenia-firewall-has-been-published.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html",
-      "sha256_plaintext": "9cb6a385202fad5c4c379797d398d59501d9cf12355ee87572877da4609aba14"
+      "sha256_plaintext": "39af192f242682cfb3485b211d23739d5ad8627f748153be74616321e5c75bb9"
     },
     {
       "title": "Fictional Earth: Reddit and the Local World Machine",

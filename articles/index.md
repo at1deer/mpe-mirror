@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-29T09:24:06.320Z
+Generated: 2026-07-29T14:55:05.851Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-29 — [Modal Path Ethics Has DoubleVision](/articles/modal-path-ethics-has-doublevision.md) ([HTML](/articles/modal-path-ethics-has-doublevision.html))
+- 2026-07-29 — [Field Instruments: Active Information](/articles/field-instruments-active-information.md) ([HTML](/articles/field-instruments-active-information.html))
 - 2026-07-28 — [Applied Case: The Assassination of Charlie Kirk](/articles/applied-case-the-assassination-of-charlie-kirk.md) ([HTML](/articles/applied-case-the-assassination-of-charlie-kirk.html))
 - 2026-07-27 — [Applied Case: The Negative Boat](/articles/applied-case-the-negative-boat.md) ([HTML](/articles/applied-case-the-negative-boat.html))
 - 2026-07-27 — [Failed Field Analysts: Thomas Szasz and the Myth Machine](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md) ([HTML](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html))

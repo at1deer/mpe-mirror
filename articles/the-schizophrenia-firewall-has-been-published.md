@@ -3,14 +3,14 @@ title: "The Schizophrenia Firewall Has Been Published"
 slug: "the-schizophrenia-firewall-has-been-published"
 canonical_url: "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/"
 published_at: "2026-07-19T17:53:55.000-05:00"
-updated_at: "2026-07-19T17:53:55.000-05:00"
+updated_at: "2026-07-29T07:08:40.000-05:00"
 tags:
   - "News"
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-29T09:24:06.320Z"
-sha256_plaintext: "9cb6a385202fad5c4c379797d398d59501d9cf12355ee87572877da4609aba14"
+mirror_generated_at: "2026-07-29T14:55:05.851Z"
+sha256_plaintext: "39af192f242682cfb3485b211d23739d5ad8627f748153be74616321e5c75bb9"
 ---
 # The Schizophrenia Firewall Has Been Published
 
@@ -147,8 +147,6 @@ Fuck another pointless conference where the institution congratulates itself for
 Enjoy the hotel. Enjoy the panel. Enjoy the catered lunch. Enjoy listening to yourselves speak about fucking nothing.
 
 The people outside your little room still need care, "Doctors".
-
-**Fuck you. DO YOUR JOB, or go home and shut the fuck up.**
 
 ### The First Case
 
