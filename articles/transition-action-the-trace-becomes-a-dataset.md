@@ -8,7 +8,7 @@ tags:
   - "Entropy Debt Week"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-30T14:52:44.699Z"
+mirror_generated_at: "2026-07-30T20:04:05.591Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset

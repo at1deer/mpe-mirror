@@ -7,7 +7,7 @@ updated_at: "2026-07-29T05:45:02.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-30T14:52:44.699Z"
+mirror_generated_at: "2026-07-30T20:04:05.591Z"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information

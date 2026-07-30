@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-30T14:52:44.699Z"
+mirror_generated_at: "2026-07-30T20:04:05.591Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma

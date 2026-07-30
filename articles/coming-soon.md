@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-07-30T14:52:44.699Z"
+mirror_generated_at: "2026-07-30T20:04:05.591Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th
