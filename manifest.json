@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-07-30T09:15:24.795Z",
+  "generated_at": "2026-07-30T14:52:44.699Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 195,
+  "article_count": 197,
   "articles": [
+    {
+      "title": "Fictional Earth: LinkedIn and the Acceptable Person Machine",
+      "slug": "fictional-earth-linkedin-and-the-acceptable-person-machine",
+      "published_at": "2026-07-30T06:05:56.000-05:00",
+      "updated_at": "2026-07-30T06:05:56.000-05:00",
+      "canonical_url": "https://modalpathethics.com/fictional-earth-linkedin-and-the-acceptable-person-machine/",
+      "excerpt": "A career becomes acceptable posture.",
+      "tags": [
+        "Fictional Earth"
+      ],
+      "mirror_markdown_path": "/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md",
+      "mirror_html_path": "/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html",
+      "sha256_plaintext": "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
+    },
+    {
+      "title": "The Causal Veil Carries Structure",
+      "slug": "the-c",
+      "published_at": "2026-07-30T06:00:11.000-05:00",
+      "updated_at": "2026-07-30T06:00:10.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-c/",
+      "excerpt": "A Modal Path Ethical response to Kane Baker",
+      "tags": [],
+      "mirror_markdown_path": "/articles/the-c.md",
+      "mirror_html_path": "/articles/the-c.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-c.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-c.html",
+      "sha256_plaintext": "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
+    },
     {
       "title": "Modal Path Ethics Has DoubleVision",
       "slug": "modal-path-ethics-has-doublevision",

@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-30T09:15:24.795Z
+Generated: 2026-07-30T14:52:44.699Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-30 — [Fictional Earth: LinkedIn and the Acceptable Person Machine](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md) ([HTML](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html))
+- 2026-07-30 — [The Causal Veil Carries Structure](/articles/the-c.md) ([HTML](/articles/the-c.html))
 - 2026-07-29 — [Modal Path Ethics Has DoubleVision](/articles/modal-path-ethics-has-doublevision.md) ([HTML](/articles/modal-path-ethics-has-doublevision.html))
 - 2026-07-29 — [Field Instruments: Active Information](/articles/field-instruments-active-information.md) ([HTML](/articles/field-instruments-active-information.html))
 - 2026-07-28 — [Applied Case: The Assassination of Charlie Kirk](/articles/applied-case-the-assassination-of-charlie-kirk.md) ([HTML](/articles/applied-case-the-assassination-of-charlie-kirk.html))
