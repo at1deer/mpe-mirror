@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-07-31T09:25:55.886Z",
+  "generated_at": "2026-07-31T15:04:02.736Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 198,
+  "article_count": 199,
   "articles": [
+    {
+      "title": "Applied Case: Russia and the Buffer Wound",
+      "slug": "applied-case-russia-and-the-buffer-wound",
+      "published_at": "2026-07-31T06:00:22.000-05:00",
+      "updated_at": "2026-07-31T08:51:52.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-russia-and-the-buffer-wound/",
+      "excerpt": "Russia’s security wound is real. Ukraine is not the bandage.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-russia-and-the-buffer-wound.md",
+      "mirror_html_path": "/articles/applied-case-russia-and-the-buffer-wound.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-russia-and-the-buffer-wound.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-russia-and-the-buffer-wound.html",
+      "sha256_plaintext": "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
+    },
     {
       "title": "The End of Moral Philosophy Has an Objective Function",
       "slug": "the-end-of-moral-philosophy-has-an-objective-function",

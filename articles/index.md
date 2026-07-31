@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-31T09:25:55.886Z
+Generated: 2026-07-31T15:04:02.736Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-31 — [Applied Case: Russia and the Buffer Wound](/articles/applied-case-russia-and-the-buffer-wound.md) ([HTML](/articles/applied-case-russia-and-the-buffer-wound.html))
 - 2026-07-31 — [The End of Moral Philosophy Has an Objective Function](/articles/the-end-of-moral-philosophy-has-an-objective-function.md) ([HTML](/articles/the-end-of-moral-philosophy-has-an-objective-function.html))
 - 2026-07-30 — [Fictional Earth: LinkedIn and the Acceptable Person Machine](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md) ([HTML](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html))
 - 2026-07-30 — [The Causal Veil Carries Structure](/articles/the-c.md) ([HTML](/articles/the-c.html))

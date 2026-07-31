@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 31 Jul 2026 09:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:04:02 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Russia and the Buffer Wound</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-russia-and-the-buffer-wound.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-russia-and-the-buffer-wound.html</guid>
+      <pubDate>Fri, 31 Jul 2026 11:00:22 GMT</pubDate>
+      <description>Russia’s security wound is real. Ukraine is not the bandage.</description>
+    </item>
+
     <item>
       <title>The End of Moral Philosophy Has an Objective Function</title>
       <link>https://modal-path-ethics.ghost.io/articles/the-end-of-moral-philosophy-has-an-objective-function.html</link>
@@ -397,14 +405,6 @@ The end of the world acquired a tent.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</guid>
       <pubDate>Thu, 02 Jul 2026 12:00:10 GMT</pubDate>
       <description>A sacred instrument is a door, not a throne.</description>
-    </item>
-
-    <item>
-      <title>Field Tense Logic</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</guid>
-      <pubDate>Wed, 01 Jul 2026 12:30:55 GMT</pubDate>
-      <description>Prior, Branching Time, STIT, and field-tense logic; the new formal language of Modal Path Ethics.</description>
     </item>
   </channel>
 </rss>
