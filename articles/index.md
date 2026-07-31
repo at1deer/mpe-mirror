@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-07-31T04:03:42.968Z
+Generated: 2026-07-31T09:25:55.886Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-07-31 — [The End of Moral Philosophy Has an Objective Function](/articles/the-end-of-moral-philosophy-has-an-objective-function.md) ([HTML](/articles/the-end-of-moral-philosophy-has-an-objective-function.html))
 - 2026-07-30 — [Fictional Earth: LinkedIn and the Acceptable Person Machine](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md) ([HTML](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html))
 - 2026-07-30 — [The Causal Veil Carries Structure](/articles/the-c.md) ([HTML](/articles/the-c.html))
 - 2026-07-29 — [Modal Path Ethics Has DoubleVision](/articles/modal-path-ethics-has-doublevision.md) ([HTML](/articles/modal-path-ethics-has-doublevision.html))

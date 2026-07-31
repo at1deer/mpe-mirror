@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 31 Jul 2026 04:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 09:25:55 GMT</lastBuildDate>
     
+    <item>
+      <title>The End of Moral Philosophy Has an Objective Function</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-end-of-moral-philosophy-has-an-objective-function.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-end-of-moral-philosophy-has-an-objective-function.html</guid>
+      <pubDate>Fri, 31 Jul 2026 09:25:10 GMT</pubDate>
+      <description>Walter Veit abolishes moral facts, then asks utility to govern what remains.</description>
+    </item>
+
     <item>
       <title>Fictional Earth: LinkedIn and the Acceptable Person Machine</title>
       <link>https://modal-path-ethics.ghost.io/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html</link>
@@ -397,14 +405,6 @@ The end of the world acquired a tent.</description>
       <guid>https://modal-path-ethics.ghost.io/articles/field-tense-logic.html</guid>
       <pubDate>Wed, 01 Jul 2026 12:30:55 GMT</pubDate>
       <description>Prior, Branching Time, STIT, and field-tense logic; the new formal language of Modal Path Ethics.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The SCP Foundation</title>
-      <link>https://modal-path-ethics.ghost.io/articles/scp.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/scp.html</guid>
-      <pubDate>Wed, 01 Jul 2026 07:46:54 GMT</pubDate>
-      <description>Cognitohazards, Pataphysics, the Foundation-function. External minds and AI Psychosis.</description>
     </item>
   </channel>
 </rss>
