@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-01T04:02:47.825Z
+Generated: 2026-08-01T08:54:53.706Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-01 — [Field Instruments: The Alarm](/articles/field-instruments-the-alarm-2.md) ([HTML](/articles/field-instruments-the-alarm-2.html))
+- 2026-08-01 — [Applied Case: Psychiatry Before Psychiatry](/articles/applied-case-psychiatry-before-psychiatry.md) ([HTML](/articles/applied-case-psychiatry-before-psychiatry.html))
 - 2026-07-31 — [Applied Case: Russia and the Buffer Wound](/articles/applied-case-russia-and-the-buffer-wound.md) ([HTML](/articles/applied-case-russia-and-the-buffer-wound.html))
 - 2026-07-31 — [The End of Moral Philosophy Has an Objective Function](/articles/the-end-of-moral-philosophy-has-an-objective-function.md) ([HTML](/articles/the-end-of-moral-philosophy-has-an-objective-function.html))
 - 2026-07-30 — [Fictional Earth: LinkedIn and the Acceptable Person Machine](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md) ([HTML](/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html))

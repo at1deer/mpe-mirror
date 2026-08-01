@@ -3,12 +3,12 @@ title: "Failed Field Analysts: Ted Kaczynski and the Collapse Machine"
 slug: "failed-field-analysts-ted-kaczynski-and-the-collapse-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/"
 published_at: "2026-07-25T06:00:47.000-05:00"
-updated_at: "2026-07-25T06:00:46.000-05:00"
+updated_at: "2026-08-01T03:53:45.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-01T04:02:47.825Z"
-sha256_plaintext: "bd4c3a1b3aa7dd62e82d991e2a2fd036701bf2d99a9bd0d54adbb61d49371347"
+mirror_generated_at: "2026-08-01T08:54:53.706Z"
+sha256_plaintext: "4c60861d82e67a86324cd0a329a9c0fc455619afa13432807acb172872d65a47"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine
 
@@ -649,18 +649,6 @@ Kaczynski’s system could be confirmed by cruelty, comfort, failure, success, r
 
 Reality could _enter_.
 
-[
-
-Tales of Distortion: Course 095
-
-The ships did not all make the same mistake at Honda Point. They obeyed the first mistake.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-24c4cbde-bd1d-4993-8d6f-ecbd6d3d7c22.svg)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/hondimages-5d05536d-9221-4020-aa3f-b57ef986d3e4.jpg)
-
-](https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/)
-
 It could no longer overrule.
 
 * * *
@@ -795,18 +783,6 @@ An unjust bridge may still be carrying people over the river.
 
 Destroying it proves the bridge was destructible.
 
-[
-
-Tales of Distortion: Münster’s New Jerusalem
-
-Question every Jan. \[L\]
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-26d71c54-ba2c-4da5-bb1b-09ab4a0ea7e0.svg)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/proskynetarion-with-depiction-of-jerusalem-and-scenes-from-the-life-cycles-of-christ-and-theotokos-icon-69538c68-6bc5-4e2b-914f-d7ec50e274bf.jpg)
-
-](https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/)
-
 It does not place anyone safely on the other side.
 
 * * *
@@ -814,18 +790,6 @@ It does not place anyone safely on the other side.
 Kaczynski gave **revolutionary minorities** a special role.
 
 He argued that history is driven by active and determined minorities rather than passive majorities, and that revolution could mobilize commitments too strong for limited reform.
-
-[
-
-Field Instruments: Disruption
-
-Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-c3c9b6cb-9b0e-47b6-9eb3-20f91e28965d.svg)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/5419fb3f69bedd176a724d94-3f830428-4b1f-488a-913c-7a55b65f3359.webp)
-
-](https://modalpathethics.com/field-instruments-disruption/)
 
 That may be historically descriptive.
 
@@ -950,18 +914,6 @@ Kaczynski did not only argue that industrial society interfered with the power p
 
 He used the industrial system as the enemy against which his own power process could become meaningful.
 
-[
-
-Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
-
-The federal building was not one body. Applied Case: Ruby Ridge & Waco.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-f071066e-b6cd-4ca2-adeb-38a1165f10dc.svg)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/cdn.griffin-60efa2ea-5021-424c-a73c-08d7c1eb2a02.webp)
-
-](https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/)
-
 The system gave him a total opponent.
 
 The bomb gave him consequential action.
@@ -1000,18 +952,6 @@ It is definitely not a compliment to the press.
 ## IX. The Psychiatric Solvent.
 
 Ted Kaczynski’s criminal case became a fight over who would be allowed to explain him.
-
-[
-
-Failed Field Analysts: L. Ron Hubbard and the Sealed Room
-
-Hubbard saw capture clearly enough to build with it, then made the route out of capture pass through an instrument that could not let itself disappear.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-c31defe0-5e33-45e9-8a88-637c2d0550d5.svg)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/79004-869a613a-682c-4414-b9bb-701d81a343b4.jpg)
-
-](https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/)
 
 His attorneys sought to save him from execution partly through psychiatric evidence. Several defense experts characterized him as suffering from paranoid schizophrenia or related impairment. Kaczynski resisted an approach that would present his political beliefs and crimes as products of mental illness. He wanted ideological agency preserved, even under the threat of death.
 

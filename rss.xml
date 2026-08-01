@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 01 Aug 2026 04:02:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 08:54:53 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Instruments: The Alarm</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-the-alarm-2.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-the-alarm-2.html</guid>
+      <pubDate>Sat, 01 Aug 2026 08:29:34 GMT</pubDate>
+      <description>Greta Thunberg was right to wake the building. The alarm still has to surrender the blueprint.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Psychiatry Before Psychiatry</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.html</guid>
+      <pubDate>Sat, 01 Aug 2026 08:28:53 GMT</pubDate>
+      <description>Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.</description>
+    </item>
+
     <item>
       <title>Applied Case: Russia and the Buffer Wound</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-russia-and-the-buffer-wound.html</link>
@@ -389,22 +405,6 @@
       <pubDate>Fri, 03 Jul 2026 11:00:12 GMT</pubDate>
       <description>
 The end of the world acquired a tent.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Deterrence</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-deterrence.html</guid>
-      <pubDate>Thu, 02 Jul 2026 15:30:15 GMT</pubDate>
-      <description>Deterrence is a threat trying to prevent itself from becoming history.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Sacred Instruments</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-sacred-instruments.html</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:10 GMT</pubDate>
-      <description>A sacred instrument is a door, not a throne.</description>
     </item>
   </channel>
 </rss>

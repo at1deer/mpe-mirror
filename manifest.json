@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-01T04:02:47.825Z",
+  "generated_at": "2026-08-01T08:54:53.706Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 199,
+  "article_count": 201,
   "articles": [
+    {
+      "title": "Field Instruments: The Alarm",
+      "slug": "field-instruments-the-alarm-2",
+      "published_at": "2026-08-01T03:29:34.000-05:00",
+      "updated_at": "2026-08-01T03:29:34.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-the-alarm-2/",
+      "excerpt": "Greta Thunberg was right to wake the building. The alarm still has to surrender the blueprint.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/field-instruments-the-alarm-2.md",
+      "mirror_html_path": "/articles/field-instruments-the-alarm-2.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-alarm-2.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-alarm-2.html",
+      "sha256_plaintext": "c8f349f34d8471830424692b3cd8f442eaca53891d6f4334138bd5ca2473545f"
+    },
+    {
+      "title": "Applied Case: Psychiatry Before Psychiatry",
+      "slug": "applied-case-psychiatry-before-psychiatry",
+      "published_at": "2026-08-01T03:28:53.000-05:00",
+      "updated_at": "2026-08-01T03:28:53.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/",
+      "excerpt": "Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-psychiatry-before-psychiatry.md",
+      "mirror_html_path": "/articles/applied-case-psychiatry-before-psychiatry.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.html",
+      "sha256_plaintext": "b1848511e2ea74b29c31c2a33000a77d6d4e54bd0f6c8087d12c5fb3bce53897"
+    },
     {
       "title": "Applied Case: Russia and the Buffer Wound",
       "slug": "applied-case-russia-and-the-buffer-wound",
@@ -167,7 +197,7 @@
       "title": "Failed Field Analysts: Ted Kaczynski and the Collapse Machine",
       "slug": "failed-field-analysts-ted-kaczynski-and-the-collapse-machine",
       "published_at": "2026-07-25T06:00:47.000-05:00",
-      "updated_at": "2026-07-25T06:00:46.000-05:00",
+      "updated_at": "2026-08-01T03:53:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/",
       "excerpt": "He saw the trap and mistook collapse for an exit.",
       "tags": [
@@ -177,7 +207,7 @@
       "mirror_html_path": "/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
-      "sha256_plaintext": "bd4c3a1b3aa7dd62e82d991e2a2fd036701bf2d99a9bd0d54adbb61d49371347"
+      "sha256_plaintext": "4c60861d82e67a86324cd0a329a9c0fc455619afa13432807acb172872d65a47"
     },
     {
       "title": "Australia vs. the Biosphere: The Rabbit Fence",
