@@ -7,7 +7,7 @@ updated_at: "2026-07-31T08:51:52.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-01T08:54:53.706Z"
+mirror_generated_at: "2026-08-01T14:08:28.016Z"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine
