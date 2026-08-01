@@ -3,12 +3,12 @@ title: "Field Instruments: The Alarm"
 slug: "field-instruments-the-alarm-2"
 canonical_url: "https://modalpathethics.com/field-instruments-the-alarm-2/"
 published_at: "2026-08-01T03:29:34.000-05:00"
-updated_at: "2026-08-01T03:29:34.000-05:00"
+updated_at: "2026-08-01T11:37:04.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-01T14:08:28.016Z"
-sha256_plaintext: "c8f349f34d8471830424692b3cd8f442eaca53891d6f4334138bd5ca2473545f"
+mirror_generated_at: "2026-08-01T19:47:13.674Z"
+sha256_plaintext: "e1b3127ecdceca622974f508d5ef21637bc340964f4736479c2c4828238ec128"
 ---
 # Field Instruments: The Alarm
 
@@ -56,12 +56,6 @@ The building already has legs.
 The alarm gives the legs a difference they have been trained to answer.
 
 Greta became one of the most powerful public operators of that difference in modern political life.
-
-Modal Path Ethics should give the alarm its strongest defense.
-
-This is good because the defense is good.
-
-Then the alarm has to be audited after it works.
 
 * * *
 
