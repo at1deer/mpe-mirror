@@ -7,7 +7,7 @@ updated_at: "2026-08-01T20:10:27.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-02T04:06:51.327Z"
+mirror_generated_at: "2026-08-02T08:56:53.859Z"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm
