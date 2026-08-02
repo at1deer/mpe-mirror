@@ -3,12 +3,12 @@ title: "Field Instruments: The Alarm"
 slug: "field-instruments-the-alarm-2"
 canonical_url: "https://modalpathethics.com/field-instruments-the-alarm-2/"
 published_at: "2026-08-01T03:29:34.000-05:00"
-updated_at: "2026-08-01T11:37:04.000-05:00"
+updated_at: "2026-08-01T20:10:27.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-01T19:47:13.674Z"
-sha256_plaintext: "e1b3127ecdceca622974f508d5ef21637bc340964f4736479c2c4828238ec128"
+mirror_generated_at: "2026-08-02T04:06:51.327Z"
+sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm
 
@@ -373,8 +373,7 @@ This was convenient for almost **everyone**.
 -   Supporters could defend the alarm through loyalty to the carrier.
 -   Opponents could attack the carrier instead of the event.
 -   Media could convert atmospheric physics into a person conflict.
-
-Politicians could meet the symbol, praise the symbol, criticize the symbol, photograph the symbol, and continue treating the machinery underneath as a later problem.
+-   Politicians could meet the symbol, praise the symbol, criticize the symbol, photograph the symbol, and continue treating the machinery underneath as a later problem.
 
 The alarm had become content.
 
