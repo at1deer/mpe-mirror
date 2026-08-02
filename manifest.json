@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-02T08:56:53.859Z",
+  "generated_at": "2026-08-02T14:10:30.447Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 201,
+  "article_count": 203,
   "articles": [
+    {
+      "title": "Field Instruments: Superintelligence",
+      "slug": "field-instruments-superintelligence",
+      "published_at": "2026-08-02T05:45:18.000-05:00",
+      "updated_at": "2026-08-02T05:45:17.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-superintelligence/",
+      "excerpt": "The answer gets smarter. The world around it becomes the bottleneck.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-superintelligence.md",
+      "mirror_html_path": "/articles/field-instruments-superintelligence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-superintelligence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-superintelligence.html",
+      "sha256_plaintext": "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
+    },
+    {
+      "title": "Transition Action: Chirality Has Escaped",
+      "slug": "transition-action-chirality-has-escaped",
+      "published_at": "2026-08-02T05:30:59.000-05:00",
+      "updated_at": "2026-08-02T05:30:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-chirality-has-escaped/",
+      "excerpt": "Arrangement gives light a hand. Strain gives matter a hand. Chirality is a move now. A special edition.",
+      "tags": [
+        "Transition Action"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-chirality-has-escaped.md",
+      "mirror_html_path": "/articles/transition-action-chirality-has-escaped.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-chirality-has-escaped.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-chirality-has-escaped.html",
+      "sha256_plaintext": "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
+    },
     {
       "title": "Field Instruments: The Alarm",
       "slug": "field-instruments-the-alarm-2",
@@ -11,7 +43,9 @@
       "updated_at": "2026-08-01T20:10:27.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-the-alarm-2/",
       "excerpt": "Greta Thunberg was right to wake the building. The alarm still has to surrender the blueprint.",
-      "tags": [],
+      "tags": [
+        "Field Instruments"
+      ],
       "mirror_markdown_path": "/articles/field-instruments-the-alarm-2.md",
       "mirror_html_path": "/articles/field-instruments-the-alarm-2.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-alarm-2.md",
@@ -1040,6 +1074,22 @@
       "sha256_plaintext": "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
     },
     {
+      "title": "The Completion Engine",
+      "slug": "applied-the-completion-engine",
+      "published_at": "2026-06-27T05:01:00.000-05:00",
+      "updated_at": "2026-06-28T01:40:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
+      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
+      "tags": [
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
+      "mirror_html_path": "/articles/applied-the-completion-engine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
+      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
+    },
+    {
       "title": "The Trespass Machine",
       "slug": "applied-case-the-trespass-machine",
       "published_at": "2026-06-27T05:01:00.000-05:00",
@@ -1055,22 +1105,6 @@
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html",
       "sha256_plaintext": "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
-    },
-    {
-      "title": "The Completion Engine",
-      "slug": "applied-the-completion-engine",
-      "published_at": "2026-06-27T05:01:00.000-05:00",
-      "updated_at": "2026-06-28T01:40:19.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
-      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
-      "tags": [
-        "Modal Path Ethics"
-      ],
-      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
-      "mirror_html_path": "/articles/applied-the-completion-engine.html",
-      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
-      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
-      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
     },
     {
       "title": "Applied Case: The Golden Rule",
