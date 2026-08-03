@@ -7,7 +7,7 @@ updated_at: "2026-07-30T06:00:10.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-02T19:47:08.857Z"
+mirror_generated_at: "2026-08-03T04:09:28.801Z"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure
