@@ -3,14 +3,14 @@ title: "Tales of Distortion: Münster’s New Jerusalem"
 slug: "tales-of-distortion-munsters-new-jerusalem"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/"
 published_at: "2026-07-05T07:00:15.000-05:00"
-updated_at: "2026-07-25T06:12:45.000-05:00"
+updated_at: "2026-08-03T11:46:50.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Bad Religion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-03T15:27:24.943Z"
-sha256_plaintext: "fa52c4076bf8e293acd6360b5e24bc7687d8fcee04ab561dfa996fe8a5c7f27f"
+mirror_generated_at: "2026-08-03T20:16:04.727Z"
+sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
 
@@ -77,7 +77,7 @@ It is very easy to tell this story as:
                 -   starved under siege,
                     -   got fucking crushed,
                         -   and then the survivors became a church-tower reminder that everyone should maybe calm down about Revelation.
-                            -   At least for while.
+                            -   At least for a while.
 
 That version is not false in the simple sense. It is also exactly the kind of version that lets every other instrument moving in this field walk away innocent.
 
