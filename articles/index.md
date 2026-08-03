@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-03T10:25:13.178Z
+Generated: 2026-08-03T15:27:24.943Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-03 — [Applied Case: The Aug Incident of 2027](/articles/the-fourth-button.md) ([HTML](/articles/the-fourth-button.html))
+- 2026-08-03 — [Applied Case: Call Me, I'll Hide The Body](/articles/applied-case-call-me-ill-hide-the-body.md) ([HTML](/articles/applied-case-call-me-ill-hide-the-body.html))
 - 2026-08-02 — [Field Instruments: Superintelligence](/articles/field-instruments-superintelligence.md) ([HTML](/articles/field-instruments-superintelligence.html))
 - 2026-08-02 — [Transition Action: Chirality Has Escaped](/articles/transition-action-chirality-has-escaped.md) ([HTML](/articles/transition-action-chirality-has-escaped.html))
 - 2026-08-01 — [Field Instruments: The Alarm](/articles/field-instruments-the-alarm-2.md) ([HTML](/articles/field-instruments-the-alarm-2.html))
@@ -68,8 +70,8 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-06-28 — [Fictional Earth: The Social Media Distortion Fields](/articles/fictional-earth-the-social-media-distortion-fields.md) ([HTML](/articles/fictional-earth-the-social-media-distortion-fields.html))
 - 2026-06-28 — [I Am The Ultimate Human](/articles/the-ultimate-human.md) ([HTML](/articles/the-ultimate-human.html))
 - 2026-06-27 — [Applied Case: The Anti-AI Religion](/articles/bad-religion-the-anti-ai-religion.md) ([HTML](/articles/bad-religion-the-anti-ai-religion.html))
-- 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
 - 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
+- 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
 - 2026-06-26 — [Applied Case: The Golden Rule](/articles/applied-case-the-golden-rule.md) ([HTML](/articles/applied-case-the-golden-rule.html))
 - 2026-06-26 — [Patch Notes: Market Tiering Bug (15:02-6-24-2026)](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md) ([HTML](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html))
 - 2026-06-26 — [Failed Field Analysts: L. Ron Hubbard and the Sealed Room](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.md) ([HTML](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.html))

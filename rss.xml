@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 10:25:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:27:24 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Aug Incident of 2027</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-fourth-button.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-fourth-button.html</guid>
+      <pubDate>Mon, 03 Aug 2026 11:00:49 GMT</pubDate>
+      <description>Spoilers for Deus Ex: Human Revolution and The Missing Link.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Call Me, I'll Hide The Body</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-call-me-ill-hide-the-body.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-call-me-ill-hide-the-body.html</guid>
+      <pubDate>Mon, 03 Aug 2026 10:30:05 GMT</pubDate>
+      <description>The manuscript passed. Its path became the case.</description>
+    </item>
+
     <item>
       <title>Field Instruments: Superintelligence</title>
       <link>https://modal-path-ethics.ghost.io/articles/field-instruments-superintelligence.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-munsters-new-jerusalem.html</guid>
       <pubDate>Sun, 05 Jul 2026 12:00:15 GMT</pubDate>
       <description>Question every Jan. [L]</description>
-    </item>
-
-    <item>
-      <title>Australia vs. The Biosphere: The Emu Front</title>
-      <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-emu-front.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-emu-front.html</guid>
-      <pubDate>Sat, 04 Jul 2026 12:00:51 GMT</pubDate>
-      <description>AUS 0 • BIO 1</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: Operation Cottage</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-operation-cottage.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-operation-cottage.html</guid>
-      <pubDate>Sat, 04 Jul 2026 10:45:49 GMT</pubDate>
-      <description>The battle against an enemy that was not there. [L]</description>
     </item>
   </channel>
 </rss>

@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-08-03T10:25:13.178Z",
+  "generated_at": "2026-08-03T15:27:24.943Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 203,
+  "article_count": 205,
   "articles": [
+    {
+      "title": "Applied Case: The Aug Incident of 2027",
+      "slug": "the-fourth-button",
+      "published_at": "2026-08-03T06:00:49.000-05:00",
+      "updated_at": "2026-08-03T06:41:49.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-fourth-button/",
+      "excerpt": "Spoilers for Deus Ex: Human Revolution and The Missing Link.",
+      "tags": [
+        "Applied Case",
+        "Chirality"
+      ],
+      "mirror_markdown_path": "/articles/the-fourth-button.md",
+      "mirror_html_path": "/articles/the-fourth-button.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-fourth-button.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-fourth-button.html",
+      "sha256_plaintext": "a9bdf5f53e53e26b60c339413f6fa675de2d5a98df450835149b49dd777b422a"
+    },
+    {
+      "title": "Applied Case: Call Me, I'll Hide The Body",
+      "slug": "applied-case-call-me-ill-hide-the-body",
+      "published_at": "2026-08-03T05:30:05.000-05:00",
+      "updated_at": "2026-08-03T05:30:04.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-call-me-ill-hide-the-body/",
+      "excerpt": "The manuscript passed. Its path became the case.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-call-me-ill-hide-the-body.md",
+      "mirror_html_path": "/articles/applied-case-call-me-ill-hide-the-body.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-call-me-ill-hide-the-body.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-call-me-ill-hide-the-body.html",
+      "sha256_plaintext": "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
+    },
     {
       "title": "Field Instruments: Superintelligence",
       "slug": "field-instruments-superintelligence",
@@ -1074,22 +1107,6 @@
       "sha256_plaintext": "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
     },
     {
-      "title": "The Completion Engine",
-      "slug": "applied-the-completion-engine",
-      "published_at": "2026-06-27T05:01:00.000-05:00",
-      "updated_at": "2026-06-28T01:40:19.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
-      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
-      "tags": [
-        "Modal Path Ethics"
-      ],
-      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
-      "mirror_html_path": "/articles/applied-the-completion-engine.html",
-      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
-      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
-      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
-    },
-    {
       "title": "The Trespass Machine",
       "slug": "applied-case-the-trespass-machine",
       "published_at": "2026-06-27T05:01:00.000-05:00",
@@ -1105,6 +1122,22 @@
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html",
       "sha256_plaintext": "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
+    },
+    {
+      "title": "The Completion Engine",
+      "slug": "applied-the-completion-engine",
+      "published_at": "2026-06-27T05:01:00.000-05:00",
+      "updated_at": "2026-06-28T01:40:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
+      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
+      "tags": [
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
+      "mirror_html_path": "/articles/applied-the-completion-engine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
+      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
     },
     {
       "title": "Applied Case: The Golden Rule",
