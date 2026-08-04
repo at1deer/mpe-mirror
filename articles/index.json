@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-08-04T09:23:18.020Z",
+  "generated_at": "2026-08-04T15:05:29.494Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 205,
+  "article_count": 207,
   "articles": [
+    {
+      "title": "Applied Case: The Werster Crisis",
+      "slug": "applied-case-the-werster-crisis",
+      "published_at": "2026-08-04T06:00:18.000-05:00",
+      "updated_at": "2026-08-04T07:30:36.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-werster-crisis/",
+      "excerpt": "Pokémon speedrunning built extraordinary instruments for verifying runs. It built much weaker instruments for verifying the authority surrounding them.",
+      "tags": [
+        "Chirality",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-werster-crisis.md",
+      "mirror_html_path": "/articles/applied-case-the-werster-crisis.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-werster-crisis.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-werster-crisis.html",
+      "sha256_plaintext": "8ae0f495e9c26932b239ead4b6003765c0edc34347f695f4b48c1a6d737912df"
+    },
+    {
+      "title": "Applied Case: Iran and the Nuclear Threshold",
+      "slug": "applied-case-iran-and-the-nuclear-threshold",
+      "published_at": "2026-08-04T05:03:04.000-05:00",
+      "updated_at": "2026-08-04T05:03:03.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-iran-and-the-nuclear-threshold/",
+      "excerpt": "The bomb did not have to exist for the threshold to begin acting.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-iran-and-the-nuclear-threshold.md",
+      "mirror_html_path": "/articles/applied-case-iran-and-the-nuclear-threshold.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-iran-and-the-nuclear-threshold.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-iran-and-the-nuclear-threshold.html",
+      "sha256_plaintext": "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
+    },
     {
       "title": "Applied Case: The Aug Incident of 2027",
       "slug": "the-fourth-button",

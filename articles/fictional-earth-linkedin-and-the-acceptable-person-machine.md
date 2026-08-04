@@ -7,7 +7,7 @@ updated_at: "2026-07-30T06:05:56.000-05:00"
 tags:
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T09:23:18.020Z"
+mirror_generated_at: "2026-08-04T15:05:29.494Z"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine

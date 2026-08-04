@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-04T09:23:18.020Z
+Generated: 2026-08-04T15:05:29.494Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-04 — [Applied Case: The Werster Crisis](/articles/applied-case-the-werster-crisis.md) ([HTML](/articles/applied-case-the-werster-crisis.html))
+- 2026-08-04 — [Applied Case: Iran and the Nuclear Threshold](/articles/applied-case-iran-and-the-nuclear-threshold.md) ([HTML](/articles/applied-case-iran-and-the-nuclear-threshold.html))
 - 2026-08-03 — [Applied Case: The Aug Incident of 2027](/articles/the-fourth-button.md) ([HTML](/articles/the-fourth-button.html))
 - 2026-08-03 — [Applied Case: Call Me, I'll Hide The Body](/articles/applied-case-call-me-ill-hide-the-body.md) ([HTML](/articles/applied-case-call-me-ill-hide-the-body.html))
 - 2026-08-02 — [Field Instruments: Superintelligence](/articles/field-instruments-superintelligence.md) ([HTML](/articles/field-instruments-superintelligence.html))
