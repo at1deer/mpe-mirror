@@ -7,7 +7,7 @@ updated_at: "2026-07-28T07:05:28.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T03:51:55.275Z"
+mirror_generated_at: "2026-08-04T09:23:18.020Z"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk

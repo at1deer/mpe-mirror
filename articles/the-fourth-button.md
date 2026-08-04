@@ -3,13 +3,13 @@ title: "Applied Case: The Aug Incident of 2027"
 slug: "the-fourth-button"
 canonical_url: "https://modalpathethics.com/the-fourth-button/"
 published_at: "2026-08-03T06:00:49.000-05:00"
-updated_at: "2026-08-03T06:41:49.000-05:00"
+updated_at: "2026-08-04T00:37:56.000-05:00"
 tags:
   - "Applied Case"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T03:51:55.275Z"
-sha256_plaintext: "a9bdf5f53e53e26b60c339413f6fa675de2d5a98df450835149b49dd777b422a"
+mirror_generated_at: "2026-08-04T09:23:18.020Z"
+sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027
 
@@ -25,17 +25,15 @@ Adam Jensen has spent the better part of the game learning that every official d
 
 Panchaea is collapsing around him.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---14m32s-.png)
-
 The installation groans beneath the Arctic water. Alarm light moves across black metal. The people still alive inside the structure have been driven into murderous frenzy by a signal carried through their own augmentation biochips. Hugh Darrow has turned the global medical interface into a command channel. Zhao Yun Ru has tried to seize the system. The Hyron Project has already placed human bodies inside the machinery as processing infrastructure. Everyone involved has apparently decided the human future needed more wires and fewer witnesses.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---15m27s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---15m27s--1.png)
 
 The signal is stopped.
 
 Then, the real emergency begins.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m00s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m00s--1.png)
 
 A console opens.
 
@@ -43,7 +41,7 @@ Four answers appear.
 
 Human civilization has become clickable.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---8m31s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---8m31s--1.png)
 
 Modal Path Ethics requests an evidentiary appendix.
 
@@ -55,7 +53,7 @@ It has David Sarif.
 
 It has William Taggart.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-29.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---25m37s-.png)
 
 It has Hugh Darrow.
 
@@ -65,9 +63,7 @@ It has a fourth option that destroys Panchaea, kills everyone still inside it, a
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---8m41s-.png)
 
-[Four futures](https://modalpathethics.com/the-second-battle-for-hoover-dam/).
-
-Four stories. Four attempts to decide what billions of people will be permitted to understand about the catastrophe that has just entered their bodies, their families, their hospitals, their cities, and their fear.
+[Four futures](https://modalpathethics.com/the-second-battle-for-hoover-dam/). Four stories. Four attempts to decide what billions of people will be permitted to understand about the catastrophe that has just entered their bodies, their families, their hospitals, their cities, and their fear.
 
 The catastrophe has happened twice.
 
@@ -99,13 +95,13 @@ The body was almost destroyed at Sarif Industries.
 
 Then David Sarif saved it.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m41s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m41s--1.png)
 
 That sentence is true.
 
 It is also not large enough.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m36s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m36s--1-1.png)
 
 Jensen wakes after six months with arms, legs, lungs, eyes, skin, bones, nervous interfaces, weapons, processors, and a great deal of corporate optimism that were not there before. He had authorized augmentation where medically necessary. Sarif’s interpretation of necessity arrived with blades inside the forearms.
 
@@ -115,9 +111,9 @@ Jensen wakes after six months with arms, legs, lungs, eyes, skin, bones, nervous
 
 The line became funny because the voice is so severe, the sunglasses are indoors, and the entire game looks as though a cathedral has acquired a venture-capital division.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-33.png)
-
 The line remains serious.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-33.png)
 
 Adam Jensen is the augmentation debate before the debate becomes public policy.
 
@@ -129,15 +125,15 @@ Adam Jensen is the augmentation debate before the debate becomes public policy.
 
 In the game’s world, most augmented people require a scarce, expensive immunosuppressant to prevent rejection. Sarif’s researchers are attacked just before announcing a way around that dependency; Jensen later learns that Megan’s work was based on his unusual DNA.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/snatched-deusex.gif)
-
 He is living evidence for the expansion augmentation can make reachable. He is also living evidence for how quickly a life-saving instrument can acquire jurisdiction over the person it saved.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/snatched-deusex.gif)
 
 The game’s central dispute therefore cannot be divided cleanly between natural humanity and technological violation.
 
 The unaugmented Adam Jensen is almost dead.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m12s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Intro---Welcome-to-the-Revolution--Full-Prologue---ucMQYJGtv6Y---1280x720---20m12s--1.png)
 
 The augmented Adam Jensen is alive, capable, altered, weaponized, employable, medically strange, and carrying a future other people have already begun to design around him.
 
@@ -169,7 +165,7 @@ Zeke Sanders has taken Josie Thorpe into a room and turned her body into the fin
 
 Sanders belongs to the anti-augmentation field. He has real reasons to distrust Sarif Industries, corporate power, manufactured dependency, technical inequality, and a future in which the unmodified person is slowly translated into an obsolete labor category.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m17s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m17s--1.png)
 
 Then he takes a hostage.
 
@@ -180,7 +176,7 @@ Modal Path Ethics has encountered this structure before.
 
 A person becomes the surface through which the claim tries to make itself undeniable.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m15s--1.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m15s--1-1.png)
 
 The dialogue interface appears.
 
@@ -188,11 +184,13 @@ This is the first important console in the game.
 
 It looks smaller than Panchaea because only two people are standing beside it.
 
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m59s--1.png)
+
 The scale is misleading.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Eye-of-Center---Deus-Ex-Human-Revolution---Chapter-3-Sarif-Under-Siege--First-Mission---Sarif-Manufacturing-Plant---H1DPprftdIQ---1280x720---25m59s-.png)
+Jensen can treat Sanders as a terrorist-shaped obstacle. He can kill him and save Josie if the shot is clean. He can fail the conversation and watch the hostage die.
 
-Jensen can treat Sanders as a terrorist-shaped obstacle. He can kill him and save Josie if the shot is clean. He can fail the conversation and watch the hostage die. He can also listen closely enough to the frightened man behind the role, expose the betrayal surrounding his operation, and make a path reachable in which Josie lives and Sanders leaves alive.
+He can also listen closely enough to the frightened man behind the role, expose the betrayal surrounding his operation, and make a path reachable in which Josie lives and Sanders leaves alive.
 
 Modal Path Ethics takes the last route.
 
@@ -216,7 +214,7 @@ That lesson is going to survive all the way to Panchaea.
 
 Hengsha has two cities.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Epidemic---Deus-Ex-Human-Revolution-Welcome-to-Hengsha--tu-FxRP6QnE---1280x720---0m23s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Epidemic---Deus-Ex-Human-Revolution-Welcome-to-Hengsha--tu-FxRP6QnE---1280x720---0m23s--1.png)
 
 The upper city hangs over the lower city like a second sky built by people who had grown dissatisfied with the first one.
 
@@ -250,13 +248,12 @@ The future it opened in her life cannot be removed with equal neatness.
 
 A labor field has already taught her that ordinary participation requires technical enhancement. A lender has converted that requirement into leverage. Returning the implant would satisfy the account by closing the pathway for which the debt was incurred.
 
-The arithmetic would balance.
-
-The person would carry the correction.
+-   The arithmetic would balance.
+    -   The person would carry the correction.
 
 Modal Path Ethics pays the debt.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Yolzoor---Deus-Ex-Human-Revolution-028-Bar-Tab--06IlX61HHmY---1280x720---15m16s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Yolzoor---Deus-Ex-Human-Revolution-028-Bar-Tab--06IlX61HHmY---1280x720---15m16s--1.png)
 
 This is not economic reform.
 
@@ -362,7 +359,7 @@ A civilization can survive the first catastrophe and still be captured by the ca
 
 The biochip malfunctions begin as inconvenience.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m13s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m13s--1.png)
 
 Augmented people experience glitches. Medical authority offers a recall. LIMB clinics provide a replacement. The path is familiar: a fault has been detected, a trusted institution has an update, and responsible users should install it.
 
@@ -370,7 +367,7 @@ The field rewards compliance.
 
 This is how the control channel enters.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m33s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m33s--1.png)
 
 The malfunction was induced to drive augmented people toward a replacement chip. The repair instrument was the delivery mechanism for capture. When Darrow activates the signal, bodies carrying the update become remotely writable.
 
@@ -455,9 +452,8 @@ A concealed space contains the gas distributor.
 
 The distributor can be destroyed.
 
-Kavanagh lives.
-
-The prisoners live.
+-   Kavanagh lives.
+-   The prisoners live.
 
 The **console** had described the available field incorrectly.
 
@@ -471,19 +467,17 @@ A forced choice may be a real forced choice.
 
 It may also be the local interface of someone else’s imagination.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---How-To-Save-The-Prisoners-And-Whistleblower-Doctor-Kavanagh---Missing-Link-DLC--Wocl3fvLIQ4---1280x720---0m34s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---How-To-Save-The-Prisoners-And-Whistleblower-Doctor-Kavanagh---Missing-Link-DLC--Wocl3fvLIQ4---1280x720---0m34s--1.png)
 
 -   The console knows two routes.
 -   The room contains three.
--   The third route becomes visible only when the agent leaves the sanctioned decision surface and inspects the machinery carrying the threat.
+    -   The third route becomes visible only when the agent leaves the sanctioned decision surface and inspects the machinery carrying the threat.
 
 Modal Path Ethics remembers this.
 
-Of course it does.
+Of course it does. This is exactly the sort of experience that ruins a framework around buttons forever.
 
-This is exactly the sort of experience that ruins a framework around buttons forever.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---How-To-Save-The-Prisoners-And-Whistleblower-Doctor-Kavanagh---Missing-Link-DLC--Wocl3fvLIQ4---1280x720---0m38s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---How-To-Save-The-Prisoners-And-Whistleblower-Doctor-Kavanagh---Missing-Link-DLC--Wocl3fvLIQ4---1280x720---0m38s--1.png)
 
 So when Eliza offers four endings at Panchaea, Modal Path Ethics checks behind the console.
 
@@ -491,7 +485,7 @@ So when Eliza offers four endings at Panchaea, Modal Path Ethics checks behind t
 
 It checks the wall.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m01s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m01s--1.png)
 
 It checks the ceiling.
 
@@ -501,9 +495,7 @@ It examines a nearby corpse.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Kris10---Deus-Ex-Human-Revolution---All-4-Endings--HD----4feykLmD3g---1280x720---0m05s--1.png)
 
-But this time, there is no hidden distributor.
-
-There is no fifth channel.
+But this time, there is no hidden distributor. There is no fifth channel.
 
 Panchaea has apparently corrected the design flaw.
 
@@ -513,7 +505,7 @@ Panchaea has apparently corrected the design flaw.
 
 David Sarif’s button preserves augmentation.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m45s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m45s--1.png)
 
 Sarif asks Jensen to blame Humanity Front extremists for the disaster. The public will receive a story in which anti-augmentation fanaticism produced the signal attack. Augmentation research can continue. The technology can move past the crisis. The future can remain open.
 
@@ -523,9 +515,11 @@ Sarif’s case is powerful because augmentation has opened real futures.
 
 It restored Jensen’s life.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-35.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-152.png)
 
-It can replace limbs, repair bodies, expand movement, perception, work, communication, independence, and forms of embodiment that earlier medicine could not sustain. Sarif Industries is close to ending Neuropozyne dependence, one of the largest resistance structures built into the augmented future. If that work succeeds, the body will no longer have to rent continued compatibility from a scarce drug.
+It can replace limbs, repair bodies, expand movement, perception, work, communication, independence, and forms of embodiment that earlier medicine could not sustain.
+
+Sarif Industries is close to ending Neuropozyne dependence, one of the largest resistance structures built into the augmented future. If that work succeeds, the body will no longer have to rent continued compatibility from a scarce drug.
 
 Sarif sees the enabling path.
 
@@ -550,7 +544,7 @@ It would teach the augmentation field the wrong lesson.
 -   The biochip architecture could remain politically underexamined.
 -   Corporate control could be described as external sabotage.
 -   Medical capture could be blamed on ideological extremism.
--   The exact path by which care became command would disappear beneath a useful villain.
+    -   The exact path by which care became command would disappear beneath a useful villain.
 
 Sarif wants the future.
 
@@ -568,13 +562,13 @@ A future built on false causation is a trap with excellent research funding.
 
 William Taggart’s button preserves control.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m41s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---0m41s--1.png)
 
 Taggart has also seen something real.
 
 Augmentation is dangerous at scale when bodies depend on proprietary hardware, standardized chips, scarce medication, secret software, concentrated manufacturing, and corporations powerful enough to exceed public authority. The Panchaea event demonstrates the catastrophic reach of an ungoverned interface embedded inside human nervous systems.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---26m38s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---26m38s--1.png)
 
 A serious civilization would regulate this.
 
@@ -596,7 +590,7 @@ This happens often enough that institutions have developed very professional sho
 
 Taggart’s solution turns a real safety failure into jurisdictional expansion for the system that arranged the failure. The event becomes proof that the controller needed more control.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---6m06s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---6m06s--1.png)
 
 The public is allowed to fear accurately and understand falsely.
 
@@ -604,7 +598,7 @@ That combination is **_exceptionally_** governable.
 
 Modal Path Ethics rejects the button.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---27m43s--1.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/davidangel64---Deus-Ex-Human-Revolution-038---Finale--Z-TOdwd4VZ0---1280x720---27m43s--1-1.png)
 
 Regulation remains necessary.
 
@@ -620,7 +614,7 @@ Hugh Darrow built the augmentation age.
 
 He is also biologically unable to join it.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---Deus-Ex-Human-Revolution-Last-dialogue-with-Hugh-Darrow--5-6S3_EdQlU---1280x800---2m22s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---Deus-Ex-Human-Revolution-Last-dialogue-with-Hugh-Darrow--5-6S3_EdQlU---1280x800---2m22s--1.png)
 
 This is emotionally important and morally insufficient.
 
@@ -628,7 +622,7 @@ Darrow sees augmentation moving from medicine into species design, class hierarc
 
 He sees the danger.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---Deus-Ex-Human-Revolution-Last-dialogue-with-Hugh-Darrow--5-6S3_EdQlU---1280x800---3m27s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Johnsen1972---Deus-Ex-Human-Revolution-Last-dialogue-with-Hugh-Darrow--5-6S3_EdQlU---1280x800---3m27s--1.png)
 
 Then he manufactures the apocalypse required to prove himself right.
 
@@ -652,9 +646,9 @@ The factual core is indispensable. The sermon is captured.
 
 Darrow wants the world to know what happened because what happened has been engineered to deliver the world into his answer.
 
-Modal Path Ethics does not trust him.
-
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Wii-U-Video-Games-Source---Deus-Ex-Human-Revolution-DC---The-Snake-Adam-Jensen-Rescues-Megan-Reed-I-Used-Your-DNA-Chat--sPwptYYd9fU---1280x720---2m33s-.png)
+
+Modal Path Ethics does not trust him.
 
 This will become a problem shortly.
 
@@ -666,7 +660,7 @@ The fourth button has no spokesman.
 
 That is part of its appeal.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---8m34s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Mr.-BlubberButter---Deus-Ex-Human-Revolution-All-Endings--qY6J9jBkrG8---1280x720---8m34s--1.png)
 
 -   Sarif wants to preserve augmentation.
 -   Taggart wants to subordinate augmentation.
@@ -697,7 +691,7 @@ It removes witnesses, evidence, records, bodies, testimony, technical traces, an
 
 The only thing that disappears is the most concentrated body of corrective evidence.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---8m31s--1.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---8m31s--1-1.png)
 
 Silence is not neutral when microphones remain distributed asymmetrically.
 
@@ -715,7 +709,7 @@ The dead cannot spin the story.
 
 They also cannot contradict it.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---6m51s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---6m51s--1.png)
 
 Modal Path Ethics looks at the button for a long time.
 
@@ -723,13 +717,12 @@ This is the most emotionally satisfying option.
 
 That is dangerous.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---8m01s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Giant-Bomb---Deus-Ex-Human-Revolution-All-Four-Endings--c9-_x5x07h0---1280x720---8m01s--1.png)
 
 It would let Jensen refuse Sarif, Taggart, Darrow, the Illuminati, Picus, augmentation ideology, anti-augmentation ideology, and his own impossible authority in one giant act of closure. It would turn the burden of deciding into a final explosion and allow the smoke to resemble moral seriousness.
 
-The explosion would be real.
-
-The humility would be theatrical.
+-   The explosion would be real.
+    -   The humility would be theatrical.
 
 Modal Path Ethics does not press the fourth button.
 
@@ -785,14 +778,10 @@ The selection remains Better.
 -   A true causal record attached to a bad sermon can still be contested.
 -   A false record reorganizes correction around the wrong cause.
 -   An erased record makes correction dependent on whoever survives with the strongest archive.
-
-The public can argue with Hugh Darrow.
-
-It cannot argue with missing evidence.
-
-It cannot regulate a mechanism it has been taught did not exist.
-
-It cannot hold a conspiracy answerable after the conspiracy has been replaced by a politically convenient scapegoat.
+    -   The public can argue with Hugh Darrow.
+        -   It cannot argue with missing evidence.
+        -   It cannot regulate a mechanism it has been taught did not exist.
+        -   It cannot hold a conspiracy answerable after the conspiracy has been replaced by a politically convenient scapegoat.
 
 Truth is not harmless here.
 
@@ -876,7 +865,7 @@ Malik lifting out of Hengsha after the mission briefly remembered she remained a
 
 Kavanagh and the prisoners breathing because the console did not know the whole room.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m53s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Papito-Qinn---Human-Revolution---Adam-Jensen-Watches-TV---Biochip-Recall--J6blBrVBE2k---1280x720---0m53s--1.png)
 
 The clinic offering an update.
 
