@@ -7,7 +7,7 @@ updated_at: "2026-08-01T05:17:40.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T03:46:45.016Z"
+mirror_generated_at: "2026-08-05T09:21:03.980Z"
 sha256_plaintext: "d1972e7b61419df60f924211abffa93dcd33bf4294ab3d5df62e0daf473228ab"
 ---
 # Applied Case: Psychiatry Before Psychiatry

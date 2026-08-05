@@ -8,7 +8,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T03:46:45.016Z"
+mirror_generated_at: "2026-08-05T09:21:03.980Z"
 sha256_plaintext: "8ae0f495e9c26932b239ead4b6003765c0edc34347f695f4b48c1a6d737912df"
 ---
 # Applied Case: The Werster Crisis
