@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T14:58:36.369Z"
+mirror_generated_at: "2026-08-05T20:11:53.458Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine

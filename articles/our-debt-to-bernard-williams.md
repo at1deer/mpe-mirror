@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T14:58:36.369Z"
+mirror_generated_at: "2026-08-05T20:11:53.458Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams

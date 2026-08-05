@@ -7,7 +7,7 @@ updated_at: "2026-07-23T11:35:53.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T14:58:36.369Z"
+mirror_generated_at: "2026-08-05T20:11:53.458Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel

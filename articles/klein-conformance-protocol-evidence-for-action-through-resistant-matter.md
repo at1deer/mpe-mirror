@@ -7,7 +7,7 @@ updated_at: "2026-06-08T23:47:23.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T14:58:36.369Z"
+mirror_generated_at: "2026-08-05T20:11:53.458Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol

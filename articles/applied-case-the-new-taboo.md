@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T14:58:36.369Z"
+mirror_generated_at: "2026-08-05T20:11:53.458Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
