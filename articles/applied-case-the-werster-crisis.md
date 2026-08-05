@@ -3,13 +3,13 @@ title: "Applied Case: The Werster Crisis"
 slug: "applied-case-the-werster-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-werster-crisis/"
 published_at: "2026-08-04T06:00:18.000-05:00"
-updated_at: "2026-08-04T07:30:36.000-05:00"
+updated_at: "2026-08-05T06:45:09.000-05:00"
 tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T09:21:03.980Z"
-sha256_plaintext: "8ae0f495e9c26932b239ead4b6003765c0edc34347f695f4b48c1a6d737912df"
+mirror_generated_at: "2026-08-05T14:58:36.369Z"
+sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis
 
@@ -945,7 +945,7 @@ Communities should label them differently.
 
 An unsubmitted claim can still be discussed. It should not inherit leaderboard prestige through repetition.
 
-### Preserve governance outside chat.
+### 4\. Preserve governance outside chat.
 
 Rule changes, category decisions, platform restrictions, moderator removals, and major verification rulings need durable public logs.
 
@@ -953,7 +953,7 @@ Rule changes, category decisions, platform restrictions, moderator removals, and
 
 The record should state the evidence, scope, dissent, decision, and correction path. Private details can remain protected while the institutional transition becomes visible.
 
-### Give local fields local authority.
+### 5\. Give local fields local authority.
 
 Pokémon Mystery Dungeon runners should govern Pokémon Mystery Dungeon unless the local structure itself fails basic standards.
 
@@ -963,7 +963,7 @@ Franchise membership can support coordination. It does not create automatic juri
 
 The relevant expertise belongs to the people living in the game.
 
-### Review claims locally.
+### 6\. Review claims locally.
 
 The Quick Claw event was explained. Keep it explained.
 
@@ -977,7 +977,7 @@ The 212-win streak remains unsupported and disputed. Keep it there unless strong
 
 Do not turn one proven act into automatic proof of every allegation. Do not use one exoneration to cleanse every separate concern.
 
-### Preserve return paths.
+### 7\. Preserve return paths.
 
 A community needs ways for people to acknowledge wrongdoing, lose specific authority, repair where possible, and later participate under clearer boundaries.
 
@@ -1146,7 +1146,7 @@ It has the evidence of what role compression costs.
 
 Now it needs a fresh draft.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Sonikks---Pokemon-Emerald-Battle-Frontier---Battle-Factory--Silver---4S8TH2d5qzA---854x480---25m29s-.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Sonikks---Pokemon-Emerald-Battle-Frontier---Battle-Factory--Silver---4S8TH2d5qzA---854x480---25m29s--1.png)
 
 Choose three.
 

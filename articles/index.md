@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-05T09:21:03.980Z
+Generated: 2026-08-05T14:58:36.369Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-05 — [Nietzche and the Sacred Slack](/articles/nietzche-and-the-sacred-slack.md) ([HTML](/articles/nietzche-and-the-sacred-slack.html))
+- 2026-08-05 — [Tennessee: The Worst State in America (For Humans)](/articles/tennessee-the-worst-state-in-america-for-humans.md) ([HTML](/articles/tennessee-the-worst-state-in-america-for-humans.html))
+- 2026-08-05 — [Failed Field Analysts: Garrett Hardin and the Lifeboat](/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.md) ([HTML](/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.html))
 - 2026-08-04 — [Applied Case: The Werster Crisis](/articles/applied-case-the-werster-crisis.md) ([HTML](/articles/applied-case-the-werster-crisis.html))
 - 2026-08-04 — [Applied Case: Iran and the Nuclear Threshold](/articles/applied-case-iran-and-the-nuclear-threshold.md) ([HTML](/articles/applied-case-iran-and-the-nuclear-threshold.html))
 - 2026-08-03 — [Applied Case: The Aug Incident of 2027](/articles/the-fourth-button.md) ([HTML](/articles/the-fourth-button.html))
@@ -72,8 +75,8 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-06-28 — [Fictional Earth: The Social Media Distortion Fields](/articles/fictional-earth-the-social-media-distortion-fields.md) ([HTML](/articles/fictional-earth-the-social-media-distortion-fields.html))
 - 2026-06-28 — [I Am The Ultimate Human](/articles/the-ultimate-human.md) ([HTML](/articles/the-ultimate-human.html))
 - 2026-06-27 — [Applied Case: The Anti-AI Religion](/articles/bad-religion-the-anti-ai-religion.md) ([HTML](/articles/bad-religion-the-anti-ai-religion.html))
-- 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
 - 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
+- 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
 - 2026-06-26 — [Applied Case: The Golden Rule](/articles/applied-case-the-golden-rule.md) ([HTML](/articles/applied-case-the-golden-rule.html))
 - 2026-06-26 — [Patch Notes: Market Tiering Bug (15:02-6-24-2026)](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md) ([HTML](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html))
 - 2026-06-26 — [Failed Field Analysts: L. Ron Hubbard and the Sealed Room](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.md) ([HTML](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.html))

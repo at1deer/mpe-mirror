@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T09:21:03.980Z"
+mirror_generated_at: "2026-08-05T14:58:36.369Z"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027

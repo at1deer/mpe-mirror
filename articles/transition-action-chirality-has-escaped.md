@@ -7,7 +7,7 @@ updated_at: "2026-08-02T05:30:58.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T09:21:03.980Z"
+mirror_generated_at: "2026-08-05T14:58:36.369Z"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped
