@@ -7,7 +7,7 @@ updated_at: "2026-07-29T06:12:32.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T20:11:01.627Z"
+mirror_generated_at: "2026-08-05T03:46:45.016Z"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision

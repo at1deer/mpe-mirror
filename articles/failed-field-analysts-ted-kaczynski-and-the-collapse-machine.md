@@ -7,7 +7,7 @@ updated_at: "2026-08-01T03:53:45.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T20:11:01.627Z"
+mirror_generated_at: "2026-08-05T03:46:45.016Z"
 sha256_plaintext: "4c60861d82e67a86324cd0a329a9c0fc455619afa13432807acb172872d65a47"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine

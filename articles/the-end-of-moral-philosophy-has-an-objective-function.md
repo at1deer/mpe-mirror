@@ -7,7 +7,7 @@ updated_at: "2026-07-31T04:25:10.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-04T20:11:01.627Z"
+mirror_generated_at: "2026-08-05T03:46:45.016Z"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
 # The End of Moral Philosophy Has an Objective Function
