@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-06T03:52:01.141Z"
+mirror_generated_at: "2026-08-06T09:25:12.342Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics

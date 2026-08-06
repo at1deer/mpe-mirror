@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-06T03:52:01.141Z"
+mirror_generated_at: "2026-08-06T09:25:12.342Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre

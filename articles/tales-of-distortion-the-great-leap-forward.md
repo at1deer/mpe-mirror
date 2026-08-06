@@ -8,7 +8,7 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-06T03:52:01.141Z"
+mirror_generated_at: "2026-08-06T09:25:12.342Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
