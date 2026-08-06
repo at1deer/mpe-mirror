@@ -3,11 +3,11 @@ title: "Applied Case: The Assassination of Charlie Kirk"
 slug: "applied-case-the-assassination-of-charlie-kirk"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/"
 published_at: "2026-07-28T05:30:47.000-05:00"
-updated_at: "2026-07-28T07:05:28.000-05:00"
+updated_at: "2026-08-05T18:37:27.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-05T20:11:53.458Z"
+mirror_generated_at: "2026-08-06T03:52:01.141Z"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk
@@ -263,7 +263,7 @@ That fact should be allowed to remain impressive before the audit begins.
 
 **Eighteen-year-olds** have many plans. _Most of them_ do not become national institutions with thousands of chapters, major donors, conferences, media operations, electoral influence, a recognizable aesthetic, and enough organizational continuity to survive the founder’s assassination.
 
-Kirk **built**.
+Kirk built.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/image-558.png)
 
