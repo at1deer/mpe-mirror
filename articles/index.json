@@ -1,9 +1,54 @@
 {
-  "generated_at": "2026-08-06T09:25:12.342Z",
+  "generated_at": "2026-08-06T14:57:18.633Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 210,
+  "article_count": 213,
   "articles": [
+    {
+      "title": "Applied Case: Psychology Finds the Empty Altar",
+      "slug": "applied-case-psychology-finds-the-empty-altar",
+      "published_at": "2026-08-06T08:43:18.000-05:00",
+      "updated_at": "2026-08-06T08:43:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-psychology-finds-the-empty-altar/",
+      "excerpt": "God may affect the psyche. The psyche does not own God. ",
+      "tags": [],
+      "mirror_markdown_path": "/articles/applied-case-psychology-finds-the-empty-altar.md",
+      "mirror_html_path": "/articles/applied-case-psychology-finds-the-empty-altar.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.html",
+      "sha256_plaintext": "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
+    },
+    {
+      "title": "Beneath the Launchpad",
+      "slug": "beneath-the-launchpad",
+      "published_at": "2026-08-06T06:00:12.000-05:00",
+      "updated_at": "2026-08-06T06:00:12.000-05:00",
+      "canonical_url": "https://modalpathethics.com/beneath-the-launchpad/",
+      "excerpt": "Modal Path Ethics has submitted a public comment to the Federal Aviation Administration. This was clearly necessary.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/beneath-the-launchpad.md",
+      "mirror_html_path": "/articles/beneath-the-launchpad.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/beneath-the-launchpad.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/beneath-the-launchpad.html",
+      "sha256_plaintext": "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
+    },
+    {
+      "title": "Field Instruments: Infodynamics",
+      "slug": "field-instruments-infodynamics",
+      "published_at": "2026-08-06T05:30:16.000-05:00",
+      "updated_at": "2026-08-06T05:30:16.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-infodynamics/",
+      "excerpt": "This is the physical floor of the Epistemic Instruments track.",
+      "tags": [
+        "Field Instruments",
+        "Epistemic Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-infodynamics.md",
+      "mirror_html_path": "/articles/field-instruments-infodynamics.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-infodynamics.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-infodynamics.html",
+      "sha256_plaintext": "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
+    },
     {
       "title": "Nietzche and the Sacred Slack",
       "slug": "nietzche-and-the-sacred-slack",

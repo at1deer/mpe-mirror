@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-06T09:25:12.342Z
+Generated: 2026-08-06T14:57:18.633Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-06 — [Applied Case: Psychology Finds the Empty Altar](/articles/applied-case-psychology-finds-the-empty-altar.md) ([HTML](/articles/applied-case-psychology-finds-the-empty-altar.html))
+- 2026-08-06 — [Beneath the Launchpad](/articles/beneath-the-launchpad.md) ([HTML](/articles/beneath-the-launchpad.html))
+- 2026-08-06 — [Field Instruments: Infodynamics](/articles/field-instruments-infodynamics.md) ([HTML](/articles/field-instruments-infodynamics.html))
 - 2026-08-05 — [Nietzche and the Sacred Slack](/articles/nietzche-and-the-sacred-slack.md) ([HTML](/articles/nietzche-and-the-sacred-slack.html))
 - 2026-08-05 — [Tennessee: The Worst State in America (For Humans)](/articles/tennessee-the-worst-state-in-america-for-humans.md) ([HTML](/articles/tennessee-the-worst-state-in-america-for-humans.html))
 - 2026-08-05 — [Failed Field Analysts: Garrett Hardin and the Lifeboat](/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.md) ([HTML](/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.html))
