@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T13:53:42.740Z"
+mirror_generated_at: "2026-08-07T19:35:07.005Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability

@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T13:53:42.740Z"
+mirror_generated_at: "2026-08-07T19:35:07.005Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity

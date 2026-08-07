@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T13:53:42.740Z"
+mirror_generated_at: "2026-08-07T19:35:07.005Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
