@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T00:26:32.578Z"
+mirror_generated_at: "2026-08-07T03:33:11.605Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages

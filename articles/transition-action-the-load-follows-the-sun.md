@@ -7,7 +7,7 @@ updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T00:26:32.578Z"
+mirror_generated_at: "2026-08-07T03:33:11.605Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves

@@ -7,7 +7,7 @@ updated_at: "2026-08-06T08:43:18.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T00:26:32.578Z"
+mirror_generated_at: "2026-08-07T03:33:11.605Z"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar

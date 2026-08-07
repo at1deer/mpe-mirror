@@ -7,7 +7,7 @@ updated_at: "2026-08-05T06:46:21.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T00:26:32.578Z"
+mirror_generated_at: "2026-08-07T03:33:11.605Z"
 sha256_plaintext: "d11e081e65306cc2b1924af4014d01b37d87f7d72853128261c2e65e75d7e3e5"
 ---
 # Nietzche and the Sacred Slack

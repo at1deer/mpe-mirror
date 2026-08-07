@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T00:26:32.578Z"
+mirror_generated_at: "2026-08-07T03:33:11.605Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
