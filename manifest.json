@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-08-07T07:53:18.707Z",
+  "generated_at": "2026-08-07T13:53:42.740Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 213,
+  "article_count": 216,
   "articles": [
+    {
+      "title": "Sacred Slack Has Been Published",
+      "slug": "sacred-slack-has-been-published",
+      "published_at": "2026-08-07T08:09:59.000-05:00",
+      "updated_at": "2026-08-07T08:09:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/sacred-slack-has-been-published/",
+      "excerpt": "Modern people did not stop needing metaphysics. They were left to assemble it themselves. A proposal for a Meaning and Experience Center. Now on Amazon",
+      "tags": [
+        "News",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/sacred-slack-has-been-published.md",
+      "mirror_html_path": "/articles/sacred-slack-has-been-published.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/sacred-slack-has-been-published.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/sacred-slack-has-been-published.html",
+      "sha256_plaintext": "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
+    },
+    {
+      "title": "AI Did Not Blur Reality",
+      "slug": "ai-did-not-blur-reality",
+      "published_at": "2026-08-07T06:00:46.000-05:00",
+      "updated_at": "2026-08-07T06:00:45.000-05:00",
+      "canonical_url": "https://modalpathethics.com/ai-did-not-blur-reality/",
+      "excerpt": "Fictional Earth was already doing that. Artificial intelligence made it less dependent on Earth.",
+      "tags": [
+        "Fictional Earth"
+      ],
+      "mirror_markdown_path": "/articles/ai-did-not-blur-reality.md",
+      "mirror_html_path": "/articles/ai-did-not-blur-reality.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/ai-did-not-blur-reality.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/ai-did-not-blur-reality.html",
+      "sha256_plaintext": "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
+    },
+    {
+      "title": "Field Instruments: Open Weights and the Release Gradient",
+      "slug": "field-instruments-open-weights-and-the-release-gradient",
+      "published_at": "2026-08-07T05:30:08.000-05:00",
+      "updated_at": "2026-08-07T05:30:08.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-open-weights-and-the-release-gradient/",
+      "excerpt": "A released model cannot be recalled. A closed model can become a private government.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-open-weights-and-the-release-gradient.md",
+      "mirror_html_path": "/articles/field-instruments-open-weights-and-the-release-gradient.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-open-weights-and-the-release-gradient.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-open-weights-and-the-release-gradient.html",
+      "sha256_plaintext": "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
+    },
     {
       "title": "Applied Case: Psychology Finds the Empty Altar",
       "slug": "applied-case-psychology-finds-the-empty-altar",

@@ -7,7 +7,7 @@ updated_at: "2026-08-02T05:45:17.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-07T07:53:18.707Z"
+mirror_generated_at: "2026-08-07T13:53:42.740Z"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence

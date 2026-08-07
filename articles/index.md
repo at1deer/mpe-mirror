@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-07T07:53:18.707Z
+Generated: 2026-08-07T13:53:42.740Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-07 — [Sacred Slack Has Been Published](/articles/sacred-slack-has-been-published.md) ([HTML](/articles/sacred-slack-has-been-published.html))
+- 2026-08-07 — [AI Did Not Blur Reality](/articles/ai-did-not-blur-reality.md) ([HTML](/articles/ai-did-not-blur-reality.html))
+- 2026-08-07 — [Field Instruments: Open Weights and the Release Gradient](/articles/field-instruments-open-weights-and-the-release-gradient.md) ([HTML](/articles/field-instruments-open-weights-and-the-release-gradient.html))
 - 2026-08-06 — [Applied Case: Psychology Finds the Empty Altar](/articles/applied-case-psychology-finds-the-empty-altar.md) ([HTML](/articles/applied-case-psychology-finds-the-empty-altar.html))
 - 2026-08-06 — [Beneath the Launchpad](/articles/beneath-the-launchpad.md) ([HTML](/articles/beneath-the-launchpad.html))
 - 2026-08-06 — [Field Instruments: Infodynamics](/articles/field-instruments-infodynamics.md) ([HTML](/articles/field-instruments-infodynamics.html))
