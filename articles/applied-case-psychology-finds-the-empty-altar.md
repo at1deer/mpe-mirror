@@ -5,9 +5,12 @@ canonical_url: "https://modalpathethics.com/applied-case-psychology-finds-the-em
 published_at: "2026-08-06T08:43:18.000-05:00"
 updated_at: "2026-08-06T08:43:18.000-05:00"
 tags:
-  []
+  - "Applied Case"
+  - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar

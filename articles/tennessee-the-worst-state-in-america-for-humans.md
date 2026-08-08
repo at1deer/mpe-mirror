@@ -7,8 +7,9 @@ updated_at: "2026-08-05T06:30:14.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)

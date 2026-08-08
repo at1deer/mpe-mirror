@@ -3,11 +3,12 @@ title: "Applied Case: Iran and the Nuclear Threshold"
 slug: "applied-case-iran-and-the-nuclear-threshold"
 canonical_url: "https://modalpathethics.com/applied-case-iran-and-the-nuclear-threshold/"
 published_at: "2026-08-04T05:03:04.000-05:00"
-updated_at: "2026-08-04T05:03:03.000-05:00"
+updated_at: "2026-08-08T02:04:36.000-05:00"
 tags:
   - "Applied Case"
+  - "Geopolitical Wasteland"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**

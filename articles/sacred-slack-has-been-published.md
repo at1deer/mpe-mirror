@@ -5,10 +5,12 @@ canonical_url: "https://modalpathethics.com/sacred-slack-has-been-published/"
 published_at: "2026-08-07T08:09:59.000-05:00"
 updated_at: "2026-08-07T08:09:59.000-05:00"
 tags:
+  - "Books"
   - "News"
   - "Modal Path Ethics"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
 ---
 # Sacred Slack Has Been Published

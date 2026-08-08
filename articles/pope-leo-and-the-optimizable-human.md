@@ -6,8 +6,10 @@ published_at: "2026-07-22T13:15:55.000-05:00"
 updated_at: "2026-07-22T13:15:55.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Modal Systems"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human

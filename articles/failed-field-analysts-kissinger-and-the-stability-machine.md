@@ -7,8 +7,9 @@ updated_at: "2026-07-21T03:58:10.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
+  - "Geopolitical Wasteland"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine

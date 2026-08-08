@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:30:29.915Z",
+  "generated_at": "2026-08-08T07:31:43.824Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 216,
@@ -12,8 +12,10 @@
       "canonical_url": "https://modalpathethics.com/sacred-slack-has-been-published/",
       "excerpt": "Modern people did not stop needing metaphysics. They were left to assemble it themselves. A proposal for a Meaning and Experience Center. Now on Amazon",
       "tags": [
+        "Books",
         "News",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Sacred Slack"
       ],
       "mirror_markdown_path": "/articles/sacred-slack-has-been-published.md",
       "mirror_html_path": "/articles/sacred-slack-has-been-published.html",
@@ -29,7 +31,8 @@
       "canonical_url": "https://modalpathethics.com/ai-did-not-blur-reality/",
       "excerpt": "Fictional Earth was already doing that. Artificial intelligence made it less dependent on Earth.",
       "tags": [
-        "Fictional Earth"
+        "Fictional Earth",
+        "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/ai-did-not-blur-reality.md",
       "mirror_html_path": "/articles/ai-did-not-blur-reality.html",
@@ -45,7 +48,8 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-open-weights-and-the-release-gradient/",
       "excerpt": "A released model cannot be recalled. A closed model can become a private government.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/field-instruments-open-weights-and-the-release-gradient.md",
       "mirror_html_path": "/articles/field-instruments-open-weights-and-the-release-gradient.html",
@@ -60,7 +64,12 @@
       "updated_at": "2026-08-06T08:43:18.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-psychology-finds-the-empty-altar/",
       "excerpt": "God may affect the psyche. The psyche does not own God. ",
-      "tags": [],
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics",
+        "Instrument Jurisdiction",
+        "Sacred Slack"
+      ],
       "mirror_markdown_path": "/articles/applied-case-psychology-finds-the-empty-altar.md",
       "mirror_html_path": "/articles/applied-case-psychology-finds-the-empty-altar.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.md",
@@ -74,7 +83,11 @@
       "updated_at": "2026-08-06T06:00:12.000-05:00",
       "canonical_url": "https://modalpathethics.com/beneath-the-launchpad/",
       "excerpt": "Modal Path Ethics has submitted a public comment to the Federal Aviation Administration. This was clearly necessary.",
-      "tags": [],
+      "tags": [
+        "Modal Path Ethics",
+        "News",
+        "Instrument Jurisdiction"
+      ],
       "mirror_markdown_path": "/articles/beneath-the-launchpad.md",
       "mirror_html_path": "/articles/beneath-the-launchpad.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/beneath-the-launchpad.md",
@@ -106,7 +119,10 @@
       "canonical_url": "https://modalpathethics.com/nietzche-and-the-sacred-slack/",
       "excerpt": "God died. The load remained.",
       "tags": [
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Engagement",
+        "Sacred Slack",
+        "Inner Apocalypse"
       ],
       "mirror_markdown_path": "/articles/nietzche-and-the-sacred-slack.md",
       "mirror_html_path": "/articles/nietzche-and-the-sacred-slack.html",
@@ -123,7 +139,8 @@
       "excerpt": "Businesses love the great state of Tennessee. The humans need Better.",
       "tags": [
         "Modal Path Ethics",
-        "News"
+        "News",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/tennessee-the-worst-state-in-america-for-humans.md",
       "mirror_html_path": "/articles/tennessee-the-worst-state-in-america-for-humans.html",
@@ -139,7 +156,8 @@
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-garrett-hardin-and-the-lifeboat/",
       "excerpt": "He saw the limit and mistook the seating chart for nature.",
       "tags": [
-        "Failed Field Analysts"
+        "Failed Field Analysts",
+        "Engagement"
       ],
       "mirror_markdown_path": "/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.md",
       "mirror_html_path": "/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.html",
@@ -156,7 +174,9 @@
       "excerpt": "Pokémon speedrunning built extraordinary instruments for verifying runs. It built much weaker instruments for verifying the authority surrounding them.",
       "tags": [
         "Chirality",
-        "Applied Case"
+        "Applied Case",
+        "Pokémon",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-werster-crisis.md",
       "mirror_html_path": "/articles/applied-case-the-werster-crisis.html",
@@ -168,11 +188,12 @@
       "title": "Applied Case: Iran and the Nuclear Threshold",
       "slug": "applied-case-iran-and-the-nuclear-threshold",
       "published_at": "2026-08-04T05:03:04.000-05:00",
-      "updated_at": "2026-08-04T05:03:03.000-05:00",
+      "updated_at": "2026-08-08T02:04:36.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-iran-and-the-nuclear-threshold/",
       "excerpt": "The bomb did not have to exist for the threshold to begin acting.",
       "tags": [
-        "Applied Case"
+        "Applied Case",
+        "Geopolitical Wasteland"
       ],
       "mirror_markdown_path": "/articles/applied-case-iran-and-the-nuclear-threshold.md",
       "mirror_html_path": "/articles/applied-case-iran-and-the-nuclear-threshold.html",
@@ -188,8 +209,8 @@
       "canonical_url": "https://modalpathethics.com/the-fourth-button/",
       "excerpt": "Spoilers for Deus Ex: Human Revolution and The Missing Link.",
       "tags": [
-        "Applied Case",
-        "Chirality"
+        "Chirality",
+        "Applied Case"
       ],
       "mirror_markdown_path": "/articles/the-fourth-button.md",
       "mirror_html_path": "/articles/the-fourth-button.html",
@@ -205,7 +226,9 @@
       "canonical_url": "https://modalpathethics.com/applied-case-call-me-ill-hide-the-body/",
       "excerpt": "The manuscript passed. Its path became the case.",
       "tags": [
-        "Applied Case"
+        "Applied Case",
+        "Modal Path Ethics",
+        "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/applied-case-call-me-ill-hide-the-body.md",
       "mirror_html_path": "/articles/applied-case-call-me-ill-hide-the-body.html",
@@ -221,7 +244,8 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-superintelligence/",
       "excerpt": "The answer gets smarter. The world around it becomes the bottleneck.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/field-instruments-superintelligence.md",
       "mirror_html_path": "/articles/field-instruments-superintelligence.html",
@@ -233,11 +257,13 @@
       "title": "Transition Action: Chirality Has Escaped",
       "slug": "transition-action-chirality-has-escaped",
       "published_at": "2026-08-02T05:30:59.000-05:00",
-      "updated_at": "2026-08-02T05:30:58.000-05:00",
+      "updated_at": "2026-08-08T02:06:22.000-05:00",
       "canonical_url": "https://modalpathethics.com/transition-action-chirality-has-escaped/",
       "excerpt": "Arrangement gives light a hand. Strain gives matter a hand. Chirality is a move now. A special edition.",
       "tags": [
-        "Transition Action"
+        "Transition Action",
+        "Chirality",
+        "Chastening of the Controller"
       ],
       "mirror_markdown_path": "/articles/transition-action-chirality-has-escaped.md",
       "mirror_html_path": "/articles/transition-action-chirality-has-escaped.html",
@@ -253,7 +279,8 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-the-alarm-2/",
       "excerpt": "Greta Thunberg was right to wake the building. The alarm still has to surrender the blueprint.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/field-instruments-the-alarm-2.md",
       "mirror_html_path": "/articles/field-instruments-the-alarm-2.html",
@@ -269,7 +296,8 @@
       "canonical_url": "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/",
       "excerpt": "Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.",
       "tags": [
-        "Applied Case"
+        "Applied Case",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/applied-case-psychiatry-before-psychiatry.md",
       "mirror_html_path": "/articles/applied-case-psychiatry-before-psychiatry.html",
@@ -285,7 +313,8 @@
       "canonical_url": "https://modalpathethics.com/applied-case-russia-and-the-buffer-wound/",
       "excerpt": "Russia’s security wound is real. Ukraine is not the bandage.",
       "tags": [
-        "Applied Case"
+        "Applied Case",
+        "Geopolitical Wasteland"
       ],
       "mirror_markdown_path": "/articles/applied-case-russia-and-the-buffer-wound.md",
       "mirror_html_path": "/articles/applied-case-russia-and-the-buffer-wound.html",
@@ -301,7 +330,8 @@
       "canonical_url": "https://modalpathethics.com/the-end-of-moral-philosophy-has-an-objective-function/",
       "excerpt": "Walter Veit abolishes moral facts, then asks utility to govern what remains.",
       "tags": [
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Engagement"
       ],
       "mirror_markdown_path": "/articles/the-end-of-moral-philosophy-has-an-objective-function.md",
       "mirror_html_path": "/articles/the-end-of-moral-philosophy-has-an-objective-function.html",
@@ -317,7 +347,8 @@
       "canonical_url": "https://modalpathethics.com/fictional-earth-linkedin-and-the-acceptable-person-machine/",
       "excerpt": "A career becomes acceptable posture.",
       "tags": [
-        "Fictional Earth"
+        "Fictional Earth",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md",
       "mirror_html_path": "/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.html",
@@ -332,7 +363,10 @@
       "updated_at": "2026-07-30T06:00:10.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-c/",
       "excerpt": "A Modal Path Ethical response to Kane Baker",
-      "tags": [],
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics"
+      ],
       "mirror_markdown_path": "/articles/the-c.md",
       "mirror_html_path": "/articles/the-c.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-c.md",
@@ -347,7 +381,8 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-has-doublevision/",
       "excerpt": "\"Fill my eyes.\" [AVGN I]",
       "tags": [
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "News"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-has-doublevision.md",
       "mirror_html_path": "/articles/modal-path-ethics-has-doublevision.html",
@@ -363,7 +398,8 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-active-information/",
       "excerpt": "Information is active when its uptake changes reachability.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Epistemic Instruments"
       ],
       "mirror_markdown_path": "/articles/field-instruments-active-information.md",
       "mirror_html_path": "/articles/field-instruments-active-information.html",
@@ -396,7 +432,8 @@
       "excerpt": "Who owns a liability after it stops being an asset?",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Business"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-negative-boat.md",
       "mirror_html_path": "/articles/applied-case-the-negative-boat.html",
@@ -412,7 +449,8 @@
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/",
       "excerpt": "He saw the prison inside the hospital and tried to free the patient by abolishing the hospital's language.",
       "tags": [
-        "Failed Field Analysts"
+        "Failed Field Analysts",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md",
       "mirror_html_path": "/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html",
@@ -493,7 +531,8 @@
       "excerpt": "A simulation is not proof of experience. A substrate is not proof of emptiness.",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-pregnancy-test-for-consciousness.md",
       "mirror_html_path": "/articles/applied-case-the-pregnancy-test-for-consciousness.html",
@@ -509,7 +548,9 @@
       "canonical_url": "https://modalpathethics.com/pope-leo-and-the-optimizable-human/",
       "excerpt": "Magnifica Humanitas warns that artificial intelligence may teach people to treat themselves as optimization projects. The project shipped years ago.",
       "tags": [
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Modal Systems",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/pope-leo-and-the-optimizable-human.md",
       "mirror_html_path": "/articles/pope-leo-and-the-optimizable-human.html",
@@ -525,7 +566,9 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-disruption/",
       "excerpt": "Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Business",
+        "Inner Apocalypse"
       ],
       "mirror_markdown_path": "/articles/field-instruments-disruption.md",
       "mirror_html_path": "/articles/field-instruments-disruption.html",
@@ -542,7 +585,8 @@
       "excerpt": "Sacred Instruments Capstone. He failed the examination, so he moved the examination to Heaven.",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Inner Apocalypse"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-brother-of-jesus-christ.md",
       "mirror_html_path": "/articles/applied-case-the-brother-of-jesus-christ.html",
@@ -559,7 +603,8 @@
       "excerpt": "A mechanical soft force sensor converts touch directly into fluidic action. Data remains available. The first response no longer has to wait for it.",
       "tags": [
         "Transition Action",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Chastening of the Controller"
       ],
       "mirror_markdown_path": "/articles/transition-action-the-signal-never-becomes-data.md",
       "mirror_html_path": "/articles/transition-action-the-signal-never-becomes-data.html",
@@ -575,6 +620,7 @@
       "canonical_url": "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/",
       "excerpt": "Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.",
       "tags": [
+        "Books",
         "News",
         "Modal Path Ethics",
         "Applied Case"
@@ -594,7 +640,8 @@
       "excerpt": "Every subreddit gets a constitution. [L]",
       "tags": [
         "Fictional Earth",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/fictional-earth-reddit-and-the-local-world-machine.md",
       "mirror_html_path": "/articles/fictional-earth-reddit-and-the-local-world-machine.html",
@@ -611,7 +658,9 @@
       "excerpt": "The hunger was human. The liturgy was synthetic. The dyad field was always real. r/FractalLegion, \"AI Psychosis\" II, recursive self-formation",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Modal Systems",
+        "Sacred Slack"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-early-ai-religions.md",
       "mirror_html_path": "/articles/applied-case-the-early-ai-religions.html",
@@ -628,7 +677,8 @@
       "excerpt": "Security Instruments Capstone. Kissinger saw the board and kept losing the people living on it.",
       "tags": [
         "Failed Field Analysts",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Geopolitical Wasteland"
       ],
       "mirror_markdown_path": "/articles/failed-field-analysts-kissinger-and-the-stability-machine.md",
       "mirror_html_path": "/articles/failed-field-analysts-kissinger-and-the-stability-machine.html",
@@ -663,7 +713,8 @@
       "tags": [
         "Applied Case",
         "Chirality",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Inner Apocalypse"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-ever-brilliant-goldmask.md",
       "mirror_html_path": "/articles/applied-case-the-ever-brilliant-goldmask.html",
@@ -675,7 +726,7 @@
       "title": "Failed Field Analysts: Savonarola and the Purity Machine",
       "slug": "failed-field-analysts-savonrola-and-the-purity-machine",
       "published_at": "2026-07-15T05:30:34.000-05:00",
-      "updated_at": "2026-07-15T05:30:34.000-05:00",
+      "updated_at": "2026-08-08T02:27:16.000-05:00",
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/",
       "excerpt": "He saw the rot and took fire for medicine.",
       "tags": [
@@ -685,7 +736,7 @@
       "mirror_html_path": "/articles/failed-field-analysts-savonrola-and-the-purity-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html",
-      "sha256_plaintext": "d070adbbcffbf714d07999f3503a6c57bd8d2a927e076225bd55bdd7ed71beb5"
+      "sha256_plaintext": "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
     },
     {
       "title": "Transition Action: The Sensor Cleans Itself",
@@ -696,7 +747,8 @@
       "excerpt": "A battery-free sweat patch can now regenerate its own molecular sensing surface, induce a fresh sample, and keep monitoring for weeks.",
       "tags": [
         "Transition Action",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Chastening of the Controller"
       ],
       "mirror_markdown_path": "/articles/transition-action-the-sensor-cleans-itself.md",
       "mirror_html_path": "/articles/transition-action-the-sensor-cleans-itself.html",
@@ -708,18 +760,19 @@
       "title": "Applied Case: The Immortal Corpus",
       "slug": "the-immortal-corpus",
       "published_at": "2026-07-14T04:20:46.000-05:00",
-      "updated_at": "2026-07-14T05:05:59.000-05:00",
+      "updated_at": "2026-08-08T02:28:16.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-immortal-corpus/",
       "excerpt": "The priests kept every philosopher alive and let philosophy die. [L]",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/the-immortal-corpus.md",
       "mirror_html_path": "/articles/the-immortal-corpus.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html",
-      "sha256_plaintext": "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
+      "sha256_plaintext": "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
     },
     {
       "title": "Tales of Distortion: The Climbing Target",
@@ -730,7 +783,8 @@
       "excerpt": "The machine saw the climb. The threat field saw the attack. Only one existed. Flight 655. Flight 752.",
       "tags": [
         "Tales of Distortion",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/tales-of-distortion-the-climbing-target.md",
       "mirror_html_path": "/articles/tales-of-distortion-the-climbing-target.html",
@@ -783,7 +837,10 @@
       "tags": [
         "Tales of Distortion",
         "Modal Path Ethics",
-        "Failed Field Analysts"
+        "Failed Field Analysts",
+        "Bad Religion",
+        "Inner Apocalypse",
+        "Sacred Slack"
       ],
       "mirror_markdown_path": "/articles/tales-of-distortion-the-subway-oracle.md",
       "mirror_html_path": "/articles/tales-of-distortion-the-subway-oracle.html",
@@ -798,7 +855,11 @@
       "updated_at": "2026-07-11T14:49:17.000-05:00",
       "canonical_url": "https://modalpathethics.com/pragmatism-and-the-moral-field/",
       "excerpt": "An idea is an instrument. Modal Path Ethics asks what the instrument makes reachable. ",
-      "tags": [],
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Field Instruments"
+      ],
       "mirror_markdown_path": "/articles/pragmatism-and-the-moral-field.md",
       "mirror_html_path": "/articles/pragmatism-and-the-moral-field.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/pragmatism-and-the-moral-field.md",
@@ -873,7 +934,7 @@
       "title": "Simone Weil and the Field Under Force",
       "slug": "simone-weil-and-the-field-under-force",
       "published_at": "2026-07-08T08:30:08.000-05:00",
-      "updated_at": "2026-07-08T17:34:34.000-05:00",
+      "updated_at": "2026-08-08T02:29:33.000-05:00",
       "canonical_url": "https://modalpathethics.com/simone-weil-and-the-field-under-force/",
       "excerpt": "Force turns persons into things. Attention keeps the field from obeying.",
       "tags": [
@@ -884,7 +945,7 @@
       "mirror_html_path": "/articles/simone-weil-and-the-field-under-force.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/simone-weil-and-the-field-under-force.html",
-      "sha256_plaintext": "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
+      "sha256_plaintext": "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
     },
     {
       "title": "Transition Action: The Clock Becomes an Entropy Leak",

@@ -5,9 +5,10 @@ canonical_url: "https://modalpathethics.com/the-c/"
 published_at: "2026-07-30T06:00:11.000-05:00"
 updated_at: "2026-07-30T06:00:10.000-05:00"
 tags:
-  []
+  - "Engagement"
+  - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure

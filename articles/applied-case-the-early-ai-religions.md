@@ -7,8 +7,10 @@ updated_at: "2026-07-18T22:16:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Modal Systems"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions

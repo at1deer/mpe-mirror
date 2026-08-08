@@ -7,8 +7,9 @@ updated_at: "2026-07-15T03:38:20.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
+  - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself

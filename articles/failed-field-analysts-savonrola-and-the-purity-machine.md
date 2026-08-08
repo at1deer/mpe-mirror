@@ -3,12 +3,12 @@ title: "Failed Field Analysts: Savonarola and the Purity Machine"
 slug: "failed-field-analysts-savonrola-and-the-purity-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/"
 published_at: "2026-07-15T05:30:34.000-05:00"
-updated_at: "2026-07-15T05:30:34.000-05:00"
+updated_at: "2026-08-08T02:27:16.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
-sha256_plaintext: "d070adbbcffbf714d07999f3503a6c57bd8d2a927e076225bd55bdd7ed71beb5"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
+sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
 # Failed Field Analysts: Savonarola and the Purity Machine
 
@@ -66,7 +66,7 @@ It understood that instruments act through fields.
 
 Then the government used its own purity instrument against the bell.
 
-[](https://www.visit-florence-italy.com/museums/uffizi/botticelli-adoration-magi-1490-1500-uffizi-gallery-florence-italy.html?ref=modalpathethics.com)
+[![Botticelli Adoration Magi 1490-1500 Uffizi Gallery Florence](https://visit-florence-italy.global.ssl.fastly.net/pics/museums/uffizi/botticelli-adoration-of-the-magi-1490-1500-uffizi-gallery-florence-italy-21.jpg)](https://www.visit-florence-italy.com/museums/uffizi/botticelli-adoration-magi-1490-1500-uffizi-gallery-florence-italy.html?ref=modalpathethics.com)
 
 The city had just spent years learning to classify persons, clothing, songs, paintings, books, cosmetics, games, public conduct, political loyalties, sermons, rituals, and household objects according to their relation to civic corruption.
 
@@ -132,7 +132,7 @@ This version has many clear advantages.
 
 It is also a deeply inadequate map of Florence.
 
-[](https://thehiddenblade.com/feathers?ref=modalpathethics.com)
+[![Assassin's Creed 2 Feathers and Glyphs Locations | The Hidden Blade](https://thehiddenblade.com/images/ItalyOverview.png)](https://thehiddenblade.com/feathers?ref=modalpathethics.com)
 
 The purity field existed before Savonarola arrived.
 
@@ -140,7 +140,7 @@ Florence had spent generations developing systems for reading moral and politica
 
 The city already had a problem with **corruption**.
 
-[](https://www.pcgamer.com/revisiting-the-renaissance-with-assassins-creed-2/?ref=modalpathethics.com)
+[![Revisiting the renaissance with Assassin's Creed 2 | PC Gamer](https://cdn.mos.cms.futurecdn.net/esit8p7ixmkAVUVNg2mayc-1200-80.jpg)](https://www.pcgamer.com/revisiting-the-renaissance-with-assassins-creed-2/?ref=modalpathethics.com)
 
 It also had _several_ incompatible definitions of corruption.
 
@@ -173,7 +173,7 @@ Florence had already built the machine that made the compression actionable.
 
 Florence knew that clothing was political.
 
-[](https://assassinscreed.fandom.com/wiki/Tailor?ref=modalpathethics.com)
+[![Tailor | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLWEdUjdok-B3NHlFGaD2QWGcmnomq4AXoUy_zQM6mA&s=10)](https://assassinscreed.fandom.com/wiki/Tailor?ref=modalpathethics.com)
 
 This knowledge did not require Savonarola.
 
@@ -242,7 +242,7 @@ This is too on the nose.
 
 This name sounds like the city had finally admitted what kind of place it was and so just started staffing accordingly.
 
-[](https://www.youtube.com/watch?v=P1mDTdbFY9Q&ref=modalpathethics.com)
+[![Ezio in Disguise: All Things Come to He Who Waits (Assassin's Creed 2)](https://i.ytimg.com/vi/P1mDTdbFY9Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD9MhwCnE7--b1R-zwkqQ66JywBwQ)](https://www.youtube.com/watch?v=P1mDTdbFY9Q&ref=modalpathethics.com)
 
 This office investigated and prosecuted sodomy. It received accusations, generated records, imposed fines and other penalties, and connected sexual conduct to civic discipline through specialized administration.
 
@@ -287,7 +287,7 @@ The Office of the Night had already demonstrated that vice could have jurisdicti
 
 The boys did not appear because Savonarola suddenly realized children were available. Florence had been organizing youth into confraternities long before his public ascendancy.
 
-[](https://www.facebook.com/female.artists.in.history/posts/jane-benham-hay-british-painter-and-illustrator-1829-1904a-florentine-procession/2193852050899672/)
+[![Jane Benham Hay (British painter and illustrator) 1829 - 1904 A Florentine  Procession, 1859-67 oil on canvas 168 x 415 cm. (66.14 x 163.39 in.)  Homerton College, University of Cambridge, Cambridge, Cambridgeshire,](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzieCJ1dyfler3tOhQe0c30MriNmRysZWSnp23CLNbvVUF53fWTO4VCMqd&s=10)](https://www.facebook.com/female.artists.in.history/posts/jane-benham-hay-british-painter-and-illustrator-1829-1904a-florentine-procession/2193852050899672/)
 
 The Confraternity of the Purification, founded in 1427, is especially useful here because its name sounds as though the article invented this shit as a subtle joke.
 
@@ -350,7 +350,7 @@ Penitential preaching in Italian cities had long used the public destruction of 
 
 **Fire** offered several immediate advantages to moral authority.
 
-[](https://assassinscreed.fandom.com/wiki/Bonfire_of_the_Vanities?ref=modalpathethics.com)
+[![Bonfire of the Vanities | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEIzA285c9tKygWFi7g6cWVIrDcOiX1pNl1rSgCODH6Q&s=10)](https://assassinscreed.fandom.com/wiki/Bonfire_of_the_Vanities?ref=modalpathethics.com)
 
 It gave repentance an object.
 
@@ -387,7 +387,7 @@ The object is real. The surrender may be sincere.
 
 The fire **_definitely_** burns.
 
-[](https://www.reddit.com/r/florence/comments/10vshqx/on_this_datethe_infamous_bonfire_of_vanities/?ref=modalpathethics.com)
+[![On this date-The infamous Bonfire of Vanities takes place in Florence in  1497, as followers of the Dominician Friar Girolamo Savonarola collect and  burn many precious objects of art, considering them as](https://preview.redd.it/the-infamous-bonfire-of-vanities-takes-place-in-florence-in-v0-f38yd62c1pga1.png?width=328&format=png&auto=webp&s=597dc32899e0d6cddcda0ee1dcacb84ba6ee7864)](https://www.reddit.com/r/florence/comments/10vshqx/on_this_datethe_infamous_bonfire_of_vanities/?ref=modalpathethics.com)
 
 And the metric can still be false.
 
@@ -397,7 +397,9 @@ Savonarola did not invent public penitential destruction. He inherited an instru
 
 ## **San Marco.**
 
-San Marco totally ruins the easy story.[](https://www.tickets-florence.it/san-marco/?ref=modalpathethics.com)
+San Marco totally ruins the easy story.
+
+[![Book San Marco Museum Tickets — Entry Tickets](https://cdn-imgix.headout.com/tour/32604/TOUR-IMAGE/d23be8e9-c357-4c6e-bd5e-ea500c0cb7d0-17254-florence-san-marco---florence-02.jpg)](https://www.tickets-florence.it/san-marco/?ref=modalpathethics.com)
 
 The convent that became Savonarola’s base was rebuilt through Medici patronage beginning in the 1430s.
 
@@ -413,7 +415,7 @@ Wealth could fund reform. Patronage could support art intended for disciplined p
 
 **San Marco** held all of this.
 
-[](https://www.visit-florence-italy.com/museums/san-marco/savonarola-church-convent-san-marco-florence.html?ref=modalpathethics.com)
+[![Savonarola at San Marco Convent Cloister in Florence Italy](https://images-e-venise.global.ssl.fastly.net/pics/eglises-florence/san-marco/savonarol-buste-couvent-san-marco-florence-italie-01.jpg)](https://www.visit-florence-italy.com/museums/san-marco/savonarola-church-convent-san-marco-florence.html?ref=modalpathethics.com)
 
 The building became a physical argument against simple categories.
 
@@ -446,7 +448,7 @@ The same building could carry both transitions.
 
 Girolamo Savonarola was born in Ferrara in 1452.
 
-[](https://www.theflorentine.net/2021/12/17/new-layout-savonarola-rooms-san-marco/?ref=modalpathethics.com)
+[![New layout of Savonarola's rooms at San Marco | The Florentine The  Florentine](https://www.theflorentine.net/wp-content/uploads/2022/02/Allestimento1.jpg)](https://www.theflorentine.net/2021/12/17/new-layout-savonarola-rooms-san-marco/?ref=modalpathethics.com)
 
 He grew up in a learned household, received serious education, and moved toward the Dominican life as a young man while developing an intense disgust with the moral condition of the world around him. His surviving early writings and later accounts show an imagination already organized around corruption, judgment, reform, and the distance between Christian truth and social life.
 
@@ -533,7 +535,7 @@ Public participation requires capacities that formal permission does not create 
 
 Savonarola saw the city beneath the constitution.
 
-[](https://www.vgchartz.com/article/258110/assassins-creed-ii-bonfire-of-the-vanities/?ref=modalpathethics.com)
+[![Assassin's Creed II: Bonfire of the Vanities](https://www.vgchartz.com/games/pics/2625285aaa.jpg)](https://www.vgchartz.com/article/258110/assassins-creed-ii-bonfire-of-the-vanities/?ref=modalpathethics.com)
 
 He saw that repair had to enter the whole field.
 
@@ -555,7 +557,7 @@ This is the true fragment.
 
 The failure begins when a real multi-level field is given one sovereign diagnosis.
 
-[](https://www.youtube.com/watch?v=6h3JD4jDC3M&ref=modalpathethics.com)
+[![Bonfire of the Vanities: Full Story of Ezio and Savonarola (Assassin's  Creed 2 | Movie) - YouTube](https://i.ytimg.com/vi/qBN0H5ntIf8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCEiSDe9pz5jWhijYAT4eFYKeMb8g)](https://www.youtube.com/watch?v=6h3JD4jDC3M&ref=modalpathethics.com)
 
 Savonarola increasingly interpreted the field through **purity**.
 
@@ -584,7 +586,7 @@ The analyst had seen that corruption was a field.
 
 He gave the field one governing name:
 
-Impurity.
+> Impurity.
 
 * * *
 
@@ -598,7 +600,7 @@ Savonarola warned that a scourge would enter Italy and that political and eccles
 
 In 1494, Charles VIII of France entered Italy with an army (what else).
 
-[](https://www.thecollector.com/italian-wars-charles-viii-invasion-italy/?ref=modalpathethics.com)
+[![Charles VIII's Invasion of Italy Sparked a War That Lasted 65 Years |  TheCollector](https://cdn.thecollector.com/wp-content/uploads/2025/10/charles-viii-enters-florence-italian-wars.jpg?width=1200&quality=100&dpr=2)](https://www.thecollector.com/italian-wars-charles-viii-invasion-italy/?ref=modalpathethics.com)
 
 The invasion destabilized the peninsula and made a previously distributed fear suddenly visible in armor, artillery, diplomacy, and the collapse of old arrangements.
 
@@ -668,7 +670,7 @@ He argued for a broader council modeled in part on Venice’s Great Council and 
 
 The reform still changed the field.
 
-[](https://worldhistoryvolume.com/renaissance/florence-golden-age-savonarola/?ref=modalpathethics.com)
+[![Florence in the Golden Age 1469 -1498 - World History Volume](https://worldhistoryvolume.com/wp-content/uploads/2017/08/Florence-in-the-Golden-Age-1469-1498.jpg)](https://worldhistoryvolume.com/renaissance/florence-golden-age-savonarola/?ref=modalpathethics.com)
 
 More citizens acquired a route into major political decisions.
 
@@ -686,13 +688,13 @@ He also supported a law of appeal intended to restrain exile and capital punishm
 
 The right of appeal therefore mattered at the deepest level of the new field. It preserved an exit from factional certainty.
 
-[](https://www.cbr.com/assassins-creed-2-still-gold-standard/?ref=modalpathethics.com)
+[![Why Assassin's Creed 2 Is STILL the Best of the Series](https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/05/Assassins-Creed-II.jpg?q=50&fit=crop&w=825&dpr=1.5)](https://www.cbr.com/assassins-creed-2-still-gold-standard/?ref=modalpathethics.com)
 
 Savonarola also supported charitable and economic measures. He promoted the Monte di Pietà, a public lending institution intended to offer an alternative to exploitative credit and relieve debt pressure. He supported almsgiving and the Buonomini di San Martino, which assisted families whose poverty was made harder by the expectation that they preserve respectable appearances. He addressed tax burdens and called attention to the poor as participants in the city’s moral condition rather than scenery beneath Renaissance magnificence.
 
 These are not decorative virtues added so the article can claim balance.
 
-[](https://gamingpastime.com/assassins-creed-2-xbox-one-review/?ref=modalpathethics.com)
+[![Assassin's Creed II (Remaster) for Xbox One Review](https://gamingpastime.com/wp-content/uploads/2023/01/assassinscreed2_8.jpg)](https://gamingpastime.com/assassins-creed-2-xbox-one-review/?ref=modalpathethics.com)
 
 They show the true fragment operating.
 
@@ -712,7 +714,7 @@ Processions, liturgical performances, architecture, baptistery, cathedral, patro
 
 He presented Florence as chosen for renovation.
 
-[](https://assassinscreed.fandom.com/wiki/Cattedrale_di_Santa_Maria_del_Fiore?ref=modalpathethics.com)
+[![Cattedrale di Santa Maria del Fiore | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY92e-YsTfrsd-Lw9IkBFv8YeiVGAHZyNZpAu3-qH36Q&s=10)](https://assassinscreed.fandom.com/wiki/Cattedrale_di_Santa_Maria_del_Fiore?ref=modalpathethics.com)
 
 The city could become a [New Jerusalem](https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/) through repentance, justice, republican liberty, Christian discipline, and providential mission. Christ could be proclaimed Florence’s true king.
 
@@ -724,7 +726,7 @@ No merchant family owns the city.
 
 No pope, faction, military patron, or oligarch can convert Florence into private inheritance without answering to a law above personal appetite.
 
-[](https://www.youtube.com/watch?v=jM_Iz25D6yM&ref=modalpathethics.com)
+[![Ezio Multiplies Himself: Final Boss Fight with Borgia in Rome (Assassin's  Creed 2 | Staff of Eden)](https://i.ytimg.com/vi/jM_Iz25D6yM/maxresdefault.jpg)](https://www.youtube.com/watch?v=jM_Iz25D6yM&ref=modalpathethics.com)
 
 Sacred sovereignty can humble human sovereignty.
 
@@ -740,7 +742,7 @@ Then the instrument turns.
 
 The city receives sacred kingship through **interpretation**.
 
-[](https://assassinscreed.fandom.com/wiki/Rodrigo_Borgia?ref=modalpathethics.com)
+[![Rodrigo Borgia | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_davsRKQvkYTeaD-KmSBKqAORdkSTTiMjreRfTrFhGw&s=10)](https://assassinscreed.fandom.com/wiki/Rodrigo_Borgia?ref=modalpathethics.com)
 
 The prophet becomes the privileged reader of the king who cannot be cross-examined.
 
@@ -777,7 +779,7 @@ Savonarola understood that a government lives in more than statutes.
 
 Carnival belonged to the city’s operating system.
 
-[](https://assassinscreed.fandom.com/wiki/Carnevale?ref=modalpathethics.com)
+[![Carnevale | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwY8MEN_cyotbsZyG_zNHNb8ULdVFMwn-kuFSZQAhgqw&s=10)](https://assassinscreed.fandom.com/wiki/Carnevale?ref=modalpathethics.com)
 
 Songs moved through streets. Youth groups performed. Costumes, mockery, games, sex, food, violence, commerce, neighborhood rivalry, and temporary inversion gave Florentines a season in which ordinary hierarchy could be stretched, mocked, intensified, or released. Carnival was pleasure, public coordination, danger, money, memory, youth culture, and political weather.
 
@@ -834,7 +836,7 @@ The fanciulli are where reform acquires a hand.
 
 Savonarola’s youth movement organized boys into groups that sang, processed, gathered alms, promoted public devotion, and sought the objects associated with vanity. They wore reform visibly. Their bodies made the city’s future appear disciplined before the city’s present had finished deciding what discipline meant.
 
-[](http://www.3pp.website/2012/05/borgias-day-of-ashes.html?ref=modalpathethics.com)
+[![Three Pipe Problem: The Borgias: Day of Ashes](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZiChhuLjXaG3vQ9vLeyluLmXFD7su0Ri_Ad7_h4y1Oe9qp9U4Kmbgfl-fiWAmDjfJfgAH6gZlrEO0zRmsnEXkililba8FmINT2EIKEcaFP4xhYJriXhPt6iDB73f7i5ap6vDKjIwlDY/s1600/fanciulli.JPG)](http://www.3pp.website/2012/05/borgias-day-of-ashes.html?ref=modalpathethics.com)
 
 The boys could enter spaces adult officials reached differently.
 
@@ -890,7 +892,7 @@ The **mirror** is one of the best objects the purity machine could have chosen.
 
 The symbolism arrives preassembled.
 
-[](https://www.gamersheroes.com/game-guides/assassins-creed-odyssey-a-familys-legacy-light-mirrors-puzzle-guide/?ref=modalpathethics.com)
+[![Assassins Creed Odyssey A Familys Legacy Light Mirrors Puzzle Guide -  Gamers Heroes](https://www.gamersheroes.com/wp-content/uploads/2018/10/Assassins-Creed-Odyssey-A-Familys-Legacy-Light-Mirrors-Puzzle-Guide-2.jpg)](https://www.gamersheroes.com/game-guides/assassins-creed-odyssey-a-familys-legacy-light-mirrors-puzzle-guide/?ref=modalpathethics.com)
 
 Savonarola’s diagnosis of luxury contained real structure. Florence was wealthy and unequal. Status competition could consume household resources. Patronage and public display helped preserve hierarchy. A city presenting itself as Christian and republican could allow magnificence to coexist with families in distress, debt, exclusion, and dependence.
 
@@ -917,7 +919,7 @@ The mirror becomes more than evidence. It becomes explanation.
 
 Florence is corrupt because people love objects like **this**.
 
-[](https://igabiba.com/products/paladone-assasins-creed-mirror?srsltid=AfmBOoqgGJtCiQ13LJVr_LRHjp_eiV3NfdkfvymudcfatAY-G9kQhrd9&ref=modalpathethics.com)
+[![PALADONE Assassin's Creed Mirror – igabiba](https://igabiba.com/cdn/shop/products/paladone-assasins-creed-mirror-5055964714864-29104733782195_800x.jpg?v=1628751254)](https://igabiba.com/products/paladone-assasins-creed-mirror?srsltid=AfmBOoqgGJtCiQ13LJVr_LRHjp_eiV3NfdkfvymudcfatAY-G9kQhrd9&ref=modalpathethics.com)
 
 The pyre becomes remedy.
 
@@ -984,7 +986,7 @@ Some saw the city finally acting like the Christian republic it claimed to be.
 
 Then the fire began.
 
-[](https://www.dailymotion.com/video/x1vvdgv?ref=modalpathethics.com)
+[![Assassin's Creed 2 Bonfire of the Vanities DLC Trailer](https://s2.dmcdn.net/v/6otZl1X-0hWOn_4fl/x720)](https://www.dailymotion.com/video/x1vvdgv?ref=modalpathethics.com)
 
 Fire solves interpretation through matter.
 
@@ -1025,7 +1027,7 @@ A household that wants safety will discover something surrenderable.
 
 A preacher whose authority rises with the pile will interpret the pile as confirmation.
 
-[](https://www.youtube.com/watch?v=p15aldiyEVE&ref=modalpathethics.com)
+[![Assassin's Creed 2 - Bonfire of vanities DLC Trailer](https://i.ytimg.com/vi/p15aldiyEVE/maxresdefault.jpg)](https://www.youtube.com/watch?v=p15aldiyEVE&ref=modalpathethics.com)
 
 The event can contain sincere repentance and still become a false instrument of civic measurement. That is the bonfire’s deepest distortion.
 
@@ -1190,7 +1192,7 @@ Purity machines are easiest to reject when they do nothing good.
 
 Savonarola’s movement did good.
 
-[](https://christianhistoryinstitute.org/it-happened-today/4/25?ref=modalpathethics.com)
+[![It Happened Today | Christian History Institute](https://christianhistoryinstitute.org/image/asset/YXNzZXRzL2RhaWx5c3Rvcmllcy8wNC8yNS84VVRldWZ0U2c2b1dLM1dzTFJjVjZpNFJVY09tcU9PMDd4NW10WFZJLmpwZw/8UTeuftSg6oWK3WsLRcV6i4RUcOmqOO07x5mtXVI.jpg?p=large&s=52bce3af30fc74f9427a7fdcdb3213a8)](https://christianhistoryinstitute.org/it-happened-today/4/25?ref=modalpathethics.com)
 
 Florence contained families who needed help and could not safely become public images of poverty. Status mattered. Honor mattered. A respectable household falling into hardship might avoid ordinary begging because public exposure could damage marriage prospects, credit, neighborhood standing, political relation, and the family’s remaining routes back into stability.
 
@@ -1226,7 +1228,7 @@ None of this makes the assistance cynical.
 
 A sincere good can still become an authority channel.
 
-[](https://www.historytoday.com/archive/feature/girolamo-savonarola-florentine-preacher-and-patriot?ref=modalpathethics.com)
+[![Girolamo Savonarola: Florentine Preacher and Patriot? | History Today](https://www.historytoday.com/sites/default/files/2025-07/girolamo_savonarola_florence_history_today.jpg)](https://www.historytoday.com/archive/feature/girolamo-savonarola-florentine-preacher-and-patriot?ref=modalpathethics.com)
 
 The repair question is whether the instrument can give without purchasing sovereignty over the recipient’s interpretation of the world.
 
@@ -1252,7 +1254,7 @@ Savonarola supported an appeal from certain grave decisions to the Great Council
 
 This was a structural answer to faction.
 
-[](https://www.gamespot.com/reviews/assassins-creed-brotherhood-review/1900-6284051/?ref=modalpathethics.com)
+[![Assassin's Creed: Brotherhood Video Review](https://www.gamespot.com/wp-content/uploads/original/mig/2/4/7/4/2102474-169_assassins_creed_brotherhood_video_review_multi_111510_1.jpg)](https://www.gamespot.com/reviews/assassins-creed-brotherhood-review/1900-6284051/?ref=modalpathethics.com)
 
 A narrow group might classify a citizen as dangerous. The appeal preserved a second path. It widened the number of people who had to agree before irreversible punishment could settle the case. It made the republic answer to a broader version of itself.
 
@@ -1310,7 +1312,7 @@ When the opposing faction entered the mechanism, purity overruled correction.
 
 Alexander VI was a **_terrible_** correction channel.
 
-[](https://en.wikipedia.org/wiki/Pope_Alexander_VI?ref=modalpathethics.com)
+[![Pope Alexander VI - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_Pope_Alexander_VI_Borgia_%28Vatican_Museums_-_Musei_Vaticani%2C_Vatican%29.jpg)](https://en.wikipedia.org/wiki/Pope_Alexander_VI?ref=modalpathethics.com)
 
 This fact helped Savonarola immensely.
 
@@ -1320,7 +1322,7 @@ The same papacy was politically entangled, dynastic, wealthy, compromised, and d
 
 Alexander VI was not a transparent guardian arriving from outside the field with clean hands and a correction notice.
 
-[](https://histvidg.wordpress.com/2015/01/31/assassins-creed-brotherhood/?ref=modalpathethics.com)
+[![Assassin's creed: Brotherhood | histvidg](https://histvidg.wordpress.com/wp-content/uploads/2015/01/apple_a_day_4.png)](https://histvidg.wordpress.com/2015/01/31/assassins-creed-brotherhood/?ref=modalpathethics.com)
 
 He was a Borgia pope operating in the politics of Italy, alliances, family advancement, papal territory, war, diplomacy, and Florence’s continued attachment to France. Florence’s refusal to join the anti-French Holy League intensified the conflict. Savonarola’s influence on the city could therefore be treated as both religious disobedience and political obstruction.
 
@@ -1360,7 +1362,9 @@ Hubbard’s sealed room returns here. [L. Ron Hubbard](https://modalpathethics.c
 
 The pope excommunicated Savonarola in 1497.
 
-[](https://www.facebook.com/HistoryInFive/posts/onthisday-1503-pope-alexander-vi-formerly-known-as-rodrigo-borgia-dies-following/2293404027356399/?locale=zh_CN)
+[![OnThisDay (1503): Pope Alexander VI, formerly known as Rodrigo Borgia, dies  following a dinner party. The controversial and scheming pope is thought to  have been poisoned, which was the preferred means of](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIiufzWq6IMAnfKestYi1E0Rrk96HQLQKpSLKpscA3rJGUIkGnUKzqPtml&s=10)](https://www.facebook.com/HistoryInFive/posts/onthisday-1503-pope-alexander-vi-formerly-known-as-rodrigo-borgia-dies-following/2293404027356399/?locale=zh_CN)
+
+_"Fuck off."_
 
 He threatened Florence with wider penalties if the city continued protecting him.
 
@@ -1374,6 +1378,8 @@ Neither side could provide a trusted court.
 Florence stood between them, carrying trade, diplomacy, faith, faction, fear, French alliance, papal pressure, and the growing cost of keeping one preacher inside the city.
 
 When correction loses a trusted institution, the field begins asking spectacle to decide truth.
+
+* * *
 
 ## **The Ordeal.**
 
@@ -1778,7 +1784,7 @@ The Great Council continued in the republic.
 
 Republican participation remained a live Florentine question.
 
-[](https://www.wsj.com/arts-culture/fine-art/the-medici-portraits-and-politics-1512-1570-review-painting-power-11625090050?ref=modalpathethics.com)
+[![The Medici: Portraits and Politics, 1512-1570' Review: Painting Power - WSJ](https://images.wsj.net/im-361188/?width=639&height=839)](https://www.wsj.com/arts-culture/fine-art/the-medici-portraits-and-politics-1512-1570-review-painting-power-11625090050?ref=modalpathethics.com)
 
 The Medici returned in 1512 and the Savonarolan field became part of opposition memory. Republican restoration in 1527 reopened some of the older hopes. The final collapse of the republic and establishment of Medici ducal rule in 1530 closed many of those paths politically while leaving the writings and symbols available for later use.
 
@@ -1795,7 +1801,7 @@ The critique of clerical corruption should not be rejected because prophecy beca
 
 The New Jerusalem vision should not be rejected simply because sacred title became dangerous. A city can need a moral horizon larger than oligarchic continuity.
 
-[](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
+[![Das Neue Jerusalem \[The New Jerusalem\] - Curtis Wright Maps](https://curtiswrightmaps.com/wp-content/uploads/map_13.27x16.61_07-09-25_inv007187c-scaled.jpg)](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
 
 The law of appeal should be preserved precisely because Savonarola’s own field failed it.
 
@@ -1837,7 +1843,7 @@ Savonarola did not invent Florentine republicanism. He entered a long civic trad
 
 The second surviving object is the warning about culture.
 
-[](https://www.ancient-origins.net/history-famous-people/medici-family-0020602?ref=modalpathethics.com)
+[![The Medici Dynasty: Unraveling the Legacy of the Masters of Florence |  Ancient Origins](https://www.ancient-origins.net/sites/default/files/styles/large/public/image004_518.jpg?itok=H3UkO5cd)](https://www.ancient-origins.net/history-famous-people/medici-family-0020602?ref=modalpathethics.com)
 
 A constitution cannot sustain itself while every other institution teaches its opposite. If public life trains domination, humiliation, consumption, faction, revenge, and passive dependence, a formal republic will inherit those habits at the moment of stress.
 
@@ -1868,7 +1874,7 @@ The sixth surviving object is the bonfire’s diagnostic power.
 
 A pile of objects can become a dashboard for a field it does not measure.
 
-[](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
+[![Assassin's Creed 2 - Savonarola's Death & Ezio's Speech \[HD\]](https://i.ytimg.com/vi/ZCIZ7-J0cwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
 
 The lesson reaches well beyond Florence.
 
@@ -1933,7 +1939,7 @@ This is an analyst who thinks pictures do too much.
 
 That insight is real. [Images organize desire](https://modalpathethics.com/applied-case-the-secret/).
 
-[](https://www.veerkade.com/blog/archives/45-Two-famous-inhabitants-of-the-San-Marco-convent-in-Florence-Italy.html?ref=modalpathethics.com)
+[![Two famous inhabitants of the San Marco convent in Florence Italy - Stuff  Jos van der Woude cares about](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6mPIwe3IQHzVMy3NcZe5fwqgO2ufV7cuURpfADBZUvEtJ5CCl7GOGhhya&s=10)](https://www.veerkade.com/blog/archives/45-Two-famous-inhabitants-of-the-San-Marco-convent-in-Florence-Italy.html?ref=modalpathethics.com)
 
 A **painting** does not sit passively on a wall. It trains the eye, identifies worthy bodies, stabilizes memory, intensifies longing, normalizes rank, builds a public past, and gives invisible claims a visible surface. A patron who places a family likeness near a saint is doing more than funding beauty. A church that fills its walls with particular bodies creates a hierarchy of attention. A city that reproduces its rulers, heroes, holy figures, enemies, and myths is teaching people what kinds of life deserve continuity.
 
@@ -1947,7 +1953,7 @@ The image either returned the viewer to proper devotion or captured the viewer f
 
 The machine needed images to be morally obedient.
 
-[](https://www.pliniocorreadeoliveira.info/saint-thomas-aquinas-and-the-beauty-of-catholic-science/?ref=modalpathethics.com)
+[![Saint Thomas Aquinas and the Beauty of Catholic Science - Plinio Correa de  Oliveira](https://www.pliniocorreadeoliveira.info/wp-content/uploads/2024/01/San_tommaso_daquino_con_la_summa_angelico_san_marco.jpg)](https://www.pliniocorreadeoliveira.info/saint-thomas-aquinas-and-the-beauty-of-catholic-science/?ref=modalpathethics.com)
 
 An image capable of producing several live interpretations was dangerous because interpretation might leave the prophetic field.
 
@@ -1966,7 +1972,7 @@ A complex image does not cooperate.
 
 It can be beautiful and dangerous.
 
-[](https://www.arthistoryperspectives.com/posts/botticelli-and-savonarola?ref=modalpathethics.com)
+[![Botticelli and Savonarola — Art History Perspectives](https://static1.squarespace.com/static/5fe803321ae217359d3f4a82/5fe80bed70bd4152ebbeb640/5fe81b3fc6dabf26fad62783/1609518625667/Screen+Shot+2020-12-31+at+5.12.21+PM.png?format=1500w)](https://www.arthistoryperspectives.com/posts/botticelli-and-savonarola?ref=modalpathethics.com)
 
 It can be devotional and vain.
 
@@ -1974,7 +1980,7 @@ It can carry patronage and sincere faith.
 
 It can exploit a body and preserve a body.
 
-[](https://www.art-prints-on-demand.com/a/french-school/girolamosavonarola1452-98.html?ref=modalpathethics.com)
+[![Girolamo Savonarola (1452-98) - French School as art print or hand painted  oil.](https://www.art-prints-on-demand.com/kunst/french_school/Girolamo-Savonarola-French-School.jpg)](https://www.art-prints-on-demand.com/a/french-school/girolamosavonarola1452-98.html?ref=modalpathethics.com)
 
 It can open sacred attention for one viewer and thicken worldly status for another.
 
@@ -1992,7 +1998,7 @@ The purity machine spoke as though Florence could be purified into one city.
 
 Florence kept producing factions.
 
-[](https://www.ign.com/wikis/assassins-creed-3/Assassin_Brotherhood?ref=modalpathethics.com)
+[![Assassin Brotherhood - Assassin's Creed 3 Guide - IGN](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xtY0U-hvx8LWqr1anNM8NPZs51dodTZP8tZr3GfVA&s=10)](https://www.ign.com/wikis/assassins-creed-3/Assassin_Brotherhood?ref=modalpathethics.com)
 
 Savonarola’s followers became known as **Piagnoni**, the weepers. Their opponents included **Arrabbiati**, the enraged or angry men; **Palleschi** attached to Medici restoration; **Compagnacci** associated with elite youth culture, carnival, opposition, pleasure, and at times direct hostility to the friar’s program.
 
@@ -2107,7 +2113,7 @@ The sermon could make a citizen’s private object answerable to public reform w
 
 This is power.
 
-[](https://www.youtube.com/watch?v=L3FBbEpV2w0&ref=modalpathethics.com)
+[![Assassin's Creed II - Episodio 7 - Girolamo Savonarola e il frutto  dell'Eden -NO Gameplay Italiano](https://i.ytimg.com/vi/L3FBbEpV2w0/maxresdefault.jpg)](https://www.youtube.com/watch?v=L3FBbEpV2w0&ref=modalpathethics.com)
 
 It is also fragile because it depends on continued confidence in the interpreter.
 
@@ -2140,7 +2146,7 @@ It required classification, collection, architecture, crowd, song, ignition, and
 
 Both instruments answered real failures of the Medici field.
 
-[](https://assassinscreed.fandom.com/wiki/House_of_Medici?ref=modalpathethics.com)
+[![House of Medici | Assassin's Creed Wiki | Fandom](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_P-Gf8UW6MBaGufV8UH5uh5l0WzynX5G8x3s9AtoH4Q&s=10)](https://assassinscreed.fandom.com/wiki/House_of_Medici?ref=modalpathethics.com)
 
 -   The hall answered concentrated political access.
 -   The pyre answered the sense that private luxury, vice, and status competition had become indifferent to the city’s Christian and republican claims.
@@ -2599,13 +2605,12 @@ This is the purity machine:
 
 [The Anti-AI Religion](https://modalpathethics.com/bad-religion-the-anti-ai-religion/) gave the short form:
 
-Purity is not repair.
+> Purity is not repair.
 
 Savonarola supplies the civic machine.
 
-He saw that corruption was a field.
-
-He made every instrument in the field answer to purity.
+-   He saw that corruption was a field.
+    -   He made every instrument in the field answer to purity.
 
 * * *
 
@@ -2627,4 +2632,4 @@ The purity field did not begin with Savonarola.
 
 That is why it survived him.
 
-[](https://www.thegamer.com/assassins-creed-pieces-eden-facts-trivia/?ref=modalpathethics.com)
+[![Assassin's Creed: 10 Facts You Never Knew About The Pieces Of Eden](https://static0.thegamerimages.com/wordpress/wp-content/uploads/2019/09/Apple-of-Eden-Cropped.jpg)](https://www.thegamer.com/assassins-creed-pieces-eden-facts-trivia/?ref=modalpathethics.com)

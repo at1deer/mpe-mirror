@@ -3,13 +3,13 @@ title: "Simone Weil and the Field Under Force"
 slug: "simone-weil-and-the-field-under-force"
 canonical_url: "https://modalpathethics.com/simone-weil-and-the-field-under-force/"
 published_at: "2026-07-08T08:30:08.000-05:00"
-updated_at: "2026-07-08T17:34:34.000-05:00"
+updated_at: "2026-08-08T02:29:33.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
-sha256_plaintext: "0aa15a499b0d5147fffff153e53c7dd90b9ca0f24f41b0656d33faa2fe64007a"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
+sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force
 
@@ -45,11 +45,9 @@ She is holding a factory tool, a Greek epic, a hunger ledger, a theory of roots,
 
 Modal Path Ethics approaches this scene very carefully.
 
-A **saint-card** would ruin the encounter. Turning Weil into an icon of holy intensity would repeat one of the mistakes she explicitly helps us diagnose. 
+Turning Weil into an icon of holy intensity would repeat one of the mistakes she explicitly helps us diagnose. 
 
 A harmed, hungry, brilliant, severe, often impossible woman becomes a symbol, then the symbol stops answering to the field.
-
-Wrong.
 
 The work is simpler and more dangerous.
 

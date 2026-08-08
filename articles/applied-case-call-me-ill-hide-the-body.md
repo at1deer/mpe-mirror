@@ -6,8 +6,10 @@ published_at: "2026-08-03T05:30:05.000-05:00"
 updated_at: "2026-08-03T05:30:04.000-05:00"
 tags:
   - "Applied Case"
+  - "Modal Path Ethics"
+  - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body

@@ -3,13 +3,14 @@ title: "Applied Case: The Immortal Corpus"
 slug: "the-immortal-corpus"
 canonical_url: "https://modalpathethics.com/the-immortal-corpus/"
 published_at: "2026-07-14T04:20:46.000-05:00"
-updated_at: "2026-07-14T05:05:59.000-05:00"
+updated_at: "2026-08-08T02:28:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
-sha256_plaintext: "e74c5310c4e48c4099f0fba90a695b77c331edf71b79691dc12afad238f97190"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
+sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus
 
@@ -451,8 +452,6 @@ Then the institution looks at the survivors and calls the result rigor.
 This aristocracy does not primarily protect philosophy from the public.
 
 It protects the right of the special chosen few to certify what philosophy is.
-
-It is deeply fucking shameful and backwards.
 
 Work outside their kingdom is repeatedly denied citizenship.
 

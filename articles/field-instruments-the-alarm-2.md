@@ -6,8 +6,9 @@ published_at: "2026-08-01T03:29:34.000-05:00"
 updated_at: "2026-08-01T20:10:27.000-05:00"
 tags:
   - "Field Instruments"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm

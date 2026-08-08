@@ -5,9 +5,11 @@ canonical_url: "https://modalpathethics.com/beneath-the-launchpad/"
 published_at: "2026-08-06T06:00:12.000-05:00"
 updated_at: "2026-08-06T06:00:12.000-05:00"
 tags:
-  []
+  - "Modal Path Ethics"
+  - "News"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
 # Beneath the Launchpad

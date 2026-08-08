@@ -3,11 +3,13 @@ title: "Transition Action: Chirality Has Escaped"
 slug: "transition-action-chirality-has-escaped"
 canonical_url: "https://modalpathethics.com/transition-action-chirality-has-escaped/"
 published_at: "2026-08-02T05:30:59.000-05:00"
-updated_at: "2026-08-02T05:30:58.000-05:00"
+updated_at: "2026-08-08T02:06:22.000-05:00"
 tags:
   - "Transition Action"
+  - "Chirality"
+  - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped

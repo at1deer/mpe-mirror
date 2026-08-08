@@ -5,11 +5,12 @@ canonical_url: "https://modalpathethics.com/the-schizophrenia-firewall-has-been-
 published_at: "2026-07-19T17:53:55.000-05:00"
 updated_at: "2026-07-29T07:08:40.000-05:00"
 tags:
+  - "Books"
   - "News"
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "39af192f242682cfb3485b211d23739d5ad8627f748153be74616321e5c75bb9"
 ---
 # The Schizophrenia Firewall Has Been Published

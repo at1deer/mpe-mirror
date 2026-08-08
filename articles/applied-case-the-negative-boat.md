@@ -7,8 +7,9 @@ updated_at: "2026-07-27T13:34:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat

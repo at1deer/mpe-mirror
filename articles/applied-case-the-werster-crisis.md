@@ -7,8 +7,10 @@ updated_at: "2026-08-05T06:45:09.000-05:00"
 tags:
   - "Chirality"
   - "Applied Case"
+  - "Pokémon"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis

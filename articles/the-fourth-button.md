@@ -5,10 +5,10 @@ canonical_url: "https://modalpathethics.com/the-fourth-button/"
 published_at: "2026-08-03T06:00:49.000-05:00"
 updated_at: "2026-08-04T00:37:56.000-05:00"
 tags:
-  - "Applied Case"
   - "Chirality"
+  - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027

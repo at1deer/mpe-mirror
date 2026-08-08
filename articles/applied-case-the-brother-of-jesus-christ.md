@@ -7,8 +7,9 @@ updated_at: "2026-07-22T20:39:42.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T02:30:29.915Z"
+mirror_generated_at: "2026-08-08T07:31:43.824Z"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
