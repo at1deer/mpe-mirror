@@ -7,8 +7,10 @@ updated_at: "2026-06-24T18:18:19.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Epistemic Instruments"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean

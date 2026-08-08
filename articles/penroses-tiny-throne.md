@@ -6,9 +6,8 @@ published_at: "2026-07-12T05:00:34.000-05:00"
 updated_at: "2026-07-12T05:41:35.000-05:00"
 tags:
   - "Modal Path Ethics"
-  - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne

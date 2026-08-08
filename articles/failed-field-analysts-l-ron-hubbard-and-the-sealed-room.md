@@ -7,9 +7,10 @@ updated_at: "2026-06-26T12:48:26.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
-  - "Bad Religion"
+  - "Instrument Jurisdiction"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room

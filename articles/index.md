@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-08T07:31:43.824Z
+Generated: 2026-08-08T13:28:47.761Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-08 — [Applied Case: The Invisible Board](/articles/applied-case-the-invisible-board.md) ([HTML](/articles/applied-case-the-invisible-board.html))
+- 2026-08-08 — [The Sacred Machine](/articles/the-sacred-machine.md) ([HTML](/articles/the-sacred-machine.html))
 - 2026-08-07 — [Sacred Slack Has Been Published](/articles/sacred-slack-has-been-published.md) ([HTML](/articles/sacred-slack-has-been-published.html))
 - 2026-08-07 — [AI Did Not Blur Reality](/articles/ai-did-not-blur-reality.md) ([HTML](/articles/ai-did-not-blur-reality.html))
 - 2026-08-07 — [Field Instruments: Open Weights and the Release Gradient](/articles/field-instruments-open-weights-and-the-release-gradient.md) ([HTML](/articles/field-instruments-open-weights-and-the-release-gradient.html))

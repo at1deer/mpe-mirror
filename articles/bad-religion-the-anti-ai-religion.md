@@ -8,8 +8,9 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Bad Religion"
+  - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion

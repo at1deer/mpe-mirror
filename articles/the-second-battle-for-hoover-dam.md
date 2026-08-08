@@ -5,11 +5,12 @@ canonical_url: "https://modalpathethics.com/the-second-battle-for-hoover-dam/"
 published_at: "2026-06-29T06:06:05.000-05:00"
 updated_at: "2026-07-02T04:16:58.000-05:00"
 tags:
+  - "Chirality"
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam

@@ -7,8 +7,11 @@ updated_at: "2026-07-08T08:00:40.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
+  - "Chastening of the Controller"
+  - "Entropy Debt Week"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak

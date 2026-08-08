@@ -5,9 +5,11 @@ canonical_url: "https://modalpathethics.com/modal-path-ethics-is-half-stupid/"
 published_at: "2026-06-25T03:56:19.000-05:00"
 updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
+  - "News"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid

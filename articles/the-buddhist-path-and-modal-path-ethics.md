@@ -6,9 +6,10 @@ published_at: "2026-04-19T23:38:38.000-05:00"
 updated_at: "2026-06-24T01:34:21.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics

@@ -6,9 +6,10 @@ published_at: "2026-04-28T22:43:04.000-05:00"
 updated_at: "2026-05-06T19:30:48.000-05:00"
 tags:
   - "Applied Case"
+  - "Sacred Slack"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem

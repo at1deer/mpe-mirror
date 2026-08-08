@@ -7,8 +7,9 @@ updated_at: "2026-06-30T15:06:53.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident

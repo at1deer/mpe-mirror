@@ -6,9 +6,11 @@ published_at: "2026-04-23T15:42:16.000-05:00"
 updated_at: "2026-05-16T22:36:31.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Geopolitical Wasteland"
+  - "Instrument Jurisdiction"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme

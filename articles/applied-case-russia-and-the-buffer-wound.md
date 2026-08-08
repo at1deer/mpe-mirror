@@ -7,8 +7,9 @@ updated_at: "2026-07-31T08:51:52.000-05:00"
 tags:
   - "Applied Case"
   - "Geopolitical Wasteland"
+  - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine

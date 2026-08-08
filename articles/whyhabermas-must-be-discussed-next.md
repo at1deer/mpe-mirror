@@ -6,9 +6,10 @@ published_at: "2026-04-19T19:01:02.000-05:00"
 updated_at: "2026-05-07T15:14:41.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next

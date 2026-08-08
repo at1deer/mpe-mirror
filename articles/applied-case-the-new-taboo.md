@@ -7,8 +7,9 @@ updated_at: "2026-05-15T23:16:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo

@@ -6,9 +6,10 @@ published_at: "2026-04-28T13:08:56.000-05:00"
 updated_at: "2026-05-06T19:32:44.000-05:00"
 tags:
   - "Applied Case"
+  - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity

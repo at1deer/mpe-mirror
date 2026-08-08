@@ -5,10 +5,11 @@ canonical_url: "https://modalpathethics.com/wolfram-and-the-moral-field/"
 published_at: "2026-06-30T07:00:40.000-05:00"
 updated_at: "2026-06-30T07:01:11.000-05:00"
 tags:
+  - "Engagement"
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field

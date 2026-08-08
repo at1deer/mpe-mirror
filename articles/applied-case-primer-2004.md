@@ -8,8 +8,9 @@ tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
 ---
 # Applied Case: Primer (2004)

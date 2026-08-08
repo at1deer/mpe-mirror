@@ -9,8 +9,9 @@ tags:
   - "News"
   - "Modal Path Ethics"
   - "Sacred Slack"
+  - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
 ---
 # Sacred Slack Has Been Published

@@ -6,9 +6,11 @@ published_at: "2026-05-02T01:33:31.000-05:00"
 updated_at: "2026-06-10T12:45:17.000-05:00"
 tags:
   - "Applied Case"
+  - "Sacred Slack"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman

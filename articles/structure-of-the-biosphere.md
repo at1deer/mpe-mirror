@@ -5,10 +5,10 @@ canonical_url: "https://modalpathethics.com/structure-of-the-biosphere/"
 published_at: "2026-05-10T06:56:27.000-05:00"
 updated_at: "2026-05-14T17:42:38.000-05:00"
 tags:
+  - "Biosphere"
   - "Modal Path Ethics"
-  - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure

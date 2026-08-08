@@ -7,8 +7,9 @@ updated_at: "2026-06-01T16:31:50.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing

@@ -6,8 +6,9 @@ published_at: "2026-07-25T06:00:47.000-05:00"
 updated_at: "2026-08-01T03:53:45.000-05:00"
 tags:
   - "Failed Field Analysts"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "4c60861d82e67a86324cd0a329a9c0fc455619afa13432807acb172872d65a47"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine

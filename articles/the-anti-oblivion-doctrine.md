@@ -5,11 +5,11 @@ canonical_url: "https://modalpathethics.com/the-anti-oblivion-doctrine/"
 published_at: "2026-06-25T00:30:40.000-05:00"
 updated_at: "2026-06-25T00:30:40.000-05:00"
 tags:
-  - "Modal Path Ethics"
-  - "Supplement"
   - "Entropy Debt Week"
+  - "Modal Path Ethics"
+  - "Sacred Machine"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine

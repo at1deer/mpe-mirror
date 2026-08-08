@@ -6,9 +6,10 @@ published_at: "2026-04-25T14:35:23.000-05:00"
 updated_at: "2026-05-06T20:23:49.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25

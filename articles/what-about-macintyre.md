@@ -6,9 +6,10 @@ published_at: "2026-04-19T16:47:43.000-05:00"
 updated_at: "2026-05-11T18:56:57.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre

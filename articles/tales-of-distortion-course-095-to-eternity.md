@@ -7,8 +7,10 @@ updated_at: "2026-07-10T21:27:19.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
+  - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095

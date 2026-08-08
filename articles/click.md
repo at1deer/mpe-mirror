@@ -3,14 +3,14 @@ title: "Applied Case: Click (2006)"
 slug: "click"
 canonical_url: "https://modalpathethics.com/click/"
 published_at: "2026-06-19T06:30:47.000-05:00"
-updated_at: "2026-06-27T17:56:06.000-05:00"
+updated_at: "2026-08-08T03:05:35.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
-sha256_plaintext: "cc09c26d65b6aac50b43daee96eec3c2d9e2381c71b684ff3b97858aa0b9dab0"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
+sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
 # Applied Case: Click (2006)
 
@@ -40,7 +40,7 @@ Michael tells the remote what he wants by using it. The remote generalizes his p
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/06/77492-1.jpg)
 
-That is the first ruling, and one you, the reader, should consider carefully:
+That is the first ruling:
 
 > _Click_ is not about Christopher Walken's magic remote. It is about the consequences of preference automation without moral supervision.
 

@@ -7,8 +7,10 @@ updated_at: "2026-07-08T06:28:53.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
   - "Modal Path Ethics"
+  - "Security Instruments"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front

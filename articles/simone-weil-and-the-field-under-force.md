@@ -5,10 +5,12 @@ canonical_url: "https://modalpathethics.com/simone-weil-and-the-field-under-forc
 published_at: "2026-07-08T08:30:08.000-05:00"
 updated_at: "2026-08-08T02:29:33.000-05:00"
 tags:
+  - "Engagement"
   - "Modal Path Ethics"
-  - "Supplement"
+  - "Sacred Instruments"
+  - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force

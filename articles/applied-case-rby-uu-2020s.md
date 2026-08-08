@@ -6,9 +6,11 @@ published_at: "2026-04-20T02:58:23.000-05:00"
 updated_at: "2026-05-06T21:07:24.000-05:00"
 tags:
   - "Chirality"
+  - "Instrument Jurisdiction"
+  - "Pokémon"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s

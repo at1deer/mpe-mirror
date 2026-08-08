@@ -7,8 +7,10 @@ updated_at: "2026-07-23T13:25:02.000-05:00"
 tags:
   - "Moonlight with Figures"
   - "Modal Path Ethics"
+  - "Sacred Instruments"
+  - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance

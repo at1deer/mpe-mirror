@@ -5,9 +5,9 @@ canonical_url: "https://modalpathethics.com/modal-systems/"
 published_at: "2026-05-11T01:48:26.000-05:00"
 updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
-  - "Transition Action"
+  - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack

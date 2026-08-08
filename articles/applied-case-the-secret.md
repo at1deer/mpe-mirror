@@ -7,9 +7,10 @@ updated_at: "2026-06-26T14:22:58.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-  - "Bad Religion"
+  - "Sacred Slack"
+  - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret

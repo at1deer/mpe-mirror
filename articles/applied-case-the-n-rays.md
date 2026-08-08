@@ -7,8 +7,9 @@ updated_at: "2026-06-04T11:31:26.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
+  - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays

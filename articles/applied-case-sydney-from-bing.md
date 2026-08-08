@@ -6,9 +6,10 @@ published_at: "2026-04-25T02:49:01.000-05:00"
 updated_at: "2026-05-06T20:51:27.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat

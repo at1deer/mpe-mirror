@@ -6,9 +6,11 @@ published_at: "2026-04-20T11:53:45.000-05:00"
 updated_at: "2026-05-17T17:25:22.000-05:00"
 tags:
   - "Modal Path Ethics"
+  - "Engagement"
+  - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care

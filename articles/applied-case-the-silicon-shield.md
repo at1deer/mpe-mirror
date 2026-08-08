@@ -7,8 +7,9 @@ updated_at: "2026-05-19T23:59:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
+  - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T07:31:43.824Z"
+mirror_generated_at: "2026-08-08T13:28:47.761Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
