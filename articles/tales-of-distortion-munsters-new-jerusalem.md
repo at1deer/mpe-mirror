@@ -10,7 +10,7 @@ tags:
   - "Bad Religion"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T13:28:47.761Z"
+mirror_generated_at: "2026-08-08T19:09:30.752Z"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem

@@ -5,9 +5,9 @@ canonical_url: "https://modalpathethics.com/the-sacred-machine/"
 published_at: "2026-08-08T05:00:30.000-05:00"
 updated_at: "2026-08-08T05:00:30.000-05:00"
 tags:
-  - "Sacred Machine"
+  []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T13:28:47.761Z"
+mirror_generated_at: "2026-08-08T19:09:30.752Z"
 sha256_plaintext: "c02886bccb35795713dbb29d6a9d746c9da55933673e158c9245bbcd82f899ee"
 ---
 # The Sacred Machine

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:28:47.761Z",
+  "generated_at": "2026-08-08T19:09:30.752Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 218,
@@ -25,9 +25,7 @@
       "updated_at": "2026-08-08T05:00:30.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-sacred-machine/",
       "excerpt": "Releasing the oracles",
-      "tags": [
-        "Sacred Machine"
-      ],
+      "tags": [],
       "mirror_markdown_path": "/articles/the-sacred-machine.md",
       "mirror_html_path": "/articles/the-sacred-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.md",
@@ -1548,8 +1546,7 @@
       "excerpt": "Perfect Archaeology & Privacy at Depth.",
       "tags": [
         "Entropy Debt Week",
-        "Modal Path Ethics",
-        "Sacred Machine"
+        "Modal Path Ethics"
       ],
       "mirror_markdown_path": "/articles/the-anti-oblivion-doctrine.md",
       "mirror_html_path": "/articles/the-anti-oblivion-doctrine.html",
