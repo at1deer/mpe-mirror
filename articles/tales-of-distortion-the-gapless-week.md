@@ -3,12 +3,12 @@ title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
 published_at: "2026-08-09T06:30:19.000-05:00"
-updated_at: "2026-08-09T06:30:18.000-05:00"
+updated_at: "2026-08-09T09:41:03.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
-sha256_plaintext: "8351ada3679f8340f6fe9d528c0a7ffc293db743405fa2f8e4dc8bb46bf499a3"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
+sha256_plaintext: "4137554a2f54412ccd4c32f42759257db960ce20198c35dcdc0fd96ee4cf938a"
 ---
 # Tales of Distortion: The Gapless Week
 
@@ -995,7 +995,7 @@ That is the problem worth taking seriously.
 
 The Gapless Week began with a true signal about machinery.
 
-The Pptimizable Human begins with true signals about bodies.
+The Optimizable Human begins with true signals about bodies.
 
 Then the jurisdiction starts expanding.
 

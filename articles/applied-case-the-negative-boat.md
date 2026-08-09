@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat

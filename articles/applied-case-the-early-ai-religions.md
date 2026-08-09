@@ -10,7 +10,7 @@ tags:
   - "Modal Systems"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions

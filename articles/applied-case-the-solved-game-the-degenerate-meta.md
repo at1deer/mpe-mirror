@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta

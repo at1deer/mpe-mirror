@@ -8,7 +8,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable

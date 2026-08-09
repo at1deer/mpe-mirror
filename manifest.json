@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:33:02.509Z",
+  "generated_at": "2026-08-09T19:17:30.658Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 220,
@@ -8,7 +8,7 @@
       "title": "Tales of Distortion: The Gapless Week",
       "slug": "tales-of-distortion-the-gapless-week",
       "published_at": "2026-08-09T06:30:19.000-05:00",
-      "updated_at": "2026-08-09T06:30:18.000-05:00",
+      "updated_at": "2026-08-09T09:41:03.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-gapless-week/",
       "excerpt": "Machines do not need Sunday. [L]",
       "tags": [
@@ -18,7 +18,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-the-gapless-week.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html",
-      "sha256_plaintext": "8351ada3679f8340f6fe9d528c0a7ffc293db743405fa2f8e4dc8bb46bf499a3"
+      "sha256_plaintext": "4137554a2f54412ccd4c32f42759257db960ce20198c35dcdc0fd96ee4cf938a"
     },
     {
       "title": "SLIME WATCH: The Slimy Sea of Slop",
@@ -903,7 +903,6 @@
         "Tales of Distortion",
         "Modal Path Ethics",
         "Failed Field Analysts",
-        "Bad Religion",
         "Sacred Slack",
         "Sacred Instruments",
         "Security Instruments"
@@ -1143,7 +1142,6 @@
       "tags": [
         "Tales of Distortion",
         "Modal Path Ethics",
-        "Bad Religion",
         "Sacred Instruments"
       ],
       "mirror_markdown_path": "/articles/tales-of-distortion-munsters-new-jerusalem.md",
@@ -1216,7 +1214,6 @@
       "tags": [
         "Tales of Distortion",
         "Modal Path Ethics",
-        "Bad Religion",
         "Sacred Instruments"
       ],
       "mirror_markdown_path": "/articles/tales-of-distortion-the-great-disappointment.md",
@@ -1432,7 +1429,6 @@
       "tags": [
         "Applied Case",
         "Modal Path Ethics",
-        "Bad Religion",
         "Modal Systems"
       ],
       "mirror_markdown_path": "/articles/bad-religion-the-anti-ai-religion.md",

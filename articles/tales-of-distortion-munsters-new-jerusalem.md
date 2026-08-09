@@ -7,10 +7,9 @@ updated_at: "2026-08-03T11:46:50.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
-  - "Bad Religion"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T13:33:02.509Z"
+mirror_generated_at: "2026-08-09T19:17:30.658Z"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
