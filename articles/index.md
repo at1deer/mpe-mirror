@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-09T07:36:57.991Z
+Generated: 2026-08-09T13:33:02.509Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-09 — [Tales of Distortion: The Gapless Week](/articles/tales-of-distortion-the-gapless-week.md) ([HTML](/articles/tales-of-distortion-the-gapless-week.html))
+- 2026-08-09 — [SLIME WATCH: The Slimy Sea of Slop](/articles/slime-watch-the-slimy-sea-of-slop.md) ([HTML](/articles/slime-watch-the-slimy-sea-of-slop.html))
 - 2026-08-08 — [Applied Case: The Invisible Board](/articles/applied-case-the-invisible-board.md) ([HTML](/articles/applied-case-the-invisible-board.html))
 - 2026-08-08 — [The Sacred Machine](/articles/the-sacred-machine.md) ([HTML](/articles/the-sacred-machine.html))
 - 2026-08-07 — [Sacred Slack Has Been Published](/articles/sacred-slack-has-been-published.md) ([HTML](/articles/sacred-slack-has-been-published.html))
@@ -31,7 +33,7 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-07-29 — [Field Instruments: Active Information](/articles/field-instruments-active-information.md) ([HTML](/articles/field-instruments-active-information.html))
 - 2026-07-28 — [Applied Case: The Assassination of Charlie Kirk](/articles/applied-case-the-assassination-of-charlie-kirk.md) ([HTML](/articles/applied-case-the-assassination-of-charlie-kirk.html))
 - 2026-07-27 — [Applied Case: The Negative Boat](/articles/applied-case-the-negative-boat.md) ([HTML](/articles/applied-case-the-negative-boat.html))
-- 2026-07-27 — [Failed Field Analysts: Thomas Szasz and the Myth Machine](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md) ([HTML](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html))
+- 2026-07-27 — [Failed Field Analysts: Thomas Szasz and the Conceptual Knife](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md) ([HTML](/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html))
 - 2026-07-26 — [Failed Field Analysts: Marty Heidegger and the Depth Machine](/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md) ([HTML](/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html))
 - 2026-07-25 — [Failed Field Analysts: Ted Kaczynski and the Collapse Machine](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md) ([HTML](/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html))
 - 2026-07-24 — [Australia vs. the Biosphere: The Rabbit Fence](/articles/australia-vs-the-biosphere-the-rabbit-fence.md) ([HTML](/articles/australia-vs-the-biosphere-the-rabbit-fence.html))

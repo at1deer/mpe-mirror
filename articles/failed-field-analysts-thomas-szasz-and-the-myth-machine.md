@@ -1,17 +1,17 @@
 ---
-title: "Failed Field Analysts: Thomas Szasz and the Myth Machine"
+title: "Failed Field Analysts: Thomas Szasz and the Conceptual Knife"
 slug: "failed-field-analysts-thomas-szasz-and-the-myth-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/"
 published_at: "2026-07-27T06:00:05.000-05:00"
-updated_at: "2026-07-27T07:05:20.000-05:00"
+updated_at: "2026-08-09T07:43:19.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T07:36:57.991Z"
+mirror_generated_at: "2026-08-09T13:33:02.509Z"
 sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
 ---
-# Failed Field Analysts: Thomas Szasz and the Myth Machine
+# Failed Field Analysts: Thomas Szasz and the Conceptual Knife
 
 ## The Man Who Would Not Answer.
 

@@ -10,7 +10,7 @@ tags:
   - "Bad Religion"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T07:36:57.991Z"
+mirror_generated_at: "2026-08-09T13:33:02.509Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment

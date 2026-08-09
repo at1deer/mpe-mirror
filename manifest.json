@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-09T07:36:57.991Z",
+  "generated_at": "2026-08-09T13:33:02.509Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 218,
+  "article_count": 220,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Gapless Week",
+      "slug": "tales-of-distortion-the-gapless-week",
+      "published_at": "2026-08-09T06:30:19.000-05:00",
+      "updated_at": "2026-08-09T06:30:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-gapless-week/",
+      "excerpt": "Machines do not need Sunday. [L]",
+      "tags": [
+        "Tales of Distortion"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-gapless-week.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-gapless-week.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html",
+      "sha256_plaintext": "8351ada3679f8340f6fe9d528c0a7ffc293db743405fa2f8e4dc8bb46bf499a3"
+    },
+    {
+      "title": "SLIME WATCH: The Slimy Sea of Slop",
+      "slug": "slime-watch-the-slimy-sea-of-slop",
+      "published_at": "2026-08-09T05:30:17.000-05:00",
+      "updated_at": "2026-08-09T06:50:51.000-05:00",
+      "canonical_url": "https://modalpathethics.com/slime-watch-the-slimy-sea-of-slop/",
+      "excerpt": "News Corp found the sludge and immediately started selling filters.",
+      "tags": [
+        "SLIME WATCH"
+      ],
+      "mirror_markdown_path": "/articles/slime-watch-the-slimy-sea-of-slop.md",
+      "mirror_html_path": "/articles/slime-watch-the-slimy-sea-of-slop.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-the-slimy-sea-of-slop.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-the-slimy-sea-of-slop.html",
+      "sha256_plaintext": "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
+    },
     {
       "title": "Applied Case: The Invisible Board",
       "slug": "applied-case-the-invisible-board",
@@ -36,9 +68,9 @@
       "title": "Sacred Slack Has Been Published",
       "slug": "sacred-slack-has-been-published",
       "published_at": "2026-08-07T08:09:59.000-05:00",
-      "updated_at": "2026-08-07T08:09:59.000-05:00",
+      "updated_at": "2026-08-09T08:26:43.000-05:00",
       "canonical_url": "https://modalpathethics.com/sacred-slack-has-been-published/",
-      "excerpt": "Modern people did not stop needing metaphysics. They were left to assemble it themselves. A proposal for a Meaning and Experience Center. Now on Amazon",
+      "excerpt": "Modern people did not stop needing metaphysics. They were left to assemble it themselves. A proposal for a Meaning and Experience Center. Now on Amazon.",
       "tags": [
         "Books",
         "News",
@@ -474,10 +506,10 @@
       "sha256_plaintext": "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
     },
     {
-      "title": "Failed Field Analysts: Thomas Szasz and the Myth Machine",
+      "title": "Failed Field Analysts: Thomas Szasz and the Conceptual Knife",
       "slug": "failed-field-analysts-thomas-szasz-and-the-myth-machine",
       "published_at": "2026-07-27T06:00:05.000-05:00",
-      "updated_at": "2026-07-27T07:05:20.000-05:00",
+      "updated_at": "2026-08-09T07:43:19.000-05:00",
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/",
       "excerpt": "He saw the prison inside the hospital and tried to free the patient by abolishing the hospital's language.",
       "tags": [
@@ -1759,7 +1791,7 @@
       "title": "Applied Case: Primer (2004)",
       "slug": "applied-case-primer-2004",
       "published_at": "2026-06-18T06:00:17.000-05:00",
-      "updated_at": "2026-06-18T13:17:54.000-05:00",
+      "updated_at": "2026-08-09T07:46:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-primer-2004/",
       "excerpt": "The problem here was not the time travel.",
       "tags": [
@@ -1772,7 +1804,7 @@
       "mirror_html_path": "/articles/applied-case-primer-2004.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-primer-2004.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-primer-2004.html",
-      "sha256_plaintext": "720c18387a9ab9b99ccd87d72fe18bac9a42d4729c8ae3449f298efede0be83a"
+      "sha256_plaintext": "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
     },
     {
       "title": "The Great Ludic Audit",

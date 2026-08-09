@@ -3,7 +3,7 @@ title: "Sacred Slack Has Been Published"
 slug: "sacred-slack-has-been-published"
 canonical_url: "https://modalpathethics.com/sacred-slack-has-been-published/"
 published_at: "2026-08-07T08:09:59.000-05:00"
-updated_at: "2026-08-07T08:09:59.000-05:00"
+updated_at: "2026-08-09T08:26:43.000-05:00"
 tags:
   - "Books"
   - "News"
@@ -11,7 +11,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T07:36:57.991Z"
+mirror_generated_at: "2026-08-09T13:33:02.509Z"
 sha256_plaintext: "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
 ---
 # Sacred Slack Has Been Published
