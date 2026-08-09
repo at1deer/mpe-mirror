@@ -8,7 +8,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-08T19:09:30.752Z"
+mirror_generated_at: "2026-08-09T02:37:05.074Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
