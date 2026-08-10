@@ -3,11 +3,11 @@ title: "Applied Case: The Assassination of Charlie Kirk"
 slug: "applied-case-the-assassination-of-charlie-kirk"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/"
 published_at: "2026-07-28T05:30:47.000-05:00"
-updated_at: "2026-08-05T18:37:27.000-05:00"
+updated_at: "2026-08-10T07:23:37.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk

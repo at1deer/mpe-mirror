@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published

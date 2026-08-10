@@ -10,7 +10,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme

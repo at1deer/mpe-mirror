@@ -3,14 +3,14 @@ title: "Samsara & Repair"
 slug: "samsara-repair"
 canonical_url: "https://modalpathethics.com/samsara-repair/"
 published_at: "2026-06-28T12:00:12.000-05:00"
-updated_at: "2026-06-28T13:40:01.000-05:00"
+updated_at: "2026-08-10T07:36:12.000-05:00"
 tags:
   - "Field Creature"
   - "Modal Path Ethics"
   - "Formal"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair

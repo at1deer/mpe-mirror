@@ -3,12 +3,11 @@ title: "SEAM: Now Playable"
 slug: "seam-now-playable"
 canonical_url: "https://modalpathethics.com/seam-now-playable/"
 published_at: "2026-07-12T05:30:39.000-05:00"
-updated_at: "2026-07-12T05:30:39.000-05:00"
+updated_at: "2026-08-10T07:25:20.000-05:00"
 tags:
   - "Chirality"
-  - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable

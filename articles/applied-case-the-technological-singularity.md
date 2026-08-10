@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity

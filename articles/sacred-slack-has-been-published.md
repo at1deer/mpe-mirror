@@ -3,7 +3,7 @@ title: "Sacred Slack Has Been Published"
 slug: "sacred-slack-has-been-published"
 canonical_url: "https://modalpathethics.com/sacred-slack-has-been-published/"
 published_at: "2026-08-07T08:09:59.000-05:00"
-updated_at: "2026-08-09T08:26:43.000-05:00"
+updated_at: "2026-08-10T08:48:30.000-05:00"
 tags:
   - "Books"
   - "News"
@@ -11,8 +11,8 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
-sha256_plaintext: "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
+sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
 # Sacred Slack Has Been Published
 
@@ -98,18 +98,6 @@ The load did not disappear when the offices separated.
 
 A person still has to decide what suffering means.
 
-[
-
-Applied Case: The Fictional Soul-Balm Machine
-
-A wide analysis of fictional metaphysics and the multiverse: why these things exist, and what they do to us. Completely overtaken by one very questionable immortal being. \[L\]
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-66b5944a-0bef-49d1-96cf-d44f4aab5ed3.png)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2022-04-01-at-15-25-55-Everything-Everywhere-All-at-Once-2022-5b6757f4-57ce-4e8e-aeee-02e14f55fe72.jpg)
-
-](https://modalpathethics.com/applied-case-the-fictional-soul-balm-machine/)
-
 A dying parent still rearranges reality.
 
 [
@@ -125,18 +113,6 @@ Modal Path Ethics will suffer this gap no more.
 ](https://modalpathethics.com/batman/)
 
 A diagnosis still reaches backward into memory and forward into identity.
-
-[
-
-Applied Case: Psychiatry Before Psychiatry
-
-Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-9654cdc7-a9cb-42dd-b9a6-8257bcbfa509.png)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/AdobeStock_470333601-7675f51b-2151-453e-bec3-0bc09da07322.jpeg)
-
-](https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/)
 
 A spiritual experience still has to be interpreted.
 
@@ -169,18 +145,6 @@ God died. The load remained.
 ](https://modalpathethics.com/nietzche-and-the-sacred-slack/)
 
 Death still does not become easy because the paperwork has been correctly processed.
-
-[
-
-Moonlight with Figures: The Ghost Dance
-
-The Ghost Dance, Wounded Knee, Swedenborg, and Blakelock. Circles, Arrows, and Visions.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-bf749182-ffc8-4bc1-9362-7967b75d2e16.png)Modal Path EthicsAidan Lawson
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/image-231-1-1-1-1-01d87311-ee4b-4cf0-920e-603c41e9526f.png)
-
-](https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/)
 
 So the pieces travel.
 

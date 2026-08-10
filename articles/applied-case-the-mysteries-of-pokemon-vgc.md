@@ -5,10 +5,10 @@ canonical_url: "https://modalpathethics.com/applied-case-the-mysteries-of-pokemo
 published_at: "2026-06-08T01:22:02.000-05:00"
 updated_at: "2026-06-22T13:23:51.000-05:00"
 tags:
-  - "Applied Case"
   - "Pokémon"
+  - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC

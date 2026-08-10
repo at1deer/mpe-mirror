@@ -3,14 +3,14 @@ title: "Applied Case: Primer (2004)"
 slug: "applied-case-primer-2004"
 canonical_url: "https://modalpathethics.com/applied-case-primer-2004/"
 published_at: "2026-06-18T06:00:17.000-05:00"
-updated_at: "2026-08-09T07:46:34.000-05:00"
+updated_at: "2026-08-10T07:34:30.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)

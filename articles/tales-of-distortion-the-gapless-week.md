@@ -3,12 +3,12 @@ title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
 published_at: "2026-08-09T06:30:19.000-05:00"
-updated_at: "2026-08-09T09:41:03.000-05:00"
+updated_at: "2026-08-10T06:09:52.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
-sha256_plaintext: "4137554a2f54412ccd4c32f42759257db960ce20198c35dcdc0fd96ee4cf938a"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
+sha256_plaintext: "a16711a1ef991e20471fac0943f83de77ba7d138fc438cbb559d835d7802a7f0"
 ---
 # Tales of Distortion: The Gapless Week
 
@@ -668,7 +668,7 @@ The system does not have to say:
 
 > Right. Common rest was carrying social information we failed to represent.
 
-You can actually can just say:
+You can actually just say:
 
 > Special rest-day coordination may be permitted where individual allocations produce domestic incompatibility.
 

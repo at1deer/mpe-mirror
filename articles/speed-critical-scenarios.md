@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios

@@ -3,13 +3,13 @@ title: "Kant and the Corrigible Field"
 slug: "kant-and-the-corrigible-field"
 canonical_url: "https://modalpathethics.com/kant-and-the-corrigible-field/"
 published_at: "2026-07-17T17:05:20.000-05:00"
-updated_at: "2026-07-17T19:37:23.000-05:00"
+updated_at: "2026-08-10T07:34:56.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field

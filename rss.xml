@@ -4,8 +4,32 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 08:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:00:20 GMT</lastBuildDate>
     
+    <item>
+      <title>Transition Action: The Battery Does Nothing</title>
+      <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-battery-does-nothing.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-battery-does-nothing.html</guid>
+      <pubDate>Mon, 10 Aug 2026 12:14:04 GMT</pubDate>
+      <description>Usually something moves in this one.</description>
+    </item>
+
+    <item>
+      <title>Modal Path Ethics Apologizes to Walter Veit</title>
+      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-walter-veit.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-walter-veit.html</guid>
+      <pubDate>Mon, 10 Aug 2026 11:00:28 GMT</pubDate>
+      <description>The mole has successfully filed an appeal</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Theorem Scoreboard</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-theorem-scoreboard.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-theorem-scoreboard.html</guid>
+      <pubDate>Mon, 10 Aug 2026 10:30:54 GMT</pubDate>
+      <description>OpenAI, Terence Tao, and whether mathematics is a competition or an inquiry.</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: The Gapless Week</title>
       <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html</link>
@@ -380,30 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</guid>
       <pubDate>Wed, 15 Jul 2026 00:44:34 GMT</pubDate>
       <description>A battery-free sweat patch can now regenerate its own molecular sensing surface, induce a fresh sample, and keep monitoring for weeks.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Immortal Corpus</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-immortal-corpus.html</guid>
-      <pubDate>Tue, 14 Jul 2026 09:20:46 GMT</pubDate>
-      <description>The priests kept every philosopher alive and let philosophy die. [L]</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: The Climbing Target</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-climbing-target.html</guid>
-      <pubDate>Mon, 13 Jul 2026 10:45:41 GMT</pubDate>
-      <description>The machine saw the climb. The threat field saw the attack. Only one existed. Flight 655. Flight 752.</description>
-    </item>
-
-    <item>
-      <title>SEAM: Now Playable</title>
-      <link>https://modal-path-ethics.ghost.io/articles/seam-now-playable.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/seam-now-playable.html</guid>
-      <pubDate>Sun, 12 Jul 2026 10:30:39 GMT</pubDate>
-      <description>Introducing SEAM, a free endless runner game from Modal Path Ethics</description>
     </item>
   </channel>
 </rss>

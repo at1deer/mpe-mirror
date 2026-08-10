@@ -3,12 +3,12 @@ title: "Modal Path Ethics Has DoubleVision"
 slug: "modal-path-ethics-has-doublevision"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-doublevision/"
 published_at: "2026-07-29T06:00:52.000-05:00"
-updated_at: "2026-07-29T06:12:32.000-05:00"
+updated_at: "2026-08-10T07:31:28.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision

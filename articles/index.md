@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-10T08:14:49.799Z
+Generated: 2026-08-10T14:00:20.799Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-10 — [Transition Action: The Battery Does Nothing](/articles/transition-action-the-battery-does-nothing.md) ([HTML](/articles/transition-action-the-battery-does-nothing.html))
+- 2026-08-10 — [Modal Path Ethics Apologizes to Walter Veit](/articles/modal-path-ethics-apologizes-to-walter-veit.md) ([HTML](/articles/modal-path-ethics-apologizes-to-walter-veit.html))
+- 2026-08-10 — [Applied Case: The Theorem Scoreboard](/articles/applied-case-the-theorem-scoreboard.md) ([HTML](/articles/applied-case-the-theorem-scoreboard.html))
 - 2026-08-09 — [Tales of Distortion: The Gapless Week](/articles/tales-of-distortion-the-gapless-week.md) ([HTML](/articles/tales-of-distortion-the-gapless-week.html))
 - 2026-08-09 — [SLIME WATCH: The Slimy Sea of Slop](/articles/slime-watch-the-slimy-sea-of-slop.md) ([HTML](/articles/slime-watch-the-slimy-sea-of-slop.html))
 - 2026-08-08 — [Applied Case: The Invisible Board](/articles/applied-case-the-invisible-board.md) ([HTML](/articles/applied-case-the-invisible-board.html))

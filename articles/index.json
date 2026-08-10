@@ -1,14 +1,64 @@
 {
-  "generated_at": "2026-08-10T08:14:49.799Z",
+  "generated_at": "2026-08-10T14:00:20.799Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 220,
+  "article_count": 223,
   "articles": [
+    {
+      "title": "Transition Action: The Battery Does Nothing",
+      "slug": "transition-action-the-battery-does-nothing",
+      "published_at": "2026-08-10T07:14:04.000-05:00",
+      "updated_at": "2026-08-10T07:14:04.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-battery-does-nothing/",
+      "excerpt": "Usually something moves in this one.",
+      "tags": [
+        "Transition Action"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-battery-does-nothing.md",
+      "mirror_html_path": "/articles/transition-action-the-battery-does-nothing.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-battery-does-nothing.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-battery-does-nothing.html",
+      "sha256_plaintext": "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
+    },
+    {
+      "title": "Modal Path Ethics Apologizes to Walter Veit",
+      "slug": "modal-path-ethics-apologizes-to-walter-veit",
+      "published_at": "2026-08-10T06:00:28.000-05:00",
+      "updated_at": "2026-08-10T07:48:53.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-walter-veit/",
+      "excerpt": "The mole has successfully filed an appeal",
+      "tags": [
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-walter-veit.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-walter-veit.html",
+      "sha256_plaintext": "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
+    },
+    {
+      "title": "Applied Case: The Theorem Scoreboard",
+      "slug": "applied-case-the-theorem-scoreboard",
+      "published_at": "2026-08-10T05:30:54.000-05:00",
+      "updated_at": "2026-08-10T05:30:54.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-theorem-scoreboard/",
+      "excerpt": "OpenAI, Terence Tao, and whether mathematics is a competition or an inquiry.",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-theorem-scoreboard.md",
+      "mirror_html_path": "/articles/applied-case-the-theorem-scoreboard.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-theorem-scoreboard.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-theorem-scoreboard.html",
+      "sha256_plaintext": "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
+    },
     {
       "title": "Tales of Distortion: The Gapless Week",
       "slug": "tales-of-distortion-the-gapless-week",
       "published_at": "2026-08-09T06:30:19.000-05:00",
-      "updated_at": "2026-08-09T09:41:03.000-05:00",
+      "updated_at": "2026-08-10T06:09:52.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-gapless-week/",
       "excerpt": "Machines do not need Sunday. [L]",
       "tags": [
@@ -18,7 +68,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-the-gapless-week.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html",
-      "sha256_plaintext": "4137554a2f54412ccd4c32f42759257db960ce20198c35dcdc0fd96ee4cf938a"
+      "sha256_plaintext": "a16711a1ef991e20471fac0943f83de77ba7d138fc438cbb559d835d7802a7f0"
     },
     {
       "title": "SLIME WATCH: The Slimy Sea of Slop",
@@ -68,7 +118,7 @@
       "title": "Sacred Slack Has Been Published",
       "slug": "sacred-slack-has-been-published",
       "published_at": "2026-08-07T08:09:59.000-05:00",
-      "updated_at": "2026-08-09T08:26:43.000-05:00",
+      "updated_at": "2026-08-10T08:48:30.000-05:00",
       "canonical_url": "https://modalpathethics.com/sacred-slack-has-been-published/",
       "excerpt": "Modern people did not stop needing metaphysics. They were left to assemble it themselves. A proposal for a Meaning and Experience Center. Now on Amazon.",
       "tags": [
@@ -82,7 +132,7 @@
       "mirror_html_path": "/articles/sacred-slack-has-been-published.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/sacred-slack-has-been-published.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/sacred-slack-has-been-published.html",
-      "sha256_plaintext": "0f183d096bbd8014b765aa603e6ce63d4280177062be063d4493315138f786ae"
+      "sha256_plaintext": "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
     },
     {
       "title": "AI Did Not Blur Reality",
@@ -229,13 +279,13 @@
       "title": "Applied Case: The Werster Crisis",
       "slug": "applied-case-the-werster-crisis",
       "published_at": "2026-08-04T06:00:18.000-05:00",
-      "updated_at": "2026-08-05T06:45:09.000-05:00",
+      "updated_at": "2026-08-10T04:02:50.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-werster-crisis/",
       "excerpt": "Pokémon speedrunning built extraordinary instruments for verifying runs. It built much weaker instruments for verifying the authority surrounding them.",
       "tags": [
+        "Pokémon",
         "Chirality",
         "Applied Case",
-        "Pokémon",
         "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-werster-crisis.md",
@@ -441,7 +491,7 @@
       "title": "Modal Path Ethics Has DoubleVision",
       "slug": "modal-path-ethics-has-doublevision",
       "published_at": "2026-07-29T06:00:52.000-05:00",
-      "updated_at": "2026-07-29T06:12:32.000-05:00",
+      "updated_at": "2026-08-10T07:31:28.000-05:00",
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-has-doublevision/",
       "excerpt": "\"Fill my eyes.\" [AVGN I]",
       "tags": [
@@ -475,7 +525,7 @@
       "title": "Applied Case: The Assassination of Charlie Kirk",
       "slug": "applied-case-the-assassination-of-charlie-kirk",
       "published_at": "2026-07-28T05:30:47.000-05:00",
-      "updated_at": "2026-08-05T18:37:27.000-05:00",
+      "updated_at": "2026-08-10T07:23:37.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/",
       "excerpt": "The debate tent, the founder-body, and the American enemy business.",
       "tags": [
@@ -542,7 +592,7 @@
       "title": "Failed Field Analysts: Ted Kaczynski and the Collapse Machine",
       "slug": "failed-field-analysts-ted-kaczynski-and-the-collapse-machine",
       "published_at": "2026-07-25T06:00:47.000-05:00",
-      "updated_at": "2026-08-01T03:53:45.000-05:00",
+      "updated_at": "2026-08-10T07:30:46.000-05:00",
       "canonical_url": "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/",
       "excerpt": "He saw the trap and mistook collapse for an exit.",
       "tags": [
@@ -553,7 +603,7 @@
       "mirror_html_path": "/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html",
-      "sha256_plaintext": "4c60861d82e67a86324cd0a329a9c0fc455619afa13432807acb172872d65a47"
+      "sha256_plaintext": "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
     },
     {
       "title": "Australia vs. the Biosphere: The Rabbit Fence",
@@ -610,7 +660,7 @@
       "title": "Pope Leo and the Optimizable Human",
       "slug": "pope-leo-and-the-optimizable-human",
       "published_at": "2026-07-22T13:15:55.000-05:00",
-      "updated_at": "2026-07-22T13:15:55.000-05:00",
+      "updated_at": "2026-08-10T07:28:17.000-05:00",
       "canonical_url": "https://modalpathethics.com/pope-leo-and-the-optimizable-human/",
       "excerpt": "Magnifica Humanitas warns that artificial intelligence may teach people to treat themselves as optimization projects. The project shipped years ago.",
       "tags": [
@@ -645,7 +695,7 @@
       "title": "Applied Case: The Brother of Jesus Christ",
       "slug": "applied-case-the-brother-of-jesus-christ",
       "published_at": "2026-07-21T05:30:37.000-05:00",
-      "updated_at": "2026-08-08T02:38:31.000-05:00",
+      "updated_at": "2026-08-10T07:27:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/",
       "excerpt": "He failed the examination, so he moved the examination to Heaven.",
       "tags": [
@@ -756,7 +806,7 @@
       "title": "Kant and the Corrigible Field",
       "slug": "kant-and-the-corrigible-field",
       "published_at": "2026-07-17T17:05:20.000-05:00",
-      "updated_at": "2026-07-17T19:37:23.000-05:00",
+      "updated_at": "2026-08-10T07:34:56.000-05:00",
       "canonical_url": "https://modalpathethics.com/kant-and-the-corrigible-field/",
       "excerpt": "Reason can audit the instrument. It cannot become the field.",
       "tags": [
@@ -778,8 +828,8 @@
       "canonical_url": "https://modalpathethics.com/applied-case-the-ever-brilliant-goldmask/",
       "excerpt": "\"Do you know of the Noble Goldmask?\" [Spoilers for Elden Ring and Shadow of the Erdtree.]",
       "tags": [
-        "Applied Case",
         "Chirality",
+        "Applied Case",
         "Modal Path Ethics"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-ever-brilliant-goldmask.md",
@@ -863,12 +913,11 @@
       "title": "SEAM: Now Playable",
       "slug": "seam-now-playable",
       "published_at": "2026-07-12T05:30:39.000-05:00",
-      "updated_at": "2026-07-12T05:30:39.000-05:00",
+      "updated_at": "2026-08-10T07:25:20.000-05:00",
       "canonical_url": "https://modalpathethics.com/seam-now-playable/",
       "excerpt": "Introducing SEAM, a free endless runner game from Modal Path Ethics",
       "tags": [
-        "Chirality",
-        "Modal Path Ethics"
+        "Chirality"
       ],
       "mirror_markdown_path": "/articles/seam-now-playable.md",
       "mirror_html_path": "/articles/seam-now-playable.html",
@@ -896,7 +945,7 @@
       "title": "Tales of Distortion: The Subway Oracle",
       "slug": "tales-of-distortion-the-subway-oracle",
       "published_at": "2026-07-11T06:30:48.000-05:00",
-      "updated_at": "2026-07-23T15:00:01.000-05:00",
+      "updated_at": "2026-08-10T07:27:04.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/",
       "excerpt": "The end of the world boarded the Tokyo subway before I was born. Failed Field Analysts: Shoko Asahara.",
       "tags": [
@@ -1136,7 +1185,7 @@
       "title": "Tales of Distortion: Münster’s New Jerusalem",
       "slug": "tales-of-distortion-munsters-new-jerusalem",
       "published_at": "2026-07-05T07:00:15.000-05:00",
-      "updated_at": "2026-08-03T11:46:50.000-05:00",
+      "updated_at": "2026-08-10T07:32:51.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/",
       "excerpt": "Question every Jan. [L]",
       "tags": [
@@ -1349,7 +1398,7 @@
       "title": "Applied Case: The Second Battle of Hoover Dam",
       "slug": "the-second-battle-for-hoover-dam",
       "published_at": "2026-06-29T06:06:05.000-05:00",
-      "updated_at": "2026-07-02T04:16:58.000-05:00",
+      "updated_at": "2026-08-10T07:34:03.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-second-battle-for-hoover-dam/",
       "excerpt": "Spoilers for Fallout: New Vegas. Failed Field Analysts: Colonel Moore [L]",
       "tags": [
@@ -1368,7 +1417,7 @@
       "title": "Samsara & Repair",
       "slug": "samsara-repair",
       "published_at": "2026-06-28T12:00:12.000-05:00",
-      "updated_at": "2026-06-28T13:40:01.000-05:00",
+      "updated_at": "2026-08-10T07:36:12.000-05:00",
       "canonical_url": "https://modalpathethics.com/samsara-repair/",
       "excerpt": "A Buddhism-facing defense of Modal Path Ethics, the tail of damage, and the zero-resistance asymptote.\n\nStarring the Notipede: the first Field Creature.",
       "tags": [
@@ -1497,11 +1546,10 @@
       "canonical_url": "https://modalpathethics.com/patch-notes-market-tiering-bug-15-02-6-24-2026/",
       "excerpt": "Surgical separation is not easy.",
       "tags": [
-        "Patch Notes",
+        "Instrument Jurisdiction",
         "Field Instruments",
         "Business",
-        "Fictional Earth",
-        "Instrument Jurisdiction"
+        "Fictional Earth"
       ],
       "mirror_markdown_path": "/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md",
       "mirror_html_path": "/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html",
@@ -1787,7 +1835,7 @@
       "title": "Applied Case: Primer (2004)",
       "slug": "applied-case-primer-2004",
       "published_at": "2026-06-18T06:00:17.000-05:00",
-      "updated_at": "2026-08-09T07:46:34.000-05:00",
+      "updated_at": "2026-08-10T07:34:30.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-primer-2004/",
       "excerpt": "The problem here was not the time travel.",
       "tags": [
@@ -1806,7 +1854,7 @@
       "title": "The Great Ludic Audit",
       "slug": "the-great-ludic-audit",
       "published_at": "2026-06-17T07:30:33.000-05:00",
-      "updated_at": "2026-06-17T14:51:42.000-05:00",
+      "updated_at": "2026-08-10T07:40:12.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-great-ludic-audit/",
       "excerpt": "Modal Path Ethics played Game Theory’s twelve most celebrated games so you don’t have to.",
       "tags": [
@@ -2111,8 +2159,8 @@
       "canonical_url": "https://modalpathethics.com/applied-case-the-mysteries-of-pokemon-vgc/",
       "excerpt": "Companion to RBY UU. Another extraction of ludic insights from historical Pokémon fields.",
       "tags": [
-        "Applied Case",
-        "Pokémon"
+        "Pokémon",
+        "Applied Case"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-mysteries-of-pokemon-vgc.md",
       "mirror_html_path": "/articles/applied-case-the-mysteries-of-pokemon-vgc.html",
@@ -3410,7 +3458,7 @@
       "title": "Thought Gauntlet I: The Trolley Problem",
       "slug": "applied-case-the-trolley-problem",
       "published_at": "2026-04-26T16:35:31.000-05:00",
-      "updated_at": "2026-06-09T00:05:28.000-05:00",
+      "updated_at": "2026-08-10T07:21:02.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-trolley-problem/",
       "excerpt": "No real locus is ever sealed.",
       "tags": [
@@ -3480,7 +3528,7 @@
       "title": "Applied Case: The Solved Game & The Degenerate Meta",
       "slug": "applied-case-the-solved-game-the-degenerate-meta",
       "published_at": "2026-04-25T18:05:27.000-05:00",
-      "updated_at": "2026-05-06T20:22:41.000-05:00",
+      "updated_at": "2026-08-10T07:21:39.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/",
       "excerpt": "A game does not need to be completely solved to suffer the solved-game effects.",
       "tags": [
@@ -3870,7 +3918,7 @@
       "title": "Coming June 17th",
       "slug": "coming-soon",
       "published_at": "2026-04-15T18:10:37.000-05:00",
-      "updated_at": "2026-06-17T03:30:52.000-05:00",
+      "updated_at": "2026-08-10T07:21:15.000-05:00",
       "canonical_url": "https://modalpathethics.com/coming-soon/",
       "excerpt": "Modal Path Ethics",
       "tags": [

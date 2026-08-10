@@ -3,13 +3,13 @@ title: "Applied Case: The Solved Game & The Degenerate Meta"
 slug: "applied-case-the-solved-game-the-degenerate-meta"
 canonical_url: "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/"
 published_at: "2026-04-25T18:05:27.000-05:00"
-updated_at: "2026-05-06T20:22:41.000-05:00"
+updated_at: "2026-08-10T07:21:39.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T08:14:49.799Z"
+mirror_generated_at: "2026-08-10T14:00:20.799Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
