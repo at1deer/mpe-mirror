@@ -7,7 +7,7 @@ updated_at: "2026-08-10T06:09:52.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T14:00:20.799Z"
+mirror_generated_at: "2026-08-10T19:35:53.197Z"
 sha256_plaintext: "a16711a1ef991e20471fac0943f83de77ba7d138fc438cbb559d835d7802a7f0"
 ---
 # Tales of Distortion: The Gapless Week
