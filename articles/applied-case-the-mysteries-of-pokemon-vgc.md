@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Pokémon"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T19:17:30.658Z"
+mirror_generated_at: "2026-08-10T02:54:14.730Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC

@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-09T19:17:30.658Z"
+mirror_generated_at: "2026-08-10T02:54:14.730Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
