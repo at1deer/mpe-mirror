@@ -3,13 +3,13 @@ title: "Applied Case: The Endless Battle"
 slug: "applied-case-the-endless-battle"
 canonical_url: "https://modalpathethics.com/applied-case-the-endless-battle/"
 published_at: "2026-08-11T06:00:11.000-05:00"
-updated_at: "2026-08-11T06:00:10.000-05:00"
+updated_at: "2026-08-11T12:20:39.000-05:00"
 tags:
   - "Pokémon"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-11T14:01:29.895Z"
+mirror_generated_at: "2026-08-11T19:39:34.456Z"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle

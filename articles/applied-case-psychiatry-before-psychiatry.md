@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-11T14:01:29.895Z"
+mirror_generated_at: "2026-08-11T19:39:34.456Z"
 sha256_plaintext: "d1972e7b61419df60f924211abffa93dcd33bf4294ab3d5df62e0daf473228ab"
 ---
 # Applied Case: Psychiatry Before Psychiatry

@@ -3,14 +3,14 @@ title: "Applied Case: The Werster Crisis"
 slug: "applied-case-the-werster-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-werster-crisis/"
 published_at: "2026-08-04T06:00:18.000-05:00"
-updated_at: "2026-08-10T04:02:50.000-05:00"
+updated_at: "2026-08-11T12:17:09.000-05:00"
 tags:
   - "Pokémon"
   - "Chirality"
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-11T14:01:29.895Z"
+mirror_generated_at: "2026-08-11T19:39:34.456Z"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis

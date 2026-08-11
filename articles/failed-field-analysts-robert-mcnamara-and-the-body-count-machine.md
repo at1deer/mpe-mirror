@@ -10,7 +10,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-11T14:01:29.895Z"
+mirror_generated_at: "2026-08-11T19:39:34.456Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
