@@ -3,27 +3,22 @@ title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
 published_at: "2026-08-09T06:30:19.000-05:00"
-updated_at: "2026-08-10T06:09:52.000-05:00"
+updated_at: "2026-08-10T15:57:05.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T19:35:53.197Z"
-sha256_plaintext: "a16711a1ef991e20471fac0943f83de77ba7d138fc438cbb559d835d7802a7f0"
+mirror_generated_at: "2026-08-11T02:36:42.217Z"
+sha256_plaintext: "74ba9fce815edc7eebba6ebc5d339715cc241e861150cd54da292080b61ba3c0"
 ---
 # Tales of Distortion: The Gapless Week
 
 There are a **ton** of ways to improve a factory.
 
--   You can improve the machine.
--   You can train the workers.
--   You can redesign the production line,
-    -   change the power supply,
-        -   reduce waste,
-            -   improve maintenance,
-                -   reorganize shifts,
-                    -   replace bad equipment,
-                        -   move material more intelligently, or
-                        -   finally listen to the person who has been saying for **six goddamn months** that Unit 4 is making a noise Unit 4 absolutely did not make when everyone still had eyebrows.
+You can improve the machine.
+
+You can train the workers.
+
+You can redesign the production line, change the power supply, reduce waste, improve maintenance, reorganize shifts, replace bad equipment, move material more intelligently, or finally listen to the person who has been saying for six goddamn months that Unit 4 is making a noise Unit 4 absolutely did not make when everyone still had eyebrows.
 
 In 1929, the Soviet Union encountered another possibility.
 

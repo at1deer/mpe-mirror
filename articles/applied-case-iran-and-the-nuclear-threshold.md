@@ -10,7 +10,7 @@ tags:
   - "Security Instruments"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-10T19:35:53.197Z"
+mirror_generated_at: "2026-08-11T02:36:42.217Z"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**
