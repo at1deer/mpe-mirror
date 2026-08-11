@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-08-11T07:49:10.387Z",
+  "generated_at": "2026-08-11T14:01:29.895Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 223,
+  "article_count": 225,
   "articles": [
+    {
+      "title": "Applied Case: The Endless Battle",
+      "slug": "applied-case-the-endless-battle",
+      "published_at": "2026-08-11T06:00:11.000-05:00",
+      "updated_at": "2026-08-11T06:00:10.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-endless-battle/",
+      "excerpt": "Turn 846. The opposing Slowbro used Recycle! The opposing Slowbro found one Leppa Berry!",
+      "tags": [
+        "Pokémon",
+        "Chirality",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-endless-battle.md",
+      "mirror_html_path": "/articles/applied-case-the-endless-battle.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.html",
+      "sha256_plaintext": "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
+    },
+    {
+      "title": "Field Instruments: Entropy, Memory, and Erasure",
+      "slug": "field-instruments-entropy-memory-and-erasure",
+      "published_at": "2026-08-11T05:30:14.000-05:00",
+      "updated_at": "2026-08-11T05:30:13.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-entropy-memory-and-erasure/",
+      "excerpt": "The gradient is gone.",
+      "tags": [
+        "Epistemic Instruments",
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-entropy-memory-and-erasure.md",
+      "mirror_html_path": "/articles/field-instruments-entropy-memory-and-erasure.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.html",
+      "sha256_plaintext": "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
+    },
     {
       "title": "Transition Action: The Battery Does Nothing",
       "slug": "transition-action-the-battery-does-nothing",

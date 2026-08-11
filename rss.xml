@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 11 Aug 2026 07:49:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 14:01:29 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Endless Battle</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.html</guid>
+      <pubDate>Tue, 11 Aug 2026 11:00:11 GMT</pubDate>
+      <description>Turn 846. The opposing Slowbro used Recycle! The opposing Slowbro found one Leppa Berry!</description>
+    </item>
+
+    <item>
+      <title>Field Instruments: Entropy, Memory, and Erasure</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.html</guid>
+      <pubDate>Tue, 11 Aug 2026 10:30:14 GMT</pubDate>
+      <description>The gradient is gone.</description>
+    </item>
+
     <item>
       <title>Transition Action: The Battery Does Nothing</title>
       <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-battery-does-nothing.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-ever-brilliant-goldmask.html</guid>
       <pubDate>Thu, 16 Jul 2026 11:00:28 GMT</pubDate>
       <description>&quot;Do you know of the Noble Goldmask?&quot; [Spoilers for Elden Ring and Shadow of the Erdtree.]</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Savonarola and the Purity Machine</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-savonrola-and-the-purity-machine.html</guid>
-      <pubDate>Wed, 15 Jul 2026 10:30:34 GMT</pubDate>
-      <description>He saw the rot and took fire for medicine.</description>
-    </item>
-
-    <item>
-      <title>Transition Action: The Sensor Cleans Itself</title>
-      <link>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-sensor-cleans-itself.html</guid>
-      <pubDate>Wed, 15 Jul 2026 00:44:34 GMT</pubDate>
-      <description>A battery-free sweat patch can now regenerate its own molecular sensing surface, induce a fresh sample, and keep monitoring for weeks.</description>
     </item>
   </channel>
 </rss>

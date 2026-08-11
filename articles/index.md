@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-11T07:49:10.387Z
+Generated: 2026-08-11T14:01:29.895Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-11 — [Applied Case: The Endless Battle](/articles/applied-case-the-endless-battle.md) ([HTML](/articles/applied-case-the-endless-battle.html))
+- 2026-08-11 — [Field Instruments: Entropy, Memory, and Erasure](/articles/field-instruments-entropy-memory-and-erasure.md) ([HTML](/articles/field-instruments-entropy-memory-and-erasure.html))
 - 2026-08-10 — [Transition Action: The Battery Does Nothing](/articles/transition-action-the-battery-does-nothing.md) ([HTML](/articles/transition-action-the-battery-does-nothing.html))
 - 2026-08-10 — [Modal Path Ethics Apologizes to Walter Veit](/articles/modal-path-ethics-apologizes-to-walter-veit.md) ([HTML](/articles/modal-path-ethics-apologizes-to-walter-veit.html))
 - 2026-08-10 — [Applied Case: The Theorem Scoreboard](/articles/applied-case-the-theorem-scoreboard.md) ([HTML](/articles/applied-case-the-theorem-scoreboard.html))
