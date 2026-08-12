@@ -3,13 +3,13 @@ title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
 published_at: "2026-07-21T10:00:03.000-05:00"
-updated_at: "2026-07-25T04:38:50.000-05:00"
+updated_at: "2026-08-11T15:28:44.000-05:00"
 tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-11T19:39:34.456Z"
-sha256_plaintext: "6378b0fa5423ced1c7b81d9ffee3509d436b9fb8bff771db9ed89f3208b70818"
+mirror_generated_at: "2026-08-12T03:06:34.021Z"
+sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption
 
@@ -98,7 +98,7 @@ A **priesthood** does not have to wear robes. It only needs protected authority 
 
 Thiel asks what happens when the talented person stops presenting papers to the priesthood and just builds the missing thing instead.
 
-That is a **very** serious question. This is a strong point of convergence.
+That is a **very** serious question.
 
 His monopoly argument also has a stronger form than the common caricature allows. 
 
