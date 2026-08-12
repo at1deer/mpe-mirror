@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-08-12T08:01:22.063Z",
+  "generated_at": "2026-08-12T14:01:36.652Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 225,
+  "article_count": 227,
   "articles": [
+    {
+      "title": "Tales of Distortion: InfoWars",
+      "slug": "tales-of-distortion-the-infowars",
+      "published_at": "2026-08-12T06:00:58.000-05:00",
+      "updated_at": "2026-08-12T06:00:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-infowars/",
+      "excerpt": "The frogs were the easy part.",
+      "tags": [
+        "Tales of Distortion",
+        "Epistemic Instruments"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-infowars.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-infowars.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-infowars.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-infowars.html",
+      "sha256_plaintext": "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
+    },
+    {
+      "title": "Australia vs. The Biosphere: The Dingo Fence",
+      "slug": "australia-vs-the-biosphere-the-dingo-fence",
+      "published_at": "2026-08-12T05:30:54.000-05:00",
+      "updated_at": "2026-08-12T05:30:54.000-05:00",
+      "canonical_url": "https://modalpathethics.com/australia-vs-the-biosphere-the-dingo-fence/",
+      "excerpt": "AUS 1 • BIO 2",
+      "tags": [
+        "Australia vs. The Biosphere"
+      ],
+      "mirror_markdown_path": "/articles/australia-vs-the-biosphere-the-dingo-fence.md",
+      "mirror_html_path": "/articles/australia-vs-the-biosphere-the-dingo-fence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-dingo-fence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-dingo-fence.html",
+      "sha256_plaintext": "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
+    },
     {
       "title": "Applied Case: The Endless Battle",
       "slug": "applied-case-the-endless-battle",
@@ -1522,23 +1555,6 @@
       "sha256_plaintext": "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
     },
     {
-      "title": "The Completion Engine",
-      "slug": "applied-the-completion-engine",
-      "published_at": "2026-06-27T05:01:00.000-05:00",
-      "updated_at": "2026-06-28T01:40:19.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
-      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
-      "tags": [
-        "Modal Path Ethics",
-        "Modal Systems"
-      ],
-      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
-      "mirror_html_path": "/articles/applied-the-completion-engine.html",
-      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
-      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
-      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
-    },
-    {
       "title": "The Trespass Machine",
       "slug": "applied-case-the-trespass-machine",
       "published_at": "2026-06-27T05:01:00.000-05:00",
@@ -1555,6 +1571,23 @@
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html",
       "sha256_plaintext": "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
+    },
+    {
+      "title": "The Completion Engine",
+      "slug": "applied-the-completion-engine",
+      "published_at": "2026-06-27T05:01:00.000-05:00",
+      "updated_at": "2026-06-28T01:40:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
+      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
+      "mirror_html_path": "/articles/applied-the-completion-engine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
+      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
     },
     {
       "title": "Applied Case: The Golden Rule",
@@ -2349,7 +2382,7 @@
       "title": "Field Instruments: Accounting",
       "slug": "field-instruments-accounting",
       "published_at": "2026-05-26T20:51:18.000-05:00",
-      "updated_at": "2026-05-26T21:08:30.000-05:00",
+      "updated_at": "2026-08-12T05:01:21.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-accounting/",
       "excerpt": "Accounting is not math or money.",
       "tags": [
@@ -2359,7 +2392,7 @@
       "mirror_html_path": "/articles/field-instruments-accounting.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-accounting.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-accounting.html",
-      "sha256_plaintext": "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
+      "sha256_plaintext": "e087cec65d065163534a86008f088904313f6e4f1bd5c4b8f8ab32b332f8cdf0"
     },
     {
       "title": "Applied Case: The Bodybuilding Field Collapse",

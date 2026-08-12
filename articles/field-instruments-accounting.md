@@ -3,16 +3,16 @@ title: "Field Instruments: Accounting"
 slug: "field-instruments-accounting"
 canonical_url: "https://modalpathethics.com/field-instruments-accounting/"
 published_at: "2026-05-26T20:51:18.000-05:00"
-updated_at: "2026-05-26T21:08:30.000-05:00"
+updated_at: "2026-08-12T05:01:21.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-12T08:01:22.063Z"
-sha256_plaintext: "c27e102b60af0ebc9f724798d535415fece0eed99b81dbeb9a311e892064924d"
+mirror_generated_at: "2026-08-12T14:01:36.652Z"
+sha256_plaintext: "e087cec65d065163534a86008f088904313f6e4f1bd5c4b8f8ab32b332f8cdf0"
 ---
 # Field Instruments: Accounting
 
-Accounting is not [math](https://modalpathethics.com/applied-case-the-mathematics-problem/), or [money](https://modalpathethics.com/field-instruments-money/), or reducible to any kind of sum of the two. This is the first mistake, and my old one. This is very different.
+Accounting is not [math](https://modalpathethics.com/applied-case-the-mathematics-problem/), or [money](https://modalpathethics.com/field-instruments-money/), or reducible to any kind of sum of the two.
 
 **Math** can tell us whether the numbers obey the operation. **Accounting** decides which parts of the field become numbers, which entity carries them, when they count, what category receives them, and whether they survive into the next decision.
 
