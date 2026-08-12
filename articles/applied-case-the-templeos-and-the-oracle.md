@@ -3,14 +3,14 @@ title: "Applied Case: The TempleOS"
 slug: "applied-case-the-templeos-and-the-oracle"
 canonical_url: "https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/"
 published_at: "2026-05-21T00:39:30.000-05:00"
-updated_at: "2026-06-14T23:50:33.000-05:00"
+updated_at: "2026-08-12T14:02:43.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-12T14:01:36.652Z"
-sha256_plaintext: "12038395c9a493230a172e5288ddd16ca885470952fa527568bc9cfe23c04c32"
+mirror_generated_at: "2026-08-12T19:42:19.714Z"
+sha256_plaintext: "99998336ae9e69ae4dbf2142d5a110cf7cbcc331091b9842517f6480e460ad2c"
 ---
 # Applied Case: The TempleOS
 
@@ -326,7 +326,7 @@ This is the moral breaking point. 
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/05/data-src-image-f5a46dc7-f465-4d67-825f-70792fb00d5b.jpeg)
 
-[I also have a schizophrenia spectrum disorder](https://modalpathethics.com/author/). That does not explain Terry’s hate. A person can be severely ill and still produce real work. A person can be severely ill and still cause damage.
+A person can be severely ill and still produce real work. A person can be severely ill and still cause damage.
 
 A person can perceive harm in one field with extraordinary clarity while becoming catastrophically distorted in another.
 
