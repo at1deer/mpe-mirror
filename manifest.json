@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-08-13T08:02:32.847Z",
+  "generated_at": "2026-08-13T14:03:05.223Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 227,
+  "article_count": 228,
   "articles": [
+    {
+      "title": "Modal Path Ethics is Slowing Down",
+      "slug": "modal-path-ethics-is-slowing-down",
+      "published_at": "2026-08-13T06:00:09.000-05:00",
+      "updated_at": "2026-08-13T06:00:08.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-is-slowing-down/",
+      "excerpt": "(Finally)",
+      "tags": [
+        "News",
+        "Modal Path Ethics",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-is-slowing-down.md",
+      "mirror_html_path": "/articles/modal-path-ethics-is-slowing-down.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-slowing-down.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-slowing-down.html",
+      "sha256_plaintext": "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
+    },
     {
       "title": "Tales of Distortion: InfoWars",
       "slug": "tales-of-distortion-the-infowars",
@@ -1555,6 +1573,23 @@
       "sha256_plaintext": "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
     },
     {
+      "title": "The Completion Engine",
+      "slug": "applied-the-completion-engine",
+      "published_at": "2026-06-27T05:01:00.000-05:00",
+      "updated_at": "2026-06-28T01:40:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
+      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
+      "mirror_html_path": "/articles/applied-the-completion-engine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
+      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
+    },
+    {
       "title": "The Trespass Machine",
       "slug": "applied-case-the-trespass-machine",
       "published_at": "2026-06-27T05:01:00.000-05:00",
@@ -1571,23 +1606,6 @@
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html",
       "sha256_plaintext": "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
-    },
-    {
-      "title": "The Completion Engine",
-      "slug": "applied-the-completion-engine",
-      "published_at": "2026-06-27T05:01:00.000-05:00",
-      "updated_at": "2026-06-28T01:40:19.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
-      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
-      "tags": [
-        "Modal Path Ethics",
-        "Modal Systems"
-      ],
-      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
-      "mirror_html_path": "/articles/applied-the-completion-engine.html",
-      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
-      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
-      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
     },
     {
       "title": "Applied Case: The Golden Rule",
