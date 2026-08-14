@@ -10,7 +10,7 @@ tags:
   - "Sacred Instruments"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-13T19:37:42.747Z"
+mirror_generated_at: "2026-08-14T03:09:22.214Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
