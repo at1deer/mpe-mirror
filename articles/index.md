@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-14T07:59:01.545Z
+Generated: 2026-08-14T13:57:52.228Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-14 — [The Nerd Reich Is the Easy Case](/articles/the-nerd-reich-is-the-easy-case.md) ([HTML](/articles/the-nerd-reich-is-the-easy-case.html))
 - 2026-08-13 — [Modal Path Ethics is Slowing Down](/articles/modal-path-ethics-is-slowing-down.md) ([HTML](/articles/modal-path-ethics-is-slowing-down.html))
 - 2026-08-12 — [Tales of Distortion: InfoWars](/articles/tales-of-distortion-the-infowars.md) ([HTML](/articles/tales-of-distortion-the-infowars.html))
 - 2026-08-12 — [Australia vs. The Biosphere: The Dingo Fence](/articles/australia-vs-the-biosphere-the-dingo-fence.md) ([HTML](/articles/australia-vs-the-biosphere-the-dingo-fence.html))
