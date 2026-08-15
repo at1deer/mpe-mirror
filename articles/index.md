@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-15T07:08:13.698Z
+Generated: 2026-08-15T13:10:10.187Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-15 — [Someone Has to Coordinate All This](/articles/someone-has-to-coordinate-this.md) ([HTML](/articles/someone-has-to-coordinate-this.html))
 - 2026-08-14 — [The Nerd Reich Is the Easy Case](/articles/the-nerd-reich-is-the-easy-case.md) ([HTML](/articles/the-nerd-reich-is-the-easy-case.html))
 - 2026-08-13 — [Modal Path Ethics is Slowing Down](/articles/modal-path-ethics-is-slowing-down.md) ([HTML](/articles/modal-path-ethics-is-slowing-down.html))
 - 2026-08-12 — [Tales of Distortion: InfoWars](/articles/tales-of-distortion-the-infowars.md) ([HTML](/articles/tales-of-distortion-the-infowars.html))

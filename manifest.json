@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-15T07:08:13.698Z",
+  "generated_at": "2026-08-15T13:10:10.187Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 229,
+  "article_count": 230,
   "articles": [
+    {
+      "title": "Someone Has to Coordinate All This",
+      "slug": "someone-has-to-coordinate-this",
+      "published_at": "2026-08-15T06:00:22.000-05:00",
+      "updated_at": "2026-08-15T06:00:22.000-05:00",
+      "canonical_url": "https://modalpathethics.com/someone-has-to-coordinate-this/",
+      "excerpt": "The burden is real. Its present carrier is not sacred.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/someone-has-to-coordinate-this.md",
+      "mirror_html_path": "/articles/someone-has-to-coordinate-this.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/someone-has-to-coordinate-this.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/someone-has-to-coordinate-this.html",
+      "sha256_plaintext": "1374d91f0fd7e7c1c765bc60b81ac03e880ea5e9bfbb61c981040194e1cb14e9"
+    },
     {
       "title": "The Nerd Reich Is the Easy Case",
       "slug": "the-nerd-reich-is-the-easy-case",
