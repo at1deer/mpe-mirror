@@ -3,12 +3,12 @@ title: "Someone Has to Coordinate All This"
 slug: "someone-has-to-coordinate-this"
 canonical_url: "https://modalpathethics.com/someone-has-to-coordinate-this/"
 published_at: "2026-08-15T06:00:22.000-05:00"
-updated_at: "2026-08-15T06:00:22.000-05:00"
+updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-15T13:10:10.187Z"
-sha256_plaintext: "1374d91f0fd7e7c1c765bc60b81ac03e880ea5e9bfbb61c981040194e1cb14e9"
+mirror_generated_at: "2026-08-15T18:59:15.294Z"
+sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This
 
@@ -59,8 +59,6 @@ Those questions always survive the revolution.
 Markets deserve their strongest defense.
 
 Friedrich Hayek’s central point remains useful: important knowledge is dispersed. People know local conditions, shortages, opportunities, substitutes, and changing circumstances that no central office can completely collect in time. Prices can carry some of that information across strangers without requiring one planner to understand the whole system.
-
-That is a real achievement.
 
 Management earns a defense for a different reason. Somebody has to preserve the schedule after the launch, train the replacement, order the part before it fails, settle the clash between two departments, and make sure tomorrow’s service does not depend on today’s hero.
 
