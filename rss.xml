@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 16 Aug 2026 07:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 13:12:34 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Thirteen Minutes at East Palestine</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-thirteen-minutes-at-east-palestine.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-thirteen-minutes-at-east-palestine.html</guid>
+      <pubDate>Sun, 16 Aug 2026 11:00:17 GMT</pubDate>
+      <description>The decision can be final without the decider becoming final.</description>
+    </item>
+
     <item>
       <title>Someone Has to Coordinate All This</title>
       <link>https://modal-path-ethics.ghost.io/articles/someone-has-to-coordinate-this.html</link>
@@ -396,14 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/transition-action-the-signal-never-becomes-data.html</guid>
       <pubDate>Tue, 21 Jul 2026 02:46:37 GMT</pubDate>
       <description>A mechanical soft force sensor converts touch directly into fluidic action. Data remains available. The first response no longer has to wait for it.</description>
-    </item>
-
-    <item>
-      <title>The Schizophrenia Firewall Has Been Published</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-schizophrenia-firewall-has-been-published.html</guid>
-      <pubDate>Sun, 19 Jul 2026 22:53:55 GMT</pubDate>
-      <description>Psychiatry claims jurisdiction over psychosis when it wants power, then disclaims competence when the patient asks for voluntary care.</description>
     </item>
   </channel>
 </rss>
