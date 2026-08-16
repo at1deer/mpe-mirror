@@ -7,7 +7,7 @@ updated_at: "2026-08-08T05:00:30.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-16T13:12:34.732Z"
+mirror_generated_at: "2026-08-16T18:58:32.340Z"
 sha256_plaintext: "c02886bccb35795713dbb29d6a9d746c9da55933673e158c9245bbcd82f899ee"
 ---
 # The Sacred Machine
