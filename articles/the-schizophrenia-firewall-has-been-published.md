@@ -3,15 +3,15 @@ title: "The Schizophrenia Firewall Has Been Published"
 slug: "the-schizophrenia-firewall-has-been-published"
 canonical_url: "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/"
 published_at: "2026-07-19T17:53:55.000-05:00"
-updated_at: "2026-07-29T07:08:40.000-05:00"
+updated_at: "2026-08-15T17:10:44.000-05:00"
 tags:
   - "Books"
   - "News"
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-15T18:59:15.294Z"
-sha256_plaintext: "39af192f242682cfb3485b211d23739d5ad8627f748153be74616321e5c75bb9"
+mirror_generated_at: "2026-08-16T02:07:58.736Z"
+sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published
 
@@ -121,7 +121,7 @@ This industry has lost its claim to practice medicine. It practices insurance po
 
 Accessible care becomes a brochure placed over an inaccessible pipeline.
 
-### Fuck Psychiatry’s Comfort, Are You Children Fucking Kidding Me?
+### Fuck Psychiatry’s Comfort, Are You Fucking Kidding Me?
 
 **Comfort** is not a civil-rights standard.
 
