@@ -3,13 +3,13 @@ title: "Applied Case: Able Archer and the Dark Forest at Home"
 slug: "applied-case-able-archer-and-the-dark-forest-at-home"
 canonical_url: "https://modalpathethics.com/applied-case-able-archer-and-the-dark-forest-at-home/"
 published_at: "2026-08-17T06:00:01.000-05:00"
-updated_at: "2026-08-17T06:00:01.000-05:00"
+updated_at: "2026-08-17T12:19:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-17T13:23:09.108Z"
-sha256_plaintext: "d303115d218a0bff1ae6293aee3bc6a7a50647114241d077c3a110db7386f2c1"
+mirror_generated_at: "2026-08-17T19:09:18.268Z"
+sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home
 
@@ -41,7 +41,7 @@ The people inside the exercise had to act before the archive existed.
 
 * * *
 
-## Calm Is Not a Constitution.
+## Calm: Not a Constitution.
 
 The easy moral is that everyone should have relaxed.
 
@@ -102,7 +102,7 @@ The prediction can come true because the strategy built around it helped make th
 
 * * *
 
-## A Dark Forest at Home.
+## Dark Forest at Home.
 
 A [**Dark Forest**](https://modalpathethics.com/the-better-forests/) is a strategic field in which uncertainty, asymmetric danger, and anticipated first movement make concealment, consolidation, and preemption locally rational while those same postures make the shared field more dangerous.
 
