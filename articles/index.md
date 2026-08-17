@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-17T07:35:37.538Z
+Generated: 2026-08-17T13:23:09.108Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-17 — [Applied Case: Able Archer and the Dark Forest at Home](/articles/applied-case-able-archer-and-the-dark-forest-at-home.md) ([HTML](/articles/applied-case-able-archer-and-the-dark-forest-at-home.html))
 - 2026-08-16 — [Applied Case: Thirteen Minutes at East Palestine](/articles/applied-case-thirteen-minutes-at-east-palestine.md) ([HTML](/articles/applied-case-thirteen-minutes-at-east-palestine.html))
 - 2026-08-15 — [Someone Has to Coordinate All This](/articles/someone-has-to-coordinate-this.md) ([HTML](/articles/someone-has-to-coordinate-this.html))
 - 2026-08-14 — [The Nerd Reich Is the Easy Case](/articles/the-nerd-reich-is-the-easy-case.md) ([HTML](/articles/the-nerd-reich-is-the-easy-case.html))

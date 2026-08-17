@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-08-17T07:35:37.538Z",
+  "generated_at": "2026-08-17T13:23:09.108Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 231,
+  "article_count": 232,
   "articles": [
+    {
+      "title": "Applied Case: Able Archer and the Dark Forest at Home",
+      "slug": "applied-case-able-archer-and-the-dark-forest-at-home",
+      "published_at": "2026-08-17T06:00:01.000-05:00",
+      "updated_at": "2026-08-17T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-able-archer-and-the-dark-forest-at-home/",
+      "excerpt": "The other side receives your posture, not your intentions.",
+      "tags": [
+        "Inner Apocalypse",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-able-archer-and-the-dark-forest-at-home.md",
+      "mirror_html_path": "/articles/applied-case-able-archer-and-the-dark-forest-at-home.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-able-archer-and-the-dark-forest-at-home.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-able-archer-and-the-dark-forest-at-home.html",
+      "sha256_plaintext": "d303115d218a0bff1ae6293aee3bc6a7a50647114241d077c3a110db7386f2c1"
+    },
     {
       "title": "Applied Case: Thirteen Minutes at East Palestine",
       "slug": "applied-case-thirteen-minutes-at-east-palestine",
