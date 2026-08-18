@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T07:22:11.356Z"
+mirror_generated_at: "2026-08-18T13:25:49.282Z"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
 # Applied Case: Thirteen Minutes at East Palestine

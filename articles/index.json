@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-08-18T07:22:11.356Z",
+  "generated_at": "2026-08-18T13:25:49.282Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 232,
+  "article_count": 233,
   "articles": [
+    {
+      "title": "Applied Case: The Assembly and the Guards",
+      "slug": "applied-case-the-assembly-and-the-guards",
+      "published_at": "2026-08-18T06:00:05.000-05:00",
+      "updated_at": "2026-08-18T06:00:05.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-assembly-and-the-guards/",
+      "excerpt": "The institution carrying the transition does not own the transition.",
+      "tags": [
+        "Inner Apocalypse",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-assembly-and-the-guards.md",
+      "mirror_html_path": "/articles/applied-case-the-assembly-and-the-guards.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-assembly-and-the-guards.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-assembly-and-the-guards.html",
+      "sha256_plaintext": "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
+    },
     {
       "title": "Applied Case: Able Archer and the Dark Forest at Home",
       "slug": "applied-case-able-archer-and-the-dark-forest-at-home",

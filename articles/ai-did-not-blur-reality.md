@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T07:22:11.356Z"
+mirror_generated_at: "2026-08-18T13:25:49.282Z"
 sha256_plaintext: "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
 ---
 # AI Did Not Blur Reality

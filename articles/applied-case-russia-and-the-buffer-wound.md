@@ -9,7 +9,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T07:22:11.356Z"
+mirror_generated_at: "2026-08-18T13:25:49.282Z"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine

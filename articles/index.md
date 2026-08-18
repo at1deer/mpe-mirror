@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-18T07:22:11.356Z
+Generated: 2026-08-18T13:25:49.282Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-18 — [Applied Case: The Assembly and the Guards](/articles/applied-case-the-assembly-and-the-guards.md) ([HTML](/articles/applied-case-the-assembly-and-the-guards.html))
 - 2026-08-17 — [Applied Case: Able Archer and the Dark Forest at Home](/articles/applied-case-able-archer-and-the-dark-forest-at-home.md) ([HTML](/articles/applied-case-able-archer-and-the-dark-forest-at-home.html))
 - 2026-08-16 — [Applied Case: Thirteen Minutes at East Palestine](/articles/applied-case-thirteen-minutes-at-east-palestine.md) ([HTML](/articles/applied-case-thirteen-minutes-at-east-palestine.html))
 - 2026-08-15 — [Someone Has to Coordinate All This](/articles/someone-has-to-coordinate-this.md) ([HTML](/articles/someone-has-to-coordinate-this.html))
