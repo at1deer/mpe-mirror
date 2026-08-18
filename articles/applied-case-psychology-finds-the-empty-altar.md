@@ -10,7 +10,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar

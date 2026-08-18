@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole

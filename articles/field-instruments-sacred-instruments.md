@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments

@@ -7,7 +7,7 @@ updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This

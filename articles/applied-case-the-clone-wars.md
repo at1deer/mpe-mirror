@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars

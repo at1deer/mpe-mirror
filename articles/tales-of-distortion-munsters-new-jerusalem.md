@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-18T13:25:49.282Z"
+mirror_generated_at: "2026-08-18T19:08:40.683Z"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
