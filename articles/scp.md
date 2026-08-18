@@ -10,7 +10,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-17T19:09:18.268Z"
+mirror_generated_at: "2026-08-18T02:02:26.403Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation

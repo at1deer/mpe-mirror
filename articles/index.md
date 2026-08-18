@@ -1,6 +1,6 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-17T19:09:18.268Z
+Generated: 2026-08-18T02:02:26.403Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
@@ -61,7 +61,7 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-07-18 — [Failed Field Analysts: Kissinger and the Stability Machine](/articles/failed-field-analysts-kissinger-and-the-stability-machine.md) ([HTML](/articles/failed-field-analysts-kissinger-and-the-stability-machine.html))
 - 2026-07-17 — [Kant and the Corrigible Field](/articles/kant-and-the-corrigible-field.md) ([HTML](/articles/kant-and-the-corrigible-field.html))
 - 2026-07-16 — [Applied Case: The Ever-Brilliant Goldmask](/articles/applied-case-the-ever-brilliant-goldmask.md) ([HTML](/articles/applied-case-the-ever-brilliant-goldmask.html))
-- 2026-07-15 — [Failed Field Analysts: Savonarola and the Purity Machine](/articles/failed-field-analysts-savonrola-and-the-purity-machine.md) ([HTML](/articles/failed-field-analysts-savonrola-and-the-purity-machine.html))
+- 2026-07-15 — [Failed Field Analysts: Savonarola and the Purity Pyre](/articles/failed-field-analysts-savonrola-and-the-purity-machine.md) ([HTML](/articles/failed-field-analysts-savonrola-and-the-purity-machine.html))
 - 2026-07-14 — [Transition Action: The Sensor Cleans Itself](/articles/transition-action-the-sensor-cleans-itself.md) ([HTML](/articles/transition-action-the-sensor-cleans-itself.html))
 - 2026-07-14 — [Applied Case: The Immortal Corpus](/articles/the-immortal-corpus.md) ([HTML](/articles/the-immortal-corpus.html))
 - 2026-07-13 — [Tales of Distortion: The Climbing Target](/articles/tales-of-distortion-the-climbing-target.md) ([HTML](/articles/tales-of-distortion-the-climbing-target.html))

@@ -1,16 +1,16 @@
 ---
-title: "Failed Field Analysts: Savonarola and the Purity Machine"
+title: "Failed Field Analysts: Savonarola and the Purity Pyre"
 slug: "failed-field-analysts-savonrola-and-the-purity-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/"
 published_at: "2026-07-15T05:30:34.000-05:00"
-updated_at: "2026-08-08T02:27:16.000-05:00"
+updated_at: "2026-08-17T19:24:47.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-17T19:09:18.268Z"
+mirror_generated_at: "2026-08-18T02:02:26.403Z"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
-# Failed Field Analysts: Savonarola and the Purity Machine
+# Failed Field Analysts: Savonarola and the Purity Pyre
 
 On June 30, 1498, Florence sentenced a bell.
 

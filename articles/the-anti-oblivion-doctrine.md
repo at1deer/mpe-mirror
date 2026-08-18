@@ -8,7 +8,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-17T19:09:18.268Z"
+mirror_generated_at: "2026-08-18T02:02:26.403Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine

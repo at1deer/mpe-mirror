@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-17T19:09:18.268Z"
+mirror_generated_at: "2026-08-18T02:02:26.403Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
