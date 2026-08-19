@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T13:26:55.007Z",
+  "generated_at": "2026-08-19T19:04:18.924Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 234,
@@ -8,7 +8,7 @@
       "title": "Applied Case: Last Look",
       "slug": "applied-case-last-look",
       "published_at": "2026-08-19T06:00:32.000-05:00",
-      "updated_at": "2026-08-19T06:00:31.000-05:00",
+      "updated_at": "2026-08-19T10:03:49.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-last-look/",
       "excerpt": "The winner does not get to own the rules of winning.",
       "tags": [
@@ -19,7 +19,7 @@
       "mirror_html_path": "/articles/applied-case-last-look.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-last-look.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-last-look.html",
-      "sha256_plaintext": "849c29b8173dc34f717fd436af2c31850f4219d95a67915bb40e35f82ea1fa05"
+      "sha256_plaintext": "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
     },
     {
       "title": "Applied Case: The Assembly and the Guards",
@@ -215,7 +215,7 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-walter-veit/",
       "excerpt": "The mole has successfully filed an appeal",
       "tags": [
-        "News"
+        "Modal Path Ethics"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.md",
       "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.html",

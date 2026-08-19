@@ -3,13 +3,13 @@ title: "Applied Case: Last Look"
 slug: "applied-case-last-look"
 canonical_url: "https://modalpathethics.com/applied-case-last-look/"
 published_at: "2026-08-19T06:00:32.000-05:00"
-updated_at: "2026-08-19T06:00:31.000-05:00"
+updated_at: "2026-08-19T10:03:49.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-19T13:26:55.007Z"
-sha256_plaintext: "849c29b8173dc34f717fd436af2c31850f4219d95a67915bb40e35f82ea1fa05"
+mirror_generated_at: "2026-08-19T19:04:18.924Z"
+sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look
 
@@ -105,7 +105,7 @@ Before the advertiser can bid,
 -   a payment system has to recognize the money.
 -   Law has to make some agreements enforceable.
 -   Technical standards decide which messages can reach the auction before its deadline.
-    -   Contracts identify the publisher, exchange, advertiser, and intermediary.
+-   Contracts identify the publisher, exchange, advertiser, and intermediary.
     -   Software determines the sequence.
     -   Infrastructure carries the message.
         -   Data determines what the bidder can know.
@@ -127,7 +127,7 @@ That does not make the auction fake. That tells us what the auction can hear.
 
 **Demand** is a real signal. It can show scarcity, enthusiasm, substitution, and willingness to pay under present conditions.
 
-It cannot tell us that **everything outside the signal is unimportant**.
+It cannot tell us that **everything outside the signal** is unimportant.
 
 The market only hears what can reach its gate.
 
