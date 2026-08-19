@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 19 Aug 2026 07:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:26:55 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Last Look</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-last-look.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-last-look.html</guid>
+      <pubDate>Wed, 19 Aug 2026 11:00:32 GMT</pubDate>
+      <description>The winner does not get to own the rules of winning.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Assembly and the Guards</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-assembly-and-the-guards.html</link>
@@ -396,14 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/pope-leo-and-the-optimizable-human.html</guid>
       <pubDate>Wed, 22 Jul 2026 18:15:55 GMT</pubDate>
       <description>Magnifica Humanitas warns that artificial intelligence may teach people to treat themselves as optimization projects. The project shipped years ago.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Disruption</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-disruption.html</guid>
-      <pubDate>Tue, 21 Jul 2026 15:00:03 GMT</pubDate>
-      <description>Peter Thiel is right that institutions ossify. His answer builds an institution designed to survive its own correction.</description>
     </item>
   </channel>
 </rss>

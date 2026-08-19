@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-19T07:22:43.178Z
+Generated: 2026-08-19T13:26:55.007Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-19 — [Applied Case: Last Look](/articles/applied-case-last-look.md) ([HTML](/articles/applied-case-last-look.html))
 - 2026-08-18 — [Applied Case: The Assembly and the Guards](/articles/applied-case-the-assembly-and-the-guards.md) ([HTML](/articles/applied-case-the-assembly-and-the-guards.html))
 - 2026-08-17 — [Applied Case: Able Archer and the Dark Forest at Home](/articles/applied-case-able-archer-and-the-dark-forest-at-home.md) ([HTML](/articles/applied-case-able-archer-and-the-dark-forest-at-home.html))
 - 2026-08-16 — [Applied Case: Thirteen Minutes at East Palestine](/articles/applied-case-thirteen-minutes-at-east-palestine.md) ([HTML](/articles/applied-case-thirteen-minutes-at-east-palestine.html))
@@ -98,8 +99,8 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-06-28 — [Fictional Earth: The Social Media Distortion Fields](/articles/fictional-earth-the-social-media-distortion-fields.md) ([HTML](/articles/fictional-earth-the-social-media-distortion-fields.html))
 - 2026-06-28 — [I Am The Ultimate Human](/articles/the-ultimate-human.md) ([HTML](/articles/the-ultimate-human.html))
 - 2026-06-27 — [Applied Case: The Anti-AI Religion](/articles/bad-religion-the-anti-ai-religion.md) ([HTML](/articles/bad-religion-the-anti-ai-religion.html))
-- 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
 - 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
+- 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
 - 2026-06-26 — [Applied Case: The Golden Rule](/articles/applied-case-the-golden-rule.md) ([HTML](/articles/applied-case-the-golden-rule.html))
 - 2026-06-26 — [Patch Notes: Market Tiering Bug (15:02-6-24-2026)](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md) ([HTML](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html))
 - 2026-06-26 — [Failed Field Analysts: L. Ron Hubbard and the Sealed Room](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.md) ([HTML](/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.html))
