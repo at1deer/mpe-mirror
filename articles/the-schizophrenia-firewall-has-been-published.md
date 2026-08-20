@@ -10,7 +10,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-19T19:04:18.924Z"
+mirror_generated_at: "2026-08-20T02:03:33.694Z"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published

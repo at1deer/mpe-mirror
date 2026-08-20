@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-19T19:04:18.924Z"
+mirror_generated_at: "2026-08-20T02:03:33.694Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
