@@ -3,13 +3,13 @@ title: "Applied Case: The Orphaned Well"
 slug: "applied-case-the-orphaned-well"
 canonical_url: "https://modalpathethics.com/applied-case-the-orphaned-well/"
 published_at: "2026-08-20T06:00:34.000-05:00"
-updated_at: "2026-08-20T06:00:33.000-05:00"
+updated_at: "2026-08-20T09:01:00.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-20T13:29:01.702Z"
-sha256_plaintext: "17dac0e07279679f1b925d8dc009a479fd8c6233607d3c138c413b15a42150ea"
+mirror_generated_at: "2026-08-20T19:14:59.325Z"
+sha256_plaintext: "64309bd20583c13373e42a27b6f3dc2e9fd5a58c5b6ab0f477b7b1313144d126"
 ---
 # Applied Case: The Orphaned Well
 
@@ -31,11 +31,9 @@ It may need to be plugged. The lease area may need reclamation. Damaged land or 
 
 An instrument written before the first disturbance is supposed to survive until the last obligation.
 
-A letter of credit cannot lower steel into a well.
-
-A bond cannot move soil.
-
-Treasury securities do not inspect groundwater.
+-   A letter of credit cannot lower steel into a well.
+-   A bond cannot move soil.
+-   Treasury securities do not inspect groundwater.
 
 These things work because banks, sureties, agencies, contractors, equipment, records, law, and public enforcement have been arranged to answer them.
 
@@ -71,9 +69,8 @@ The bond at the well turns that same power around.
 
 While the productive claim is strong, some of it is reserved for the day when the productive relation has ended.
 
-Money earned its place by moving.
-
-Now part of it is being told to stay.
+-   Money earned its place by moving.
+-   Now part of it is being told to stay.
 
 * * *
 
@@ -101,13 +98,11 @@ Stable control makes long work possible.
 
 But _property_ sounds simpler than the arrangement actually is.
 
-A tenant can possess a building while a landlord holds a power to sell it and a lender holds a power to foreclose.
+-   A tenant can possess a building while a landlord holds a power to sell it and a lender holds a power to foreclose.
+-   An author can license one use and retain another.
+-   A public body can permit extraction while reserving reclamation duties.
 
-An author can license one use and retain another.
-
-A public body can permit extraction while reserving reclamation duties.
-
-What we call ownership is already a bundle: powers to possess, use, exclude, transfer, mortgage, extract, alter, restore, and call for enforcement, distributed differently depending on the thing and the relation.
+What we call _ownership_ is already a bundle: powers to possess, use, exclude, transfer, mortgage, extract, alter, restore, and call for enforcement, distributed differently depending on the thing and the relation.
 
 The object itself does not issue these permissions.
 
