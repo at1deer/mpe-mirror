@@ -8,7 +8,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-21T02:10:09.021Z"
+mirror_generated_at: "2026-08-21T07:25:51.267Z"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure
