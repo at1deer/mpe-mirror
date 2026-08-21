@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-08-21T07:25:51.267Z",
+  "generated_at": "2026-08-21T13:28:08.891Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 236,
+  "article_count": 238,
   "articles": [
+    {
+      "title": "Applied Case: The Agents Cooperated",
+      "slug": "applied-case-the-agents-cooperated",
+      "published_at": "2026-08-21T06:30:46.000-05:00",
+      "updated_at": "2026-08-21T06:30:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-agents-cooperated/",
+      "excerpt": "The 2026 OpenAI-HuggingFace incident. The field intelligence gap, but for machines.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-agents-cooperated.md",
+      "mirror_html_path": "/articles/applied-case-the-agents-cooperated.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html",
+      "sha256_plaintext": "19aebb15e25e29e8ef97c6698df00c1f0ae16720890013ffcff5d2594e669c5c"
+    },
+    {
+      "title": "Return to the Negative Boat",
+      "slug": "return-to-the-negative-boat",
+      "published_at": "2026-08-21T06:00:29.000-05:00",
+      "updated_at": "2026-08-21T06:00:30.000-05:00",
+      "canonical_url": "https://modalpathethics.com/return-to-the-negative-boat/",
+      "excerpt": "The boundary of the account is not the boundary of the field.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/return-to-the-negative-boat.md",
+      "mirror_html_path": "/articles/return-to-the-negative-boat.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.html",
+      "sha256_plaintext": "b73d80a158656db59ee8dbb24426814c2437df64e00461ab8ecd4d0df8575058"
+    },
     {
       "title": "Applied Case: The Orphaned Well",
       "slug": "applied-case-the-orphaned-well",
@@ -1708,22 +1742,21 @@
       "sha256_plaintext": "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
     },
     {
-      "title": "The Trespass Machine",
-      "slug": "applied-case-the-trespass-machine",
+      "title": "The Completion Engine",
+      "slug": "applied-the-completion-engine",
       "published_at": "2026-06-27T05:01:00.000-05:00",
-      "updated_at": "2026-06-28T01:35:47.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-trespass-machine/",
-      "excerpt": "People are not only reacting against hype. [Bite-sized]",
+      "updated_at": "2026-06-28T01:40:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-the-completion-engine/",
+      "excerpt": "This is where anti-AI critique has one of its strongest points. [Bite-sized]",
       "tags": [
         "Modal Path Ethics",
-        "Applied Case",
         "Modal Systems"
       ],
-      "mirror_markdown_path": "/articles/applied-case-the-trespass-machine.md",
-      "mirror_html_path": "/articles/applied-case-the-trespass-machine.html",
-      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.md",
-      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-trespass-machine.html",
-      "sha256_plaintext": "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
+      "mirror_markdown_path": "/articles/applied-the-completion-engine.md",
+      "mirror_html_path": "/articles/applied-the-completion-engine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-the-completion-engine.html",
+      "sha256_plaintext": "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
     },
     {
       "title": "The Completion Engine",

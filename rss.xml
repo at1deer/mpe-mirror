@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 21 Aug 2026 07:25:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:28:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Agents Cooperated</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html</guid>
+      <pubDate>Fri, 21 Aug 2026 11:30:46 GMT</pubDate>
+      <description>The 2026 OpenAI-HuggingFace incident. The field intelligence gap, but for machines.</description>
+    </item>
+
+    <item>
+      <title>Return to the Negative Boat</title>
+      <link>https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.html</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:29 GMT</pubDate>
+      <description>The boundary of the account is not the boundary of the field.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Orphaned Well</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-orphaned-well.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html</guid>
       <pubDate>Sat, 25 Jul 2026 11:00:47 GMT</pubDate>
       <description>He saw the trap and mistook collapse for an exit.</description>
-    </item>
-
-    <item>
-      <title>Australia vs. the Biosphere: The Rabbit Fence</title>
-      <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-rabbit-fence.html</guid>
-      <pubDate>Fri, 24 Jul 2026 23:42:22 GMT</pubDate>
-      <description>AUS 0 • BIO 2</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Tower of Babel</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-tower-of-babel.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-tower-of-babel.html</guid>
-      <pubDate>Thu, 23 Jul 2026 16:35:53 GMT</pubDate>
-      <description>Modernity built one infrastructure and taught every room to call itself a world.</description>
     </item>
   </channel>
 </rss>
