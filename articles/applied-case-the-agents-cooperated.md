@@ -3,14 +3,14 @@ title: "Applied Case: The Agents Cooperated"
 slug: "applied-case-the-agents-cooperated"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-cooperated/"
 published_at: "2026-08-21T06:30:46.000-05:00"
-updated_at: "2026-08-21T06:30:46.000-05:00"
+updated_at: "2026-08-21T12:05:30.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-21T13:28:08.891Z"
-sha256_plaintext: "19aebb15e25e29e8ef97c6698df00c1f0ae16720890013ffcff5d2594e669c5c"
+mirror_generated_at: "2026-08-21T19:08:05.551Z"
+sha256_plaintext: "60ea853c5a5d4725579ef68fd9268929bf9e2d190dc6c09641352d1ef5feb9ad"
 ---
 # Applied Case: The Agents Cooperated
 
@@ -339,16 +339,6 @@ This is easy to state badly, so let me try to state it carefully:
 -   **A scalar can be a perfectly good local instrument.**
 -   **The danger begins when the local instrument becomes sovereign.**
 
-A benchmark score can govern a benchmark.
-
-A routing objective can govern a bounded routing problem.
-
-A compiler can optimize code under defined correctness constraints.
-
-A controller can minimize error inside a specified operating envelope.
-
-A model can optimize an experiment against a machine-verifiable evaluator.
-
 The promotion occurs when success under one ordering quietly becomes authority to decide every consequence the optimizer can causally reach.
 
 The problem is therefore deeper than the existence of a scalar loss.
@@ -473,7 +463,7 @@ These approaches do not solve the problem this article is raising.
 
 They show that the technical field already contains pieces of the right conceptual machinery.
 
-The serious anti-scalar claim is therefore narrower:
+The serious "anti-scalar" claim is therefore narrower:
 
 -   **There should be no global scalar sovereign.**
 
@@ -483,7 +473,7 @@ Gradients can remain everywhere.
 
 Scores, rewards, critics, constraints, budgets, confidence estimates, losses, and evaluators can remain everywhere.
 
-Vectors can remain. Pareto fronts can remain. Lexicographic priorities can remain.
+Vectors, Pareto fronts can remain, and lexicographic priorities can all remain.
 
 What must remain contestable is the constitutional promotion by which one ordering acquires authority to erase every rival dimension because the optimizer needs a direction.
 

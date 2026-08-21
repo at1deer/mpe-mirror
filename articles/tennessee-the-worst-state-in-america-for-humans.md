@@ -9,7 +9,7 @@ tags:
   - "News"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-21T13:28:08.891Z"
+mirror_generated_at: "2026-08-21T19:08:05.551Z"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)
