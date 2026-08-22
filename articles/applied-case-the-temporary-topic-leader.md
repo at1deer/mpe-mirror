@@ -3,18 +3,32 @@ title: "Applied Case: The Temporary Topic Leader"
 slug: "applied-case-the-temporary-topic-leader"
 canonical_url: "https://modalpathethics.com/applied-case-the-temporary-topic-leader/"
 published_at: "2026-08-22T07:30:25.000-05:00"
-updated_at: "2026-08-22T07:30:25.000-05:00"
+updated_at: "2026-08-22T09:35:33.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-22T13:11:55.999Z"
-sha256_plaintext: "54d3f6382e943fa8084e6960a89fce8b6c7725c857b153e5ac72f3599886b74a"
+mirror_generated_at: "2026-08-22T19:00:30.738Z"
+sha256_plaintext: "c35541bd837b40c15db372f4448c26267241dc4ab449ad52b5b438508248b6c8"
 ---
 # Applied Case: The Temporary Topic Leader
 
-> Note: As of 07:30 CDT, August 22, the Topic Leader and Topic Leader Team members for CAP 38 have not been announced. This live, election-night-reporting-style article will be updated when the outcome is made public.
+### ELECTION DESK UPDATE: AUGUST 22, 2026
+
+> Modal Path Ethics can now project **Spammernoob** as the next Topic Leader of CAP 38.
+
+> With 35 ballots reporting, Spammernoob defeated kenn **21–14**, Da Pizza Man defeated kenn **18–13**, and Spammernoob defeated Da Pizza Man **18–16**, producing a final ordering of Spammernoob, Da Pizza Man, kenn.
+
+> Several corrections to the article are therefore required.
+
+> **First**, history arrived before publication. Modal Path Ethics failed to notice this because its election desk apparently consisted of one person who had spent several days studying Smogon governance and did not think to check Smogon before falling asleep.
+
+> **Second**, the article originally described Topic Leader selection using the **instant-runoff voting** procedure **_still documented in CAP's published process guide_**. CAP 38's actual election used **Ranked Pairs**. The article has been corrected to distinguish the written guide from the procedure currently operating in the field.
+
+> **Third**, the election is only partly complete. Spammernoob has the crown. Typing, Ability, Stats, and Movepool leadership remain outstanding.
+
+> Modal Path Ethics will continue to provide unnecessarily grave coverage of this transfer of power as results become available.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/80224.jpg)
 
@@ -226,19 +240,35 @@ The Stats Leader interprets that record and decides what advances.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/cawdet.png)
 
-CAP then uses several voting methods, principally instant-runoff voting and bold voting. Current rules require polls to remain open long enough for multiple time zones to participate and conceal running tallies to reduce manipulation. Section Leaders can adjust poll structure within defined circumstances, and they retain specified tie-breaking powers.
+CAP has changed voting systems too.
 
-The **instant-runoff vote**, or **IRV**, lets voters rank several options. Lower-ranked options are progressively eliminated and their votes transferred until the process yields a winner or the required number of finalists.
+The published Process Guide still explains instant-runoff voting and bold voting as the project's standard polling methods, and its Topic Leader Selection page still describes the leadership election as an instant-runoff vote.
 
-IRV is also used in the modern Topic Leader election.
+The live institution has moved.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/cawmodore.png)
 
-Candidates nominate themselves and explain their experience. Forum moderators determine which applicants are qualified. The accepted candidates then enter a public instant-runoff vote open to CAP community members. The CAP Project Leader votes only if a tie remains.
+Recent major CAP polls, including Topic Leader elections, use **Ranked Pairs**.
 
--   This is not a completely open election.
--   It is also not a private appointment.
-    -   Expert screening occurs before public preference.
+A voter ranks as many candidates as they want. The count then turns those rankings into head-to-head contests: Candidate A against Candidate B, Candidate A against Candidate C, and so on. The strongest victories are considered in order and locked into the ranking unless doing so would create a cycle.
+
+The result is less:
+
+-   **Who survived elimination?**
+
+and more:
+
+-   **Who beats whom when the candidates are compared directly?**
+
+This is another small reminder that an institution's operating constitution can move faster than its published guide.
+
+Candidates still nominate themselves and explain their experience. Forum moderators determine which applicants are qualified. The accepted candidates then enter a public ranked ballot open to the CAP community.
+
+This is not a completely open election.
+
+It is also not a private appointment.
+
+Expert screening occurs before public preference.
 
 We will spend time on that too.
 
@@ -3103,10 +3133,12 @@ CAP does not send every application directly into an unrestricted vote.
 
 The official Topic Leader selection guide places another institution between self-nomination and public choice.
 
-After applications close, the forum moderation staff selects the candidates it considers **qualified**. Those candidates enter an instant-runoff poll open to the CAP community. The CAP Project Leader votes only in a tie.
+After applications close, the forum moderation staff selects the candidates it considers qualified.
+
+Those candidates enter a public **Ranked Pairs** poll.
 
 -   The Topic Leader is selected first.
--   The Topic Leadership Team follows as a separate event in the official sequence.
+-   The specialist leadership team follows separately.
 
 This is neither a pure election nor a private appointment.
 
@@ -3167,34 +3199,132 @@ The bench is visible because people are allowed to stand for office before the i
 
 ## **CAP 38:**
 
-## **The Crown Is Still on the Table.**
+## **The Crown.**
 
-> _Live publication note: CAP 38 leadership selection remained in progress when this article was prepared for publication. This section will be updated when the Topic Leader and Topic Leadership Team are finalized._
+The no-result version of this article went live Friday morning.
 
-CAP 38 applications closed on Thursday night, August 20.
+The result had already been sitting on Smogon since the previous night.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1359.png)
+This is what the reporting profession refers to as **checking the website again in the morning**.
 
-The next steps are already specified. Forum moderators determine which Topic Leader applicants are qualified for the ballot. The community then votes for the Topic Leader. The remaining leadership team is selected through a separate process afterward.
+CAP 38 received thirty-five ballots containing eighty-eight expressed preferences among the three qualified Topic Leader candidates.
 
-At publication, that sequence had not yet produced a complete CAP 38 leadership team.
+The election used Ranked Pairs.
 
-This history is still moving.
+The head-to-head results were:
 
-The applications have already made the bench visible. The institution has already separated self-nomination, qualification, public preference, specialist office, and future candidacy.
+-   **Spammernoob defeated kenn, 21–14.**
+-   **Da Pizza Man defeated kenn, 18–13.**
+-   **Spammernoob defeated Da Pizza Man, 18–16.**
 
-The crown is on the table before anyone knows who will wear it.
+That left a clean ordering.
 
-CAP 38 will begin when the selection is complete.
+1.  **Spammernoob**
+2.  **Da Pizza Man**
+3.  **kenn**
 
-This article will be updated with the final Topic Leader, the four specialist leaders, the voting path, and what the selected configuration says about the leadership theories offered above.
+The counting script reported a conclusiveness of 55.5 percent.
 
-For now, the important fact is the one the result cannot change.
+CAP 38 has a Topic Leader.
 
--   The selected Topic Leader will receive substantial authority.
-    -   That authority arrives with a project number attached.
-        -   Nobody had to fire the Topic Leader of CAP 37.
-            -   That is the point.
+> **Spammernoob wins.**
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1488.png)
+
+Spammernoob, who is also the moderator who posted the completed count, supplied a formal acceptance statement beneath the result:
+
+> **Yay I win**
+
+The constitutional transition has concluded successfully.
+
+* * *
+
+## The Machine Explainer Gets the Machine.
+
+Da Pizza Man made the strongest case for the Topic Leader as operator: experienced across process, tournaments, documentation, live community management, and multiple competitive stages; direct enough to keep one project from dissolving into six conversations.
+
+kenn made the strongest case for leadership as something an institution has to manufacture continuously. Alternate Timelines and the Concept Workshop create places where losing ideas, newer participants, and potential future leaders can acquire contact before the central project depends on them.
+
+Spammernoob made the strongest case for **translation**.
+
+The application pointed toward active leadership while a discussion is still trying to understand its problem, then a more restrained hand near final decision unless the project is approaching a serious failure. His Base Stat Rating work supplied a smaller example: inherited technical machinery had become difficult to understand, so he went backward through its formulas and history and turned it back into something ordinary contributors could reason with.
+
+That is the leadership theory CAP 38 has now selected.
+
+Not overwhelmingly.
+
+The final head-to-head contest with Da Pizza Man was **18–16**.
+
+Two votes separate the candidate whose application emphasized keeping the project moving from the candidate whose application emphasized making the machinery intelligible enough for the community to move it.
+
+Ranked Pairs supplied a winner. It did not supply a revelation from Heaven.
+
+That is probably healthy.
+
+Spammernoob now gets the office.
+
+The application becomes evidence with a timestamp.
+
+We can watch what happens when this theory acquires power.
+
+* * *
+
+## Losing Still Does Not End the Candidacy.
+
+kenn finished third.
+
+This does not erase the most interesting part of kenn's application.
+
+This candidate had also applied for every Topic Leadership Team position except Stats. The institutions built around Alternate Timelines and the Concept Workshop still exist.
+
+Da Pizza Man remains a moderator, contributor, previous specialist leader, tournament participant, and part of the operating CAP field.
+
+The election did what CAP elections are supposed to do.
+
+-   It selected a Topic Leader.
+-   It did not classify the other candidates as failed people.
+
+A functioning leadership bench contains more qualified people than offices.
+
+Some of them have to lose.
+
+If losing the election destroys the candidate's future relationship to the institution, the institution is consuming its own succession capacity every time it chooses somebody.
+
+CAP mostly avoids that.
+
+The crown moves. The bench remains.
+
+* * *
+
+## Four Chairs Sit Empty.
+
+The succession is also incomplete. Spammernoob has become the Topic Leader.
+
+CAP 38 still needs its four specialist leaders:
+
+-   Typing;
+-   Ability;
+-   Stats;
+-   Movepool.
+
+The constitutional reform reconstructed earlier in this article deliberately stopped asking one Topic Leader to personally carry every major technical stage.
+
+So the next result is not ceremonial.
+
+It tells us what operating contact will surround the new Topic Leader.
+
+-   Who gets a first leadership opportunity?
+-   Who returns with previous experience?
+-   Which kinds of competitive and institutional knowledge get distributed across the team?
+-   Does the final configuration put several old hands around the new Topic Leader, several newer leaders around an experienced moderator, or some stranger mixture?
+
+We do not know yet.
+
+This article can survive another unfinished sentence.
+
+CAP 38 has chosen its temporary king. Now it has to build the court.
+
+> **This section will be updated again when the specialist leadership team is finalized.**
 
 * * *
 
