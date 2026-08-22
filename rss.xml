@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 22 Aug 2026 07:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:11:55 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Temporary Topic Leader</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.html</guid>
+      <pubDate>Sat, 22 Aug 2026 12:30:25 GMT</pubDate>
+      <description>Create-A-Pokémon and the Succession Problem.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Firing of Sam Altman</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-firing-of-sam-altman.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-firing-of-sam-altman.html</guid>
+      <pubDate>Sat, 22 Aug 2026 11:00:24 GMT</pubDate>
+      <description>Removal is not succession.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Agents Cooperated</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html</guid>
       <pubDate>Mon, 27 Jul 2026 11:00:05 GMT</pubDate>
       <description>He saw the prison inside the hospital and tried to free the patient by abolishing the hospital's language.</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Marty Heidegger and the Depth Machine</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.html</guid>
-      <pubDate>Sun, 26 Jul 2026 11:00:51 GMT</pubDate>
-      <description>A more neutral approach to the man who dug under ethics and lost the ladder. [L]</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Ted Kaczynski and the Collapse Machine</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.html</guid>
-      <pubDate>Sat, 25 Jul 2026 11:00:47 GMT</pubDate>
-      <description>He saw the trap and mistook collapse for an exit.</description>
     </item>
   </channel>
 </rss>

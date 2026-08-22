@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-22T07:12:18.534Z
+Generated: 2026-08-22T13:11:55.999Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-22 — [Applied Case: The Temporary Topic Leader](/articles/applied-case-the-temporary-topic-leader.md) ([HTML](/articles/applied-case-the-temporary-topic-leader.html))
+- 2026-08-22 — [Applied Case: The Firing of Sam Altman](/articles/applied-case-the-firing-of-sam-altman.md) ([HTML](/articles/applied-case-the-firing-of-sam-altman.html))
 - 2026-08-21 — [Applied Case: The Agents Cooperated](/articles/applied-case-the-agents-cooperated.md) ([HTML](/articles/applied-case-the-agents-cooperated.html))
 - 2026-08-21 — [Return to the Negative Boat](/articles/return-to-the-negative-boat.md) ([HTML](/articles/return-to-the-negative-boat.html))
 - 2026-08-20 — [Applied Case: The Orphaned Well](/articles/applied-case-the-orphaned-well.md) ([HTML](/articles/applied-case-the-orphaned-well.html))
@@ -103,7 +105,7 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-06-28 — [Fictional Earth: The Social Media Distortion Fields](/articles/fictional-earth-the-social-media-distortion-fields.md) ([HTML](/articles/fictional-earth-the-social-media-distortion-fields.html))
 - 2026-06-28 — [I Am The Ultimate Human](/articles/the-ultimate-human.md) ([HTML](/articles/the-ultimate-human.html))
 - 2026-06-27 — [Applied Case: The Anti-AI Religion](/articles/bad-religion-the-anti-ai-religion.md) ([HTML](/articles/bad-religion-the-anti-ai-religion.html))
-- 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
+- 2026-06-27 — [The Trespass Machine](/articles/applied-case-the-trespass-machine.md) ([HTML](/articles/applied-case-the-trespass-machine.html))
 - 2026-06-27 — [The Completion Engine](/articles/applied-the-completion-engine.md) ([HTML](/articles/applied-the-completion-engine.html))
 - 2026-06-26 — [Applied Case: The Golden Rule](/articles/applied-case-the-golden-rule.md) ([HTML](/articles/applied-case-the-golden-rule.html))
 - 2026-06-26 — [Patch Notes: Market Tiering Bug (15:02-6-24-2026)](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md) ([HTML](/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.html))
