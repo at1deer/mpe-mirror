@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:08:05.551Z",
+  "generated_at": "2026-08-22T02:02:12.549Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 238,
@@ -8,7 +8,7 @@
       "title": "Applied Case: The Agents Cooperated",
       "slug": "applied-case-the-agents-cooperated",
       "published_at": "2026-08-21T06:30:46.000-05:00",
-      "updated_at": "2026-08-21T12:05:30.000-05:00",
+      "updated_at": "2026-08-21T19:04:35.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-agents-cooperated/",
       "excerpt": "The 2026 OpenAI-HuggingFace incident. The field intelligence gap, but for machines.",
       "tags": [
@@ -20,7 +20,7 @@
       "mirror_html_path": "/articles/applied-case-the-agents-cooperated.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html",
-      "sha256_plaintext": "60ea853c5a5d4725579ef68fd9268929bf9e2d190dc6c09641352d1ef5feb9ad"
+      "sha256_plaintext": "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
     },
     {
       "title": "Return to the Negative Boat",

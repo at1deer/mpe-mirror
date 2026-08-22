@@ -3,14 +3,14 @@ title: "Applied Case: The Agents Cooperated"
 slug: "applied-case-the-agents-cooperated"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-cooperated/"
 published_at: "2026-08-21T06:30:46.000-05:00"
-updated_at: "2026-08-21T12:05:30.000-05:00"
+updated_at: "2026-08-21T19:04:35.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-21T19:08:05.551Z"
-sha256_plaintext: "60ea853c5a5d4725579ef68fd9268929bf9e2d190dc6c09641352d1ef5feb9ad"
+mirror_generated_at: "2026-08-22T02:02:12.549Z"
+sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated
 
@@ -473,13 +473,11 @@ Gradients can remain everywhere.
 
 Scores, rewards, critics, constraints, budgets, confidence estimates, losses, and evaluators can remain everywhere.
 
-Vectors, Pareto fronts can remain, and lexicographic priorities can all remain.
+Vectors, Pareto fronts, and lexicographic priorities can all remain.
 
 What must remain contestable is the constitutional promotion by which one ordering acquires authority to erase every rival dimension because the optimizer needs a direction.
 
-Anti-scalar does not mean anti-gradient.
-
-It means **bounded gradient**.
+Anti-scalar does not mean anti-gradient. It means **bounded gradient**.
 
 And _bounded_ here does not mean gradient clipping.
 
@@ -491,7 +489,7 @@ The gradient gets to point. It does not get to decide what exists.
 
 * * *
 
-## **The User Is Also a Local Objective.**
+## **The User: Also a Local Objective.**
 
 This part becomes uncomfortable quickly.
 
@@ -544,9 +542,7 @@ Modal Path Ethics therefore needs a stronger alignment relation.
 
 The user remains a locus. The user's intention matters.
 
-Their authority matters where they actually possess authority.
-
-Their refusal matters. Their goals matter.
+Their authority matters where they actually possess authority. Their refusal matters. Their goals matter.
 
 Their private life does not become public property because a model can calculate something very clever.
 
