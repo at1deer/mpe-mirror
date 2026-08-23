@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-23T02:10:51.432Z"
+mirror_generated_at: "2026-08-23T07:17:34.567Z"
 sha256_plaintext: "c35541bd837b40c15db372f4448c26267241dc4ab449ad52b5b438508248b6c8"
 ---
 # Applied Case: The Temporary Topic Leader
