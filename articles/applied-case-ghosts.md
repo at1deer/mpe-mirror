@@ -3,14 +3,14 @@ title: "Applied Case: Ghosts"
 slug: "applied-case-ghosts"
 canonical_url: "https://modalpathethics.com/applied-case-ghosts/"
 published_at: "2026-08-23T06:00:40.000-05:00"
-updated_at: "2026-08-23T06:00:39.000-05:00"
+updated_at: "2026-08-23T09:23:21.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-23T13:16:23.170Z"
+mirror_generated_at: "2026-08-23T18:59:33.304Z"
 sha256_plaintext: "760f0e61b88c37df91ad18b5744e92183f52f066819c6bad988542b99303e1b1"
 ---
 # Applied Case: Ghosts
@@ -275,13 +275,13 @@ Documents players will immediately ignore because there is a suspicious door six
 
 I wrote **_overwhelming_** amounts **_constantly_**. Only most was for D&D. There were also many half-screenplays. There are unfinished novels. There was experimental fiction.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/20260822_191530-1.jpg)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/20260822_191530-1-1-1-1-1-1.jpg)
 
 Wherever my unassisted prose-placement has actually been compared locally against the prose-placers beside me, I have been identified with suspicious consistency as a top-tier prose-placer in my immediate field.
 
 This is not a claim that the Nobel committee has been attempting to reach me.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/20260822_191643-1.jpg)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/20260822_191643-1-1.jpg)
 
 I was just the locally recognizable _writing guy_.
 
