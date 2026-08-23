@@ -3,13 +3,13 @@ title: "Applied Case: The Temporary Topic Leader"
 slug: "applied-case-the-temporary-topic-leader"
 canonical_url: "https://modalpathethics.com/applied-case-the-temporary-topic-leader/"
 published_at: "2026-08-22T07:30:25.000-05:00"
-updated_at: "2026-08-22T09:35:33.000-05:00"
+updated_at: "2026-08-22T14:59:43.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-22T19:00:30.738Z"
+mirror_generated_at: "2026-08-23T02:10:51.432Z"
 sha256_plaintext: "c35541bd837b40c15db372f4448c26267241dc4ab449ad52b5b438508248b6c8"
 ---
 # Applied Case: The Temporary Topic Leader
@@ -30,7 +30,7 @@ sha256_plaintext: "c35541bd837b40c15db372f4448c26267241dc4ab449ad52b5b438508248b
 
 > Modal Path Ethics will continue to provide unnecessarily grave coverage of this transfer of power as results become available.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/80224.jpg)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/80224-1.jpg)
 
 ## **Minimal Background.**
 
