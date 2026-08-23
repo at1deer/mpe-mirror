@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-23T07:17:34.567Z
+Generated: 2026-08-23T13:16:23.170Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-23 — [Applied Case: Ghosts](/articles/applied-case-ghosts.md) ([HTML](/articles/applied-case-ghosts.html))
+- 2026-08-23 — [The Categories Cannot Hold](/articles/the-categories-cannot-hold.md) ([HTML](/articles/the-categories-cannot-hold.html))
 - 2026-08-22 — [Applied Case: The Temporary Topic Leader](/articles/applied-case-the-temporary-topic-leader.md) ([HTML](/articles/applied-case-the-temporary-topic-leader.html))
 - 2026-08-22 — [Applied Case: The Firing of Sam Altman](/articles/applied-case-the-firing-of-sam-altman.md) ([HTML](/articles/applied-case-the-firing-of-sam-altman.html))
 - 2026-08-21 — [Applied Case: The Agents Cooperated](/articles/applied-case-the-agents-cooperated.md) ([HTML](/articles/applied-case-the-agents-cooperated.html))

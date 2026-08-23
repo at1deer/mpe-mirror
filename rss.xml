@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 23 Aug 2026 07:17:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:16:23 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Ghosts</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.html</guid>
+      <pubDate>Sun, 23 Aug 2026 11:00:40 GMT</pubDate>
+      <description>The machine could not conjure her sister.</description>
+    </item>
+
+    <item>
+      <title>The Categories Cannot Hold</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-categories-cannot-hold.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-categories-cannot-hold.html</guid>
+      <pubDate>Sun, 23 Aug 2026 10:45:43 GMT</pubDate>
+      <description>Hanno Sauer, the history of philosophy, artificial intelligence, and the old concrete.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Temporary Topic Leader</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-assassination-of-charlie-kirk.html</guid>
       <pubDate>Tue, 28 Jul 2026 10:30:47 GMT</pubDate>
       <description>The debate tent, the founder-body, and the American enemy business.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Negative Boat</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-negative-boat.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-negative-boat.html</guid>
-      <pubDate>Mon, 27 Jul 2026 18:34:27 GMT</pubDate>
-      <description>Who owns a liability after it stops being an asset?</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Thomas Szasz and the Conceptual Knife</title>
-      <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.html</guid>
-      <pubDate>Mon, 27 Jul 2026 11:00:05 GMT</pubDate>
-      <description>He saw the prison inside the hospital and tried to free the patient by abolishing the hospital's language.</description>
     </item>
   </channel>
 </rss>

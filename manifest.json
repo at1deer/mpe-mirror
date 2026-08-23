@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-08-23T07:17:34.567Z",
+  "generated_at": "2026-08-23T13:16:23.170Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 240,
+  "article_count": 242,
   "articles": [
+    {
+      "title": "Applied Case: Ghosts",
+      "slug": "applied-case-ghosts",
+      "published_at": "2026-08-23T06:00:40.000-05:00",
+      "updated_at": "2026-08-23T06:00:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-ghosts/",
+      "excerpt": "The machine could not conjure her sister.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Modal Path Ethics",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-ghosts.md",
+      "mirror_html_path": "/articles/applied-case-ghosts.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.html",
+      "sha256_plaintext": "760f0e61b88c37df91ad18b5744e92183f52f066819c6bad988542b99303e1b1"
+    },
+    {
+      "title": "The Categories Cannot Hold",
+      "slug": "the-categories-cannot-hold",
+      "published_at": "2026-08-23T05:45:43.000-05:00",
+      "updated_at": "2026-08-23T05:45:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-categories-cannot-hold/",
+      "excerpt": "Hanno Sauer, the history of philosophy, artificial intelligence, and the old concrete.",
+      "tags": [
+        "Engagement",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-categories-cannot-hold.md",
+      "mirror_html_path": "/articles/the-categories-cannot-hold.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-categories-cannot-hold.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-categories-cannot-hold.html",
+      "sha256_plaintext": "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
+    },
     {
       "title": "Applied Case: The Temporary Topic Leader",
       "slug": "applied-case-the-temporary-topic-leader",
