@@ -3,15 +3,15 @@ title: "Applied Case: Ghosts"
 slug: "applied-case-ghosts"
 canonical_url: "https://modalpathethics.com/applied-case-ghosts/"
 published_at: "2026-08-23T06:00:40.000-05:00"
-updated_at: "2026-08-23T09:23:21.000-05:00"
+updated_at: "2026-08-23T21:32:54.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-24T02:09:19.732Z"
-sha256_plaintext: "760f0e61b88c37df91ad18b5744e92183f52f066819c6bad988542b99303e1b1"
+mirror_generated_at: "2026-08-24T07:41:16.595Z"
+sha256_plaintext: "98ba534311b8e8501e506b2ae340a04ecfa061e1c9a7ea50ccc0212a3b4fac4f"
 ---
 # Applied Case: Ghosts
 
@@ -1035,19 +1035,13 @@ It did not delete the person who could write before it arrived.
             -   across an ugly and unequal little path of prompts,
                 -   mistakes,
                     -   reactions,
-                        
                         -   inventions,
                             -   recognition,
-                                -   rejection,
-                                    -   and human memory,
-                                    -   something became reachable that had not been reachable before.
-                        
+                            -   rejection,
+                                -   and human memory,
+                                -   something became reachable that had not been reachable before.
 
-That is the case.
-
-GPT-3 machine did not conjure the dead.
-
-It changed the resistance around the living.
+That is the case. GPT-3 machine could not conjure the dead. It changed the resistance around the living.
 
 > **Human authorship deserves a protected field.**
 
@@ -1058,5 +1052,3 @@ Protect the human-authored field.
 Do not give it sovereignty over language.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Remember.png)
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Metrol-Poster-4.png)

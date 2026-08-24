@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:09:19.732Z",
+  "generated_at": "2026-08-24T07:41:16.595Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 242,
@@ -8,7 +8,7 @@
       "title": "Applied Case: Ghosts",
       "slug": "applied-case-ghosts",
       "published_at": "2026-08-23T06:00:40.000-05:00",
-      "updated_at": "2026-08-23T09:23:21.000-05:00",
+      "updated_at": "2026-08-23T21:32:54.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-ghosts/",
       "excerpt": "The machine could not conjure her sister.",
       "tags": [
@@ -21,7 +21,7 @@
       "mirror_html_path": "/articles/applied-case-ghosts.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-ghosts.html",
-      "sha256_plaintext": "760f0e61b88c37df91ad18b5744e92183f52f066819c6bad988542b99303e1b1"
+      "sha256_plaintext": "98ba534311b8e8501e506b2ae340a04ecfa061e1c9a7ea50ccc0212a3b4fac4f"
     },
     {
       "title": "The Categories Cannot Hold",
