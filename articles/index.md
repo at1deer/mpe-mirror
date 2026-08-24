@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-24T07:41:16.595Z
+Generated: 2026-08-24T13:32:37.561Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-24 — [Field Instruments: Intelligence](/articles/field-instruments-intelligence.md) ([HTML](/articles/field-instruments-intelligence.html))
+- 2026-08-24 — [Four Competent Systems](/articles/four-competent-systems.md) ([HTML](/articles/four-competent-systems.html))
 - 2026-08-23 — [Applied Case: Ghosts](/articles/applied-case-ghosts.md) ([HTML](/articles/applied-case-ghosts.html))
 - 2026-08-23 — [The Categories Cannot Hold](/articles/the-categories-cannot-hold.md) ([HTML](/articles/the-categories-cannot-hold.html))
 - 2026-08-22 — [Applied Case: The Temporary Topic Leader](/articles/applied-case-the-temporary-topic-leader.md) ([HTML](/articles/applied-case-the-temporary-topic-leader.html))

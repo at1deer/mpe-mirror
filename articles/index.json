@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-24T07:41:16.595Z",
+  "generated_at": "2026-08-24T13:32:37.561Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 242,
+  "article_count": 244,
   "articles": [
+    {
+      "title": "Field Instruments: Intelligence",
+      "slug": "field-instruments-intelligence",
+      "published_at": "2026-08-24T06:30:13.000-05:00",
+      "updated_at": "2026-08-24T06:30:12.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-intelligence/",
+      "excerpt": "The room was part of the intelligence.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/field-instruments-intelligence.md",
+      "mirror_html_path": "/articles/field-instruments-intelligence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-intelligence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-intelligence.html",
+      "sha256_plaintext": "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
+    },
+    {
+      "title": "Four Competent Systems",
+      "slug": "four-competent-systems",
+      "published_at": "2026-08-24T06:00:26.000-05:00",
+      "updated_at": "2026-08-24T06:00:25.000-05:00",
+      "canonical_url": "https://modalpathethics.com/four-competent-systems/",
+      "excerpt": "The patient should not be the integration layer.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/four-competent-systems.md",
+      "mirror_html_path": "/articles/four-competent-systems.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/four-competent-systems.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/four-competent-systems.html",
+      "sha256_plaintext": "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
+    },
     {
       "title": "Applied Case: Ghosts",
       "slug": "applied-case-ghosts",
