@@ -10,7 +10,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-23T18:59:33.304Z"
+mirror_generated_at: "2026-08-24T02:09:19.732Z"
 sha256_plaintext: "760f0e61b88c37df91ad18b5744e92183f52f066819c6bad988542b99303e1b1"
 ---
 # Applied Case: Ghosts

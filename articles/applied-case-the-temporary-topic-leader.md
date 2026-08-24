@@ -3,32 +3,32 @@ title: "Applied Case: The Temporary Topic Leader"
 slug: "applied-case-the-temporary-topic-leader"
 canonical_url: "https://modalpathethics.com/applied-case-the-temporary-topic-leader/"
 published_at: "2026-08-22T07:30:25.000-05:00"
-updated_at: "2026-08-22T14:59:43.000-05:00"
+updated_at: "2026-08-23T16:49:23.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-23T18:59:33.304Z"
-sha256_plaintext: "c35541bd837b40c15db372f4448c26267241dc4ab449ad52b5b438508248b6c8"
+mirror_generated_at: "2026-08-24T02:09:19.732Z"
+sha256_plaintext: "a61bb3c0168ffd17a1b89517876008a96d3306635b2e58890153559b366158ca"
 ---
 # Applied Case: The Temporary Topic Leader
 
-### ELECTION DESK UPDATE: AUGUST 22, 2026
+### ELECTION DESK FINAL: AUGUST 23, 2026
 
-> Modal Path Ethics can now project **Spammernoob** as the next Topic Leader of CAP 38.
+> **Modal Path Ethics can now project that the government exists.**
 
-> With 35 ballots reporting, Spammernoob defeated kenn **21–14**, Da Pizza Man defeated kenn **18–13**, and Spammernoob defeated Da Pizza Man **18–16**, producing a final ordering of Spammernoob, Da Pizza Man, kenn.
+> CAP 38 has finalized its entire Topic Leadership Team. Spammernoob will serve as Topic Leader. AzothBend will lead Typing. Guingil will lead Ability. Gekokeso will lead Stats. Zetalz will lead Movepool.
 
-> Several corrections to the article are therefore required.
+> The specialist election used Ranked Pairs and received 29 ballots containing 174 expressed preferences. The final ordering was Guingil, Zetalz, Gekokeso, AzothBend, CapitanPabloskii, IronTemplar, Volsur. The first four became the Topic Leadership Team. Guingil defeated Zetalz head-to-head by one vote, 15–14. The counting script reported a conclusiveness of 56.7 percent.
 
-> **First**, history arrived before publication. Modal Path Ethics failed to notice this because its election desk apparently consisted of one person who had spent several days studying Smogon governance and did not think to check Smogon before falling asleep.
+> This completes the correction cycle begun yesterday. The article first went live without noticing that the Topic Leader election had already ended, then discovered Spammernoob, then noticed it had erronously suggested that kenn had applied for both Topic Leadership and the Topic Leadership Team when he had done no such thing, then waited very gravely for four additional chairs to fill.
 
-> **Second**, the article originally described Topic Leader selection using the **instant-runoff voting** procedure **_still documented in CAP's published process guide_**. CAP 38's actual election used **Ranked Pairs**. The article has been corrected to distinguish the written guide from the procedure currently operating in the field.
+> **Those chairs have filled.**
 
-> **Third**, the election is only partly complete. Spammernoob has the crown. Typing, Ability, Stats, and Movepool leadership remain outstanding.
+> More importantly, the result answers the succession question this article spent an unreasonable amount of time asking. CAP did not reproduce one standardized leader four times. It selected a team containing different kinds and durations of institutional contact, then distributed four real jurisdictions among them.
 
-> Modal Path Ethics will continue to provide unnecessarily grave coverage of this transfer of power as results become available.
+> Modal Path Ethics is therefore closing its election desk before it begins drawing precinct maps.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/80224-1.jpg)
 
@@ -3271,60 +3271,146 @@ We can watch what happens when this theory acquires power.
 
 ## Losing Still Does Not End the Candidacy.
 
-kenn finished third.
+kenn finished third in the Topic Leader election.
 
-This does not erase the most interesting part of kenn's application.
-
-This candidate had also applied for every Topic Leadership Team position except Stats. The institutions built around Alternate Timelines and the Concept Workshop still exist.
+The final application thread now presents kenn’s candidacy as Topic Leader only, and kenn did not appear on the later specialist ballot. The institutions emphasized in the application still exist. Alternate Timelines still creates smaller environments in which participants can practice carrying a process. The Concept Workshop still creates an earlier environment in which people can learn to formulate the question before they are asked to govern its answer.
 
 Da Pizza Man remains a moderator, contributor, previous specialist leader, tournament participant, and part of the operating CAP field.
 
-The election did what CAP elections are supposed to do.
+The specialist election makes the same point with a larger losing field.
 
--   It selected a Topic Leader.
--   It did not classify the other candidates as failed people.
+Twenty-nine voters ranked seven qualified candidates.
 
-A functioning leadership bench contains more qualified people than offices.
+Four received offices.
 
-Some of them have to lose.
+Three did not.
 
-If losing the election destroys the candidate's future relationship to the institution, the institution is consuming its own succession capacity every time it chooses somebody.
+1.  Guingil
+2.  Zetalz
+3.  Gekokeso
+4.  AzothBend
+5.  CapitanPabloskii
+6.  IronTemplar
+7.  Volsur
 
-CAP mostly avoids that.
+CapitanPabloskii, IronTemplar, and Volsur did not become Topic Leadership Team members for CAP 38. Their applications remain public evidence of contact, intention, and developing capacity. The application rules explicitly tell unsuccessful candidates to remain active because they may be watched as possible leaders next time.
 
-The crown moves. The bench remains.
+This is what the succession bench looks like after an election.
+
+It contains the people who won.
+
+It also contains people who were qualified to lose.
+
+A functioning institution needs both.
+
+If every selection converts the unsuccessful candidates into ex-participants, the institution spends succession capacity whenever it exercises succession. CAP instead permits candidacy itself to become part of the training record.
+
+The crown moves. The chairs fill. The bench remains.
 
 * * *
 
-## Four Chairs Sit Empty.
+## The Court is Built.
 
-The succession is also incomplete. Spammernoob has become the Topic Leader.
+The four chairs did not remain empty for long.
 
-CAP 38 still needs its four specialist leaders:
+CAP 38’s specialist poll received 29 ballots containing 174 expressed preferences across seven candidates.
 
--   Typing;
--   Ability;
--   Stats;
--   Movepool.
+Ranked Pairs produced the following order:
 
-The constitutional reform reconstructed earlier in this article deliberately stopped asking one Topic Leader to personally carry every major technical stage.
+1.  Guingil
+2.  Zetalz
+3.  Gekokeso
+4.  AzothBend
+5.  CapitanPabloskii
+6.  IronTemplar
+7.  Volsur
 
-So the next result is not ceremonial.
+The top four became CAP 38’s Topic Leadership Team.
 
-It tells us what operating contact will surround the new Topic Leader.
+The result was decisive enough to produce a government and close enough to avoid pretending that this government descended from Heaven.
+
+Guingil defeated Zetalz 15–14.
+
+The counting script reported a conclusiveness of 56.7 percent.
+
+CAP then assigned the four specialist jurisdictions:
+
+-   **Typing Leader: AzothBend**
+-   **Ability Leader: Guingil**
+-   **Stats Leader: Gekokeso**
+-   **Movepool Leader: Zetalz**
+
+The assignments fit the applications unusually well.
+
+AzothBend placed Typing first in his preference order. He reached the main process through a relatively recent period of active CAP participation and through Alternate Timelines, which he explicitly described as a training environment. The participant who described Topic Leadership as the “next step up” now receives the first major competitive stage after Concept formation.
+
+Guingil also received his first preference: Ability.
+
+This is particularly funny after the previous several thousand words.
+
+The applicant who entered this article by helping CAP remove Analytic from Obliteryx, after having supported the design path that produced it, will now lead the stage where CAP 38 decides which ability should be permitted to ruin everybody’s month.
+
+There are worse qualifications than this.
+
+Gekokeso receives Stats, his second preference after Typing. His application brought sustained process participation, successful submissions across Concept, typing, and ability, tournament contact, and experience with other constructed metagames. That is a useful jurisdiction for someone whose record crosses repeatedly between individual design choices and the competitive ecosystems that have to absorb them.
+
+Zetalz receives Movepool.
+
+He expressed no portfolio preference at all.
+
+He also supplied something the other three selected applications did not claim: previous Topic Leadership Team service. Eight hard years of involvement, prior Typing Leadership, a winning Stats submission, and long participation in Policy Review now sit beside three different routes into newer leadership.
+
+This is exactly the result the succession argument wanted.
+
+CAP did not solve succession by finding four miniature copies of its most experienced participant.
+
+It put experience into relation with developing experience.
+
+Zetalz explicitly presented his own standing as something that could support first-time Topic Leadership Team members. AzothBend presented a side process as preparation for the main one. Guingil presented revision under evidence as a qualification. Gekokeso presented repeated contact across processes and metagames as preparation for carrying a bounded technical stage.
+
+Then the institution gave all four of them decisions that matter.
+
+That last step is the important one.
+
+A leadership pipeline cannot manufacture **leaders** by allowing promising people to _watch_ leadership indefinitely.
+
+Eventually, somebody has to get Typing.
+
+Somebody has to get Ability.
+
+Somebody has to get Stats.
+
+Somebody has to get Movepool.
+
+They have to encounter disagreement while holding an actual jurisdiction. They have to translate discussion into a slate. They have to discover where their theories of leadership survive contact and where they require correction.
+
+CAP is manufacturing future operating capacity by distributing present operating authority. This is succession before vacancy.
+
+And now we can answer the question this section originally left hanging.
 
 -   Who gets a first leadership opportunity?
+
+Several people with substantially different routes through the institution.
+
 -   Who returns with previous experience?
--   Which kinds of competitive and institutional knowledge get distributed across the team?
--   Does the final configuration put several old hands around the new Topic Leader, several newer leaders around an experienced moderator, or some stranger mixture?
 
-We do not know yet.
+Zetalz.
 
-This article can survive another unfinished sentence.
+-   What kinds of knowledge surround the new Topic Leader?
 
-CAP 38 has chosen its temporary king. Now it has to build the court.
+Long process memory. Recent process contact. Alternate Timelines practice. Tournament contact. constructed-metagame experience. Policy Review. Successful submissions. A documented willingness to change one’s mind after the bird becomes unbearable.
 
-> **This section will be updated again when the specialist leadership team is finalized.**
+-   What configuration did CAP choose?
+
+The stranger mixture. Good.
+
+Spammernoob has the crown.
+
+The court has been built.
+
+Five temporary jurisdictions now exist.
+
+None of them belong to CAP 39.
 
 * * *
 
@@ -3386,7 +3472,7 @@ The CAP 38 application thread makes the overlap visible.
 
 -   Da Pizza Man opened the thread as a forum moderator and then applied for Topic Leader.
 -   Spammernoob applied for Topic Leader while serving as a forum moderator.
--   kenn applied for Topic Leader and Topic Leadership Team while serving as a forum moderator.
+-   kenn applied for Topic Leader while serving as a forum moderator.
 
 This does not establish a corrupt election.
 
