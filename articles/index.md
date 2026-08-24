@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-24T13:32:37.561Z
+Generated: 2026-08-24T19:12:07.359Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-24 — [Moonlight with Figures: The Primordial Darkness](/articles/moonlight-with-figures-the-primordial-darkness.md) ([HTML](/articles/moonlight-with-figures-the-primordial-darkness.html))
 - 2026-08-24 — [Field Instruments: Intelligence](/articles/field-instruments-intelligence.md) ([HTML](/articles/field-instruments-intelligence.html))
 - 2026-08-24 — [Four Competent Systems](/articles/four-competent-systems.md) ([HTML](/articles/four-competent-systems.html))
 - 2026-08-23 — [Applied Case: Ghosts](/articles/applied-case-ghosts.md) ([HTML](/articles/applied-case-ghosts.html))

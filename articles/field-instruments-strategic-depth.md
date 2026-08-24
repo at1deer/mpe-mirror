@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-24T13:32:37.561Z"
+mirror_generated_at: "2026-08-24T19:12:07.359Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
