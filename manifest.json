@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-08-25T07:27:14.631Z",
+  "generated_at": "2026-08-25T13:30:47.019Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 245,
+  "article_count": 247,
   "articles": [
+    {
+      "title": "Kendrick Lamar and the Return",
+      "slug": "kendrick-lamar-and-the-return",
+      "published_at": "2026-08-25T06:30:49.000-05:00",
+      "updated_at": "2026-08-25T06:30:48.000-05:00",
+      "canonical_url": "https://modalpathethics.com/kendrick-lamar-and-the-return/",
+      "excerpt": "The path explains you. It does not get to finish you.",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/kendrick-lamar-and-the-return.md",
+      "mirror_html_path": "/articles/kendrick-lamar-and-the-return.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/kendrick-lamar-and-the-return.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/kendrick-lamar-and-the-return.html",
+      "sha256_plaintext": "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
+    },
+    {
+      "title": "Applied Case: The Housing Choice Voucher Program",
+      "slug": "applied-case-the-voucher-program",
+      "published_at": "2026-08-25T06:00:42.000-05:00",
+      "updated_at": "2026-08-25T06:00:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-voucher-program/",
+      "excerpt": "An approval letter cannot turn into a key.",
+      "tags": [
+        "Inner Apocalypse",
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-voucher-program.md",
+      "mirror_html_path": "/articles/applied-case-the-voucher-program.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-voucher-program.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-voucher-program.html",
+      "sha256_plaintext": "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
+    },
     {
       "title": "Moonlight with Figures: The Primordial Darkness",
       "slug": "moonlight-with-figures-the-primordial-darkness",

@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-25T07:27:14.631Z
+Generated: 2026-08-25T13:30:47.019Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-25 — [Kendrick Lamar and the Return](/articles/kendrick-lamar-and-the-return.md) ([HTML](/articles/kendrick-lamar-and-the-return.html))
+- 2026-08-25 — [Applied Case: The Housing Choice Voucher Program](/articles/applied-case-the-voucher-program.md) ([HTML](/articles/applied-case-the-voucher-program.html))
 - 2026-08-24 — [Moonlight with Figures: The Primordial Darkness](/articles/moonlight-with-figures-the-primordial-darkness.md) ([HTML](/articles/moonlight-with-figures-the-primordial-darkness.html))
 - 2026-08-24 — [Field Instruments: Intelligence](/articles/field-instruments-intelligence.md) ([HTML](/articles/field-instruments-intelligence.html))
 - 2026-08-24 — [Four Competent Systems](/articles/four-competent-systems.md) ([HTML](/articles/four-competent-systems.html))
