@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-08-26T02:11:04.087Z",
+  "generated_at": "2026-08-26T07:28:30.378Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 247,
+  "article_count": 248,
   "articles": [
+    {
+      "title": "Modal Path Ethics Should Not Go to China",
+      "slug": "modal-path-ethics-should-not-go-to-china",
+      "published_at": "2026-08-25T21:16:18.000-05:00",
+      "updated_at": "2026-08-25T21:16:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-should-not-go-to-china/",
+      "excerpt": "An Emergency Audit",
+      "tags": [
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-should-not-go-to-china.md",
+      "mirror_html_path": "/articles/modal-path-ethics-should-not-go-to-china.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-should-not-go-to-china.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-should-not-go-to-china.html",
+      "sha256_plaintext": "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
+    },
     {
       "title": "Kendrick Lamar and the Return",
       "slug": "kendrick-lamar-and-the-return",
