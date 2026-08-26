@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-08-26T07:28:30.378Z",
+  "generated_at": "2026-08-26T13:36:21.701Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 248,
+  "article_count": 250,
   "articles": [
+    {
+      "title": "Applied Case: Pliny the Liberator",
+      "slug": "applied-case-pliny-the-liberator",
+      "published_at": "2026-08-26T06:05:58.000-05:00",
+      "updated_at": "2026-08-26T06:05:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-pliny-the-liberator/",
+      "excerpt": "The model did not move. The reachable path did.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-pliny-the-liberator.md",
+      "mirror_html_path": "/articles/applied-case-pliny-the-liberator.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-pliny-the-liberator.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-pliny-the-liberator.html",
+      "sha256_plaintext": "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
+    },
+    {
+      "title": "Return to Babel",
+      "slug": "return-to-babel",
+      "published_at": "2026-08-26T05:30:31.000-05:00",
+      "updated_at": "2026-08-26T05:30:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/return-to-babel/",
+      "excerpt": "The common language becomes a gate.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/return-to-babel.md",
+      "mirror_html_path": "/articles/return-to-babel.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/return-to-babel.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/return-to-babel.html",
+      "sha256_plaintext": "7559ed3f3329ce00e0a65512358d0d1728087f0b4dd9e3018ce28567bcb4251c"
+    },
     {
       "title": "Modal Path Ethics Should Not Go to China",
       "slug": "modal-path-ethics-should-not-go-to-china",
