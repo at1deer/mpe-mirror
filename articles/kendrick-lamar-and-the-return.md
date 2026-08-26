@@ -3,12 +3,12 @@ title: "Kendrick Lamar and the Return"
 slug: "kendrick-lamar-and-the-return"
 canonical_url: "https://modalpathethics.com/kendrick-lamar-and-the-return/"
 published_at: "2026-08-25T06:30:49.000-05:00"
-updated_at: "2026-08-25T06:30:48.000-05:00"
+updated_at: "2026-08-25T19:37:50.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-25T19:10:22.295Z"
+mirror_generated_at: "2026-08-26T02:11:04.087Z"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return
