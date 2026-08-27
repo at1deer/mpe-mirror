@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-26T21:07:32.221Z
+Generated: 2026-08-27T10:26:43.545Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-26 — [Psychology Today Continues to Cross the Line](/articles/psychology-today-continues-to-cross-the-line.md) ([HTML](/articles/psychology-today-continues-to-cross-the-line.html))
 - 2026-08-26 — [Applied Case: Pliny the Liberator](/articles/applied-case-pliny-the-liberator.md) ([HTML](/articles/applied-case-pliny-the-liberator.html))
 - 2026-08-26 — [Return to Babel](/articles/return-to-babel.md) ([HTML](/articles/return-to-babel.html))
 - 2026-08-25 — [Modal Path Ethics Should Not Go to China](/articles/modal-path-ethics-should-not-go-to-china.md) ([HTML](/articles/modal-path-ethics-should-not-go-to-china.html))

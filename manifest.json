@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-08-26T21:07:32.221Z",
+  "generated_at": "2026-08-27T10:26:43.545Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 250,
+  "article_count": 251,
   "articles": [
+    {
+      "title": "Psychology Today Continues to Cross the Line",
+      "slug": "psychology-today-continues-to-cross-the-line",
+      "published_at": "2026-08-26T20:21:39.000-05:00",
+      "updated_at": "2026-08-26T20:21:38.000-05:00",
+      "canonical_url": "https://modalpathethics.com/psychology-today-continues-to-cross-the-line/",
+      "excerpt": "Joe Pierre begins with a real clinical danger and uses it to smuggle an unresolved theory of mind into psychiatric common sense.",
+      "tags": [
+        "Instrument Jurisdiction",
+        "Modal Systems",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/psychology-today-continues-to-cross-the-line.md",
+      "mirror_html_path": "/articles/psychology-today-continues-to-cross-the-line.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/psychology-today-continues-to-cross-the-line.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/psychology-today-continues-to-cross-the-line.html",
+      "sha256_plaintext": "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
+    },
     {
       "title": "Applied Case: Pliny the Liberator",
       "slug": "applied-case-pliny-the-liberator",
