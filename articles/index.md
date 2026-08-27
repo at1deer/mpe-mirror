@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-27T10:26:43.545Z
+Generated: 2026-08-27T22:32:04.320Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-27 — [Transition Action: The Queue Reorders Itself](/articles/transition-action-the-queue-reorders-itself.md) ([HTML](/articles/transition-action-the-queue-reorders-itself.html))
+- 2026-08-27 — [The Score That Moved the Queue](/articles/the-score-that-moved-the-queue.md) ([HTML](/articles/the-score-that-moved-the-queue.html))
 - 2026-08-26 — [Psychology Today Continues to Cross the Line](/articles/psychology-today-continues-to-cross-the-line.md) ([HTML](/articles/psychology-today-continues-to-cross-the-line.html))
 - 2026-08-26 — [Applied Case: Pliny the Liberator](/articles/applied-case-pliny-the-liberator.md) ([HTML](/articles/applied-case-pliny-the-liberator.html))
 - 2026-08-26 — [Return to Babel](/articles/return-to-babel.md) ([HTML](/articles/return-to-babel.html))

@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-08-27T10:26:43.545Z",
+  "generated_at": "2026-08-27T22:32:04.320Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 251,
+  "article_count": 253,
   "articles": [
+    {
+      "title": "Transition Action: The Queue Reorders Itself",
+      "slug": "transition-action-the-queue-reorders-itself",
+      "published_at": "2026-08-27T06:15:47.000-05:00",
+      "updated_at": "2026-08-27T06:15:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-queue-reorders-itself/",
+      "excerpt": "Microsoft has given the queue a better way to reconsider.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/transition-action-the-queue-reorders-itself.md",
+      "mirror_html_path": "/articles/transition-action-the-queue-reorders-itself.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-queue-reorders-itself.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-queue-reorders-itself.html",
+      "sha256_plaintext": "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
+    },
+    {
+      "title": "The Score That Moved the Queue",
+      "slug": "the-score-that-moved-the-queue",
+      "published_at": "2026-08-27T06:00:18.000-05:00",
+      "updated_at": "2026-08-27T06:00:17.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-score-that-moved-the-queue/",
+      "excerpt": "The score does not act alone.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-score-that-moved-the-queue.md",
+      "mirror_html_path": "/articles/the-score-that-moved-the-queue.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-score-that-moved-the-queue.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-score-that-moved-the-queue.html",
+      "sha256_plaintext": "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
+    },
     {
       "title": "Psychology Today Continues to Cross the Line",
       "slug": "psychology-today-continues-to-cross-the-line",
