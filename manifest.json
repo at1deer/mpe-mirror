@@ -1,9 +1,59 @@
 {
-  "generated_at": "2026-08-27T22:32:04.320Z",
+  "generated_at": "2026-08-28T12:07:09.231Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 253,
+  "article_count": 256,
   "articles": [
+    {
+      "title": "OpenAI Is Funding the Institutions That May Need to Challenge OpenAI",
+      "slug": "openai-is-funding-the-institutions-that-may-need-to-challenge-openai",
+      "published_at": "2026-08-28T06:00:49.000-05:00",
+      "updated_at": "2026-08-28T06:00:49.000-05:00",
+      "canonical_url": "https://modalpathethics.com/openai-is-funding-the-institutions-that-may-need-to-challenge-openai/",
+      "excerpt": "This should all be fine.",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md",
+      "mirror_html_path": "/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html",
+      "sha256_plaintext": "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
+    },
+    {
+      "title": "Return to the Release Gradient",
+      "slug": "return-to-the-release-gradient",
+      "published_at": "2026-08-28T05:30:35.000-05:00",
+      "updated_at": "2026-08-28T05:30:34.000-05:00",
+      "canonical_url": "https://modalpathethics.com/return-to-the-release-gradient/",
+      "excerpt": "Permission is not capability.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/return-to-the-release-gradient.md",
+      "mirror_html_path": "/articles/return-to-the-release-gradient.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/return-to-the-release-gradient.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/return-to-the-release-gradient.html",
+      "sha256_plaintext": "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
+    },
+    {
+      "title": "Fictional Earth: Substack and the Argument Machine",
+      "slug": "fictional-earth-substack-and-the-argument-machine",
+      "published_at": "2026-08-27T19:21:07.000-05:00",
+      "updated_at": "2026-08-27T23:27:12.000-05:00",
+      "canonical_url": "https://modalpathethics.com/fictional-earth-substack-and-the-argument-machine/",
+      "excerpt": "Every single argument was worth having, which was the problem. My biggest failure yet; an apology.",
+      "tags": [
+        "Fictional Earth",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/fictional-earth-substack-and-the-argument-machine.md",
+      "mirror_html_path": "/articles/fictional-earth-substack-and-the-argument-machine.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-substack-and-the-argument-machine.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-substack-and-the-argument-machine.html",
+      "sha256_plaintext": "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
+    },
     {
       "title": "Transition Action: The Queue Reorders Itself",
       "slug": "transition-action-the-queue-reorders-itself",
@@ -22,7 +72,7 @@
       "title": "The Score That Moved the Queue",
       "slug": "the-score-that-moved-the-queue",
       "published_at": "2026-08-27T06:00:18.000-05:00",
-      "updated_at": "2026-08-27T06:00:17.000-05:00",
+      "updated_at": "2026-08-27T19:59:11.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-score-that-moved-the-queue/",
       "excerpt": "The score does not act alone.",
       "tags": [

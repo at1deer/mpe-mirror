@@ -3,11 +3,11 @@ title: "The Score That Moved the Queue"
 slug: "the-score-that-moved-the-queue"
 canonical_url: "https://modalpathethics.com/the-score-that-moved-the-queue/"
 published_at: "2026-08-27T06:00:18.000-05:00"
-updated_at: "2026-08-27T06:00:17.000-05:00"
+updated_at: "2026-08-27T19:59:11.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-27T22:32:04.320Z"
+mirror_generated_at: "2026-08-28T12:07:09.231Z"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
 # The Score That Moved the Queue
@@ -70,8 +70,8 @@ The institution supplies the force.
 
 ## Five Verbs in One Minute
 
--   The system detects a pattern and **names** it as risk.
--   The name changes the **ranking**.
+-   The system **detects** a pattern and names it as risk.
+-   The name **changes** the ranking.
 -   The ranking **routes** the case into a slower lane.
 -   That lane **authorizes** a different kind of review.
 -   The resulting delay changes the record, and the changed record can later **loop** back into another judgment.

@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-27T22:32:04.320Z
+Generated: 2026-08-28T12:07:09.231Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-28 — [OpenAI Is Funding the Institutions That May Need to Challenge OpenAI](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md) ([HTML](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html))
+- 2026-08-28 — [Return to the Release Gradient](/articles/return-to-the-release-gradient.md) ([HTML](/articles/return-to-the-release-gradient.html))
+- 2026-08-27 — [Fictional Earth: Substack and the Argument Machine](/articles/fictional-earth-substack-and-the-argument-machine.md) ([HTML](/articles/fictional-earth-substack-and-the-argument-machine.html))
 - 2026-08-27 — [Transition Action: The Queue Reorders Itself](/articles/transition-action-the-queue-reorders-itself.md) ([HTML](/articles/transition-action-the-queue-reorders-itself.html))
 - 2026-08-27 — [The Score That Moved the Queue](/articles/the-score-that-moved-the-queue.md) ([HTML](/articles/the-score-that-moved-the-queue.html))
 - 2026-08-26 — [Psychology Today Continues to Cross the Line](/articles/psychology-today-continues-to-cross-the-line.md) ([HTML](/articles/psychology-today-continues-to-cross-the-line.html))
