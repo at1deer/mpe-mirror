@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)

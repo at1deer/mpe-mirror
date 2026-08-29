@@ -11,7 +11,7 @@ tags:
   - "Modal Systems"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet

@@ -7,7 +7,7 @@ updated_at: "2026-08-27T19:59:11.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
 # The Score That Moved the Queue

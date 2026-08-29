@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look

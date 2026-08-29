@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle

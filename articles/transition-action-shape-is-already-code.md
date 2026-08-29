@@ -8,7 +8,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code

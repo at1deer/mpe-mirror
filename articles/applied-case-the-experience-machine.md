@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine

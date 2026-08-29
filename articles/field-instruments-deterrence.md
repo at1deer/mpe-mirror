@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence

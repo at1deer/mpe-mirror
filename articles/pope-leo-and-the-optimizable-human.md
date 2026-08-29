@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human

@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox

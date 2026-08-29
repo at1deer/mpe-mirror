@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus

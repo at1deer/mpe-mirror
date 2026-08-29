@@ -10,7 +10,7 @@ tags:
   - "Epistemic Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-28T22:34:54.202Z"
+mirror_generated_at: "2026-08-29T07:18:57.044Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
