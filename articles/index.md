@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-29T07:18:57.044Z
+Generated: 2026-08-29T16:51:00.096Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-29 — [Warning: Irreplaceable Has Already Decided What Its Democracy Will Discover](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md) ([HTML](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.html))
+- 2026-08-29 — [Field Instruments: Prophethood](/articles/field-instruments-prophethood.md) ([HTML](/articles/field-instruments-prophethood.html))
+- 2026-08-29 — [Revelation in Office](/articles/revelation-in-office.md) ([HTML](/articles/revelation-in-office.html))
 - 2026-08-28 — [OpenAI Is Funding the Institutions That May Need to Challenge OpenAI](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md) ([HTML](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html))
 - 2026-08-28 — [Return to the Release Gradient](/articles/return-to-the-release-gradient.md) ([HTML](/articles/return-to-the-release-gradient.html))
 - 2026-08-27 — [Fictional Earth: Substack and the Argument Machine](/articles/fictional-earth-substack-and-the-argument-machine.md) ([HTML](/articles/fictional-earth-substack-and-the-argument-machine.html))

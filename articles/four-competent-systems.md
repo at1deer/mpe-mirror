@@ -7,7 +7,7 @@ updated_at: "2026-08-24T06:00:25.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-29T07:18:57.044Z"
+mirror_generated_at: "2026-08-29T16:51:00.096Z"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
 # Four Competent Systems

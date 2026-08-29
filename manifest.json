@@ -1,9 +1,62 @@
 {
-  "generated_at": "2026-08-29T07:18:57.044Z",
+  "generated_at": "2026-08-29T16:51:00.096Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 256,
+  "article_count": 259,
   "articles": [
+    {
+      "title": "Warning: Irreplaceable Has Already Decided What Its Democracy Will Discover",
+      "slug": "warning-irreplaceable-has-already-decided-what-its-democracy-will-discover",
+      "published_at": "2026-08-29T06:36:25.000-05:00",
+      "updated_at": "2026-08-29T06:59:26.000-05:00",
+      "canonical_url": "https://modalpathethics.com/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover/",
+      "excerpt": "The professional agenda arrived before the council. They claim it's the other way around. Be careful with Irreplaceable. A warning about democracy and power. ",
+      "tags": [
+        "Inner Apocalypse",
+        "Instrument Jurisdiction",
+        "Modal Path Ethics",
+        "Tales of Distortion",
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md",
+      "mirror_html_path": "/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.html",
+      "sha256_plaintext": "116abb21c94ce3aff2ba516fa3b4c560130adc229a92821fa8ecce6e0cf686de"
+    },
+    {
+      "title": "Field Instruments: Prophethood",
+      "slug": "field-instruments-prophethood",
+      "published_at": "2026-08-29T05:55:13.000-05:00",
+      "updated_at": "2026-08-29T06:33:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-prophethood/",
+      "excerpt": "The prophet makes the future present. The future still gets to answer.",
+      "tags": [
+        "Inner Apocalypse",
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-prophethood.md",
+      "mirror_html_path": "/articles/field-instruments-prophethood.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-prophethood.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-prophethood.html",
+      "sha256_plaintext": "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
+    },
+    {
+      "title": "Revelation in Office",
+      "slug": "revelation-in-office",
+      "published_at": "2026-08-29T05:30:59.000-05:00",
+      "updated_at": "2026-08-29T05:30:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/revelation-in-office/",
+      "excerpt": "Return to Münster",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/revelation-in-office.md",
+      "mirror_html_path": "/articles/revelation-in-office.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/revelation-in-office.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/revelation-in-office.html",
+      "sha256_plaintext": "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
+    },
     {
       "title": "OpenAI Is Funding the Institutions That May Need to Challenge OpenAI",
       "slug": "openai-is-funding-the-institutions-that-may-need-to-challenge-openai",
