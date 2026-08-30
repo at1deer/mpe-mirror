@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-30T16:56:05.909Z"
+mirror_generated_at: "2026-08-30T21:28:21.189Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field

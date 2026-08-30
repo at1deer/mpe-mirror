@@ -10,7 +10,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-30T16:56:05.909Z"
+mirror_generated_at: "2026-08-30T21:28:21.189Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine

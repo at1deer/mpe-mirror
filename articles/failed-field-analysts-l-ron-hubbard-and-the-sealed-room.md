@@ -10,7 +10,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-30T16:56:05.909Z"
+mirror_generated_at: "2026-08-30T21:28:21.189Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room

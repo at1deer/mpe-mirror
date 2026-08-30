@@ -8,7 +8,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-30T16:56:05.909Z"
+mirror_generated_at: "2026-08-30T21:28:21.189Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
