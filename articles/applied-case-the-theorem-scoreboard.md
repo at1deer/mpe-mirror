@@ -9,7 +9,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-30T05:44:05.905Z"
+mirror_generated_at: "2026-08-30T12:10:25.241Z"
 sha256_plaintext: "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
 ---
 # Applied Case: The Theorem Scoreboard

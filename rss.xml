@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 30 Aug 2026 05:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 12:10:25 GMT</lastBuildDate>
     
+    <item>
+      <title>Four Futures</title>
+      <link>https://modal-path-ethics.ghost.io/articles/four-futures.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/four-futures.html</guid>
+      <pubDate>Sun, 30 Aug 2026 11:00:40 GMT</pubDate>
+      <description>Survival is not enough.</description>
+    </item>
+
+    <item>
+      <title>The Past Is Not in the Option Set</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-past-is-not-in-the-option-set.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-past-is-not-in-the-option-set.html</guid>
+      <pubDate>Sun, 30 Aug 2026 10:30:02 GMT</pubDate>
+      <description>About that little house.</description>
+    </item>
+
     <item>
       <title>Failed Field Analysts: Phil Aroneanu and the Anger Engine</title>
       <link>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.html</guid>
       <pubDate>Thu, 06 Aug 2026 13:43:18 GMT</pubDate>
       <description>God may affect the psyche. The psyche does not own God. </description>
-    </item>
-
-    <item>
-      <title>Beneath the Launchpad</title>
-      <link>https://modal-path-ethics.ghost.io/articles/beneath-the-launchpad.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/beneath-the-launchpad.html</guid>
-      <pubDate>Thu, 06 Aug 2026 11:00:12 GMT</pubDate>
-      <description>Modal Path Ethics has submitted a public comment to the Federal Aviation Administration. This was clearly necessary.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Infodynamics</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-infodynamics.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-infodynamics.html</guid>
-      <pubDate>Thu, 06 Aug 2026 10:30:16 GMT</pubDate>
-      <description>This is the physical floor of the Epistemic Instruments track.</description>
     </item>
   </channel>
 </rss>

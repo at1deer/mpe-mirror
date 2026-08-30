@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-08-30T05:44:05.905Z",
+  "generated_at": "2026-08-30T12:10:25.241Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 260,
+  "article_count": 262,
   "articles": [
+    {
+      "title": "Four Futures",
+      "slug": "four-futures",
+      "published_at": "2026-08-30T06:00:40.000-05:00",
+      "updated_at": "2026-08-30T06:00:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/four-futures/",
+      "excerpt": "Survival is not enough.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/four-futures.md",
+      "mirror_html_path": "/articles/four-futures.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/four-futures.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/four-futures.html",
+      "sha256_plaintext": "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
+    },
+    {
+      "title": "The Past Is Not in the Option Set",
+      "slug": "the-past-is-not-in-the-option-set",
+      "published_at": "2026-08-30T05:30:02.000-05:00",
+      "updated_at": "2026-08-30T05:30:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-past-is-not-in-the-option-set/",
+      "excerpt": "About that little house.",
+      "tags": [
+        "Inner Apocalypse",
+        "Biosphere"
+      ],
+      "mirror_markdown_path": "/articles/the-past-is-not-in-the-option-set.md",
+      "mirror_html_path": "/articles/the-past-is-not-in-the-option-set.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-past-is-not-in-the-option-set.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-past-is-not-in-the-option-set.html",
+      "sha256_plaintext": "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
+    },
     {
       "title": "Failed Field Analysts: Phil Aroneanu and the Anger Engine",
       "slug": "failed-field-analysts-phil-aroneanu-and-the-anger-engine",
