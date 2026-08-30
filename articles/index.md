@@ -1,10 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-29T21:08:22.543Z
+Generated: 2026-08-30T05:44:05.905Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
-- 2026-08-29 — [Warning: Irreplaceable Has Already Decided What Its Democracy Will Discover](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md) ([HTML](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.html))
+- 2026-08-29 — [Failed Field Analysts: Phil Aroneanu and the Anger Engine](/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.md) ([HTML](/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.html))
+- 2026-08-29 — [Irreplaceable Has Already Decided What Its Democracy Will Discover](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md) ([HTML](/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.html))
 - 2026-08-29 — [Field Instruments: Prophethood](/articles/field-instruments-prophethood.md) ([HTML](/articles/field-instruments-prophethood.html))
 - 2026-08-29 — [Revelation in Office](/articles/revelation-in-office.md) ([HTML](/articles/revelation-in-office.html))
 - 2026-08-28 — [OpenAI Is Funding the Institutions That May Need to Challenge OpenAI](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md) ([HTML](/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html))

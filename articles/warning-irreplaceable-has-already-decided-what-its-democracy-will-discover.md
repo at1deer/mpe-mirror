@@ -1,9 +1,9 @@
 ---
-title: "Warning: Irreplaceable Has Already Decided What Its Democracy Will Discover"
+title: "Irreplaceable Has Already Decided What Its Democracy Will Discover"
 slug: "warning-irreplaceable-has-already-decided-what-its-democracy-will-discover"
 canonical_url: "https://modalpathethics.com/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover/"
 published_at: "2026-08-29T06:36:25.000-05:00"
-updated_at: "2026-08-29T14:55:46.000-05:00"
+updated_at: "2026-08-29T20:09:23.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
@@ -11,10 +11,10 @@ tags:
   - "Tales of Distortion"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-29T21:08:22.543Z"
+mirror_generated_at: "2026-08-30T05:44:05.905Z"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
-# Warning: Irreplaceable Has Already Decided What Its Democracy Will Discover
+# Irreplaceable Has Already Decided What Its Democracy Will Discover
 
 **Irreplaceable** has a plan for you.
 
