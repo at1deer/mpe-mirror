@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-08-31T06:01:25.444Z
+Generated: 2026-08-31T14:21:30.392Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-08-31 — [Outer Sovereignty: The Guardian](/articles/outer-sovereignty-the-guardian.md) ([HTML](/articles/outer-sovereignty-the-guardian.html))
+- 2026-08-31 — [OpenAI Discovers the Constitutional Problem](/articles/applied-case-openai-discovers-the-constitutional-problem.md) ([HTML](/articles/applied-case-openai-discovers-the-constitutional-problem.html))
 - 2026-08-30 — [Four Futures](/articles/four-futures.md) ([HTML](/articles/four-futures.html))
 - 2026-08-30 — [The Past Is Not in the Option Set](/articles/the-past-is-not-in-the-option-set.md) ([HTML](/articles/the-past-is-not-in-the-option-set.html))
 - 2026-08-29 — [Failed Field Analysts: Phil Aroneanu and the Anger Engine](/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.md) ([HTML](/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.html))

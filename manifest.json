@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-08-31T06:01:25.444Z",
+  "generated_at": "2026-08-31T14:21:30.392Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 262,
+  "article_count": 264,
   "articles": [
+    {
+      "title": "Outer Sovereignty: The Guardian",
+      "slug": "outer-sovereignty-the-guardian",
+      "published_at": "2026-08-31T06:00:09.000-05:00",
+      "updated_at": "2026-08-31T06:00:09.000-05:00",
+      "canonical_url": "https://modalpathethics.com/outer-sovereignty-the-guardian/",
+      "excerpt": "Sometimes the guardian should win.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/outer-sovereignty-the-guardian.md",
+      "mirror_html_path": "/articles/outer-sovereignty-the-guardian.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/outer-sovereignty-the-guardian.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/outer-sovereignty-the-guardian.html",
+      "sha256_plaintext": "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
+    },
+    {
+      "title": "OpenAI Discovers the Constitutional Problem",
+      "slug": "applied-case-openai-discovers-the-constitutional-problem",
+      "published_at": "2026-08-31T05:30:34.000-05:00",
+      "updated_at": "2026-08-31T05:30:47.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-openai-discovers-the-constitutional-problem/",
+      "excerpt": "The parchment can survive; the power underneath can move.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-openai-discovers-the-constitutional-problem.md",
+      "mirror_html_path": "/articles/applied-case-openai-discovers-the-constitutional-problem.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-openai-discovers-the-constitutional-problem.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-openai-discovers-the-constitutional-problem.html",
+      "sha256_plaintext": "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
+    },
     {
       "title": "Four Futures",
       "slug": "four-futures",

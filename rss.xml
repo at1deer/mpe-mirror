@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 31 Aug 2026 06:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 14:21:30 GMT</lastBuildDate>
     
+    <item>
+      <title>Outer Sovereignty: The Guardian</title>
+      <link>https://modal-path-ethics.ghost.io/articles/outer-sovereignty-the-guardian.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/outer-sovereignty-the-guardian.html</guid>
+      <pubDate>Mon, 31 Aug 2026 11:00:09 GMT</pubDate>
+      <description>Sometimes the guardian should win.</description>
+    </item>
+
+    <item>
+      <title>OpenAI Discovers the Constitutional Problem</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-openai-discovers-the-constitutional-problem.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-openai-discovers-the-constitutional-problem.html</guid>
+      <pubDate>Mon, 31 Aug 2026 10:30:34 GMT</pubDate>
+      <description>The parchment can survive; the power underneath can move.</description>
+    </item>
+
     <item>
       <title>Four Futures</title>
       <link>https://modal-path-ethics.ghost.io/articles/four-futures.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/ai-did-not-blur-reality.html</guid>
       <pubDate>Fri, 07 Aug 2026 11:00:46 GMT</pubDate>
       <description>Fictional Earth was already doing that. Artificial intelligence made it less dependent on Earth.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Open Weights and the Release Gradient</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-open-weights-and-the-release-gradient.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-open-weights-and-the-release-gradient.html</guid>
-      <pubDate>Fri, 07 Aug 2026 10:30:08 GMT</pubDate>
-      <description>A released model cannot be recalled. A closed model can become a private government.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Psychology Finds the Empty Altar</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-psychology-finds-the-empty-altar.html</guid>
-      <pubDate>Thu, 06 Aug 2026 13:43:18 GMT</pubDate>
-      <description>God may affect the psyche. The psyche does not own God. </description>
     </item>
   </channel>
 </rss>
