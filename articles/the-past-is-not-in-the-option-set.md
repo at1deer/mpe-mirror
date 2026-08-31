@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-31T14:21:30.392Z"
+mirror_generated_at: "2026-08-31T22:59:49.690Z"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
 # The Past Is Not in the Option Set
