@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-01T05:34:35.031Z
+Generated: 2026-09-01T11:58:02.211Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-01 — [Inner Sovereignty: The Seven Badges](/articles/inner-sovereignty-the-seven-badges.md) ([HTML](/articles/inner-sovereignty-the-seven-badges.html))
+- 2026-09-01 — [Workers Deserve More! Is Not a Constitution](/articles/workers-deserve-more-is-not-a-constitution.md) ([HTML](/articles/workers-deserve-more-is-not-a-constitution.html))
 - 2026-08-31 — [Outer Sovereignty: The Guardian](/articles/outer-sovereignty-the-guardian.md) ([HTML](/articles/outer-sovereignty-the-guardian.html))
 - 2026-08-31 — [OpenAI Discovers the Constitutional Problem](/articles/applied-case-openai-discovers-the-constitutional-problem.md) ([HTML](/articles/applied-case-openai-discovers-the-constitutional-problem.html))
 - 2026-08-30 — [Four Futures](/articles/four-futures.md) ([HTML](/articles/four-futures.html))

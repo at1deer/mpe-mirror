@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-01T05:34:35.031Z"
+mirror_generated_at: "2026-09-01T11:58:02.211Z"
 sha256_plaintext: "e7101df775f186d9ffdf04d9126a24ba4a784f47a78eb4ba4c5d3287e8fda36e"
 ---
 # Failed Field Analysts: Phil Aroneanu and the Anger Engine

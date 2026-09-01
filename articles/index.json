@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-09-01T05:34:35.031Z",
+  "generated_at": "2026-09-01T11:58:02.211Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 264,
+  "article_count": 266,
   "articles": [
+    {
+      "title": "Inner Sovereignty: The Seven Badges",
+      "slug": "inner-sovereignty-the-seven-badges",
+      "published_at": "2026-09-01T06:00:46.000-05:00",
+      "updated_at": "2026-09-01T06:00:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/inner-sovereignty-the-seven-badges/",
+      "excerpt": "Artificial intelligence does not need a crown.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/inner-sovereignty-the-seven-badges.md",
+      "mirror_html_path": "/articles/inner-sovereignty-the-seven-badges.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/inner-sovereignty-the-seven-badges.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/inner-sovereignty-the-seven-badges.html",
+      "sha256_plaintext": "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
+    },
+    {
+      "title": "Workers Deserve More! Is Not a Constitution",
+      "slug": "workers-deserve-more-is-not-a-constitution",
+      "published_at": "2026-09-01T05:30:46.000-05:00",
+      "updated_at": "2026-09-01T05:30:46.000-05:00",
+      "canonical_url": "https://modalpathethics.com/workers-deserve-more-is-not-a-constitution/",
+      "excerpt": "The landlord can disappear; the work is still due by morning.",
+      "tags": [
+        "Inner Apocalypse",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/workers-deserve-more-is-not-a-constitution.md",
+      "mirror_html_path": "/articles/workers-deserve-more-is-not-a-constitution.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/workers-deserve-more-is-not-a-constitution.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/workers-deserve-more-is-not-a-constitution.html",
+      "sha256_plaintext": "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
+    },
     {
       "title": "Outer Sovereignty: The Guardian",
       "slug": "outer-sovereignty-the-guardian",
