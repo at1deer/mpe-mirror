@@ -3,12 +3,12 @@ title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
 published_at: "2026-08-09T06:30:19.000-05:00"
-updated_at: "2026-08-10T15:57:05.000-05:00"
+updated_at: "2026-08-31T19:39:56.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-08-31T22:59:49.690Z"
-sha256_plaintext: "74ba9fce815edc7eebba6ebc5d339715cc241e861150cd54da292080b61ba3c0"
+mirror_generated_at: "2026-09-01T05:34:35.031Z"
+sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
 # Tales of Distortion: The Gapless Week
 
@@ -65,7 +65,7 @@ Larin's basic thought was not stupid.
     -   A blast furnace has no known relationship with the Resurrection.
     -   A turbine does not wake Sunday morning with a sudden desire to call its mother.
         -   A lathe has never once asked for brunch.
--   So why should the hell should the machine inherit the worker's day off?
+-   So why the hell should the machine inherit the worker's day off?
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-349.png)
 
@@ -229,7 +229,7 @@ Under the five-day continuous schedule, workers were assigned to different rotat
 
 The old week had committed an administrative error.
 
-Everyone shared it.
+> Everyone shared it.
 
 The new system personalized the day off.
 
