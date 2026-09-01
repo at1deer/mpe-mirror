@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-09-01T16:52:20.240Z",
+  "generated_at": "2026-09-01T21:16:37.335Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 266,
+  "article_count": 267,
   "articles": [
+    {
+      "title": "Enforce Your Existing Standards, Please",
+      "slug": "enforce-your-existing-standards-please",
+      "published_at": "2026-09-01T13:10:06.000-05:00",
+      "updated_at": "2026-09-01T13:10:06.000-05:00",
+      "canonical_url": "https://modalpathethics.com/enforce-your-existing-standards-please/",
+      "excerpt": "Journalism has somehow mistaken an accountability failure for a wording problem.",
+      "tags": [
+        "Instrument Jurisdiction",
+        "Epistemic Instruments",
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/enforce-your-existing-standards-please.md",
+      "mirror_html_path": "/articles/enforce-your-existing-standards-please.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/enforce-your-existing-standards-please.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/enforce-your-existing-standards-please.html",
+      "sha256_plaintext": "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
+    },
     {
       "title": "Inner Sovereignty: The Seven Badges",
       "slug": "inner-sovereignty-the-seven-badges",

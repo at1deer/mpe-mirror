@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-01T16:52:20.240Z
+Generated: 2026-09-01T21:16:37.335Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-01 — [Enforce Your Existing Standards, Please](/articles/enforce-your-existing-standards-please.md) ([HTML](/articles/enforce-your-existing-standards-please.html))
 - 2026-09-01 — [Inner Sovereignty: The Seven Badges](/articles/inner-sovereignty-the-seven-badges.md) ([HTML](/articles/inner-sovereignty-the-seven-badges.html))
 - 2026-09-01 — [Workers Deserve More! Is Not a Constitution](/articles/workers-deserve-more-is-not-a-constitution.md) ([HTML](/articles/workers-deserve-more-is-not-a-constitution.html))
 - 2026-08-31 — [Outer Sovereignty: The Guardian](/articles/outer-sovereignty-the-guardian.md) ([HTML](/articles/outer-sovereignty-the-guardian.html))
