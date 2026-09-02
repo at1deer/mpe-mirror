@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-09-02T16:49:26.911Z",
+  "generated_at": "2026-09-02T21:13:40.026Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 269,
+  "article_count": 270,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Arrival of Artificial Intelligence",
+      "slug": "tales-of-distortion-the-arrival-of-artificial-intelligence",
+      "published_at": "2026-09-02T12:48:54.000-05:00",
+      "updated_at": "2026-09-02T12:48:54.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-arrival-of-artificial-intelligence/",
+      "excerpt": "We found a relation, sold it as a product, and twelve years later it was drilling for oil, moving into space, and reserving a few jobs for the humans.",
+      "tags": [
+        "Tales of Distortion",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.html",
+      "sha256_plaintext": "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
+    },
     {
       "title": "The Inner Apocalypse",
       "slug": "the-inner-apocalypse",

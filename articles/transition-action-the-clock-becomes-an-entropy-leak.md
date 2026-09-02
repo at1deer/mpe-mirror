@@ -11,7 +11,7 @@ tags:
   - "Entropy Debt Week"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-02T16:49:26.911Z"
+mirror_generated_at: "2026-09-02T21:13:40.026Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak

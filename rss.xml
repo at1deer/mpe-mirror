@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 16:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:13:40 GMT</lastBuildDate>
     
+    <item>
+      <title>Tales of Distortion: The Arrival of Artificial Intelligence</title>
+      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.html</guid>
+      <pubDate>Wed, 02 Sep 2026 17:48:54 GMT</pubDate>
+      <description>We found a relation, sold it as a product, and twelve years later it was drilling for oil, moving into space, and reserving a few jobs for the humans.</description>
+    </item>
+
     <item>
       <title>The Inner Apocalypse</title>
       <link>https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse.html</link>
@@ -396,14 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-theorem-scoreboard.html</guid>
       <pubDate>Mon, 10 Aug 2026 10:30:54 GMT</pubDate>
       <description>OpenAI, Terence Tao, and whether mathematics is a competition or an inquiry.</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: The Gapless Week</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-gapless-week.html</guid>
-      <pubDate>Sun, 09 Aug 2026 11:30:19 GMT</pubDate>
-      <description>Machines do not need Sunday. [L]</description>
     </item>
   </channel>
 </rss>
