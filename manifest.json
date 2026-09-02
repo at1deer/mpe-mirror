@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-02T04:59:13.780Z",
+  "generated_at": "2026-09-02T11:40:15.528Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 267,
+  "article_count": 269,
   "articles": [
+    {
+      "title": "The Inner Apocalypse",
+      "slug": "the-inner-apocalypse",
+      "published_at": "2026-09-02T06:00:58.000-05:00",
+      "updated_at": "2026-09-02T06:00:57.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-inner-apocalypse/",
+      "excerpt": "A Post-Sovereign Constitution",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-inner-apocalypse.md",
+      "mirror_html_path": "/articles/the-inner-apocalypse.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse.html",
+      "sha256_plaintext": "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
+    },
+    {
+      "title": "WAICO Is the Hard Case",
+      "slug": "ia-waico-is-the-hard-case",
+      "published_at": "2026-09-02T05:00:17.000-05:00",
+      "updated_at": "2026-09-02T05:00:16.000-05:00",
+      "canonical_url": "https://modalpathethics.com/ia-waico-is-the-hard-case/",
+      "excerpt": "Multipolarity can distribute crowns without abolishing the crown.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/ia-waico-is-the-hard-case.md",
+      "mirror_html_path": "/articles/ia-waico-is-the-hard-case.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/ia-waico-is-the-hard-case.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/ia-waico-is-the-hard-case.html",
+      "sha256_plaintext": "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
+    },
     {
       "title": "Enforce Your Existing Standards, Please",
       "slug": "enforce-your-existing-standards-please",
