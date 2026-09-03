@@ -1,9 +1,56 @@
 {
-  "generated_at": "2026-09-03T04:56:52.641Z",
+  "generated_at": "2026-09-03T11:39:36.433Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 270,
+  "article_count": 273,
   "articles": [
+    {
+      "title": "Field Instruments: The Verification Gradient",
+      "slug": "field-instruments-the-verification-gradient",
+      "published_at": "2026-09-03T06:30:25.000-05:00",
+      "updated_at": "2026-09-03T06:30:26.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-the-verification-gradient/",
+      "excerpt": "Artificial intelligence will move fastest where reality can answer it cleanly.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/field-instruments-the-verification-gradient.md",
+      "mirror_html_path": "/articles/field-instruments-the-verification-gradient.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-verification-gradient.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-verification-gradient.html",
+      "sha256_plaintext": "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
+    },
+    {
+      "title": "The Dispatch Floor Solves the Game",
+      "slug": "the-dispatch-floor-solves-the-game",
+      "published_at": "2026-09-03T06:00:07.000-05:00",
+      "updated_at": "2026-09-03T06:00:06.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-dispatch-floor-solves-the-game/",
+      "excerpt": "The best move can start rewriting the board.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-dispatch-floor-solves-the-game.md",
+      "mirror_html_path": "/articles/the-dispatch-floor-solves-the-game.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-dispatch-floor-solves-the-game.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-dispatch-floor-solves-the-game.html",
+      "sha256_plaintext": "91ef608c968ecb1b48faaaf8ea7d59ac6bebe199f1cfdc8f5f1eb30e27c84dfc"
+    },
+    {
+      "title": "Popular Mechanics Has Gone Mad With Power",
+      "slug": "popular-mechanics-has-gone-mad-with-power",
+      "published_at": "2026-09-03T04:30:01.000-05:00",
+      "updated_at": "2026-09-03T04:30:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/popular-mechanics-has-gone-mad-with-power/",
+      "excerpt": "Someone Gave This Magazine Jurisdiction Over Consciousness, Precognition, Reincarnation, Parallel Universes, and the Dead",
+      "tags": [
+        "Instrument Jurisdiction",
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/popular-mechanics-has-gone-mad-with-power.md",
+      "mirror_html_path": "/articles/popular-mechanics-has-gone-mad-with-power.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/popular-mechanics-has-gone-mad-with-power.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/popular-mechanics-has-gone-mad-with-power.html",
+      "sha256_plaintext": "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
+    },
     {
       "title": "Tales of Distortion: The Arrival of Artificial Intelligence",
       "slug": "tales-of-distortion-the-arrival-of-artificial-intelligence",

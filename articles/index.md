@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-03T04:56:52.641Z
+Generated: 2026-09-03T11:39:36.433Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-03 — [Field Instruments: The Verification Gradient](/articles/field-instruments-the-verification-gradient.md) ([HTML](/articles/field-instruments-the-verification-gradient.html))
+- 2026-09-03 — [The Dispatch Floor Solves the Game](/articles/the-dispatch-floor-solves-the-game.md) ([HTML](/articles/the-dispatch-floor-solves-the-game.html))
+- 2026-09-03 — [Popular Mechanics Has Gone Mad With Power](/articles/popular-mechanics-has-gone-mad-with-power.md) ([HTML](/articles/popular-mechanics-has-gone-mad-with-power.html))
 - 2026-09-02 — [Tales of Distortion: The Arrival of Artificial Intelligence](/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.md) ([HTML](/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.html))
 - 2026-09-02 — [The Inner Apocalypse](/articles/the-inner-apocalypse.md) ([HTML](/articles/the-inner-apocalypse.html))
 - 2026-09-02 — [WAICO Is the Hard Case](/articles/ia-waico-is-the-hard-case.md) ([HTML](/articles/ia-waico-is-the-hard-case.html))
