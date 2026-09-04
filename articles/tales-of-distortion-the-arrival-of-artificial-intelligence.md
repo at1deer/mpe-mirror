@@ -3,13 +3,13 @@ title: "Tales of Distortion: The Arrival of Artificial Intelligence"
 slug: "tales-of-distortion-the-arrival-of-artificial-intelligence"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-arrival-of-artificial-intelligence/"
 published_at: "2026-09-02T12:48:54.000-05:00"
-updated_at: "2026-09-02T12:48:54.000-05:00"
+updated_at: "2026-09-03T18:43:06.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
 # **Discovery.**

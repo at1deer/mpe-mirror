@@ -5,9 +5,9 @@ canonical_url: "https://modalpathethics.com/field-instruments-the-verification-g
 published_at: "2026-09-03T06:30:25.000-05:00"
 updated_at: "2026-09-03T06:30:26.000-05:00"
 tags:
-  []
+  - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
 # Field Instruments: The Verification Gradient

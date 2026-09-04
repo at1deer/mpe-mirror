@@ -7,7 +7,7 @@ updated_at: "2026-08-31T06:00:09.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
 ---
 # Outer Sovereignty: The Guardian

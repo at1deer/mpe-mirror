@@ -3,11 +3,11 @@ title: "The Inner Apocalypse"
 slug: "the-inner-apocalypse"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse/"
 published_at: "2026-09-02T06:00:58.000-05:00"
-updated_at: "2026-09-02T06:00:57.000-05:00"
+updated_at: "2026-09-03T18:43:24.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
 ---
 # The Inner Apocalypse

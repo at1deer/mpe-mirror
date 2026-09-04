@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
 # Field Instruments: Open Weights and the Release Gradient

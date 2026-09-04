@@ -7,7 +7,7 @@ updated_at: "2026-08-09T06:50:51.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-03T21:17:01.886Z"
+mirror_generated_at: "2026-09-04T05:05:58.595Z"
 sha256_plaintext: "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
 ---
 # SLIME WATCH: The Slimy Sea of Slop
