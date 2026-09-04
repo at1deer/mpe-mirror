@@ -1,9 +1,60 @@
 {
-  "generated_at": "2026-09-04T05:05:58.595Z",
+  "generated_at": "2026-09-04T11:45:02.014Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 273,
+  "article_count": 276,
   "articles": [
+    {
+      "title": "Applied Case: Claude’s Constitution",
+      "slug": "applied-case-claudes-constitution",
+      "published_at": "2026-09-04T06:05:16.000-05:00",
+      "updated_at": "2026-09-04T06:05:15.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-claudes-constitution/",
+      "excerpt": "Anthropic wrote a constitution for a mind.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-claudes-constitution.md",
+      "mirror_html_path": "/articles/applied-case-claudes-constitution.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html",
+      "sha256_plaintext": "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
+    },
+    {
+      "title": "Modal Path Ethics Apologizes to Roger Penrose",
+      "slug": "modal-path-ethics-apologizes-to-roger-penrose",
+      "published_at": "2026-09-04T05:52:37.000-05:00",
+      "updated_at": "2026-09-04T06:03:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/",
+      "excerpt": "The Tiny Throne is still coming down; I still did not need to throw it at him. Time for the part where Modal Path Ethics gets embarassing.",
+      "tags": [
+        "News",
+        "Incoherence"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.html",
+      "sha256_plaintext": "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
+    },
+    {
+      "title": "Ellen is Present",
+      "slug": "ellen-is-present",
+      "published_at": "2026-09-04T05:30:53.000-05:00",
+      "updated_at": "2026-09-04T05:30:52.000-05:00",
+      "canonical_url": "https://modalpathethics.com/ellen-is-present/",
+      "excerpt": "Standing is not prediction.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/ellen-is-present.md",
+      "mirror_html_path": "/articles/ellen-is-present.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/ellen-is-present.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/ellen-is-present.html",
+      "sha256_plaintext": "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
+    },
     {
       "title": "Field Instruments: The Verification Gradient",
       "slug": "field-instruments-the-verification-gradient",

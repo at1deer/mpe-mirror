@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-04T05:05:58.595Z"
+mirror_generated_at: "2026-09-04T11:45:02.014Z"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine

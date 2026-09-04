@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-04T05:05:58.595Z
+Generated: 2026-09-04T11:45:02.014Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-04 — [Applied Case: Claude’s Constitution](/articles/applied-case-claudes-constitution.md) ([HTML](/articles/applied-case-claudes-constitution.html))
+- 2026-09-04 — [Modal Path Ethics Apologizes to Roger Penrose](/articles/modal-path-ethics-apologizes-to-roger-penrose.md) ([HTML](/articles/modal-path-ethics-apologizes-to-roger-penrose.html))
+- 2026-09-04 — [Ellen is Present](/articles/ellen-is-present.md) ([HTML](/articles/ellen-is-present.html))
 - 2026-09-03 — [Field Instruments: The Verification Gradient](/articles/field-instruments-the-verification-gradient.md) ([HTML](/articles/field-instruments-the-verification-gradient.html))
 - 2026-09-03 — [The Dispatch Floor Solves the Game](/articles/the-dispatch-floor-solves-the-game.md) ([HTML](/articles/the-dispatch-floor-solves-the-game.html))
 - 2026-09-03 — [Popular Mechanics Has Gone Mad With Power](/articles/popular-mechanics-has-gone-mad-with-power.md) ([HTML](/articles/popular-mechanics-has-gone-mad-with-power.html))

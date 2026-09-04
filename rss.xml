@@ -4,8 +4,32 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 05:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:45:02 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Claude’s Constitution</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</guid>
+      <pubDate>Fri, 04 Sep 2026 11:05:16 GMT</pubDate>
+      <description>Anthropic wrote a constitution for a mind.</description>
+    </item>
+
+    <item>
+      <title>Modal Path Ethics Apologizes to Roger Penrose</title>
+      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.html</guid>
+      <pubDate>Fri, 04 Sep 2026 10:52:37 GMT</pubDate>
+      <description>The Tiny Throne is still coming down; I still did not need to throw it at him. Time for the part where Modal Path Ethics gets embarassing.</description>
+    </item>
+
+    <item>
+      <title>Ellen is Present</title>
+      <link>https://modal-path-ethics.ghost.io/articles/ellen-is-present.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/ellen-is-present.html</guid>
+      <pubDate>Fri, 04 Sep 2026 10:30:53 GMT</pubDate>
+      <description>Standing is not prediction.</description>
+    </item>
+
     <item>
       <title>Field Instruments: The Verification Gradient</title>
       <link>https://modal-path-ethics.ghost.io/articles/field-instruments-the-verification-gradient.html</link>
@@ -380,30 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-infowars.html</guid>
       <pubDate>Wed, 12 Aug 2026 11:00:58 GMT</pubDate>
       <description>The frogs were the easy part.</description>
-    </item>
-
-    <item>
-      <title>Australia vs. The Biosphere: The Dingo Fence</title>
-      <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-dingo-fence.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-the-dingo-fence.html</guid>
-      <pubDate>Wed, 12 Aug 2026 10:30:54 GMT</pubDate>
-      <description>AUS 1 • BIO 2</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Endless Battle</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-endless-battle.html</guid>
-      <pubDate>Tue, 11 Aug 2026 11:00:11 GMT</pubDate>
-      <description>Turn 846. The opposing Slowbro used Recycle! The opposing Slowbro found one Leppa Berry!</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Entropy, Memory, and Erasure</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-entropy-memory-and-erasure.html</guid>
-      <pubDate>Tue, 11 Aug 2026 10:30:14 GMT</pubDate>
-      <description>The gradient is gone.</description>
     </item>
   </channel>
 </rss>
