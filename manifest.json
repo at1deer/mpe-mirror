@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-04T16:34:06.118Z",
+  "generated_at": "2026-09-04T20:59:48.466Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 276,
+  "article_count": 277,
   "articles": [
+    {
+      "title": "Applied Case: The Superintelligence Ban Cannot Find the Superintelligence",
+      "slug": "applied-case-the-superintelligence-ban-cannot-find-the-superintelligence",
+      "published_at": "2026-09-04T13:13:59.000-05:00",
+      "updated_at": "2026-09-04T13:13:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence/",
+      "excerpt": "\nBernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md",
+      "mirror_html_path": "/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html",
+      "sha256_plaintext": "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
+    },
     {
       "title": "Applied Case: Claude’s Constitution",
       "slug": "applied-case-claudes-constitution",

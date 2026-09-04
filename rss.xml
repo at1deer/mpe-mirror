@@ -4,8 +4,17 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 04 Sep 2026 16:34:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:59:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Superintelligence Ban Cannot Find the Superintelligence</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html</guid>
+      <pubDate>Fri, 04 Sep 2026 18:13:59 GMT</pubDate>
+      <description>
+Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</description>
+    </item>
+
     <item>
       <title>Applied Case: Claude’s Constitution</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</link>
@@ -396,14 +405,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-slowing-down.html</guid>
       <pubDate>Thu, 13 Aug 2026 11:00:09 GMT</pubDate>
       <description>(Finally)</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: InfoWars</title>
-      <link>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-infowars.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/tales-of-distortion-the-infowars.html</guid>
-      <pubDate>Wed, 12 Aug 2026 11:00:58 GMT</pubDate>
-      <description>The frogs were the easy part.</description>
     </item>
   </channel>
 </rss>
