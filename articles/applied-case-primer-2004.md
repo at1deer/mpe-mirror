@@ -10,7 +10,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-04T20:59:48.466Z"
+mirror_generated_at: "2026-09-05T04:53:36.118Z"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)
