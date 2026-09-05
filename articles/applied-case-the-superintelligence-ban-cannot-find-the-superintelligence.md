@@ -7,7 +7,7 @@ updated_at: "2026-09-04T13:13:59.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-05T04:53:36.118Z"
+mirror_generated_at: "2026-09-05T10:53:04.581Z"
 sha256_plaintext: "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
 ---
 # Applied Case: The Superintelligence Ban Cannot Find the Superintelligence

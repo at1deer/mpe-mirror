@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 05 Sep 2026 04:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:53:04 GMT</lastBuildDate>
     
+    <item>
+      <title>Three Lines Across One Body</title>
+      <link>https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.html</guid>
+      <pubDate>Sat, 05 Sep 2026 10:30:19 GMT</pubDate>
+      <description>Jurisdiction follows function.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Superintelligence Ban Cannot Find the Superintelligence</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html</link>
@@ -397,14 +405,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/the-nerd-reich-is-the-easy-case.html</guid>
       <pubDate>Fri, 14 Aug 2026 11:00:02 GMT</pubDate>
       <description>The harder political problem begins when nobody admits they want a throne.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics is Slowing Down</title>
-      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-slowing-down.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-slowing-down.html</guid>
-      <pubDate>Thu, 13 Aug 2026 11:00:09 GMT</pubDate>
-      <description>(Finally)</description>
     </item>
   </channel>
 </rss>

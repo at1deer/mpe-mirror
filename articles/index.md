@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-05T04:53:36.118Z
+Generated: 2026-09-05T10:53:04.581Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-05 — [Three Lines Across One Body](/articles/three-lines-across-one-body.md) ([HTML](/articles/three-lines-across-one-body.html))
 - 2026-09-04 — [Applied Case: The Superintelligence Ban Cannot Find the Superintelligence](/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md) ([HTML](/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html))
 - 2026-09-04 — [Applied Case: Claude’s Constitution](/articles/applied-case-claudes-constitution.md) ([HTML](/articles/applied-case-claudes-constitution.html))
 - 2026-09-04 — [Modal Path Ethics Apologizes to Roger Penrose](/articles/modal-path-ethics-apologizes-to-roger-penrose.md) ([HTML](/articles/modal-path-ethics-apologizes-to-roger-penrose.html))

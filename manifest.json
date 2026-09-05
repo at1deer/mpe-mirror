@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-05T04:53:36.118Z",
+  "generated_at": "2026-09-05T10:53:04.581Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 277,
+  "article_count": 278,
   "articles": [
+    {
+      "title": "Three Lines Across One Body",
+      "slug": "three-lines-across-one-body",
+      "published_at": "2026-09-05T05:30:19.000-05:00",
+      "updated_at": "2026-09-05T05:30:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/three-lines-across-one-body/",
+      "excerpt": "Jurisdiction follows function.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/three-lines-across-one-body.md",
+      "mirror_html_path": "/articles/three-lines-across-one-body.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.html",
+      "sha256_plaintext": "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
+    },
     {
       "title": "Applied Case: The Superintelligence Ban Cannot Find the Superintelligence",
       "slug": "applied-case-the-superintelligence-ban-cannot-find-the-superintelligence",
