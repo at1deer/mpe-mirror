@@ -3,13 +3,13 @@ title: "Failed Field Analysts: Antonin Scalia and the Frozen Grammar"
 slug: "failed-field-analysts-antonin-scalia-and-the-frozen-grammar"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-antonin-scalia-and-the-frozen-grammar/"
 published_at: "2026-09-05T06:05:35.000-05:00"
-updated_at: "2026-09-05T06:05:34.000-05:00"
+updated_at: "2026-09-05T12:12:20.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-05T15:29:22.081Z"
-sha256_plaintext: "ffa050c68bd72020bb33cf38126f41cf91a82705e4b5d11c508ccdf9442a68f4"
+mirror_generated_at: "2026-09-05T20:40:15.017Z"
+sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
 # Failed Field Analysts: Antonin Scalia and the Frozen Grammar
 

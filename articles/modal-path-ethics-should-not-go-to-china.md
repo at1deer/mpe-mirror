@@ -7,7 +7,7 @@ updated_at: "2026-08-25T21:16:18.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-05T15:29:22.081Z"
+mirror_generated_at: "2026-09-05T20:40:15.017Z"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
 # Modal Path Ethics Should Not Go to China
