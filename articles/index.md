@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-05T10:53:04.581Z
+Generated: 2026-09-05T15:29:22.081Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-05 — [Functional Field Analysts: Tukaram Mundhe and the Lives of People](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.md) ([HTML](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.html))
+- 2026-09-05 — [Failed Field Analysts: Antonin Scalia and the Frozen Grammar](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.md) ([HTML](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.html))
 - 2026-09-05 — [Three Lines Across One Body](/articles/three-lines-across-one-body.md) ([HTML](/articles/three-lines-across-one-body.html))
 - 2026-09-04 — [Applied Case: The Superintelligence Ban Cannot Find the Superintelligence](/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md) ([HTML](/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html))
 - 2026-09-04 — [Applied Case: Claude’s Constitution](/articles/applied-case-claudes-constitution.md) ([HTML](/articles/applied-case-claudes-constitution.html))

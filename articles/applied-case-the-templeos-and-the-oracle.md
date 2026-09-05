@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-05T10:53:04.581Z"
+mirror_generated_at: "2026-09-05T15:29:22.081Z"
 sha256_plaintext: "99998336ae9e69ae4dbf2142d5a110cf7cbcc331091b9842517f6480e460ad2c"
 ---
 # Applied Case: The TempleOS

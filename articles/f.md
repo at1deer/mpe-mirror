@@ -8,7 +8,7 @@ tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-05T10:53:04.581Z"
+mirror_generated_at: "2026-09-05T15:29:22.081Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
