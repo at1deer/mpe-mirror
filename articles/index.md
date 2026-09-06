@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-06T15:43:05.454Z
+Generated: 2026-09-06T20:45:13.700Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-06 — [SLIME WATCH III: Ghostbusters](/articles/slime-watch-iii-ghostbusters.md) ([HTML](/articles/slime-watch-iii-ghostbusters.html))
 - 2026-09-06 — [Hoel and the Causal Locus](/articles/hoel-and-the-causal-locus.md) ([HTML](/articles/hoel-and-the-causal-locus.html))
 - 2026-09-06 — [Applied Case: China Gives the Moon a Cool Style Guide](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md) ([HTML](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.html))
 - 2026-09-06 — [Five Maps of One River](/articles/five-maps-of-one-river.md) ([HTML](/articles/five-maps-of-one-river.html))

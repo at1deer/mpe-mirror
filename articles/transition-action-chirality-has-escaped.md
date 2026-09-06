@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-06T15:43:05.454Z"
+mirror_generated_at: "2026-09-06T20:45:13.700Z"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped

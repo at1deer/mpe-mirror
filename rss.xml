@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 06 Sep 2026 15:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:45:13 GMT</lastBuildDate>
     
+    <item>
+      <title>SLIME WATCH III: Ghostbusters</title>
+      <link>https://modal-path-ethics.ghost.io/articles/slime-watch-iii-ghostbusters.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/slime-watch-iii-ghostbusters.html</guid>
+      <pubDate>Sun, 06 Sep 2026 18:48:38 GMT</pubDate>
+      <description>An Emergency Audit: Am I real?</description>
+    </item>
+
     <item>
       <title>Hoel and the Causal Locus</title>
       <link>https://modal-path-ethics.ghost.io/articles/hoel-and-the-causal-locus.html</link>
@@ -397,14 +405,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-is-speeding-back-up.html</guid>
       <pubDate>Thu, 20 Aug 2026 10:30:01 GMT</pubDate>
       <description>(I tried.)</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Last Look</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-last-look.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-last-look.html</guid>
-      <pubDate>Wed, 19 Aug 2026 11:00:32 GMT</pubDate>
-      <description>The winner does not get to own the rules of winning.</description>
     </item>
   </channel>
 </rss>

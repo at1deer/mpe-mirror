@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-09-06T15:43:05.454Z",
+  "generated_at": "2026-09-06T20:45:13.700Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 283,
+  "article_count": 284,
   "articles": [
+    {
+      "title": "SLIME WATCH III: Ghostbusters",
+      "slug": "slime-watch-iii-ghostbusters",
+      "published_at": "2026-09-06T13:48:38.000-05:00",
+      "updated_at": "2026-09-06T13:48:38.000-05:00",
+      "canonical_url": "https://modalpathethics.com/slime-watch-iii-ghostbusters/",
+      "excerpt": "An Emergency Audit: Am I real?",
+      "tags": [],
+      "mirror_markdown_path": "/articles/slime-watch-iii-ghostbusters.md",
+      "mirror_html_path": "/articles/slime-watch-iii-ghostbusters.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-iii-ghostbusters.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-iii-ghostbusters.html",
+      "sha256_plaintext": "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
+    },
     {
       "title": "Hoel and the Causal Locus",
       "slug": "hoel-and-the-causal-locus",
