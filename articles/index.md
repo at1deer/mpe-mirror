@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-06T05:01:10.658Z
+Generated: 2026-09-06T11:17:37.296Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-06 — [Five Maps of One River](/articles/five-maps-of-one-river.md) ([HTML](/articles/five-maps-of-one-river.html))
 - 2026-09-05 — [Functional Field Analysts: Tukaram Mundhe and the Lives of People](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.md) ([HTML](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.html))
 - 2026-09-05 — [Failed Field Analysts: Antonin Scalia and the Frozen Grammar](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.md) ([HTML](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.html))
 - 2026-09-05 — [Three Lines Across One Body](/articles/three-lines-across-one-body.md) ([HTML](/articles/three-lines-across-one-body.html))
