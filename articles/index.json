@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-06T11:17:37.296Z",
+  "generated_at": "2026-09-06T15:43:05.454Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 281,
+  "article_count": 283,
   "articles": [
+    {
+      "title": "Hoel and the Causal Locus",
+      "slug": "hoel-and-the-causal-locus",
+      "published_at": "2026-09-06T07:00:59.000-05:00",
+      "updated_at": "2026-09-06T07:00:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/hoel-and-the-causal-locus/",
+      "excerpt": "Modal Path Ethics has spent months dissolving the object. That may be a problem.",
+      "tags": [
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/hoel-and-the-causal-locus.md",
+      "mirror_html_path": "/articles/hoel-and-the-causal-locus.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/hoel-and-the-causal-locus.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/hoel-and-the-causal-locus.html",
+      "sha256_plaintext": "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
+    },
+    {
+      "title": "Applied Case: China Gives the Moon a Cool Style Guide",
+      "slug": "applied-case-china-gives-the-moon-a-cool-style-guide",
+      "published_at": "2026-09-06T06:30:48.000-05:00",
+      "updated_at": "2026-09-06T06:30:47.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-china-gives-the-moon-a-cool-style-guide/",
+      "excerpt": "Space Race 2.5 Pro",
+      "tags": [],
+      "mirror_markdown_path": "/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md",
+      "mirror_html_path": "/articles/applied-case-china-gives-the-moon-a-cool-style-guide.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-china-gives-the-moon-a-cool-style-guide.html",
+      "sha256_plaintext": "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
+    },
     {
       "title": "Five Maps of One River",
       "slug": "five-maps-of-one-river",

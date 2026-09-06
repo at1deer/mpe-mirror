@@ -7,7 +7,7 @@ updated_at: "2026-09-02T05:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-06T11:17:37.296Z"
+mirror_generated_at: "2026-09-06T15:43:05.454Z"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
 # WAICO Is the Hard Case

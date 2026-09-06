@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-06T11:17:37.296Z
+Generated: 2026-09-06T15:43:05.454Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-06 — [Hoel and the Causal Locus](/articles/hoel-and-the-causal-locus.md) ([HTML](/articles/hoel-and-the-causal-locus.html))
+- 2026-09-06 — [Applied Case: China Gives the Moon a Cool Style Guide](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md) ([HTML](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.html))
 - 2026-09-06 — [Five Maps of One River](/articles/five-maps-of-one-river.md) ([HTML](/articles/five-maps-of-one-river.html))
 - 2026-09-05 — [Functional Field Analysts: Tukaram Mundhe and the Lives of People](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.md) ([HTML](/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.html))
 - 2026-09-05 — [Failed Field Analysts: Antonin Scalia and the Frozen Grammar](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.md) ([HTML](/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.html))
