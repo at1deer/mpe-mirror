@@ -3,12 +3,12 @@ title: "Applied Case: Tennessee Found $1.2 Billion"
 slug: "applied-case-tennessee-found-1-2-billion"
 canonical_url: "https://modalpathethics.com/applied-case-tennessee-found-1-2-billion/"
 published_at: "2026-09-07T06:00:30.000-05:00"
-updated_at: "2026-09-07T06:00:30.000-05:00"
+updated_at: "2026-09-07T14:25:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-07T12:58:14.212Z"
+mirror_generated_at: "2026-09-07T21:44:45.243Z"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion
@@ -585,7 +585,7 @@ A permanent grocery-tax repeal is a different instrument. Current Tennessee legi
 
 That policy may deserve its own argument.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1062-1.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-1062-1.png)
 
 This $1.2 billion cannot settle it.
 
@@ -602,8 +602,6 @@ Especially here.
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1061.png)
 
 Of this $1.2 billion overage, about **$757 million came from franchise and excise taxes running above estimate**.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1065.png)
 
 Turning an _unexpectedly high corporate-tax year_ directly into **permanent corporate-tax reduction** would convert temporary performance into a permanent claim against future public capacity.
 
@@ -628,8 +626,6 @@ The surplus should still be available for a bridge, retaining wall, drainage sys
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1068.png)
 
 It should not automatically become another road-expansion fund because roads are administratively good at being ready when money appears.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-1069.png)
 
 The existing thing that is breaking gets priority over the new thing that creates another maintenance tail.
 

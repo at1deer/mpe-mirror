@@ -8,7 +8,7 @@ tags:
   - "News"
   - "Incoherence"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-07T12:58:14.212Z"
+mirror_generated_at: "2026-09-07T21:44:45.243Z"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose

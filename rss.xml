@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 07 Sep 2026 12:58:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 21:44:45 GMT</lastBuildDate>
     
+    <item>
+      <title>Convergence Point: Sangmok Kim and the Other Path</title>
+      <link>https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.html</guid>
+      <pubDate>Mon, 07 Sep 2026 18:38:52 GMT</pubDate>
+      <description>Apparently there is a neighborhood.</description>
+    </item>
+
+    <item>
+      <title>Al-Ghazali and the Last Instrument</title>
+      <link>https://modal-path-ethics.ghost.io/articles/al-ghazali-and-the-last-instrument.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/al-ghazali-and-the-last-instrument.html</guid>
+      <pubDate>Mon, 07 Sep 2026 13:00:44 GMT</pubDate>
+      <description>A Modal Path Ethics engagement with inherited certainty, philosophy, practice, revelation, and the limits of correction.</description>
+    </item>
+
     <item>
       <title>Applied Case: Tennessee Found $1.2 Billion</title>
       <link>https://modal-path-ethics.ghost.io/articles/applied-case-tennessee-found-1-2-billion.html</link>
@@ -389,22 +405,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-firing-of-sam-altman.html</guid>
       <pubDate>Sat, 22 Aug 2026 11:00:24 GMT</pubDate>
       <description>Removal is not succession.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Agents Cooperated</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-cooperated.html</guid>
-      <pubDate>Fri, 21 Aug 2026 11:30:46 GMT</pubDate>
-      <description>The 2026 OpenAI-HuggingFace incident. The field intelligence gap, but for machines.</description>
-    </item>
-
-    <item>
-      <title>Return to the Negative Boat</title>
-      <link>https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/return-to-the-negative-boat.html</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:29 GMT</pubDate>
-      <description>The boundary of the account is not the boundary of the field.</description>
     </item>
   </channel>
 </rss>

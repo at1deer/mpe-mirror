@@ -1,14 +1,49 @@
 {
-  "generated_at": "2026-09-07T12:58:14.212Z",
+  "generated_at": "2026-09-07T21:44:45.243Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 286,
+  "article_count": 288,
   "articles": [
+    {
+      "title": "Convergence Point: Sangmok Kim and the Other Path",
+      "slug": "convergence-point-sangmok-kim-and-the-other-path",
+      "published_at": "2026-09-07T13:38:52.000-05:00",
+      "updated_at": "2026-09-07T13:41:45.000-05:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/",
+      "excerpt": "Apparently there is a neighborhood.",
+      "tags": [
+        "The Convergence Point",
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.md",
+      "mirror_html_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.html",
+      "sha256_plaintext": "6b005823656e0477078951fb21d810e42cf180d3ae92fe8760852131d18b6bd2"
+    },
+    {
+      "title": "Al-Ghazali and the Last Instrument",
+      "slug": "al-ghazali-and-the-last-instrument",
+      "published_at": "2026-09-07T08:00:44.000-05:00",
+      "updated_at": "2026-09-07T08:00:43.000-05:00",
+      "canonical_url": "https://modalpathethics.com/al-ghazali-and-the-last-instrument/",
+      "excerpt": "A Modal Path Ethics engagement with inherited certainty, philosophy, practice, revelation, and the limits of correction.",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Sacred Instruments"
+      ],
+      "mirror_markdown_path": "/articles/al-ghazali-and-the-last-instrument.md",
+      "mirror_html_path": "/articles/al-ghazali-and-the-last-instrument.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/al-ghazali-and-the-last-instrument.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/al-ghazali-and-the-last-instrument.html",
+      "sha256_plaintext": "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
+    },
     {
       "title": "Applied Case: Tennessee Found $1.2 Billion",
       "slug": "applied-case-tennessee-found-1-2-billion",
       "published_at": "2026-09-07T06:00:30.000-05:00",
-      "updated_at": "2026-09-07T06:00:30.000-05:00",
+      "updated_at": "2026-09-07T14:25:32.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-tennessee-found-1-2-billion/",
       "excerpt": "The boats come first",
       "tags": [
@@ -55,7 +90,7 @@
       "title": "Hoel and the Causal Locus",
       "slug": "hoel-and-the-causal-locus",
       "published_at": "2026-09-06T07:00:59.000-05:00",
-      "updated_at": "2026-09-06T07:00:58.000-05:00",
+      "updated_at": "2026-09-07T15:50:30.000-05:00",
       "canonical_url": "https://modalpathethics.com/hoel-and-the-causal-locus/",
       "excerpt": "Modal Path Ethics has spent months dissolving the object. That may be a problem.",
       "tags": [
@@ -303,7 +338,7 @@
       "title": "WAICO Is the Hard Case",
       "slug": "ia-waico-is-the-hard-case",
       "published_at": "2026-09-02T05:00:17.000-05:00",
-      "updated_at": "2026-09-02T05:00:16.000-05:00",
+      "updated_at": "2026-09-07T15:51:08.000-05:00",
       "canonical_url": "https://modalpathethics.com/ia-waico-is-the-hard-case/",
       "excerpt": "Multipolarity can distribute crowns without abolishing the crown.",
       "tags": [
