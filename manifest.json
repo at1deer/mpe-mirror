@@ -1,9 +1,42 @@
 {
-  "generated_at": "2026-09-07T05:09:08.983Z",
+  "generated_at": "2026-09-07T12:58:14.212Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 284,
+  "article_count": 286,
   "articles": [
+    {
+      "title": "Applied Case: Tennessee Found $1.2 Billion",
+      "slug": "applied-case-tennessee-found-1-2-billion",
+      "published_at": "2026-09-07T06:00:30.000-05:00",
+      "updated_at": "2026-09-07T06:00:30.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-tennessee-found-1-2-billion/",
+      "excerpt": "The boats come first",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-tennessee-found-1-2-billion.md",
+      "mirror_html_path": "/articles/applied-case-tennessee-found-1-2-billion.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-tennessee-found-1-2-billion.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-tennessee-found-1-2-billion.html",
+      "sha256_plaintext": "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
+    },
+    {
+      "title": "The Water Does Not Move",
+      "slug": "the-water-does-not-move",
+      "published_at": "2026-09-07T05:30:16.000-05:00",
+      "updated_at": "2026-09-07T05:30:16.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-water-does-not-move/",
+      "excerpt": "Listening is not correction.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-water-does-not-move.md",
+      "mirror_html_path": "/articles/the-water-does-not-move.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-water-does-not-move.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-water-does-not-move.html",
+      "sha256_plaintext": "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
+    },
     {
       "title": "SLIME WATCH III: Ghostbusters",
       "slug": "slime-watch-iii-ghostbusters",

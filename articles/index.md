@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-07T05:09:08.983Z
+Generated: 2026-09-07T12:58:14.212Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-07 — [Applied Case: Tennessee Found $1.2 Billion](/articles/applied-case-tennessee-found-1-2-billion.md) ([HTML](/articles/applied-case-tennessee-found-1-2-billion.html))
+- 2026-09-07 — [The Water Does Not Move](/articles/the-water-does-not-move.md) ([HTML](/articles/the-water-does-not-move.html))
 - 2026-09-06 — [SLIME WATCH III: Ghostbusters](/articles/slime-watch-iii-ghostbusters.md) ([HTML](/articles/slime-watch-iii-ghostbusters.html))
 - 2026-09-06 — [Hoel and the Causal Locus](/articles/hoel-and-the-causal-locus.md) ([HTML](/articles/hoel-and-the-causal-locus.html))
 - 2026-09-06 — [Applied Case: China Gives the Moon a Cool Style Guide](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md) ([HTML](/articles/applied-case-china-gives-the-moon-a-cool-style-guide.html))
