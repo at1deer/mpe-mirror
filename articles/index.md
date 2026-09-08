@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-08T11:41:03.709Z
+Generated: 2026-09-08T16:49:05.568Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-08 — [Simondon and the Locus in Formation](/articles/simondon-and-the-locus-in-formation.md) ([HTML](/articles/simondon-and-the-locus-in-formation.html))
+- 2026-09-08 — [Applied Case: The Agents Institutionalized](/articles/applied-case-the-agents-institutionalized.md) ([HTML](/articles/applied-case-the-agents-institutionalized.html))
 - 2026-09-08 — [Field Instruments: The Firm](/articles/field-instruments-the-firm.md) ([HTML](/articles/field-instruments-the-firm.html))
 - 2026-09-07 — [Convergence Point: Sangmok Kim and the Other Path](/articles/convergence-point-sangmok-kim-and-the-other-path.md) ([HTML](/articles/convergence-point-sangmok-kim-and-the-other-path.html))
 - 2026-09-07 — [Al-Ghazali and the Last Instrument](/articles/al-ghazali-and-the-last-instrument.md) ([HTML](/articles/al-ghazali-and-the-last-instrument.html))

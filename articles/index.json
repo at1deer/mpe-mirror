@@ -1,9 +1,41 @@
 {
-  "generated_at": "2026-09-08T11:41:03.709Z",
+  "generated_at": "2026-09-08T16:49:05.568Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 289,
+  "article_count": 291,
   "articles": [
+    {
+      "title": "Simondon and the Locus in Formation",
+      "slug": "simondon-and-the-locus-in-formation",
+      "published_at": "2026-09-08T09:11:45.000-05:00",
+      "updated_at": "2026-09-08T10:43:10.000-05:00",
+      "canonical_url": "https://modalpathethics.com/simondon-and-the-locus-in-formation/",
+      "excerpt": "The causal locus is in immediate peril.",
+      "tags": [
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/simondon-and-the-locus-in-formation.md",
+      "mirror_html_path": "/articles/simondon-and-the-locus-in-formation.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/simondon-and-the-locus-in-formation.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/simondon-and-the-locus-in-formation.html",
+      "sha256_plaintext": "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
+    },
+    {
+      "title": "Applied Case: The Agents Institutionalized",
+      "slug": "applied-case-the-agents-institutionalized",
+      "published_at": "2026-09-08T07:00:42.000-05:00",
+      "updated_at": "2026-09-08T07:00:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-agents-institutionalized/",
+      "excerpt": "\nAn institution begins when recurrent coordination becomes inherited structure. The Wiki Incident.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-agents-institutionalized.md",
+      "mirror_html_path": "/articles/applied-case-the-agents-institutionalized.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-institutionalized.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-institutionalized.html",
+      "sha256_plaintext": "ffa6d80e976bc6d792f1bad08ca21b353d03589665d62affad3ca589f401dd01"
+    },
     {
       "title": "Field Instruments: The Firm",
       "slug": "field-instruments-the-firm",

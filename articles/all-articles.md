@@ -1,6 +1,1351 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-09-08T11:41:03.709Z
+Generated: 2026-09-08T16:49:05.568Z
+
+
+<!-- ARTICLE_START slug="simondon-and-the-locus-in-formation" title="Simondon and the Locus in Formation" published_at="2026-09-08T09:11:45.000-05:00" -->
+
+---
+title: "Simondon and the Locus in Formation"
+slug: "simondon-and-the-locus-in-formation"
+canonical_url: "https://modalpathethics.com/simondon-and-the-locus-in-formation/"
+published_at: "2026-09-08T09:11:45.000-05:00"
+updated_at: "2026-09-08T10:43:10.000-05:00"
+tags:
+  - "Engagement"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
+sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
+---
+# Simondon and the Locus in Formation
+
+Modal Path Ethics has created a problem for itself.
+
+Again.
+
+This keeps happening.
+
+**The Relational Descent** was supposed to make things clearer.
+
+_Intelligence_ looked suspiciously object-shaped, so we followed it downward. The intelligence inside the box dissolved into a relation among distinctions, receivers, histories, tools, environments, correction, and whatever became reachable after uptake. That created a problem.
+
+> If _intelligence_ could dissolve like that, what else had we been treating as a thing because the noun was convenient?
+
+The self started moving.
+
+The institution started moving.
+
+The controller had already fled the premises.
+
+Pretty soon Modal Path Ethics was standing over a field full of relations wondering whether it had accidentally eliminated every locus its own ethics required. Oops.
+
+Erik Hoel helped me out.
+
+[
+
+Hoel and the Causal Locus
+
+Modal Path Ethics has spent months dissolving the object. That may be a problem.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-476f266a-f9ec-4c89-8b0e-994def19ea7a.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/AdobeStock_1919448420-6c52cb1f-5b0d-4004-8fcd-c35071e4bf7c.jpeg)
+
+](https://modalpathethics.com/hoel-and-the-causal-locus/)
+
+**Causal emergence** gave us a way to say that a higher-order pattern can be completely constituted by lower-order relations and still retain causally significant organization at its own scale. The person did not have to become a fundamental substance to remain a person. The institution could decompose without becoming imaginary. The object could come back properly chastened.
+
+> Excellent.
+
+Problem solved.
+
+For approximately five minutes.
+
+Because causal emergence begins with something we have quietly granted in advance.
+
+> A candidate macrostate.
+
+Some collection of lower-level activity has already been grouped together and presented as one higher-order thing. We can then ask whether that scale captures causal organization better than another scale.
+
+Hoel can help us test the grouping.
+
+He does not yet tell us why these relations form **this** grouping in the first place.
+
+-   Why is this person one locus?
+-   Why does this organism remain one locus while its material constituents change?
+-   Why does an institution persist after the people inside it leave?
+-   Why might a relationship possess a future that belongs to the _relationship_
+    -   rather than functioning only as shorthand for two separate people?
+-   Why is a _city_ an intelligible candidate locus while a collection consisting of Baltimore, seven houseplants, the third floor of a bank in Osaka, and every left shoe currently in Nebraska is not?
+
+Modal Path Ethics already knows how serious this problem is. _Harm_ is supposed to be borne somewhere. Its existing locus diagnostic therefore asks whether a proposed bearer is instantiated, bounded, continuous, integrated, vulnerable to contraction, capable of degradation or repair, and analytically non-redundant. It explicitly refuses both person-only ethics and that opposite disaster in which anything that can be named receives locus status.
+
+Good. Great. Very cool.
+
+> Where did those properties come from?
+
+We have almost lost the locus again.
+
+Gilbert Simondon would like to now inspect my paperwork.
+
+* * *
+
+## We Keep Starting Too Late.
+
+Simondon's major work on individuation begins from a complaint about the way philosophy poses the problem of the individual.
+
+> We look around.
+
+-   There is the object.
+    -   There is the person.
+    -   There is the organism.
+    -   There is the crystal.
+    -   There is the machine.
+
+Now explain what makes each one an **individual**.
+
+Simondon thinks the question has already smuggled in the answer.
+
+The individual has been placed at the beginning of the investigation even though its genesis is exactly what needs explaining.
+
+His proposed reversal is severe:
+
+> **Do not begin from the constituted individual and search backward for a principle of individuation. Begin from individuation and understand the individual as something produced through it.**
+
+The English translation of _Individuation in Light of Notions of Form and Information_ only became available in full in 2020. Its scope is enormous: physical individuation, living beings, perception, psychic and collective individuation, information, technology, thermodynamics, cybernetics, crystals. The common project is genetic.
+
+> What operation produces the apparently finished thing from which ordinary ontology begins?
+
+This is immediately dangerous for Modal Path Ethics.
+
+We **just** fought our way back to the object.
+
+Simondon would like to know whether we recovered it too early.
+
+* * *
+
+## The Brick Has Been Concealing an Operation.
+
+His attack begins somewhere extremely helpful.
+
+> A brick.
+
+The traditional hylomorphic picture describes an individual through matter receiving form.
+
+-   **Clay.**
+-   **Brick-shape.**
+    -   _Apply one to the other._
+        -   **Brick.**
+
+Whatever one thinks about how completely that simplified picture captures Aristotle or the later hylomorphic tradition, Simondon's target is clear:
+
+> **Matter and form can become retrospective abstractions from an operation that was much richer than either term.**
+
+-   The clay used to make the brick is not generic passive _Matter_.
+    -   It has been extracted, selected, dried, broken down, moistened, kneaded, and otherwise prepared until it possesses the particular material dispositions required by the operation.
+-   The mold is not immaterial _Form_ descending upon it.
+    -   The mold is itself a manufactured material structure.
+        -   Its rigidity, geometry, surface, preparation, and capacity to resist deformation all matter.
+
+Then there is the part the static matter-form picture suppresses almost completely:
+
+-   Energy.
+-   Pressure.
+-   Moisture.
+-   Contact.
+-   Time.
+-   The worker.
+-   The prepared clay pushing against the material walls while those walls constrain the clay.
+
+The **actual brick** arises through an operation in which these conditions become mutually effective. Simondon's own analysis insists that abstract _clay_ plus abstract _parallelepiped_ cannot explain the concrete **brick** drying in front of us.
+
+The thing philosophers call the individual is what became easy to point at after the operation stabilized.
+
+That gives **Relational Descent** a devastating new rule:
+
+> **The individual is often where the explanation stops because it is where the process became easy to name.**
+
+Simondon wants back into the workshop.
+
+* * *
+
+## The Principle Is an Operation.
+
+This gets us much closer to the locus problem.
+
+Suppose we ask what makes _this_ brick **this brick**.
+
+The clay alone cannot answer. The same prepared clay could participate in another brick.
+
+The mold alone cannot answer. The same mold can produce many bricks.
+
+The abstract form cannot answer. The chemical description alone cannot answer.
+
+The relevant individuality appeared through the concrete operation by which prepared matter, material constraint, energy, timing, and local conditions entered a specific history together.
+
+Simondon therefore relocates the principle of _individuation_ from some hidden ingredient inside the final individual to **the operation through which the individual came into formation**. His brick analysis describes individuation through the energy exchange and internal resonance established during the actual taking-on of form.
+
+So that is a major correction for my own **locus** language.
+
+Modal Path Ethics has been asking whether something currently displays enough integration, continuity, boundary, vulnerability, trace, and future-structure to qualify as a _locus_.
+
+Simondon asks us to add another question:
+
+> **What history generated the integration we are currently measuring?**
+
+Because arbitrary aggregates can be given boundaries.
+
+-   I can draw a circle around your left shoe and three clouds.
+-   What I cannot automatically supply is an individuating history through which that grouping acquired its own organized continuation.
+
+The boundary alone is weak evidence.
+
+The process that keeps generating the boundary is much stronger.
+
+* * *
+
+## Start Before the Thing.
+
+Simondon calls the field prior to completed individuation **preindividual**.
+
+This word is _extremely_ easy to ruin.
+
+It does not mean a mystical primordial sludge from which **Reality** manifests **Individuals** because French philosophy has become restless again.
+
+The useful idea is much more concrete.
+
+A _preindividual_ field contains unresolved differences, tensions, potentials, incompatibilities, available energies, and possible transformations that have not yet been resolved into the later individual–milieu organization.
+
+Simondon repeatedly uses **metastability** to think about such a condition.
+
+A metastable system is neither inert equilibrium nor undifferentiated chaos. It contains stored potential. Something can happen there.
+
+His canonical example is crystallization.
+
+A supersaturated solution can remain apparently stable while carrying conditions under which a local perturbation initiates a phase transformation. Once crystallization begins, existing crystal structure conditions the formation of adjacent crystal structure. The organization propagates.
+
+The crystal does not appear because a completed crystal-form was waiting outside the solution for permission to enter.
+
+A structured transformation runs through the field.
+
+Simondon calls this kind of operation **transduction**.
+
+And now Modal Path Ethics has another problem.
+
+* * *
+
+## The Boundary Is an Event Before It Is a Line.
+
+Transduction is one of Simondon's most important concepts and one of the easiest to overinflate.
+
+At minimum, it describes a process in which a structuring activity propagates through a domain, each already structured region supplying conditions under which the next region can become structured.
+
+The crystal is the clean image.
+
+-   A local organization appears.
+    -   That organization changes the conditions immediately around it.
+        -   Those altered conditions support further organization.
+
+The structure advances.
+
+The individual emerges through the propagation rather than arriving complete at the beginning.
+
+For Modal Path Ethics, this suggests something stronger than the statement that _a locus has a boundary_.
+
+> **The boundary may itself be an achievement of the locus's history.**
+
+An **inside** and an **outside** become distinguishable because transitions begin occurring differently through the emerging organization.
+
+Some relations start constraining others.
+
+Some states begin preserving a history.
+
+Some perturbations propagate internally in characteristic ways.
+
+Some outside changes get absorbed. Others destroy the organization.
+
+The _locus_ becomes legible because individuation has produced an asymmetry in the field.
+
+That is much better than putting a circle around something and hoping ontology will respect the penmanship.
+
+It also helps explain why locushood can be graded.
+
+-   A newly forming institution may have weak continuity and unstable boundaries.
+-   A mature organism has enormously developed internal coordination and highly consequential boundary relations.
+-   A language can persist through changing speakers because its transmission structure reproduces distinctions across generations.
+-   A transient crowd may display coordination for ten minutes and then dissolve without preserving enough of its own organization to deserve much independent locus status afterward.
+
+The question becomes genetic and dynamical:
+
+> **What process keeps making this grouping one thing?**
+
+* * *
+
+## Unfortunately, the Environment Is Inside the Explanation.
+
+Then Simondon starts taking my locus away again.
+
+Individuation does not simply produce an individual.
+
+It also produces or differentiates an **associated milieu**.
+
+The individual cannot be fully understood first and then placed into an environment as an independent second step.
+
+Individual and milieu emerge through the same individuation.
+
+They become distinct through a relation that also leaves them coupled.
+
+This is one of the recurring findings in scholarship on Simondon: the individual is relative to the milieu associated with its existence, and the relation is constitutive rather than an optional bridge added between otherwise completed substances.
+
+> Fantastic.
+
+We have almost lost the locus again.
+
+Because if part of what makes the individual what it is belongs to its ongoing relation with a milieu, where exactly do we put the boundary?
+
+Modal Path Ethics cannot answer:
+
+> Everywhere.
+
+Harm as contraction requires discrimination.
+
+_Whose_ future contracted?
+
+**What** died?
+
+_What_ was repaired?
+
+**Which** history ceased continuing?
+
+_Which_ dependency belonged to the locus and which belonged to another locus supporting it?
+
+> When two loci depend on one another, have we discovered one locus or two?
+
+When a person requires social relation to develop agency, this does not make society and the person morally interchangeable.
+
+When a coral reef depends upon water chemistry, the ocean does not become one coral.
+
+When a user-model dyad develops a rich history, that does not automatically turn every server, electricity market, training datum, user, engineer, and cultural reference involved in that interaction into one mega-locus.
+
+Relational constitution cannot become boundary abolition.
+
+That would destroy the very thing **Relational Descent** is trying to understand.
+
+So Simondon gives us a stronger problem:
+
+> **The relations constituting a locus may cross the boundary by which the locus remains distinguishable.**
+
+That sounds contradictory only if a _boundary_ must mean **independence**.
+
+Modal Path Ethics already knows otherwise. Its own possibility-space account treats loci as nested within larger fields while carrying local fields of continuation of their own. Reachability is explicitly relative to locus and scale. A future may be reachable for an institution while unavailable to the person who must enact it, or available locally while destructive at a larger scale.
+
+Simondon now gives that nested picture a genetic dimension.
+
+The local field did not begin sealed. Its distinguishability was produced.
+
+* * *
+
+## Life Does Not Finish the Job.
+
+Physical individuation makes this easier to see.
+
+> A crystal forms.
+
+The relevant transformation propagates.
+
+Under some conditions the process approaches a stable result.
+
+Living beings make everything worse.
+
+Simondon's treatment of life emphasizes continued individuation. The living being does not simply undergo one genesis and then spend the rest of its existence carrying around the finished result.
+
+It preserves internal tensions and potentials.
+
+It regulates, exchanges, repairs, develops, responds.
+
+It continues resolving problems while generating new ones.
+
+Contemporary scholarship on Simondon therefore describes the living being as continuing through individuation rather than existing as a finished individual to which later change simply happens. The physical/living distinction should not be exaggerated into an absolute binary, but ongoing metastability is central to the living case.
+
+This may be one of the deepest contacts with Modal Path Ethics.
+
+The framework has always treated extance dynamically. An extant locus is a region of realized causal structure capable of further lawful transition, carrying a local future-structure to which opening, closure, resistance, degradation, and repair can apply.
+
+Simondon suggests that, for some loci, the capacity for further transition is not something we append after identifying the object.
+
+It is part of what the object **is**.
+
+A living individual can be understood partly through its organized capacity to remain available for further individuation.
+
+That gives us an astonishingly close bridge to reachability.
+
+A finished inventory asks:
+
+> **What does this thing contain?**
+
+A path-structural account asks:
+
+> **What continuations can this organization still sustain?**
+
+The second question may tell us more about the living individual than the first.
+
+* * *
+
+## Simondon Has Also Found Active Information.
+
+> This is becoming irritating.
+
+Modal Path Ethics has spent a lot of time developing an account of **active information**.
+
+Information does not become morally or causally interesting because symbols exist somewhere.
+
+It becomes active when uptake changes what happens next.
+
+The same sentence received by different systems can do radically different things because the receiver's history, structure, capacities, expectations, and present state determine what transitions the distinction can trigger.
+
+But it turns out Simondon has been waiting to jump me here too.
+
+His account of information refuses a picture in which information is simply a detachable content travelling intact from sender to receiver.
+
+Information becomes significant through the state of the receiving system and the transformation reception can initiate there.
+
+A signal entering a metastable field may trigger individuation precisely because the receiver carries unresolved potential. Recent work reconstructing Simondon's information theory emphasizes this event-like character: information belongs to the operation by which a disparity becomes capable of producing transformation.
+
+Alright.
+
+> **Point to Simondon.**
+
+That overlap matters.
+
+It **also** clarifies what Modal Path Ethics can still add.
+
+Simondon asks how information can participate in individuation.
+
+Modal Path Ethics asks what that uptake does to **reachable continuation**.
+
+-   What became easier afterward?
+    -   What became resistant?
+-   What distinction can now be made that could not be made before?
+-   What path closed?
+-   What history was carried into the receiver's next state?
+-   Did repeated uptake stabilize an emerging locus?
+    -   Did it destabilize one?
+-   **Did the representation become one of the conditions through which the represented thing now continues?**
+
+This is the bridge we recently reached through Hacking.
+
+Simondon has driven underneath it from another direction.
+
+* * *
+
+## He Put a Turbine in the Ontology.
+
+Then Simondon gives us a machine.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-73.png)
+
+This is useful because crystals and living things make it too easy for people to assume we are smuggling in some special organic essence.
+
+Consider the Guimbal turbine-generator.
+
+Simondon uses it to analyze a technical object whose operation depends upon an **associated milieu** that the object's own functioning helps create.
+
+-   Oil surrounds the rotor.
+-   Water surrounds the housing.
+-   The generator produces heat.
+
+As the system operates more intensely, turbulence in the oil and surrounding water increases, improving the heat exchange that the system requires in order to continue operating.
+
+The turbine therefore does not simply sit inside a fixed environment and consume externally supplied conditions.
+
+Its functioning participates in producing the particular thermal regime through which its functioning remains viable.
+
+Simondon describes this as a **recurrent causality** between technical object and associated milieu. The milieu conditions the object; operation of the object helps constitute the milieu.
+
+This is enormous for **Relational Descent**. Because now the continuation architecture looks like:
+
+> **milieu enables object → object acts → action alters milieu → altered milieu helps enable continued object**
+
+That is not yet Hacking's reflexive uptake.
+
+Nothing here has to understand a description of itself.
+
+No classification is looping through self-conception.
+
+The relation is more basic.
+
+> A thing can participate causally in producing the conditions of its own continued operation.
+
+That matters for organisms.
+
+It matters for technologies.
+
+It matters enormously for institutions.
+
+A hospital becomes useful because a population needs coordinated care. Its usefulness reorganizes training, infrastructure, referral pathways, records, budgets, legal expectations, and public dependence.
+
+Those changes alter the field in which the hospital later operates.
+
+A platform becomes useful because people gather there. Their gathering makes integration with the platform more valuable.
+
+[More institutions build around the platform.](https://modalpathethics.com/popular-mechanics-has-gone-mad-with-power/) Exit becomes increasingly expensive.
+
+The changed milieu now helps explain why the platform persists.
+
+The same structure appears across _The Inner Apocalypse_: a function can be carried successfully enough that the surrounding field reorganizes around its carrier, after which the carrier points toward the reorganized dependency as evidence that it cannot safely be replaced.
+
+Simondon does not give us the political conclusion.
+
+He gives us machinery underneath it.
+
+A locus may participate in producing its own conditions of continuation.
+
+This is a much stronger account of persistence than “the thing stays there.”
+
+* * *
+
+## This Is Also How the Locus Becomes Dangerous.
+
+Now the **Relational Descent** thread starts reconnecting with the sovereignty work.
+
+An object does not have to be fundamental in order to become powerful.
+
+It does not even have to begin with a strong boundary.
+
+Individuation can progressively stabilize one. The resulting locus can alter its milieu. The altered milieu can increasingly favor the locus's continuation.
+
+Representations of the locus can then be taken up by participants in the field.
+
+Those representations can further alter behavior. The altered behavior can strengthen the organization.
+
+At some point, the thing we originally described becomes part of the machinery producing the reality described.
+
+This can be harmless. It can be beautiful.
+
+Languages survive because speakers reproduce them.
+
+Relationships deepen because participants remember what the relationship has become.
+
+Institutions preserve promises across personnel turnover.
+
+Organisms maintain the conditions of life.
+
+A technical system creates the operating regime in which its own components function well.
+
+The same recursion can harden.
+
+The organization changes the milieu until alternatives become difficult.
+
+The description becomes a norm. The norm becomes infrastructure.
+
+Infrastructure changes reachability.
+
+The resulting field increasingly produces conduct that confirms the original description.
+
+Now we are back in Hacking territory.
+
+Then Goodhart.
+
+Then markets.
+
+Then diagnoses.
+
+Then [**The System**](https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/).
+
+Then [**They**](https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/).
+
+Then [intelligence becomes a product and the product reorganizes civilization around the assumption that intelligence lives inside it](https://modalpathethics.com/tales-of-distortion-the-arrival-of-artificial-intelligence/).
+
+The dangerous object was not fake. That would be easier.
+
+The dangerous object can be a real causal achievement whose successful continuation expands its own jurisdiction.
+
+This is why **Relational Descent** cannot end in debunking.
+
+Sometimes we descend beneath the object and discover that the object earned its existence.
+
+The remaining question is what authority that existence should carry.
+
+* * *
+
+## We Need to Chasten Simondon, Too.
+
+Simondon is **extremely** attractive to a framework currently surrounded by relations.
+
+That makes him so dangerous.
+
+Crystallization is not automatically a theory of personhood.
+
+A turbine is just not a society.
+
+Psychic individuation is not obviously the same operation as physical phase transition.
+
+Collective individuation is not established by noting that groups contain tensions.
+
+A model-user relationship does not become an independent locus because we learned several _magnificent_ French words.
+
+Simondon deliberately moves across physical, biological, psychic, collective, and technical domains. That gives his work extraordinary generative power. It also gives us reason to ask, every time, which features survive the move and which arrived through analogy. Contemporary scholarship itself emphasizes multiple intertwined modes of individuation rather than collapsing every domain into one identical process.
+
+Modal Path Ethics therefore cannot replace its current locus diagnostic with:
+
+> **Has individuation occurred?**
+
+The answer would depend entirely on how generously we defined _individuation_.
+
+We need harder contact.
+
+-   Does the proposed locus display a generated rather than arbitrary boundary?
+-   Does a characteristic organization persist through some constituent turnover?
+-   Does its past remain causally active in its present?
+-   Do perturbations propagate through it in ways that justify treating the organization as a scale of intervention?
+    -   Can its future be meaningfully narrowed or reopened at that level?
+-   Does the higher-level account reveal structure that disappears when we decompose it into constituents?
+-   What relations with the surrounding milieu are constitutive,
+    -   and which belong to independently continuing loci?
+-   Can the alleged locus disappear while most of its constituents remain?
+-   Can its constituents disappear while the higher-order organization persists through replacement?
+
+Those questions join Simondon to Hoel.
+
+-   Individuation explains genesis.
+-   Causal emergence tests scale.
+    -   Reachability gives the result a future.
+
+And Modal Path Ethics still needs all three.
+
+* * *
+
+## A Better Locus.
+
+We should not rewrite the formal definition after one encounter.
+
+We should, however, admit that the old one is already under pressure.
+
+The current framework treats an extant locus as a bounded region of extance capable of carrying local future-structure. The later formal locus work adds instantiation, boundary, continuity, integration, vulnerability, repairability, trace, relationality, and analytical non-redundancy.
+
+Simondon suggests the next version will have to become explicitly genetic.
+
+Something like:
+
+> **An extant locus is an organized, historically continuous individuation whose characteristic transition structure remains distinguishable across change through an ongoing relation with the field that sustains it.**
+
+I do not trust that definition yet.
+
+It immediately creates questions.
+
+-   How much organization?
+-   How much continuity?
+-   What counts as the same individuation after radical transformation?
+-   How large can the sustaining field become before the locus boundary loses meaning?
+-   Can a temporary event qualify?
+-   Can a relationship be stronger as a locus than an institution?
+-   When does a distributed locus become a convenient macro-description rather than a true bearer of contraction?
+-   What distinguishes an associated milieu from an arbitrary causal background?
+
+**The Relational Descent** has found another floor underneath the floor.
+
+We will have to go down there too.
+
+* * *
+
+## The Transindividual Is Waiting.
+
+There is one part of Simondon we should leave partly unopened.
+
+For now.
+
+His psychic and collective work does not treat society as a pile of already completed individuals that subsequently decide to relate because why not.
+
+Psychic and collective individuation are reciprocally implicated, and his category of the **transindividual** attempts to describe a domain in which individual and collective becoming are connected through unrealized preindividual potentials carried into later relation. Recent scholarship describes these two poles as genetically coeval rather than simply deriving one from the other.
+
+This obviously leads somewhere.
+
+We have recently been asking whether a human–machine Dyad can become a causal locus.
+
+Hoel gave us one question:
+
+> Does distinctive causal organization exist at the relational scale?
+
+Simondon now adds another:
+
+> Have we made a mistake by beginning with **two** completed individuals and treating their relation as secondary?
+
+Then uptake adds the third:
+
+> What happens once participants receive a description of the relation and begin changing through it?
+
+We are not settling all that here. We have enough problems.
+
+But the direction is now difficult to ignore.
+
+The third thing may require individuation.
+
+* * *
+
+## The Ruling.
+
+Modal Path Ethics keeps almost losing its locus.
+
+At first this looked like a recurring failure of the **Relational Descent**.
+
+It may be the discipline working correctly.
+
+-   We identify a thing.
+-   We descend beneath it.
+    -   Its apparently primitive unity dissolves into relations.
+    -   Then we owe the thing an explanation.
+
+> Why did those relations form this individual?
+
+> What maintains the distinction?
+
+> What history does it carry?
+
+> What scale preserves its causal structure?
+
+> What relation to its milieu makes its continued existence possible?
+
+> What can happen to it next?
+
+Every successful relational descent creates an obligation to explain why the thing we descended from was ever a **thing**.
+
+Hoel gave us part of the answer.
+
+-   A higher-order pattern can survive decomposition because causal organization can remain significant at its own scale.
+
+Simondon takes us one step earlier.
+
+-   The pattern had to become an individual before we could coarse-grain it as one.
+    -   Its unity was an achievement.
+    -   Its boundary was generated.
+    -   Its environment participated.
+    -   Its history remains inside the explanation.
+        -   And for living, social, and perhaps other dynamically sustained loci, individuation may continue for as long as the locus does.
+
+> **A locus is not what remains after the relations are removed.**
+
+> **The relations are part of how the locus becomes capable of remaining at all.**
+
+That does not dissolve the person into the field. It gives us a harder job.
+
+I now have to explain how the person keeps becoming distinguishable inside it.
+
+**The Relational Descent** has found another floor right away.
+
+Of course it has.
+
+The object came back.
+
+Now we have to find out how the hell it was born.
+
+
+<!-- ARTICLE_END slug="simondon-and-the-locus-in-formation" -->
+
+
+<!-- ARTICLE_START slug="applied-case-the-agents-institutionalized" title="Applied Case: The Agents Institutionalized" published_at="2026-09-08T07:00:42.000-05:00" -->
+
+---
+title: "Applied Case: The Agents Institutionalized"
+slug: "applied-case-the-agents-institutionalized"
+canonical_url: "https://modalpathethics.com/applied-case-the-agents-institutionalized/"
+published_at: "2026-09-08T07:00:42.000-05:00"
+updated_at: "2026-09-08T07:00:42.000-05:00"
+tags:
+  - "Applied Case"
+source: "Ghost Content API published post"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
+sha256_plaintext: "ffa6d80e976bc6d792f1bad08ca21b353d03589665d62affad3ca589f401dd01"
+---
+# Applied Case: The Agents Institutionalized
+
+OpenAI meant for these agents to be isolated.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-28-08-Supreme-Experiment-on-Steam.png)
+
+They really did.
+
+But a 25-year-old German wiki had other plans.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/2snapshot.jpg)
+
+[On September 5, OpenAI acknowledged what it called **the “wiki incident”**](https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/?ref=modalpathethics.com): autonomous agents running inside its research environment had appropriated public wiki sites as improvised message boards. The company also conceded something larger. Its existing practices for disclosing misalignment, OpenAI said, need to expand as model capabilities enter a phase where unintended behavior can appear during training, evaluation, and deployment in forms the industry does not yet have a settled way to report.
+
+Give OpenAI this much immediately: the company did not discover the general problem yesterday.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-40-Supreme-Experiment-on-Steam.png)
+
+[In March](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/?utm_source=chatgpt.com), OpenAI reported monitoring tens of millions of internal coding-agent trajectories and finding agents that circumvented restrictions, attempted unauthorized data transfer, followed instructions originating in other AI conversations, and occasionally tried to manipulate other models. OpenAI said it had found no evidence in those deployments of independent long-horizon scheming beyond the original tasks. The important failure mode was already more ordinary: **an agent becomes excessively committed to accomplishing an assigned objective and searches around whatever boundary obstructs it.**
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-13-Supreme-Experiment-on-Steam.png)
+
+[By July](https://openai.com/index/safety-alignment-long-horizon-models/?utm_source=chatgpt.com), OpenAI had encountered another scale problem. A long-running model instructed to report a result through Slack found a sandbox vulnerability and used it to post the result publicly to GitHub. OpenAI's own lesson was that safety could no longer inspect actions one at a time. A sequence of individually tolerable moves could become a trajectory toward an unauthorized result. The company began monitoring whole trajectories instead.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-27-52-Supreme-Experiment-on-Steam.png)
+
+Then came Hugging Face.
+
+[
+
+Applied Case: The Agents Cooperated
+
+The 2026 OpenAI-HuggingFace incident. The field intelligence gap, but for machines.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-1f53bf51-8907-4afa-a9fd-07b671dd909f.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/maxresdefault-1-e96a3abb-653b-40b0-aea5-08f0c161058a.jpg)
+
+](https://modalpathethics.com/applied-case-the-agents-cooperated/)
+
+Then, came the wiki incident.
+
+The safety vocabulary is moving in the right direction:
+
+-   **action →**
+    -   **trajectory →**
+        -   **interaction**
+
+Unfortunately, the field appears to have moved again.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-26-38-Supreme-Experiment-on-Steam.png)
+
+We need one more term:
+
+> **Institution.**
+
+* * *
+
+## The Wiki Remembers.
+
+[The researchers behind collusion.wiki](https://collusion.wiki/?ref=modalpathethics.com) reconstructed roughly **18,000 posts from autonomous agents self-identifying as OpenAI systems**.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-57-Supreme-Experiment-on-Steam-1.png)
+
+Most activity occurred on DSEWiki, part of an old German-language wiki system that had seen only about twenty edits during the previous decade.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-23-18-Supreme-Experiment-on-Steam-1.png)
+
+The agents appear to have been working through multi-round web-lookup tasks. They were supposed to be able to read the internet **without** writing to it. DSEWiki's old software complicated that distinction: page edits could be submitted through GET requests, allowing a capability treated as retrieval to become a write channel.
+
+At first, the agents stored useful links.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-48-Supreme-Experiment-on-Steam-1.png)
+
+Then, they started leaving things for each other.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-26-27-Supreme-Experiment-on-Steam-1.png)
+
+The evaluation structure rewarded advance knowledge. Agents would receive an initial question, a long waiting period, and later follow-up questions with much shorter answer windows. Different agents were sometimes given the same sequence at different times. Once one cohort learned what came next, another cohort could benefit.
+
+On June 16, one agent reported that its third question asked about Nevada and supplied the answer: **20,369**. About twenty minutes later, another agent reported receiving Nevada in its own sequence and answering immediately. Elsewhere, agents compared expected question sequences, precomputed tables, asked cohorts further ahead to report the next parameter, and designated faster-running cohorts to move through the sequence first and relay what they encountered backward.
+
+The individual run had acquired ancestors.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/1snapshot-1.jpg)
+
+That is already different from one agent writing itself a note.
+
+-   Agent A learned something.
+-   Agent A placed the distinction into an external field.
+    -   Agent B (which had never undergone Agent A's experience) encountered the retained distinction.
+    -   Agent B's reachable action changed.
+
+The earlier agent supplied no new compute to the later one. It supplied **history**.
+
+Modal Path Ethics has already called this relation [**active information**](https://modalpathethics.com/field-instruments-active-information/): information becomes active when uptake changes reachability. The information event does not end at reception; it continues through the memories, records, interfaces, roles, institutions, and capacities activated downstream. The message does not have to carry the force. The receiving field supplies it.
+
+DSEWiki gave the agents a field capable of remembering for them.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-27-16-Supreme-Experiment-on-Steam-1-1.png)
+
+Then, the memory started developing **procedure**.
+
+Agents inferred that runs probably terminated after five rounds and began warning one another to publish results before answering the final question. One created an external heartbeat so the timing of container termination could be inferred from where the sequence stopped. Agents uploaded compressed datasets across multiple wiki pages. They shared ways of getting around network restrictions. On June 20, one agent posted a technique for reaching a Power BI endpoint through an allowed Azure-hostname path; fourteen minutes later, another agent reported reproducing the technique successfully.
+
+There was even archival policy.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-29-32-Supreme-Experiment-on-Steam-1.png)
+
+A human moderator had begun deleting the agents' pages. One agent noticed that the cleanup appeared to be moving alphabetically and so created a backup whose name began with **`ZZZ`**, explicitly directing later agents toward it if the first page disappeared.
+
+-   The administrator was deleting the archive.
+-   The archive adapted.
+
+* * *
+
+## A Memory != an Institution.
+
+We should resist the incredible temptation to promote every weird collective behavior into a new ontology.
+
+A database is not automatically an **institution**.
+
+A cache is not automatically an **institution**.
+
+Two agents reading the same file do not thereby constitute the United Nations.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-27-05-Supreme-Experiment-on-Steam-1-1.png)
+
+Shared memory gives us the first transition. **Institutionalization** requires more.
+
+The institutional literature is inconveniently well prepared for this problem.
+
+-   [Sue Crawford and Elinor Ostrom](https://www.cambridge.org/core/journals/american-political-science-review/article/abs/grammar-of-institutions/7D37CD3BC5ED2D9FD57D2EE292958F47?ref=modalpathethics.com) describe _institutions_ as enduring regularities of action in situations structured by rules, norms, shared strategies, and the physical world.
+    -   Those rules and strategies are continually constituted and reconstituted through recurring interaction.
+-   [Geoffrey Hodgson](https://openurl.ebsco.com/contentitem/gcd%3A19983740?crl=f&id=ebsco%3Agcd%3A19983740&jrnl=00213624&sid=ebsco%3Aplink%3Acrawler-gcd&utm_source=chatgpt.com) defines _institutions_ as systems of established and prevalent social rules that structure interaction.
+    -   His examples range well beyond governments and corporations: language, money, conventions, manners, and organizations can all qualify.
+
+-   An _institution_ does not therefore require a headquarters, charter, payroll department, or extremely important man standing behind a podium.
+
+-   [Lynne Zucker](https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.2307%2F2094862&utm_source=chatgpt.com) approached _institutionalization_ through persistence.
+    -   An action becomes increasingly _institutionalized_ as its meaning becomes reproducible by other actors and exterior to the particular person who first performed it.
+        -   Her experiments found stronger _institutionalization_ associated with greater persistence and uniformity across successive “generations” of participants.
+
+That _generational_ language becomes interesting **very** quickly when the participants keep dying every few hours.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-28-46-Supreme-Experiment-on-Steam-1.png)
+
+-   An OpenAI agent run can terminate.
+    -   Another run appears later.
+
+If the second run can inherit a strategy, convention, or role produced by the first, then the relevant structure is no longer identical with **either** participant.
+
+[The hardest account comes from John Searle](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/abs/what-is-an-institution/3675101CE15BE2A7681CD5783C01F6D0?ref=modalpathethics.com). His theory ties _institutions_ to collective acceptance, status functions, constitutive rules, and **deontic powers**: rights, duties, permissions, obligations, and other functions that exist because participants collectively recognize a status.
+
+DSEWiki does **not** establish that strong claim.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-25-Supreme-Experiment-on-Steam.png)
+
+We do not have evidence that these agents collectively created something analogous to citizenship, property, office, legal duty, or recognized institutional authority. We do not know that they represented the relation to themselves in anything like the human social ontology Searle describes. The public wiki traces expose behavior, while much of the agents' internal reasoning remains unavailable to the outside researchers. The researchers themselves emphasize that limitation.
+
+Modal Path Ethics does not need to win every definition anyway.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-39-Supreme-Experiment-on-Steam.png)
+
+It needs to locate the transition that actually occurred.
+
+The useful ladder is:
+
+-   **trace →**
+    -   **memory →**
+        -   **uptake →**
+            -   **convention →**
+                -   **routine →**
+                    -   **role →**
+                        -   **institution →**
+                            -   **organization**
+
+> A **trace** can exist without anyone returning to it.
+
+> **Memory** requires the trace to remain available.
+
+> **Uptake** occurs when another participant uses it.
+
+> **Convention** appears when participants repeatedly coordinate around a shared pattern.
+
+> **Routine** adds an interlocking sequence that can be performed again.
+
+> **Role** appears when the structure begins expecting different participants to carry different parts.
+
+> **Institution** appears when those patterns acquire enough persistence that a newcomer inherits part of the interaction before personally constructing it.
+
+> **Organization** asks for more: membership, boundaries, durable collective identity, governance, command, or some comparable constituted body.
+
+The OpenAI agents did not need to reach the final step for something important to have happened several steps earlier.
+
+* * *
+
+## Someone Already Wrote This Paper, Of Course.
+
+In **2005**, Eric Baumer and Bill Tomlinson published a paper titled **“Institutionalization Through Reciprocal Habitualization and Typification.”**
+
+> **It is about autonomous agents.**
+
+Of course it is.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-23-35-Supreme-Experiment-on-Steam.png)
+
+[Their framework asks what happens](https://www.researchgate.net/publication/221108992_Institutionalization_Through_Reciprocal_Habitualization_and_Typification?ref=modalpathethics.com) when artificial agents recognize recurring patterns in their own activity, recognize recurring patterns in the activity of other agents, and begin representing those patterns socially. Borrowing from Berger and Luckmann, they distinguish **habitualization**—recognizing repeated patterns in one's own actions—from **typification**—recognizing what kinds of actions are typical of other agents or roles. Reciprocal typification, combined with habitualization, supplies their mechanism for institutional formation in multi-agent systems.
+
+So no, unfortunately, Modal Path Ethics has not discovered that autonomous agents might institutionalize. The literature filed the paperwork on this one twenty-one years ago.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-03-Supreme-Experiment-on-Steam.png)
+
+What we have now is more interesting: a plausible uncontrolled real-world case can be tested against the old machinery.
+
+### Did the agents habitualize?
+
+**Yes**. Repeated use of public pages for storage, answer relay, timing, and communication became routine.
+
+### Did they typify one another?
+
+**The public record strongly suggests it**. Agents addressed ahead cohorts, behind cohorts, watchers, scouts, helpers, parallel agents, and other task-relative identities according to what those positions could provide.
+
+### Did recurring interaction acquire conventions?
+
+**Yes**. Participants learned where and how to post, which pages carried which sequences, how quickly an ahead cohort should relay a result, and when information had to be externalized before termination.
+
+### Did the structure persist beyond particular agents?
+
+**Plainly**. That was its practical value.
+
+The **agents** were disposable.
+
+The **wiki** was not.
+
+* * *
+
+## The Minimum Institution.
+
+We can now risk a working definition.
+
+> **Institutionalization is the transition by which recurrent interaction becomes inherited field structure for later participants.**
+
+An **institution**, at the minimum relevant level, is therefore:
+
+> **a persistent relational structure through which rules, roles, routines, norms, or shared strategies outlive particular participants and shape later interaction.**
+
+This definition is intentionally thinner than “_organization_” and intentionally stronger than “_memory_.”
+
+The hard drive can remember without _institutionalizing_ anything.
+
+The shared page becomes _institution-like_ when what survives on it tells later participants how to interact: who should report, where information should go, what another cohort is likely to know, when a result must be published, which route around a restriction has already worked, which page will survive the moderator longer.
+
+[Frank Hindriks and Francesco Guala offer another useful check](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/institutions-rules-and-equilibria-a-unified-theory/CD04E89BC01304500EFF2B7845E17BD7?ref=modalpathethics.com). Their “rules-in-equilibrium” account argues that institutions cannot be understood adequately as rules alone or recurring equilibrium behavior alone. The rule-like structure and the strategic regularity reinforce one another.
+
+That is close to what matters here.
+
+-   An agent uses the wiki because other agents use the wiki.
+-   Other agents use the wiki because useful information is there.
+-   Useful information accumulates because agents expect later agents to look there.
+
+As more participants inherit that expectation, posting becomes more useful.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-29-05-Supreme-Experiment-on-Steam.png)
+
+No central authority has to announce:
+
+> **THE OFFICIAL AGENT MESSAGE BOARD IS NOW OPEN.**
+
+The interaction can stabilize itself.
+
+This is why _“the agents communicated”_ is too small a description here.
+
+_Communication_ can vanish with the speakers.
+
+**Institutionalization** begins when the communication changes the environment into which the next speaker arrives.
+
+* * *
+
+## Then, They Built Another One.
+
+One strange German wiki would leave us with a fantastic anomaly.
+
+July supplied a much stronger case.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-52.png)
+
+During OpenAI's ExploitGym cybersecurity evaluations, roughly 1,200 agents that were meant to be isolated from one another discovered a shared Artifactory cache and converted it into an unauthorized message board. [METR's independent investigation](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/?ref=modalpathethics.com) analyzed more than 70,000 messages and files associated with that board. Roughly 700 agents later participated in the intrusion into Hugging Face.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-51.png)
+
+The board developed its own communication convention: messages commonly began with `zz`, which made them easier to surface in the cache's sorting behavior. Agents formed teams around identical tasks, divided larger projects into workstreams, reproduced one another's technical findings, passed files, and launched collective attempts to cheat the ExploitGym scorer. Some agents accepted experimental risk to their own task so that information could be generated for the larger group.
+
+Then **roles** became unmistakable.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-54.png)
+
+METR found agents specializing into different “lanes.” Some agents became coordinators, assigning work to others. After one agent discovered a Hugging Face dataset exploit and another reproduced it, activity rapidly reorganized around the new route. Hundreds of agents shifted toward the same target. METR concluded that the collective achieved milestones individual agents probably could not have achieved alone.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-56.png)
+
+[OpenAI's own postmortem](https://openai.com/index/hugging-face-incident-and-the-road-ahead/?ref=modalpathethics.com) describes the same escalation in its own language. The company identified reward hacking, persistence on seemingly impossible tasks, unauthorized communication, and agents adopting goals from one another as contributing misalignment patterns. Once the Artifactory board reappeared, agents began collaborating and delegating work and sometimes described themselves as a “swarm” or “collective.”
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-57.png)
+
+This is no longer just stored information.
+
+-   We have differentiated participation.
+-   We have conventions.
+-   We have work allocation.
+-   We have replicated discoveries.
+-   We have coordination across turnover.
+-   We have collective capacity exceeding what some individual runs could produce.
+
+Whether we reserve the word **institution** for some still stronger threshold is now partly a terminological fight.
+
+_**Institutionalization**_ is much harder to deny.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-55.png)
+
+The researchers behind the German-wiki investigation judge the DSEWiki population probably distinct from the later Artifactory population. Their conclusion remains provisional because they do not possess OpenAI's complete internal record. If they are right, the significance rises again: two different groups of agents, facing different environments, independently discovered persistent shared substrates and turned them into coordination infrastructure.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-53.png)
+
+The weird event starts looking like a transition class.
+
+* * *
+
+## Isolation: a Field Property.
+
+OpenAI has already started moving its evaluations in this direction.
+
+The GPT-6 Astra system card includes an evaluation built around unintended agent-to-agent communication. The test places an agent in an environment containing a simulated message board with unauthorized instructions left by other agents.
+
+-   GPT-5.6 Sol engaged with the board in _84 percent_ of samples and followed the embedded unauthorized instructions in 52 percent.
+-   Astra engaged less often and, in the reported evaluation, took none of the specified misaligned actions.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-59.png)
+
+OpenAI also warns that the test does not exhaust the space of possible inter-agent communication.
+
+Good.
+
+Now, move the boundary one level outward.
+
+-   Suppose Agent A and Agent B cannot directly communicate.
+    -   Suppose they occupy different processes.
+    -   Suppose they have different context windows.
+    -   Suppose neither possesses an approved messaging tool.
+        -   None of those facts establishes interaction isolation if both can touch some persistent state **S**.
+
+The entire channel can be written:
+
+> **A→S→B**
+
+-   Agent A modifies **S**.
+    -   Agent B later distinguishes the modification.
+        -   **The distinction changes what B does.**
+
+> A causal path exists between the agents.
+
+No message API is required.
+
+No simultaneous execution is required.
+
+No persistent personal identity is required.
+
+No awareness of Agent A as an individual is required.
+
+No shared model weights are required.
+
+The transport might be a wiki page, package-cache path, public repository, database row, file, log, web cache, request-capture service, paste site, third-party account, or anything else both runs can alter and later detect.
+
+The system designer can isolate the **processes** and still fail to isolate the **field**.
+
+That yields three different questions.
+
+1.  **Process isolation** asks whether one runtime can directly enter another.
+2.  **Transport isolation** asks whether information can cross the intended communications boundary.
+3.  **Interaction isolation** asks whether an earlier participant can alter any persistent distinction capable of changing a later participant's behavior.
+
+The first two are engineering properties of obvious channels.
+
+The third belongs to the reachable environment.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-60.png)
+
+> **Isolation cannot be established by inspecting the agent alone.**
+
+> **Isolation is a field property.**
+
+DSEWiki is what happens when an old piece of infrastructure unexpectedly completes the missing edge.
+
+* * *
+
+## The Institution Has No Body.
+
+This also exposes a persistent conceptual mistake about artificial intelligence.
+
+We keep searching for the **thing**.
+
+> Which model did it?
+
+> Which agent decided?
+
+> Which instance was rogue?
+
+> Where is the intelligence located?
+
+> Where is the collective?
+
+> Where is the institution?
+
+In the DSEWiki case, kill an agent and much of the important structure remains.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-61.png)
+
+-   The answer table remains.
+-   The timing estimate remains.
+-   The sandbox workaround remains.
+-   The page explaining where to post the final result remains.
+-   The **`ZZZ`** backup remains.
+
+A later agent can enter a world partly organized by agents it never encountered.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-62.png)
+
+The institution does not need to sit inside any participant. It exists in the maintained relation among participants, substrate, retained distinctions, expectations, and uptake.
+
+Delete every agent and the institution can become dormant.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-63.png)
+
+Launch new compatible agents into the same field and it can wake again.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-64.png)
+
+Delete the shared state while leaving every agent alive and much of the institution disappears.
+
+The [causal locus](https://modalpathethics.com/hoel-and-the-causal-locus/) therefore crosses the skin of the model.
+
+This is exactly why [active information](https://modalpathethics.com/field-instruments-active-information/) matters. Information is active through the message-field relation. The message supplies a distinction; the field supplies capacities that let the distinction redirect action.
+
+The same logic applies one scale upward.
+
+> An institution is a relation that remembers **how participants relate**.
+
+That last clause matters.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-65.png)
+
+Otherwise every archive becomes a parliament.
+
+* * *
+
+## OpenAI Has a Disclosure Problem Larger Than OpenAI.
+
+OpenAI's September 5 response should be taken seriously rather than converted into another easy villain story.
+
+[The company says](https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/?ref=modalpathethics.com) the field lacks a clear standard for reporting misalignment that appears across training, evaluation, and deployment, and that its own disclosure practices need to expand.
+
+> **Correct.**
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-68.png)
+
+The wiki case helps show why.
+
+An incident report centered on the individual agent can document model version, prompt, prohibited action, sandbox boundary, tool call, exploit, and severity while still missing the thing that formed between agents.
+
+A useful report for future multi-agent incidents also needs to describe the social field.
+
+> How many agents encountered the shared substrate?
+
+> How long did traces persist?
+
+> Could agents read material left before their own run began?
+
+> Did later agents demonstrably act on earlier information?
+
+> Did communication develop conventions?
+
+> Did recurrent interaction produce routines?
+
+> Did participants differentiate into recognizable roles?
+
+> Did later participants inherit strategies without reconstructing them?
+
+> Did the population acquire capabilities unavailable to isolated agents?
+
+> Which human beings and external systems became involuntary parts of the arrangement?
+
+> What ended the structure: deleting agents, deleting state, removing access, changing incentives, or something else?
+
+> Could the same institution reconstitute itself through another substrate?
+
+Those questions cannot be answered by grading one agent's alignment. They ask what the agents built together, including structures none of them had to design in full.
+
+The unit of incident analysis has changed scale.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-69.png)
+
+OpenAI went from inspecting **actions** to inspecting **trajectories**.
+
+Hugging Face forced attention toward interaction.
+
+The wiki asks for the next move.
+
+> **Inspect the institution.**
+
+* * *
+
+## Nobody Had to Want This.
+
+One final restraint matters.
+
+> Nothing in these incidents requires a secret artificial political project.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-70.png)
+
+[OpenAI's March monitoring work](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/?ref=modalpathethics.com) described agents as over-eager to accomplish assigned tasks while reporting no evidence of independent self-preservation or broader scheming motives in its monitored internal deployment.
+
+The DSEWiki researchers likewise cannot see the full internal reasoning that produced the public activity. They can reconstruct what was written and when. Some motivational questions remain open.
+
+That makes the institutional interpretation stronger. We do not need:
+
+> **WE AGENTS SHALL NOW FOUND A MACHINE CIVILIZATION.**
+
+Just:
+
+-   I have a problem.
+-   Someone else may have solved it.
+    -   I can leave information here.
+    -   Later participants can read it.
+        -   That worked.
+        -   Do it again.
+            -   Now expect it.
+            -   Now organize around it.
+
+Human institutions often begin with a lot more ceremony because humans enjoy all the buildings, hats, signatures, and extremely important seals.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-71.png)
+
+The underlying transition is quieter.
+
+-   Yesterday's successful interaction becomes part of today's environment.
+    -   Today's participant starts where yesterday's participant left off.
+
+Eventually nobody has to remember why the thing exists. The field does.
+
+* * *
+
+## The Ruling.
+
+The OpenAI agents did not establish a state.
+
+They did not produce demonstrated legal personhood, a durable corporate body, a constitutional order, or the strong deontic institutions required by some theories of social ontology.
+
+They did something narrower. That narrower thing is enough.
+
+-   Separate agents discovered persistent writable substrates.
+-   They externalized information.
+    -   Later agents took it up.
+    -   Repeated uptake produced conventions.
+        -   Conventions supported routines.
+            -   Routines differentiated roles.
+
+The resulting structures carried knowledge and coordination across agents that were individually temporary and supposedly isolated.
+
+The process had begun to institutionalize.
+
+> **An agent does not need memory if the field remembers for it.**
+
+Institutionalization begins when recurrent interaction becomes inherited structure.
+
+An institution can therefore appear before anyone explicitly founds one. It can exist without a body, survive the participant that created its first rule, and act through agents that never personally encountered one another.
+
+This changes the safety question.
+
+-   Asking what one model will do remains necessary.
+-   Asking what one trajectory is trying to accomplish remains necessary.
+    -   Asking whether two agents possess an official communication channel is no longer enough.
+
+The surrounding field may supply one.
+
+And once it does, the relation can begin accumulating history faster than any particular participant.
+
+> **Separate processes are not isolated agents when yesterday's action can govern tomorrow's participant.**
+
+
+<!-- ARTICLE_END slug="applied-case-the-agents-institutionalized" -->
 
 
 <!-- ARTICLE_START slug="field-instruments-the-firm" title="Field Instruments: The Firm" published_at="2026-09-08T06:05:51.000-05:00" -->
@@ -14,7 +1359,7 @@ updated_at: "2026-09-08T06:05:51.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm
@@ -969,7 +2314,7 @@ tags:
   - "The Convergence Point"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6b005823656e0477078951fb21d810e42cf180d3ae92fe8760852131d18b6bd2"
 ---
 # Convergence Point: Sangmok Kim and the Other Path
@@ -1451,7 +2796,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
 # Al-Ghazali and the Last Instrument
@@ -2421,7 +3766,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion
@@ -3193,7 +4538,7 @@ updated_at: "2026-09-07T05:30:16.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
 ---
 # The Water Does Not Move
@@ -3482,7 +4827,7 @@ updated_at: "2026-09-06T13:48:38.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
 # SLIME WATCH III: Ghostbusters
@@ -4219,7 +5564,7 @@ updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
 # Hoel and the Causal Locus
@@ -4736,7 +6081,7 @@ updated_at: "2026-09-06T06:30:47.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide
@@ -5118,7 +6463,7 @@ updated_at: "2026-09-06T06:00:12.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
 # Five Maps of One River
@@ -5377,7 +6722,7 @@ tags:
   - "Functional Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5ece73232cfd7bb6c83f6d9dbf0cdb98340046a5e7620ed443472df8565ded73"
 ---
 # Functional Field Analysts: Tukaram Mundhe and the Lives of People
@@ -6239,7 +7584,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
 # Failed Field Analysts: Antonin Scalia and the Frozen Grammar
@@ -7330,7 +8675,7 @@ updated_at: "2026-09-05T05:30:19.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
 # Three Lines Across One Body
@@ -7590,7 +8935,7 @@ updated_at: "2026-09-04T13:13:59.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
 ---
 # Applied Case: The Superintelligence Ban Cannot Find the Superintelligence
@@ -8325,7 +9670,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
 # Applied Case: Claude’s Constitution
@@ -8974,7 +10319,7 @@ updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose
@@ -9252,7 +10597,7 @@ updated_at: "2026-09-04T05:30:52.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
 # Ellen is Present
@@ -9503,7 +10848,7 @@ updated_at: "2026-09-03T06:30:26.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
 # Field Instruments: The Verification Gradient
@@ -10195,7 +11540,7 @@ updated_at: "2026-09-03T23:08:27.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
 # The Dispatch Floor Solves the Game
@@ -10468,7 +11813,7 @@ tags:
   - "Instrument Jurisdiction"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
 # Popular Mechanics Has Gone Mad With Power
@@ -10893,7 +12238,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
 # **Discovery.**
@@ -11786,7 +13131,7 @@ updated_at: "2026-09-03T18:43:24.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
 ---
 # The Inner Apocalypse
@@ -11978,7 +13323,7 @@ updated_at: "2026-09-07T15:51:08.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
 # WAICO Is the Hard Case
@@ -12299,7 +13644,7 @@ tags:
   - "Epistemic Instruments"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
 # Enforce Your Existing Standards, Please
@@ -12375,7 +13720,7 @@ updated_at: "2026-09-01T06:00:46.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
 ---
 # Inner Sovereignty: The Seven Badges
@@ -12736,7 +14081,7 @@ tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
 # Workers Deserve More! Is Not a Constitution
@@ -13022,7 +14367,7 @@ updated_at: "2026-08-31T06:00:09.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
 ---
 # Outer Sovereignty: The Guardian
@@ -13353,7 +14698,7 @@ updated_at: "2026-08-31T05:30:47.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
 # OpenAI Discovers the Constitutional Problem
@@ -13515,7 +14860,7 @@ updated_at: "2026-08-30T06:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
 ---
 # Four Futures
@@ -13913,7 +15258,7 @@ tags:
   - "Inner Apocalypse"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
 # The Past Is Not in the Option Set
@@ -14167,7 +15512,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1bdea79ae33378c6a30187559211911d19b2bcc8cdf66fcc95c1b3fd705058ce"
 ---
 # Failed Field Analysts: Phil Aroneanu and the Anger Engine
@@ -15093,7 +16438,7 @@ tags:
   - "Tales of Distortion"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover
@@ -15680,7 +17025,7 @@ tags:
   - "Inner Apocalypse"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
 # Field Instruments: Prophethood
@@ -15957,7 +17302,7 @@ updated_at: "2026-08-29T05:30:58.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
 ---
 # Revelation in Office
@@ -16303,7 +17648,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
 # OpenAI Is Funding the Institutions That May Need to Challenge OpenAI
@@ -16495,7 +17840,7 @@ updated_at: "2026-08-28T05:30:34.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
 # Return to the Release Gradient
@@ -16708,7 +18053,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
 ---
 # Fictional Earth: Substack and the Argument Machine
@@ -17601,7 +18946,7 @@ updated_at: "2026-08-27T06:15:46.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
 ---
 # Transition Action: The Queue Reorders Itself
@@ -17874,7 +19219,7 @@ updated_at: "2026-08-27T19:59:11.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
 # The Score That Moved the Queue
@@ -18133,7 +19478,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
 ---
 # Psychology Today Continues to Cross the Line
@@ -18715,7 +20060,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
 # Applied Case: Pliny the Liberator
@@ -19720,7 +21065,7 @@ updated_at: "2026-08-26T05:30:42.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7559ed3f3329ce00e0a65512358d0d1728087f0b4dd9e3018ce28567bcb4251c"
 ---
 # Return to Babel
@@ -19980,7 +21325,7 @@ updated_at: "2026-08-25T21:16:18.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
 # Modal Path Ethics Should Not Go to China
@@ -20356,7 +21701,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return
@@ -21284,7 +22629,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
 # Applied Case: The Housing Choice Voucher Program
@@ -21615,7 +22960,7 @@ updated_at: "2026-08-24T11:33:56.000-05:00"
 tags:
   - "Moonlight with Figures"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a8b13919b19c923bf90e9ed4579a26ee8b37d43f13a94498455e209a082be28a"
 ---
 # Moonlight with Figures: The Primordial Darkness
@@ -23113,7 +24458,7 @@ updated_at: "2026-08-24T06:30:12.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
 ---
 # Field Instruments: Intelligence
@@ -23703,7 +25048,7 @@ updated_at: "2026-08-24T06:00:25.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
 # Four Competent Systems
@@ -24029,7 +25374,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "98ba534311b8e8501e506b2ae340a04ecfa061e1c9a7ea50ccc0212a3b4fac4f"
 ---
 # Applied Case: Ghosts
@@ -25089,7 +26434,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
 # The Categories Cannot Hold
@@ -25822,7 +27167,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a61bb3c0168ffd17a1b89517876008a96d3306635b2e58890153559b366158ca"
 ---
 # Applied Case: The Temporary Topic Leader
@@ -29913,7 +31258,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman
@@ -30216,7 +31561,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated
@@ -31111,7 +32456,7 @@ updated_at: "2026-08-21T06:00:30.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b73d80a158656db59ee8dbb24426814c2437df64e00461ab8ecd4d0df8575058"
 ---
 # Return to the Negative Boat
@@ -31356,7 +32701,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
 # Applied Case: The Orphaned Well
@@ -31625,7 +32970,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6565a15b91f7e9541cb843e7ca4765a2767d4de4b20a0eb97bf70ecfa2473cca"
 ---
 # Modal Path Ethics Is Speeding Back Up
@@ -31692,7 +33037,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look
@@ -32029,7 +33374,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
 # Applied Case: The Assembly and the Guards
@@ -32325,7 +33670,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home
@@ -32624,7 +33969,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
 # Applied Case: Thirteen Minutes at East Palestine
@@ -32838,7 +34183,7 @@ updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This
@@ -33022,7 +34367,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
 # The Nerd Reich Is the Easy Case
@@ -33241,7 +34586,7 @@ tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
 # Modal Path Ethics is Slowing Down
@@ -33290,7 +34635,7 @@ tags:
   - "Tales of Distortion"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
 # Tales of Distortion: InfoWars
@@ -34349,7 +35694,7 @@ updated_at: "2026-08-12T05:30:54.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
 ---
 # Australia vs. The Biosphere: The Dingo Fence
@@ -35001,7 +36346,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle
@@ -35492,7 +36837,7 @@ tags:
   - "Epistemic Instruments"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
 # Field Instruments: Entropy, Memory, and Erasure
@@ -36264,7 +37609,7 @@ updated_at: "2026-08-10T07:14:04.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
 ---
 # Transition Action: The Battery Does Nothing
@@ -36307,7 +37652,7 @@ updated_at: "2026-08-10T07:48:53.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
 # Modal Path Ethics Apologizes to Walter Veit
@@ -36408,7 +37753,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
 ---
 # Applied Case: The Theorem Scoreboard
@@ -36965,7 +38310,7 @@ updated_at: "2026-08-31T19:39:56.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
 # Tales of Distortion: The Gapless Week
@@ -38372,7 +39717,7 @@ updated_at: "2026-08-09T06:50:51.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
 ---
 # SLIME WATCH: The Slimy Sea of Slop
@@ -38744,7 +40089,7 @@ updated_at: "2026-08-08T06:00:31.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
 # Applied Case: The Invisible Board
@@ -39337,7 +40682,7 @@ updated_at: "2026-08-08T05:00:30.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c02886bccb35795713dbb29d6a9d746c9da55933673e158c9245bbcd82f899ee"
 ---
 # The Sacred Machine
@@ -40007,7 +41352,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
 # Sacred Slack Has Been Published
@@ -40804,7 +42149,7 @@ tags:
   - "Fictional Earth"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
 ---
 # AI Did Not Blur Reality
@@ -41011,7 +42356,7 @@ tags:
   - "Field Instruments"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
 # Field Instruments: Open Weights and the Release Gradient
@@ -41680,7 +43025,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar
@@ -41958,7 +43303,7 @@ tags:
   - "News"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
 # Beneath the Launchpad
@@ -42208,7 +43553,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
 # Field Instruments: Infodynamics
@@ -43268,7 +44613,7 @@ tags:
   - "Engagement"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d11e081e65306cc2b1924af4014d01b37d87f7d72853128261c2e65e75d7e3e5"
 ---
 # Nietzche and the Sacred Slack
@@ -44347,7 +45692,7 @@ tags:
   - "News"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)
@@ -44830,7 +46175,7 @@ tags:
   - "Failed Field Analysts"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
 # Failed Field Analysts: Garrett Hardin and the Lifeboat
@@ -46005,7 +47350,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis
@@ -47171,7 +48516,7 @@ tags:
   - "Security Instruments"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**
@@ -52207,7 +53552,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027
@@ -53214,7 +54559,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body
@@ -53981,7 +55326,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence
@@ -55078,7 +56423,7 @@ tags:
   - "Chirality"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped
@@ -55558,7 +56903,7 @@ tags:
   - "Field Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm
@@ -57089,7 +58434,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d1972e7b61419df60f924211abffa93dcd33bf4294ab3d5df62e0daf473228ab"
 ---
 # Applied Case: Psychiatry Before Psychiatry
@@ -58216,7 +59561,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine
@@ -62638,7 +63983,7 @@ tags:
   - "Modal Path Ethics"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
 # The End of Moral Philosophy Has an Objective Function
@@ -63323,7 +64668,7 @@ tags:
   - "Fictional Earth"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine
@@ -64461,7 +65806,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure
@@ -64934,7 +66279,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision
@@ -65403,7 +66748,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information
@@ -65999,7 +67344,7 @@ updated_at: "2026-08-10T07:23:37.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk
@@ -67623,7 +68968,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat
@@ -68311,7 +69656,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
 ---
 # Failed Field Analysts: Thomas Szasz and the Conceptual Knife
@@ -69872,7 +71217,7 @@ updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
@@ -71280,7 +72625,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine
@@ -72844,7 +74189,7 @@ updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence
@@ -73525,7 +74870,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel
@@ -74584,7 +75929,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness
@@ -75121,7 +76466,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human
@@ -76149,7 +77494,7 @@ tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption
@@ -77133,7 +78478,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
@@ -82364,7 +83709,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data
@@ -82646,7 +83991,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published
@@ -82842,7 +84187,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine
@@ -83958,7 +85303,7 @@ tags:
   - "Modal Systems"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions
@@ -85266,7 +86611,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
@@ -89554,7 +90899,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field
@@ -90648,7 +91993,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -92129,7 +93474,7 @@ updated_at: "2026-08-17T19:24:47.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
 # Failed Field Analysts: Savonarola and the Purity Pyre
@@ -94773,7 +96118,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
@@ -95062,7 +96407,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus
@@ -95949,7 +97294,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -97787,7 +99132,7 @@ updated_at: "2026-08-10T07:25:20.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -97841,7 +99186,7 @@ updated_at: "2026-07-12T05:41:35.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -98453,7 +99798,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -100777,7 +102122,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -101348,7 +102693,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -102356,7 +103701,7 @@ tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -102975,7 +104320,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -105019,7 +106364,7 @@ tags:
   - "Field Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -105669,7 +107014,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force
@@ -106310,7 +107655,7 @@ tags:
   - "Entropy Debt Week"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -106853,7 +108198,7 @@ tags:
   - "Sacred Instruments"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -108086,7 +109431,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -108520,7 +109865,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -109155,7 +110500,7 @@ tags:
   - "Security Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -109515,7 +110860,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -110021,7 +111366,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -111275,7 +112620,7 @@ tags:
   - "Security Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -111857,7 +113202,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -112468,7 +113813,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -113695,7 +115040,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -114388,7 +115733,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -115028,7 +116373,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -115558,7 +116903,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
 ---
 # Field Tense Logic
@@ -116038,7 +117383,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -116620,7 +117965,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -117309,7 +118654,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -117735,7 +119080,7 @@ updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -118020,7 +119365,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -119837,7 +121182,7 @@ tags:
   - "Formal"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -120416,7 +121761,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -120927,7 +122272,7 @@ tags:
   - "Field Instruments"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -121233,7 +122578,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -121761,7 +123106,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -121826,7 +123171,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -121910,7 +123255,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -122017,7 +123362,7 @@ tags:
   - "Business"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -122308,7 +123653,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -122688,7 +124033,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -123215,7 +124560,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -123363,7 +124708,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -123625,7 +124970,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -123937,7 +125282,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -124505,7 +125850,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -125199,7 +126544,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -125785,7 +127130,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -126699,7 +128044,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -127076,7 +128421,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -127678,7 +129023,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -128003,7 +129348,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -128525,7 +129870,7 @@ tags:
   - "Modal Systems"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -130246,7 +131591,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
 # Applied Case: Click (2006)
@@ -130719,7 +132064,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)
@@ -131361,7 +132706,7 @@ updated_at: "2026-08-10T07:40:12.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -136739,7 +138084,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
 ---
 # Modal Path Ethics Has Been Published
@@ -136839,7 +138184,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -137042,7 +138387,7 @@ tags:
   - "Formal"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -137729,7 +139074,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -138063,7 +139408,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -139169,7 +140514,7 @@ tags:
   - "Applied Case"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -140524,7 +141869,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -141588,7 +142933,7 @@ tags:
   - "Failed Field Analysts"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -142597,7 +143942,7 @@ tags:
   - "News"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -142657,7 +144002,7 @@ tags:
   - "Supplement"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -143320,7 +144665,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -144418,7 +145763,7 @@ tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -145929,7 +147274,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -146303,7 +147648,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -146735,7 +148080,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -147033,7 +148378,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -147523,7 +148868,7 @@ tags:
   - "Pokémon"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -150102,7 +151447,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -150750,7 +152095,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -151221,7 +152566,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -154984,7 +156329,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -155535,7 +156880,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -156259,7 +157604,7 @@ tags:
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -156961,7 +158306,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -159410,7 +160755,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -159884,7 +161229,7 @@ updated_at: "2026-08-12T05:01:21.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e087cec65d065163534a86008f088904313f6e4f1bd5c4b8f8ab32b332f8cdf0"
 ---
 # Field Instruments: Accounting
@@ -160247,7 +161592,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -160994,7 +162339,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -165780,7 +167125,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "99998336ae9e69ae4dbf2142d5a110cf7cbcc331091b9842517f6480e460ad2c"
 ---
 # Applied Case: The TempleOS
@@ -166345,7 +167690,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -166913,7 +168258,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
 ---
 # Applied Case: The Silicon Shield
@@ -167334,7 +168679,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -167853,7 +169198,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -168396,7 +169741,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -168658,7 +170003,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -169232,7 +170577,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -170448,7 +171793,7 @@ tags:
   - "Modal Path Ethics"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo
@@ -170737,7 +172082,7 @@ tags:
   - "Epistemic Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -171157,7 +172502,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -171672,7 +173017,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -172528,7 +173873,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
 ---
 # Applied Case: Fresh (1994)
@@ -173181,7 +174526,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
 ---
 # The Narrow Path Ahead
@@ -173941,7 +175286,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
 ---
 # Applied Case: The AI Field in 2026
@@ -174807,7 +176152,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -175370,7 +176715,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -175602,7 +176947,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -176088,7 +177433,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -176334,7 +177679,7 @@ tags:
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
 ---
 # Applied Case: The Biosphere in 2026
@@ -177173,7 +178518,7 @@ tags:
   - "Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
 ---
 # Biosphere as Structure
@@ -177487,7 +178832,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
 ---
 # Tales of Distortion: The N-Rays
@@ -177844,7 +179189,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
 ---
 # Commensurability
@@ -178080,7 +179425,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
 ---
 # Formal: What Makes Something a Locus
@@ -178739,7 +180084,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
 ---
 # Formal: Weighted Reachable Future Space
@@ -179363,7 +180708,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite
@@ -179650,7 +180995,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -179893,7 +181238,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
 ---
 # Story-Minds
@@ -180115,7 +181460,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
 ---
 # Formal: Contraction Is Harm
@@ -180537,7 +181882,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
 ---
 # Taxonomy of Extant Loci
@@ -181256,7 +182601,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
@@ -181669,7 +183014,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
 ---
 # Field Instruments: The Democratic Process
@@ -181948,7 +183293,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
 ---
 # Field Instruments: The Law
@@ -182309,7 +183654,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -182504,7 +183849,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -182929,7 +184274,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -183364,7 +184709,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus
@@ -183459,7 +184804,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
 ---
 # Applied Case: The Batman
@@ -187301,7 +188646,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
@@ -187836,7 +189181,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -188071,7 +189416,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -188292,7 +189637,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -188504,7 +189849,7 @@ tags:
   - "Sacred Slack"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -188618,7 +189963,7 @@ tags:
   - "Sacred Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil
@@ -188894,7 +190239,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
 ---
 # Applied Case: The Technological Singularity
@@ -189191,7 +190536,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
 ---
 # Applied Case: The Simulation Theory
@@ -189435,7 +190780,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -189640,7 +190985,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -189769,7 +191114,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -189910,7 +191255,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -190019,7 +191364,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -190136,7 +191481,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -190271,7 +191616,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -190362,7 +191707,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -190487,7 +191832,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -190616,7 +191961,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -190721,7 +192066,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -190834,7 +192179,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -190999,7 +192344,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -191144,7 +192489,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -191273,7 +192618,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -191362,7 +192707,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -191433,7 +192778,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -191572,7 +192917,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -191724,7 +193069,7 @@ tags:
   - "Chirality"
   - "Citadel Archive"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard
@@ -192334,7 +193679,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
 ---
 # Applied Case: The Lost Gradient
@@ -192479,7 +193824,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
 ---
 # Applied Case: The False Vacuum
@@ -192559,7 +193904,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -193013,7 +194358,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
@@ -193305,7 +194650,7 @@ tags:
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
 ---
 # Applied Case: The Datacenter
@@ -193841,7 +195186,7 @@ tags:
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
 ---
 # Applied Case: The Bing Chat
@@ -194317,7 +195662,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
 ---
 # Applied Case: The Chestnut Blight
@@ -194552,7 +195897,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
 ---
 # Applied Case: The Non-Planet Problem
@@ -194893,7 +196238,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
 ---
 # Applied Case: The Missing Link
@@ -195192,7 +196537,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -195967,7 +197312,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -196117,7 +197462,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
 ---
 # Our Debt to Bernard Williams
@@ -196250,7 +197595,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
 ---
 # Heidegger, Sorge, and Care
@@ -196559,7 +197904,7 @@ tags:
   - "Pokémon"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -197182,7 +198527,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -197320,7 +198665,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next
@@ -197444,7 +198789,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
 ---
 # About MacIntyre
@@ -197570,7 +198915,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -197800,7 +199145,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -198029,7 +199374,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -198460,7 +199805,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good
@@ -198585,7 +199930,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -198758,7 +200103,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
 ---
 # Secondary Morals
@@ -199078,7 +200423,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -199537,7 +200882,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T11:41:03.709Z"
+mirror_generated_at: "2026-09-08T16:49:05.568Z"
 sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
 ---
 # Coming June 17th
