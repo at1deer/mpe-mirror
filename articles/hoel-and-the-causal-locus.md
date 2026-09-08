@@ -7,7 +7,7 @@ updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T05:07:56.722Z"
+mirror_generated_at: "2026-09-08T11:41:03.709Z"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
 # Hoel and the Causal Locus

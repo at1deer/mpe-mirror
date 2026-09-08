@@ -7,7 +7,7 @@ updated_at: "2026-09-06T13:48:38.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T05:07:56.722Z"
+mirror_generated_at: "2026-09-08T11:41:03.709Z"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
 # SLIME WATCH III: Ghostbusters

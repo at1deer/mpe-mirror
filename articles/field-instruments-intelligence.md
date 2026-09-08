@@ -7,7 +7,7 @@ updated_at: "2026-08-24T06:30:12.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T05:07:56.722Z"
+mirror_generated_at: "2026-09-08T11:41:03.709Z"
 sha256_plaintext: "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
 ---
 # Field Instruments: Intelligence

@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T05:07:56.722Z"
+mirror_generated_at: "2026-09-08T11:41:03.709Z"
 sha256_plaintext: "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
 ---
 # Fictional Earth: Substack and the Argument Machine

@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T05:07:56.722Z"
+mirror_generated_at: "2026-09-08T11:41:03.709Z"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
 # OpenAI Is Funding the Institutions That May Need to Challenge OpenAI

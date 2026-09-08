@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-08T05:07:56.722Z
+Generated: 2026-09-08T11:41:03.709Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-08 — [Field Instruments: The Firm](/articles/field-instruments-the-firm.md) ([HTML](/articles/field-instruments-the-firm.html))
 - 2026-09-07 — [Convergence Point: Sangmok Kim and the Other Path](/articles/convergence-point-sangmok-kim-and-the-other-path.md) ([HTML](/articles/convergence-point-sangmok-kim-and-the-other-path.html))
 - 2026-09-07 — [Al-Ghazali and the Last Instrument](/articles/al-ghazali-and-the-last-instrument.md) ([HTML](/articles/al-ghazali-and-the-last-instrument.html))
 - 2026-09-07 — [Applied Case: Tennessee Found $1.2 Billion](/articles/applied-case-tennessee-found-1-2-billion.md) ([HTML](/articles/applied-case-tennessee-found-1-2-billion.html))

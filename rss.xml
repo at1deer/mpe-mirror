@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 05:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 11:41:03 GMT</lastBuildDate>
     
+    <item>
+      <title>Field Instruments: The Firm</title>
+      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-the-firm.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-the-firm.html</guid>
+      <pubDate>Tue, 08 Sep 2026 11:05:51 GMT</pubDate>
+      <description>The market ends at the company door. Then someone becomes your boss.</description>
+    </item>
+
     <item>
       <title>Convergence Point: Sangmok Kim and the Other Path</title>
       <link>https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.html</link>
@@ -397,14 +405,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.html</guid>
       <pubDate>Sat, 22 Aug 2026 12:30:25 GMT</pubDate>
       <description>Create-A-Pokémon and the Succession Problem.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Firing of Sam Altman</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-firing-of-sam-altman.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-firing-of-sam-altman.html</guid>
-      <pubDate>Sat, 22 Aug 2026 11:00:24 GMT</pubDate>
-      <description>Removal is not succession.</description>
     </item>
   </channel>
 </rss>

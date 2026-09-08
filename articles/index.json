@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-08T05:07:56.722Z",
+  "generated_at": "2026-09-08T11:41:03.709Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 288,
+  "article_count": 289,
   "articles": [
+    {
+      "title": "Field Instruments: The Firm",
+      "slug": "field-instruments-the-firm",
+      "published_at": "2026-09-08T06:05:51.000-05:00",
+      "updated_at": "2026-09-08T06:05:51.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-the-firm/",
+      "excerpt": "The market ends at the company door. Then someone becomes your boss.",
+      "tags": [
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-the-firm.md",
+      "mirror_html_path": "/articles/field-instruments-the-firm.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-firm.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-the-firm.html",
+      "sha256_plaintext": "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
+    },
     {
       "title": "Convergence Point: Sangmok Kim and the Other Path",
       "slug": "convergence-point-sangmok-kim-and-the-other-path",
