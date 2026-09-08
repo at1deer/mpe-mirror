@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-08T16:49:05.568Z",
+  "generated_at": "2026-09-08T21:21:46.010Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 291,
+  "article_count": 292,
   "articles": [
+    {
+      "title": "Modal Path Ethics Apologizes to the College Newspapers",
+      "slug": "modal-path-ethics-apologizes-to-the-college-newspapers",
+      "published_at": "2026-09-08T15:37:58.000-05:00",
+      "updated_at": "2026-09-08T15:37:58.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-the-college-newspapers/",
+      "excerpt": "I used you as an insult; this was unfair. Unfortunately, this ruling also has consequences for academic philosophy.",
+      "tags": [
+        "Apologies Department"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-the-college-newspapers.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-the-college-newspapers.html",
+      "sha256_plaintext": "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
+    },
     {
       "title": "Simondon and the Locus in Formation",
       "slug": "simondon-and-the-locus-in-formation",
@@ -61,7 +77,8 @@
       "excerpt": "Apparently there is a neighborhood.",
       "tags": [
         "The Convergence Point",
-        "Engagement"
+        "Engagement",
+        "Apologies Department"
       ],
       "mirror_markdown_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.md",
       "mirror_html_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.html",
@@ -276,7 +293,7 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/",
       "excerpt": "The Tiny Throne is still coming down; I still did not need to throw it at him. Time for the part where Modal Path Ethics gets embarassing.",
       "tags": [
-        "News"
+        "Apologies Department"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.md",
       "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.html",
@@ -627,7 +644,8 @@
       "excerpt": "Every single argument was worth having, which was the problem. My biggest failure yet; an apology.",
       "tags": [
         "Fictional Earth",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Apologies Department"
       ],
       "mirror_markdown_path": "/articles/fictional-earth-substack-and-the-argument-machine.md",
       "mirror_html_path": "/articles/fictional-earth-substack-and-the-argument-machine.html",
@@ -1164,7 +1182,7 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-walter-veit/",
       "excerpt": "The mole has successfully filed an appeal",
       "tags": [
-        "Modal Path Ethics"
+        "Apologies Department"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.md",
       "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-walter-veit.html",

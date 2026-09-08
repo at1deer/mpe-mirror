@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-08T16:49:05.568Z
+Generated: 2026-09-08T21:21:46.010Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-08 — [Modal Path Ethics Apologizes to the College Newspapers](/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-college-newspapers.html))
 - 2026-09-08 — [Simondon and the Locus in Formation](/articles/simondon-and-the-locus-in-formation.md) ([HTML](/articles/simondon-and-the-locus-in-formation.html))
 - 2026-09-08 — [Applied Case: The Agents Institutionalized](/articles/applied-case-the-agents-institutionalized.md) ([HTML](/articles/applied-case-the-agents-institutionalized.html))
 - 2026-09-08 — [Field Instruments: The Firm](/articles/field-instruments-the-firm.md) ([HTML](/articles/field-instruments-the-firm.html))

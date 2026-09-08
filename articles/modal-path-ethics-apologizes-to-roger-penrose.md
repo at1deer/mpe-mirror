@@ -5,9 +5,9 @@ canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-roge
 published_at: "2026-09-04T05:52:37.000-05:00"
 updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
-  - "News"
+  - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T16:49:05.568Z"
+mirror_generated_at: "2026-09-08T21:21:46.010Z"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose
