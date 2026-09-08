@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T21:44:45.243Z",
+  "generated_at": "2026-09-08T05:07:56.722Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 288,
@@ -79,7 +79,9 @@
       "updated_at": "2026-09-06T13:48:38.000-05:00",
       "canonical_url": "https://modalpathethics.com/slime-watch-iii-ghostbusters/",
       "excerpt": "An Emergency Audit: Am I real?",
-      "tags": [],
+      "tags": [
+        "SLIME WATCH"
+      ],
       "mirror_markdown_path": "/articles/slime-watch-iii-ghostbusters.md",
       "mirror_html_path": "/articles/slime-watch-iii-ghostbusters.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-iii-ghostbusters.md",
@@ -226,8 +228,7 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/",
       "excerpt": "The Tiny Throne is still coming down; I still did not need to throw it at him. Time for the part where Modal Path Ethics gets embarassing.",
       "tags": [
-        "News",
-        "Incoherence"
+        "News"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.md",
       "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-roger-penrose.html",
