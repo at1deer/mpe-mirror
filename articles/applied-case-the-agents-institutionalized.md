@@ -7,7 +7,7 @@ updated_at: "2026-09-08T07:00:42.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-08T21:21:46.010Z"
+mirror_generated_at: "2026-09-09T05:07:24.045Z"
 sha256_plaintext: "ffa6d80e976bc6d792f1bad08ca21b353d03589665d62affad3ca589f401dd01"
 ---
 # Applied Case: The Agents Institutionalized
