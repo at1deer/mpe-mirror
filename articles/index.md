@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-09T11:47:10.643Z
+Generated: 2026-09-09T16:51:41.245Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-09 — [Applied Case: The Category Goes In the Brain](/articles/applied-case-the-category-goes-in-the-brain.md) ([HTML](/articles/applied-case-the-category-goes-in-the-brain.html))
+- 2026-09-09 — [Field Instruments: Alignment](/articles/field-instruments-alignment.md) ([HTML](/articles/field-instruments-alignment.html))
 - 2026-09-09 — [The Sanctuary](/articles/the-sanctuary.md) ([HTML](/articles/the-sanctuary.html))
 - 2026-09-08 — [Modal Path Ethics Apologizes to the College Newspapers](/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-college-newspapers.html))
 - 2026-09-08 — [Simondon and the Locus in Formation](/articles/simondon-and-the-locus-in-formation.md) ([HTML](/articles/simondon-and-the-locus-in-formation.html))

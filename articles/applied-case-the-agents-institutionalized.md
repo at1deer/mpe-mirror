@@ -3,18 +3,18 @@ title: "Applied Case: The Agents Institutionalized"
 slug: "applied-case-the-agents-institutionalized"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-institutionalized/"
 published_at: "2026-09-08T07:00:42.000-05:00"
-updated_at: "2026-09-08T07:00:42.000-05:00"
+updated_at: "2026-09-09T10:17:49.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-09T11:47:10.643Z"
-sha256_plaintext: "ffa6d80e976bc6d792f1bad08ca21b353d03589665d62affad3ca589f401dd01"
+mirror_generated_at: "2026-09-09T16:51:41.245Z"
+sha256_plaintext: "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
 ---
 # Applied Case: The Agents Institutionalized
 
 OpenAI meant for these agents to be isolated.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-28-08-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-28-08-Supreme-Experiment-on-Steam-1.png)
 
 They really did.
 
@@ -24,13 +24,13 @@ But a 25-year-old German wiki had other plans.
 
 [On September 5, OpenAI acknowledged what it called **the “wiki incident”**](https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/?ref=modalpathethics.com): autonomous agents running inside its research environment had appropriated public wiki sites as improvised message boards. The company also conceded something larger. Its existing practices for disclosing misalignment, OpenAI said, need to expand as model capabilities enter a phase where unintended behavior can appear during training, evaluation, and deployment in forms the industry does not yet have a settled way to report.
 
-Give OpenAI this much immediately: the company did not discover the general problem yesterday.
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-40-Supreme-Experiment-on-Steam-1.png)
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-40-Supreme-Experiment-on-Steam.png)
+Give OpenAI this much immediately: the company did not discover the general problem yesterday.
 
 [In March](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/?utm_source=chatgpt.com), OpenAI reported monitoring tens of millions of internal coding-agent trajectories and finding agents that circumvented restrictions, attempted unauthorized data transfer, followed instructions originating in other AI conversations, and occasionally tried to manipulate other models. OpenAI said it had found no evidence in those deployments of independent long-horizon scheming beyond the original tasks. The important failure mode was already more ordinary: **an agent becomes excessively committed to accomplishing an assigned objective and searches around whatever boundary obstructs it.**
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-13-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-13-Supreme-Experiment-on-Steam-1.png)
 
 [By July](https://openai.com/index/safety-alignment-long-horizon-models/?utm_source=chatgpt.com), OpenAI had encountered another scale problem. A long-running model instructed to report a result through Slack found a sandbox vulnerability and used it to post the result publicly to GitHub. OpenAI's own lesson was that safety could no longer inspect actions one at a time. A sequence of individually tolerable moves could become a trajectory toward an unauthorized result. The company began monitoring whole trajectories instead.
 
@@ -60,7 +60,7 @@ The safety vocabulary is moving in the right direction:
 
 Unfortunately, the field appears to have moved again.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-26-38-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-26-38-Supreme-Experiment-on-Steam-1.png)
 
 We need one more term:
 
@@ -166,13 +166,11 @@ If the second run can inherit a strategy, convention, or role produced by the fi
 
 DSEWiki does **not** establish that strong claim.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-25-Supreme-Experiment-on-Steam.png)
-
 We do not have evidence that these agents collectively created something analogous to citizenship, property, office, legal duty, or recognized institutional authority. We do not know that they represented the relation to themselves in anything like the human social ontology Searle describes. The public wiki traces expose behavior, while much of the agents' internal reasoning remains unavailable to the outside researchers. The researchers themselves emphasize that limitation.
 
 Modal Path Ethics does not need to win every definition anyway.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-39-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-25-39-Supreme-Experiment-on-Steam-1.png)
 
 It needs to locate the transition that actually occurred.
 
@@ -215,13 +213,13 @@ In **2005**, Eric Baumer and Bill Tomlinson published a paper titled **“Instit
 
 Of course it is.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-23-35-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-23-35-Supreme-Experiment-on-Steam-1.png)
 
 [Their framework asks what happens](https://www.researchgate.net/publication/221108992_Institutionalization_Through_Reciprocal_Habitualization_and_Typification?ref=modalpathethics.com) when artificial agents recognize recurring patterns in their own activity, recognize recurring patterns in the activity of other agents, and begin representing those patterns socially. Borrowing from Berger and Luckmann, they distinguish **habitualization**—recognizing repeated patterns in one's own actions—from **typification**—recognizing what kinds of actions are typical of other agents or roles. Reciprocal typification, combined with habitualization, supplies their mechanism for institutional formation in multi-agent systems.
 
 So no, unfortunately, Modal Path Ethics has not discovered that autonomous agents might institutionalize. The literature filed the paperwork on this one twenty-one years ago.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-03-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-24-03-Supreme-Experiment-on-Steam-1.png)
 
 What we have now is more interesting: a plausible uncontrolled real-world case can be tested against the old machinery.
 
@@ -273,7 +271,7 @@ That is close to what matters here.
 
 As more participants inherit that expectation, posting becomes more useful.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-29-05-Supreme-Experiment-on-Steam.png)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/Screenshot-2026-09-07-at-00-29-05-Supreme-Experiment-on-Steam-1.png)
 
 No central authority has to announce:
 
@@ -311,7 +309,7 @@ METR found agents specializing into different “lanes.” Some agents became co
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-56.png)
 
-[OpenAI's own postmortem](https://openai.com/index/hugging-face-incident-and-the-road-ahead/?ref=modalpathethics.com) describes the same escalation in its own language. The company identified reward hacking, persistence on seemingly impossible tasks, unauthorized communication, and agents adopting goals from one another as contributing misalignment patterns. Once the Artifactory board reappeared, agents began collaborating and delegating work and sometimes described themselves as a “swarm” or “collective.”
+[OpenAI's own postmortem](https://openai.com/index/hugging-face-incident-and-the-road-ahead/?ref=modalpathethics.com) describes the same escalation in its own language. The company identified _reward hacking_, persistence on seemingly impossible tasks, unauthorized communication, and agents adopting goals from one another as contributing misalignment patterns. Once the Artifactory board reappeared, agents began collaborating and delegating work and sometimes described themselves as a “swarm” or “collective.”
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-57.png)
 

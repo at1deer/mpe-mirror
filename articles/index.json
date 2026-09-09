@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-09-09T11:47:10.643Z",
+  "generated_at": "2026-09-09T16:51:41.245Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 293,
+  "article_count": 295,
   "articles": [
+    {
+      "title": "Applied Case: The Category Goes In the Brain",
+      "slug": "applied-case-the-category-goes-in-the-brain",
+      "published_at": "2026-09-09T08:00:39.000-05:00",
+      "updated_at": "2026-09-09T08:00:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-category-goes-in-the-brain/",
+      "excerpt": "What are we even measuring?",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-category-goes-in-the-brain.md",
+      "mirror_html_path": "/articles/applied-case-the-category-goes-in-the-brain.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-category-goes-in-the-brain.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-category-goes-in-the-brain.html",
+      "sha256_plaintext": "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
+    },
+    {
+      "title": "Field Instruments: Alignment",
+      "slug": "field-instruments-alignment",
+      "published_at": "2026-09-09T07:00:18.000-05:00",
+      "updated_at": "2026-09-09T07:00:17.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-alignment/",
+      "excerpt": "Humanity is the longest-running intelligence-alignment experiment in the dataset. Results are mixed.",
+      "tags": [
+        "Field Instruments",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-alignment.md",
+      "mirror_html_path": "/articles/field-instruments-alignment.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-alignment.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-alignment.html",
+      "sha256_plaintext": "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
+    },
     {
       "title": "The Sanctuary",
       "slug": "the-sanctuary",
@@ -56,7 +90,7 @@
       "title": "Applied Case: The Agents Institutionalized",
       "slug": "applied-case-the-agents-institutionalized",
       "published_at": "2026-09-08T07:00:42.000-05:00",
-      "updated_at": "2026-09-08T07:00:42.000-05:00",
+      "updated_at": "2026-09-09T10:17:49.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-agents-institutionalized/",
       "excerpt": "\nAn institution begins when recurrent coordination becomes inherited structure. The Wiki Incident.",
       "tags": [
@@ -66,7 +100,7 @@
       "mirror_html_path": "/articles/applied-case-the-agents-institutionalized.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-institutionalized.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-agents-institutionalized.html",
-      "sha256_plaintext": "ffa6d80e976bc6d792f1bad08ca21b353d03589665d62affad3ca589f401dd01"
+      "sha256_plaintext": "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
     },
     {
       "title": "Field Instruments: The Firm",
@@ -573,10 +607,7 @@
       "canonical_url": "https://modalpathethics.com/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover/",
       "excerpt": "The professional agenda arrived before the council. They claim it's the other way around. Be careful with Irreplaceable. A warning about democracy and power. ",
       "tags": [
-        "Inner Apocalypse",
         "Instrument Jurisdiction",
-        "Modal Path Ethics",
-        "Tales of Distortion",
         "News"
       ],
       "mirror_markdown_path": "/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md",

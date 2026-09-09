@@ -5,13 +5,10 @@ canonical_url: "https://modalpathethics.com/warning-irreplaceable-has-already-de
 published_at: "2026-08-29T06:36:25.000-05:00"
 updated_at: "2026-08-29T20:09:23.000-05:00"
 tags:
-  - "Inner Apocalypse"
   - "Instrument Jurisdiction"
-  - "Modal Path Ethics"
-  - "Tales of Distortion"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-09T11:47:10.643Z"
+mirror_generated_at: "2026-09-09T16:51:41.245Z"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover
