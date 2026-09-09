@@ -7,7 +7,7 @@ updated_at: "2026-09-08T06:05:51.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-09T16:51:41.245Z"
+mirror_generated_at: "2026-09-09T21:07:38.409Z"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm
