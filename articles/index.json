@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-09T05:07:24.045Z",
+  "generated_at": "2026-09-09T11:47:10.643Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 292,
+  "article_count": 293,
   "articles": [
+    {
+      "title": "The Sanctuary",
+      "slug": "the-sanctuary",
+      "published_at": "2026-09-09T05:30:36.000-05:00",
+      "updated_at": "2026-09-09T05:30:37.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-sanctuary/",
+      "excerpt": "Enough legibility for correction; enough sanctuary for agency.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-sanctuary.md",
+      "mirror_html_path": "/articles/the-sanctuary.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-sanctuary.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-sanctuary.html",
+      "sha256_plaintext": "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
+    },
     {
       "title": "Modal Path Ethics Apologizes to the College Newspapers",
       "slug": "modal-path-ethics-apologizes-to-the-college-newspapers",

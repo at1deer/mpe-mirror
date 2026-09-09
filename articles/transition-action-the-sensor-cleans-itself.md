@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-09T05:07:24.045Z"
+mirror_generated_at: "2026-09-09T11:47:10.643Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
