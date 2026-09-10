@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-10T05:09:38.472Z
+Generated: 2026-09-10T11:44:42.856Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-10 — [Influencutors: MoistCr1TiKaL and the Ordinary Field](/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md) ([HTML](/articles/influencutors-moistcr1tikal-and-the-ordinary-field.html))
+- 2026-09-10 — [Convergence Point: Eduardo Blasco and the Engineer Who Found the Future](/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md) ([HTML](/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html))
+- 2026-09-10 — [The Death of an Office](/articles/the-death-of-an-office.md) ([HTML](/articles/the-death-of-an-office.html))
 - 2026-09-09 — [Applied Case: The Category Goes In the Brain](/articles/applied-case-the-category-goes-in-the-brain.md) ([HTML](/articles/applied-case-the-category-goes-in-the-brain.html))
 - 2026-09-09 — [Field Instruments: Alignment](/articles/field-instruments-alignment.md) ([HTML](/articles/field-instruments-alignment.html))
 - 2026-09-09 — [The Sanctuary](/articles/the-sanctuary.md) ([HTML](/articles/the-sanctuary.html))

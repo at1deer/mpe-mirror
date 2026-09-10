@@ -7,7 +7,7 @@ updated_at: "2026-08-31T05:30:47.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-10T05:09:38.472Z"
+mirror_generated_at: "2026-09-10T11:44:42.856Z"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
 # OpenAI Discovers the Constitutional Problem

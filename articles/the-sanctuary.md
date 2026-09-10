@@ -7,7 +7,7 @@ updated_at: "2026-09-09T05:30:37.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-10T05:09:38.472Z"
+mirror_generated_at: "2026-09-10T11:44:42.856Z"
 sha256_plaintext: "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
 ---
 # The Sanctuary

@@ -1,9 +1,57 @@
 {
-  "generated_at": "2026-09-10T05:09:38.472Z",
+  "generated_at": "2026-09-10T11:44:42.856Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 295,
+  "article_count": 298,
   "articles": [
+    {
+      "title": "Influencutors: MoistCr1TiKaL and the Ordinary Field",
+      "slug": "influencutors-moistcr1tikal-and-the-ordinary-field",
+      "published_at": "2026-09-10T06:37:45.000-05:00",
+      "updated_at": "2026-09-10T06:43:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/influencutors-moistcr1tikal-and-the-ordinary-field/",
+      "excerpt": "Reality has failed to organize itself into two teams.",
+      "tags": [
+        "Influencutors"
+      ],
+      "mirror_markdown_path": "/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md",
+      "mirror_html_path": "/articles/influencutors-moistcr1tikal-and-the-ordinary-field.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/influencutors-moistcr1tikal-and-the-ordinary-field.html",
+      "sha256_plaintext": "29c32ae4f351963d3fa1e9bd4f443855609f22faa6d35c8ce11b77c9d12fe5b7"
+    },
+    {
+      "title": "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future",
+      "slug": "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future",
+      "published_at": "2026-09-10T06:00:49.000-05:00",
+      "updated_at": "2026-09-10T06:00:48.000-05:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/",
+      "excerpt": "Somehow we ended up arguing with the same geometry.",
+      "tags": [
+        "The Convergence Point"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md",
+      "mirror_html_path": "/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html",
+      "sha256_plaintext": "2431cd241c4c6c073745fc3c42f414f6d25ed4675aff9c316a0b7e7e45a2c4c1"
+    },
+    {
+      "title": "The Death of an Office",
+      "slug": "the-death-of-an-office",
+      "published_at": "2026-09-10T05:30:55.000-05:00",
+      "updated_at": "2026-09-10T05:30:54.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-death-of-an-office/",
+      "excerpt": "Authority must be able to die without taking the function with it.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-death-of-an-office.md",
+      "mirror_html_path": "/articles/the-death-of-an-office.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-death-of-an-office.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-death-of-an-office.html",
+      "sha256_plaintext": "a631d6aab9a0beb7619b379856d1d30a3679d9a6fe86334cbe98cad5d381e126"
+    },
     {
       "title": "Applied Case: The Category Goes In the Brain",
       "slug": "applied-case-the-category-goes-in-the-brain",
