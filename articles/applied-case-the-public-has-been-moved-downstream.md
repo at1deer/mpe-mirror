@@ -3,13 +3,13 @@ title: "Applied Case: The Public Has Been Moved Downstream"
 slug: "applied-case-the-public-has-been-moved-downstream"
 canonical_url: "https://modalpathethics.com/applied-case-the-public-has-been-moved-downstream/"
 published_at: "2026-09-11T06:00:34.000-05:00"
-updated_at: "2026-09-11T06:00:34.000-05:00"
+updated_at: "2026-09-11T09:46:46.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-11T11:44:18.000Z"
-sha256_plaintext: "70ba6b288bc8dcbe5af5ce978701ed5800ce5ed564a616178a24f42d47f6cd6a"
+mirror_generated_at: "2026-09-11T16:43:10.487Z"
+sha256_plaintext: "da0634ebd64e6806ff7e858d4ae6fc1f2366b1427e2125fe438640d5fc19afa2"
 ---
 # Applied Case: The Public Has Been Moved Downstream
 
@@ -250,7 +250,7 @@ That is the problem.
 
 * * *
 
-## Unfortunately, Irreplaceable Gets One W.
+## On Having a Boundary.
 
 Modal Path Ethics recently gave Irreplaceable a hard time for starting with a political object called **“Big AI”** and then gathering datacenters, labor, children, surveillance, military systems, frontier risk, and other injuries beneath it.
 
