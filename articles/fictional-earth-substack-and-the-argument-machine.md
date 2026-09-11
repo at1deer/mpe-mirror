@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-11T16:43:10.487Z"
+mirror_generated_at: "2026-09-11T21:13:26.946Z"
 sha256_plaintext: "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
 ---
 # Fictional Earth: Substack and the Argument Machine

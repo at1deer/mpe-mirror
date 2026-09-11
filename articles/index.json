@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-11T16:43:10.487Z",
+  "generated_at": "2026-09-11T21:13:26.946Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 301,
+  "article_count": 302,
   "articles": [
+    {
+      "title": "Influencutors: Ridley Scott Is an Influencer",
+      "slug": "influencutors-ridley-scott-is-an-influencer",
+      "published_at": "2026-09-11T13:36:28.000-05:00",
+      "updated_at": "2026-09-11T13:36:28.000-05:00",
+      "canonical_url": "https://modalpathethics.com/influencutors-ridley-scott-is-an-influencer/",
+      "excerpt": "Modal Path Ethics responds to an unexpected self-referral.",
+      "tags": [
+        "Influencutors"
+      ],
+      "mirror_markdown_path": "/articles/influencutors-ridley-scott-is-an-influencer.md",
+      "mirror_html_path": "/articles/influencutors-ridley-scott-is-an-influencer.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/influencutors-ridley-scott-is-an-influencer.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/influencutors-ridley-scott-is-an-influencer.html",
+      "sha256_plaintext": "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
+    },
     {
       "title": "Applied Case: The War That Never Ended",
       "slug": "applied-case-the-war-that-never-ended",

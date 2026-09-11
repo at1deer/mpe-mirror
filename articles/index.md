@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-11T16:43:10.487Z
+Generated: 2026-09-11T21:13:26.946Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-11 — [Influencutors: Ridley Scott Is an Influencer](/articles/influencutors-ridley-scott-is-an-influencer.md) ([HTML](/articles/influencutors-ridley-scott-is-an-influencer.html))
 - 2026-09-11 — [Applied Case: The War That Never Ended](/articles/applied-case-the-war-that-never-ended.md) ([HTML](/articles/applied-case-the-war-that-never-ended.html))
 - 2026-09-11 — [Applied Case: The Public Has Been Moved Downstream](/articles/applied-case-the-public-has-been-moved-downstream.md) ([HTML](/articles/applied-case-the-public-has-been-moved-downstream.html))
 - 2026-09-11 — [Three Alarms](/articles/three-alarms.md) ([HTML](/articles/three-alarms.html))
