@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-11T05:08:02.893Z
+Generated: 2026-09-11T11:44:18.000Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-11 — [Applied Case: The War That Never Ended](/articles/applied-case-the-war-that-never-ended.md) ([HTML](/articles/applied-case-the-war-that-never-ended.html))
+- 2026-09-11 — [Applied Case: The Public Has Been Moved Downstream](/articles/applied-case-the-public-has-been-moved-downstream.md) ([HTML](/articles/applied-case-the-public-has-been-moved-downstream.html))
+- 2026-09-11 — [Three Alarms](/articles/three-alarms.md) ([HTML](/articles/three-alarms.html))
 - 2026-09-10 — [Influencutors: MoistCr1TiKaL and the Ordinary Field](/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md) ([HTML](/articles/influencutors-moistcr1tikal-and-the-ordinary-field.html))
 - 2026-09-10 — [Convergence Point: Eduardo Blasco and the Engineer Who Found the Future](/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md) ([HTML](/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html))
 - 2026-09-10 — [The Death of an Office](/articles/the-death-of-an-office.md) ([HTML](/articles/the-death-of-an-office.html))

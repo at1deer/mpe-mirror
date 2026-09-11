@@ -7,7 +7,7 @@ updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-11T05:08:02.893Z"
+mirror_generated_at: "2026-09-11T11:44:18.000Z"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose

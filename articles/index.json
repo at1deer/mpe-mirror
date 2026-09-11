@@ -1,9 +1,61 @@
 {
-  "generated_at": "2026-09-11T05:08:02.893Z",
+  "generated_at": "2026-09-11T11:44:18.000Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 298,
+  "article_count": 301,
   "articles": [
+    {
+      "title": "Applied Case: The War That Never Ended",
+      "slug": "applied-case-the-war-that-never-ended",
+      "published_at": "2026-09-11T06:30:52.000-05:00",
+      "updated_at": "2026-09-11T06:30:51.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-war-that-never-ended/",
+      "excerpt": "Where was the armistice leading?",
+      "tags": [
+        "Applied Case",
+        "Geopolitical Wasteland",
+        "Modal Path Ethics",
+        "Security Instruments"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-war-that-never-ended.md",
+      "mirror_html_path": "/articles/applied-case-the-war-that-never-ended.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-war-that-never-ended.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-war-that-never-ended.html",
+      "sha256_plaintext": "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
+    },
+    {
+      "title": "Applied Case: The Public Has Been Moved Downstream",
+      "slug": "applied-case-the-public-has-been-moved-downstream",
+      "published_at": "2026-09-11T06:00:34.000-05:00",
+      "updated_at": "2026-09-11T06:00:34.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-public-has-been-moved-downstream/",
+      "excerpt": "The permit can remain open after the decision has become expensive to change.",
+      "tags": [
+        "Applied Case",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-public-has-been-moved-downstream.md",
+      "mirror_html_path": "/articles/applied-case-the-public-has-been-moved-downstream.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-public-has-been-moved-downstream.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-public-has-been-moved-downstream.html",
+      "sha256_plaintext": "70ba6b288bc8dcbe5af5ce978701ed5800ce5ed564a616178a24f42d47f6cd6a"
+    },
+    {
+      "title": "Three Alarms",
+      "slug": "three-alarms",
+      "published_at": "2026-09-11T05:30:13.000-05:00",
+      "updated_at": "2026-09-11T05:30:12.000-05:00",
+      "canonical_url": "https://modalpathethics.com/three-alarms/",
+      "excerpt": "Emergency power should waste as the emergency does.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/three-alarms.md",
+      "mirror_html_path": "/articles/three-alarms.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/three-alarms.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/three-alarms.html",
+      "sha256_plaintext": "66a9c59f83d5357bf09bf582f152d581c26d4262aa4970b12ed6eb052b781333"
+    },
     {
       "title": "Influencutors: MoistCr1TiKaL and the Ordinary Field",
       "slug": "influencutors-moistcr1tikal-and-the-ordinary-field",
