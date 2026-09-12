@@ -3,11 +3,11 @@ title: "Applied Case: China Gives the Moon a Cool Style Guide"
 slug: "applied-case-china-gives-the-moon-a-cool-style-guide"
 canonical_url: "https://modalpathethics.com/applied-case-china-gives-the-moon-a-cool-style-guide/"
 published_at: "2026-09-06T06:30:48.000-05:00"
-updated_at: "2026-09-06T06:30:47.000-05:00"
+updated_at: "2026-09-11T22:29:15.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-11T21:13:26.946Z"
+mirror_generated_at: "2026-09-12T04:56:32.304Z"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide
@@ -20,9 +20,7 @@ This is a good thing.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/Screenshot-2026-08-18-233732.png)
 
-I am aware that sentence may require a brief adjustment [period](https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/) [around](https://modalpathethics.com/applied-case-the-silicon-shield/) [here](https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/).
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/image-958.png)
+[I am aware that sentence may require a brief adjustment period around here.](https://modalpathethics.com/modal-path-ethics-should-not-go-to-china/)
 
 China's new 1:5-million geological map of the Moon is about 2.8 meters wide, contains 13,519 mapped impact craters and 81 impact basins, incorporates new findings from the Chang'e program, revises parts of the lunar geological chronology, and expands the mapped distribution of KREEP-rich terrain.
 
