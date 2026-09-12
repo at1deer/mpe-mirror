@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-09-12T04:56:32.304Z",
+  "generated_at": "2026-09-12T11:12:05.159Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 302,
+  "article_count": 304,
   "articles": [
+    {
+      "title": "OpenAI Is Sponsoring the Séance",
+      "slug": "openai-is-sponsoring-the-seance",
+      "published_at": "2026-09-12T06:06:35.000-05:00",
+      "updated_at": "2026-09-12T06:06:34.000-05:00",
+      "canonical_url": "https://modalpathethics.com/openai-is-sponsoring-the-seance/",
+      "excerpt": "Roger Ebert left an archive, not a continuing critical appointment.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/openai-is-sponsoring-the-seance.md",
+      "mirror_html_path": "/articles/openai-is-sponsoring-the-seance.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.html",
+      "sha256_plaintext": "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
+    },
+    {
+      "title": "The Green Model",
+      "slug": "the-green-model",
+      "published_at": "2026-09-12T05:30:19.000-05:00",
+      "updated_at": "2026-09-12T05:30:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-green-model/",
+      "excerpt": "The calculator belongs in the room. It does not get the throne.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-green-model.md",
+      "mirror_html_path": "/articles/the-green-model.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-green-model.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-green-model.html",
+      "sha256_plaintext": "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
+    },
     {
       "title": "Influencutors: Ridley Scott Is an Influencer",
       "slug": "influencutors-ridley-scott-is-an-influencer",
