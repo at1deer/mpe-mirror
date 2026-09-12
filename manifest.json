@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-12T11:12:05.159Z",
+  "generated_at": "2026-09-12T15:46:48.361Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 304,
+  "article_count": 305,
   "articles": [
+    {
+      "title": "Applied Case: Revenge of the Theorem Scoreboard",
+      "slug": "applied-case-the-mathematicians-appeal-the-scoreboard",
+      "published_at": "2026-09-12T06:30:24.000-05:00",
+      "updated_at": "2026-09-12T06:30:23.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/",
+      "excerpt": "Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.",
+      "tags": [
+        "Applied Case",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md",
+      "mirror_html_path": "/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html",
+      "sha256_plaintext": "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
+    },
     {
       "title": "OpenAI Is Sponsoring the Séance",
       "slug": "openai-is-sponsoring-the-seance",

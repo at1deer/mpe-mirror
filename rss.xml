@@ -4,8 +4,16 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 12 Sep 2026 11:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 15:46:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Revenge of the Theorem Scoreboard</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html</guid>
+      <pubDate>Sat, 12 Sep 2026 11:30:24 GMT</pubDate>
+      <description>Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.</description>
+    </item>
+
     <item>
       <title>OpenAI Is Sponsoring the Séance</title>
       <link>https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.html</link>
@@ -398,14 +406,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.html</guid>
       <pubDate>Fri, 28 Aug 2026 11:00:49 GMT</pubDate>
       <description>This should all be fine.</description>
-    </item>
-
-    <item>
-      <title>Return to the Release Gradient</title>
-      <link>https://modal-path-ethics.ghost.io/articles/return-to-the-release-gradient.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/return-to-the-release-gradient.html</guid>
-      <pubDate>Fri, 28 Aug 2026 10:30:35 GMT</pubDate>
-      <description>Permission is not capability.</description>
     </item>
   </channel>
 </rss>

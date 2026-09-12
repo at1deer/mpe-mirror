@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-12T11:12:05.159Z
+Generated: 2026-09-12T15:46:48.361Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-12 — [Applied Case: Revenge of the Theorem Scoreboard](/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md) ([HTML](/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html))
 - 2026-09-12 — [OpenAI Is Sponsoring the Séance](/articles/openai-is-sponsoring-the-seance.md) ([HTML](/articles/openai-is-sponsoring-the-seance.html))
 - 2026-09-12 — [The Green Model](/articles/the-green-model.md) ([HTML](/articles/the-green-model.html))
 - 2026-09-11 — [Influencutors: Ridley Scott Is an Influencer](/articles/influencutors-ridley-scott-is-an-influencer.md) ([HTML](/articles/influencutors-ridley-scott-is-an-influencer.html))
