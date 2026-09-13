@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-12T20:53:08.769Z"
+mirror_generated_at: "2026-09-13T05:18:32.206Z"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated

@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-12T20:53:08.769Z"
+mirror_generated_at: "2026-09-13T05:18:32.206Z"
 sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
 ---
 # Applied Case: The Crew
