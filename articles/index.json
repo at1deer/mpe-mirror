@@ -1,9 +1,58 @@
 {
-  "generated_at": "2026-09-13T05:18:32.206Z",
+  "generated_at": "2026-09-13T12:14:37.242Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 305,
+  "article_count": 308,
   "articles": [
+    {
+      "title": "The Explanation Writes Back",
+      "slug": "the-explanation-writes-back",
+      "published_at": "2026-09-13T07:00:35.000-05:00",
+      "updated_at": "2026-09-13T07:00:35.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-explanation-writes-back/",
+      "excerpt": "An audit can be right about the wrong version of the model.",
+      "tags": [
+        "Modal Path Ethical Software",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/the-explanation-writes-back.md",
+      "mirror_html_path": "/articles/the-explanation-writes-back.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-explanation-writes-back.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-explanation-writes-back.html",
+      "sha256_plaintext": "992194bad4392ab302ad93d885a623b754161de0677cff4c932f46b43ff1ea9a"
+    },
+    {
+      "title": "Applied Case: The Fifth Fish",
+      "slug": "applied-case-the-fifth-fish",
+      "published_at": "2026-09-13T06:15:42.000-05:00",
+      "updated_at": "2026-09-13T06:15:41.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-fifth-fish/",
+      "excerpt": "Every lawful catch depends on somebody stopping.",
+      "tags": [
+        "Applied Case"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-fifth-fish.md",
+      "mirror_html_path": "/articles/applied-case-the-fifth-fish.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.html",
+      "sha256_plaintext": "b91db8956c6adff27bab1cd70be6c1a70f6f3771dd6c199a87ec722ef8bf11d1"
+    },
+    {
+      "title": "Six Inches Away",
+      "slug": "six-inches-away",
+      "published_at": "2026-09-13T05:55:51.000-05:00",
+      "updated_at": "2026-09-13T05:55:50.000-05:00",
+      "canonical_url": "https://modalpathethics.com/six-inches-away/",
+      "excerpt": "The floor is judged at receipt.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/six-inches-away.md",
+      "mirror_html_path": "/articles/six-inches-away.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/six-inches-away.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/six-inches-away.html",
+      "sha256_plaintext": "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
+    },
     {
       "title": "Applied Case: Revenge of the Theorem Scoreboard",
       "slug": "applied-case-the-mathematicians-appeal-the-scoreboard",

@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-13T05:18:32.206Z
+Generated: 2026-09-13T12:14:37.242Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-13 — [The Explanation Writes Back](/articles/the-explanation-writes-back.md) ([HTML](/articles/the-explanation-writes-back.html))
+- 2026-09-13 — [Applied Case: The Fifth Fish](/articles/applied-case-the-fifth-fish.md) ([HTML](/articles/applied-case-the-fifth-fish.html))
+- 2026-09-13 — [Six Inches Away](/articles/six-inches-away.md) ([HTML](/articles/six-inches-away.html))
 - 2026-09-12 — [Applied Case: Revenge of the Theorem Scoreboard](/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md) ([HTML](/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html))
 - 2026-09-12 — [OpenAI Is Sponsoring the Séance](/articles/openai-is-sponsoring-the-seance.md) ([HTML](/articles/openai-is-sponsoring-the-seance.html))
 - 2026-09-12 — [The Green Model](/articles/the-green-model.md) ([HTML](/articles/the-green-model.html))
