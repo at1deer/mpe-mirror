@@ -8,7 +8,7 @@ tags:
   - "Instrument Jurisdiction"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T13:16:03.006Z"
+mirror_generated_at: "2026-09-14T21:58:58.934Z"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover

@@ -7,7 +7,7 @@ updated_at: "2026-08-30T06:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T13:16:03.006Z"
+mirror_generated_at: "2026-09-14T21:58:58.934Z"
 sha256_plaintext: "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
 ---
 # Four Futures

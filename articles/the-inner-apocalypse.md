@@ -7,7 +7,7 @@ updated_at: "2026-09-03T18:43:24.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T13:16:03.006Z"
+mirror_generated_at: "2026-09-14T21:58:58.934Z"
 sha256_plaintext: "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
 ---
 # The Inner Apocalypse

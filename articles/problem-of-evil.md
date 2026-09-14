@@ -9,7 +9,7 @@ tags:
   - "Sacred Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T13:16:03.006Z"
+mirror_generated_at: "2026-09-14T21:58:58.934Z"
 sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
 ---
 # Applied Case: The Problem of Evil

@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T13:16:03.006Z"
+mirror_generated_at: "2026-09-14T21:58:58.934Z"
 sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
 ---
 # Gilles Deleuze and Modal Path Ethics
