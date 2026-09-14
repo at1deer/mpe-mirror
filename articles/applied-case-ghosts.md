@@ -3,15 +3,15 @@ title: "Applied Case: Ghosts"
 slug: "applied-case-ghosts"
 canonical_url: "https://modalpathethics.com/applied-case-ghosts/"
 published_at: "2026-08-23T06:00:40.000-05:00"
-updated_at: "2026-08-23T21:32:54.000-05:00"
+updated_at: "2026-09-13T19:10:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-13T21:05:36.574Z"
-sha256_plaintext: "98ba534311b8e8501e506b2ae340a04ecfa061e1c9a7ea50ccc0212a3b4fac4f"
+mirror_generated_at: "2026-09-14T05:22:26.030Z"
+sha256_plaintext: "e3f14576c1d706d95f009ccdc2905b82504d3297cabde0a9f93d57680da45cd5"
 ---
 # Applied Case: Ghosts
 
@@ -1041,7 +1041,7 @@ It did not delete the person who could write before it arrived.
                                 -   and human memory,
                                 -   something became reachable that had not been reachable before.
 
-That is the case. GPT-3 machine could not conjure the dead. It changed the resistance around the living.
+That is the case. GPT-3 could not conjure the dead. It changed the resistance around the living.
 
 > **Human authorship deserves a protected field.**
 
