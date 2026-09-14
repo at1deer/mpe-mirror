@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-14T05:22:26.030Z
+Generated: 2026-09-14T13:16:03.006Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-14 — [Transition Action: Color Becomes Structure](/articles/transition-action-color-becomes-structure.md) ([HTML](/articles/transition-action-color-becomes-structure.html))
+- 2026-09-14 — [A Tale of Three Headlines](/articles/a-tale-of-three-headlines.md) ([HTML](/articles/a-tale-of-three-headlines.html))
+- 2026-09-14 — [The Last Safe Megawatt](/articles/the-last-safe-megawatt.md) ([HTML](/articles/the-last-safe-megawatt.html))
 - 2026-09-13 — [The Explanation Writes Back](/articles/the-explanation-writes-back.md) ([HTML](/articles/the-explanation-writes-back.html))
 - 2026-09-13 — [Applied Case: The Fifth Fish](/articles/applied-case-the-fifth-fish.md) ([HTML](/articles/applied-case-the-fifth-fish.html))
 - 2026-09-13 — [Six Inches Away](/articles/six-inches-away.md) ([HTML](/articles/six-inches-away.html))
