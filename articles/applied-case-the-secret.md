@@ -10,7 +10,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T21:58:58.934Z"
+mirror_generated_at: "2026-09-15T05:14:15.074Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret

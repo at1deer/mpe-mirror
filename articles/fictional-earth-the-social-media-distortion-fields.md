@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T21:58:58.934Z"
+mirror_generated_at: "2026-09-15T05:14:15.074Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields

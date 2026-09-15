@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T21:58:58.934Z"
+mirror_generated_at: "2026-09-15T05:14:15.074Z"
 sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
 ---
 # Applied Case: The New Taboo

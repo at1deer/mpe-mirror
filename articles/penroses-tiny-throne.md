@@ -3,14 +3,16 @@ title: "Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne"
 slug: "penroses-tiny-throne"
 canonical_url: "https://modalpathethics.com/penroses-tiny-throne/"
 published_at: "2026-07-12T05:00:34.000-05:00"
-updated_at: "2026-07-12T05:41:35.000-05:00"
+updated_at: "2026-09-14T17:22:26.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T21:58:58.934Z"
-sha256_plaintext: "4fd6000a42749386105c155520ec5f028d7b6983c0726a0ed12be5faf095cc84"
+mirror_generated_at: "2026-09-15T05:14:15.074Z"
+sha256_plaintext: "d1eee73ebf48b5de0e4b3b6bc969317e8f0736d7bc89775a36ecc69c34398e8c"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
+
+> Warning: This article is bad. [The apology has been issued](https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/).
 
 [The first Modal Path Ethics engagement with Roger Penrose](https://modalpathethics.com/roger-penrose-and-the-reality-of-structure/) was very generous because Penrose has earned generosity.
 

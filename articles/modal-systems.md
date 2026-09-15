@@ -7,7 +7,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-14T21:58:58.934Z"
+mirror_generated_at: "2026-09-15T05:14:15.074Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
