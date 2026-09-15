@@ -10,7 +10,7 @@ tags:
   - "Supplement"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T12:02:28.563Z"
+mirror_generated_at: "2026-09-15T17:13:59.492Z"
 sha256_plaintext: "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
 ---
 # The Quasiexplicable Origins of Modal Path Ethics

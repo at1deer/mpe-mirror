@@ -8,7 +8,7 @@ tags:
   - "Functional Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T12:02:28.563Z"
+mirror_generated_at: "2026-09-15T17:13:59.492Z"
 sha256_plaintext: "5ece73232cfd7bb6c83f6d9dbf0cdb98340046a5e7620ed443472df8565ded73"
 ---
 # Functional Field Analysts: Tukaram Mundhe and the Lives of People

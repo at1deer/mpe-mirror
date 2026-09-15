@@ -7,7 +7,7 @@ updated_at: "2026-08-24T11:33:56.000-05:00"
 tags:
   - "Moonlight with Figures"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T12:02:28.563Z"
+mirror_generated_at: "2026-09-15T17:13:59.492Z"
 sha256_plaintext: "a8b13919b19c923bf90e9ed4579a26ee8b37d43f13a94498455e209a082be28a"
 ---
 # Moonlight with Figures: The Primordial Darkness
