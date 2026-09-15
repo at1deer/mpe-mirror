@@ -3,16 +3,17 @@ title: "Fictional Earth: Substack and the Argument Machine"
 slug: "fictional-earth-substack-and-the-argument-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-substack-and-the-argument-machine/"
 published_at: "2026-08-27T19:21:07.000-05:00"
-updated_at: "2026-08-27T23:27:12.000-05:00"
+updated_at: "2026-09-15T16:00:35.000-05:00"
 tags:
   - "Fictional Earth"
-  - "Modal Path Ethics"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
-sha256_plaintext: "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
+sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
 # Fictional Earth: Substack and the Argument Machine
+
+> Note: I have now [also apologized to the college newspapers](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-college-newspapers/).
 
 Modal Path Ethics lasted **less than one week** on Substack.
 

@@ -3,12 +3,12 @@ title: "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future"
 slug: "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future"
 canonical_url: "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/"
 published_at: "2026-09-10T06:00:49.000-05:00"
-updated_at: "2026-09-10T06:00:48.000-05:00"
+updated_at: "2026-09-15T13:59:19.000-05:00"
 tags:
-  - "The Convergence Point"
+  - "Convergence Point"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
-sha256_plaintext: "2431cd241c4c6c073745fc3c42f414f6d25ed4675aff9c316a0b7e7e45a2c4c1"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
+sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
 # Convergence Point: Eduardo Blasco and the Engineer Who Found the Future
 
@@ -48,7 +48,7 @@ That is what **_Convergence Point_** is for.
 
 * * *
 
-## The Dates Are Even _Worse_ This Time.
+## The Dates Are Even Worse.
 
 The chronology has to come first because the vocabulary is too close to handle casually. Blasco's persistent-agent program was already public well before the Modal Path Ethics May formal run.
 
@@ -279,7 +279,7 @@ This visual is strange because it looks like somebody has rendered one of the di
 
 * * *
 
-## A Necessary Complaint About the Word “_Geometry_.”
+## A Necessary Complaint About the Word “Geometry.”
 
 We should not overclaim what **OMEGA-4** has established. Blasco himself does not.
 

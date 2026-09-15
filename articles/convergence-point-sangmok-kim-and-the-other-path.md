@@ -3,20 +3,20 @@ title: "Convergence Point: Sangmok Kim and the Other Path"
 slug: "convergence-point-sangmok-kim-and-the-other-path"
 canonical_url: "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/"
 published_at: "2026-09-07T13:38:52.000-05:00"
-updated_at: "2026-09-07T13:41:45.000-05:00"
+updated_at: "2026-09-15T16:13:34.000-05:00"
 tags:
-  - "The Convergence Point"
+  - "Convergence Point"
   - "Engagement"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
-sha256_plaintext: "6b005823656e0477078951fb21d810e42cf180d3ae92fe8760852131d18b6bd2"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
+sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path
 
 > Where the hell did Modal Path Ethics come from?
 
-**_My_** route here involved screenplays, a board game, conceptual software, bad math, unfinished games and novels, psychological study, visions, hallucinations, religious synthesis, the Eberron campaign setting, and a recurring failure to let one project remain one project over around a decade now. We'll unpack some of that next week.
+**_My_** route here involved screenplays, a board game, conceptual software, bad math, unfinished games and novels, psychological study, visions, hallucinations, religious synthesis, the Eberron campaign setting, and a recurring failure to let one project remain one project over around a decade now. [We'll unpack some of that next week.](https://modalpathethics.com/origins/)
 
 Eventually, I wrote a little book about harm, reachable futures, resistance, and what remains possible after the good options have already disappeared. I assumed I had assembled a fun, peculiar philosophical object out of a **_highly_** questionable personal supply chain.
 
@@ -54,7 +54,7 @@ Then the public records start crossing each other in a way I find genuinely ridi
 -   **11 May:** _Formal: Resistance and Harm_ makes pre-closure burden to a still-open path part of the harm account. ([Modal Path Ethics](https://modalpathethics.com/formal-resistance-and-harm/))
 -   **12 May:** Kim's PhilArchive record reaches Version 4. ([PhilArchive version history](https://philarchive.org/versions/SEAGVM?ref=modalpathethics.com))
 
-I did not encounter Kim in March. I did not encounter him in May. I found him in **July 2026**, while reviewing literature for _Harm as Contraction of Reachable Continuation._ By then, both lines had been sitting in public for months. The public chronology cannot prove a negative about influence. What the chronology **does** establish is enough for the purpose of this article.
+I did not encounter Kim in March. I did not encounter him in May. I found him in **July**, while reviewing literature for _Harm as Contraction of Reachable Continuation._ By then, both lines had been sitting in public for months. The public chronology cannot prove a negative about influence. What the chronology **does** establish is enough for the purpose of this article.
 
 > Kim's public path-preservation model predates the public Modal Path Ethics formal spine.
 
@@ -79,7 +79,7 @@ That is the interesting fact.
 
 ## Next, That Correction.
 
-> **Public correction, 7 September 2026:** Sections 2 and 8.2 of my submitted _Harm as Contraction of Reachable Continuation_ manuscript, and the preprint file I submitted to PhilArchive, version 1.0, **overstated parts of the difference between Modal Path Ethics and Kim’s framework**. I botched it. I'll fix it once it is live, I promise.
+> **Public correction, 7 September 2026:** Sections 2 and 8.2 of my submitted _Harm as Contraction of Reachable Continuation_ manuscript, and the preprint file I submitted to PhilArchive, version 1.0, **overstated parts of the difference between Modal Path Ethics and Kim’s framework**. I botched it. I already had the better one. I'll fix it once whenever I can, I promise.
 
 Kim already recognizes path reduction before complete closure.
 

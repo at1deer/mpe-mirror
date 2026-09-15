@@ -3,12 +3,12 @@ title: "Applied Case: Revenge of the Theorem Scoreboard"
 slug: "applied-case-the-mathematicians-appeal-the-scoreboard"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/"
 published_at: "2026-09-12T06:30:24.000-05:00"
-updated_at: "2026-09-12T06:30:23.000-05:00"
+updated_at: "2026-09-15T13:55:09.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
 # Applied Case: Revenge of the Theorem Scoreboard

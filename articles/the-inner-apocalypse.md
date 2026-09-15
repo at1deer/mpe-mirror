@@ -3,12 +3,12 @@ title: "The Inner Apocalypse"
 slug: "the-inner-apocalypse"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse/"
 published_at: "2026-09-02T06:00:58.000-05:00"
-updated_at: "2026-09-03T18:43:24.000-05:00"
+updated_at: "2026-09-15T15:35:43.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
-sha256_plaintext: "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
+sha256_plaintext: "25c1683aeed30d47ee5794a94ffb26a489f2e0904f0663cd76b3c5dd00831b98"
 ---
 # The Inner Apocalypse
 
@@ -30,8 +30,9 @@ The public argument about artificial intelligence is drawn toward the loudest en
 
 _The Inner Apocalypse_ organizes failure-space through two questions:
 
--   **Where does closure enter the field**: from outside its practical correction, or through authorities and dependencies already inside it?
--   **What survives after closure**: continuing life under final authority, or the agency required to answer at all?
+> **Where does closure enter the field**: from outside its practical correction, or through authorities and dependencies already inside it?
+
+> **What survives after closure**: continuing life under final authority, or the agency required to answer at all?
 
 The crossing of those questions produces four futures.
 
@@ -75,14 +76,21 @@ The important word is **consequential**.
 
 Count voices and the field may look healthy. Follow one instead.
 
--   Can it halt a transfer?
--   Reopen a record?
--   Fund a rival test?
--   Change a contract?
--   Keep a family in place?
--   Move a budget?
--   Interrupt execution?
--   Remove the common interpreter?
+> Can it halt a transfer?
+
+> Reopen a record?
+
+> Fund a rival test?
+
+> Change a contract?
+
+> Keep a family in place?
+
+> Move a budget?
+
+> Interrupt execution?
+
+> Remove the common interpreter?
 
 If the answer is always no, abundant speech can coexist with one operational future.
 

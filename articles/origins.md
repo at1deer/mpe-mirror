@@ -6,11 +6,11 @@ published_at: "2026-09-15T06:06:09.000-05:00"
 updated_at: "2026-09-15T06:06:08.000-05:00"
 tags:
   - "Modal Path Ethics"
-  - "The Convergence Point"
+  - "Convergence Point"
   - "Supplement"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T17:13:59.492Z"
+mirror_generated_at: "2026-09-15T21:42:32.438Z"
 sha256_plaintext: "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
 ---
 # The Quasiexplicable Origins of Modal Path Ethics

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:13:59.492Z",
+  "generated_at": "2026-09-15T21:42:32.438Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 313,
@@ -13,7 +13,7 @@
       "excerpt": "A Genealogy Reconstruction Attempt. Opening the archive for the 5-Month anniversary celebration of modalpathethics.com.",
       "tags": [
         "Modal Path Ethics",
-        "The Convergence Point",
+        "Convergence Point",
         "Supplement",
         "News"
       ],
@@ -140,7 +140,7 @@
       "title": "Applied Case: Revenge of the Theorem Scoreboard",
       "slug": "applied-case-the-mathematicians-appeal-the-scoreboard",
       "published_at": "2026-09-12T06:30:24.000-05:00",
-      "updated_at": "2026-09-12T06:30:23.000-05:00",
+      "updated_at": "2026-09-15T13:55:09.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/",
       "excerpt": "Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.",
       "tags": [
@@ -271,17 +271,17 @@
       "title": "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future",
       "slug": "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future",
       "published_at": "2026-09-10T06:00:49.000-05:00",
-      "updated_at": "2026-09-10T06:00:48.000-05:00",
+      "updated_at": "2026-09-15T13:59:19.000-05:00",
       "canonical_url": "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/",
       "excerpt": "Somehow we ended up arguing with the same geometry.",
       "tags": [
-        "The Convergence Point"
+        "Convergence Point"
       ],
       "mirror_markdown_path": "/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md",
       "mirror_html_path": "/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.html",
-      "sha256_plaintext": "2431cd241c4c6c073745fc3c42f414f6d25ed4675aff9c316a0b7e7e45a2c4c1"
+      "sha256_plaintext": "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
     },
     {
       "title": "The Death of an Office",
@@ -417,11 +417,11 @@
       "title": "Convergence Point: Sangmok Kim and the Other Path",
       "slug": "convergence-point-sangmok-kim-and-the-other-path",
       "published_at": "2026-09-07T13:38:52.000-05:00",
-      "updated_at": "2026-09-07T13:41:45.000-05:00",
+      "updated_at": "2026-09-15T16:13:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/",
       "excerpt": "Apparently there is a neighborhood.",
       "tags": [
-        "The Convergence Point",
+        "Convergence Point",
         "Engagement",
         "Apologies Department"
       ],
@@ -429,7 +429,7 @@
       "mirror_html_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/convergence-point-sangmok-kim-and-the-other-path.html",
-      "sha256_plaintext": "6b005823656e0477078951fb21d810e42cf180d3ae92fe8760852131d18b6bd2"
+      "sha256_plaintext": "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
     },
     {
       "title": "Al-Ghazali and the Last Instrument",
@@ -733,9 +733,9 @@
       "title": "The Inner Apocalypse",
       "slug": "the-inner-apocalypse",
       "published_at": "2026-09-02T06:00:58.000-05:00",
-      "updated_at": "2026-09-03T18:43:24.000-05:00",
+      "updated_at": "2026-09-15T15:35:43.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-inner-apocalypse/",
-      "excerpt": "A Post-Sovereign Constitution",
+      "excerpt": "A Post-Sovereign Constitution: Coming Soon",
       "tags": [
         "Inner Apocalypse"
       ],
@@ -743,7 +743,7 @@
       "mirror_html_path": "/articles/the-inner-apocalypse.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse.html",
-      "sha256_plaintext": "96394cbf2b1d51fcd02539917f0fe95fa8b426db4305c1cbe89d165f99ceef0a"
+      "sha256_plaintext": "25c1683aeed30d47ee5794a94ffb26a489f2e0904f0663cd76b3c5dd00831b98"
     },
     {
       "title": "WAICO Is the Hard Case",
@@ -981,19 +981,18 @@
       "title": "Fictional Earth: Substack and the Argument Machine",
       "slug": "fictional-earth-substack-and-the-argument-machine",
       "published_at": "2026-08-27T19:21:07.000-05:00",
-      "updated_at": "2026-08-27T23:27:12.000-05:00",
+      "updated_at": "2026-09-15T16:00:35.000-05:00",
       "canonical_url": "https://modalpathethics.com/fictional-earth-substack-and-the-argument-machine/",
       "excerpt": "Every single argument was worth having, which was the problem. My biggest failure yet; an apology.",
       "tags": [
         "Fictional Earth",
-        "Modal Path Ethics",
         "Apologies Department"
       ],
       "mirror_markdown_path": "/articles/fictional-earth-substack-and-the-argument-machine.md",
       "mirror_html_path": "/articles/fictional-earth-substack-and-the-argument-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-substack-and-the-argument-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/fictional-earth-substack-and-the-argument-machine.html",
-      "sha256_plaintext": "77b8b1d9ffc09efb3b11296335d2bdeec2fc79877216ae42dc4cb372da1f0e7c"
+      "sha256_plaintext": "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
     },
     {
       "title": "Transition Action: The Queue Reorders Itself",
