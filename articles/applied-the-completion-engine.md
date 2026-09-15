@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T05:14:15.074Z"
+mirror_generated_at: "2026-09-15T12:02:28.563Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine

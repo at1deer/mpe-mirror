@@ -7,7 +7,7 @@ updated_at: "2026-09-13T06:15:41.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T05:14:15.074Z"
+mirror_generated_at: "2026-09-15T12:02:28.563Z"
 sha256_plaintext: "b91db8956c6adff27bab1cd70be6c1a70f6f3771dd6c199a87ec722ef8bf11d1"
 ---
 # Applied Case: The Fifth Fish

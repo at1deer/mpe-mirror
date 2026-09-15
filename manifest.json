@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-15T05:14:15.074Z",
+  "generated_at": "2026-09-15T12:02:28.563Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 311,
+  "article_count": 313,
   "articles": [
+    {
+      "title": "The Quasiexplicable Origins of Modal Path Ethics",
+      "slug": "origins",
+      "published_at": "2026-09-15T06:06:09.000-05:00",
+      "updated_at": "2026-09-15T06:06:08.000-05:00",
+      "canonical_url": "https://modalpathethics.com/origins/",
+      "excerpt": "A Genealogy Reconstruction Attempt. Opening the archive for the 5-Month anniversary celebration of modalpathethics.com.",
+      "tags": [
+        "Modal Path Ethics",
+        "The Convergence Point",
+        "Supplement",
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/origins.md",
+      "mirror_html_path": "/articles/origins.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/origins.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/origins.html",
+      "sha256_plaintext": "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
+    },
+    {
+      "title": "Two Screens",
+      "slug": "two-screens",
+      "published_at": "2026-09-15T05:00:40.000-05:00",
+      "updated_at": "2026-09-15T05:00:39.000-05:00",
+      "canonical_url": "https://modalpathethics.com/two-screens/",
+      "excerpt": "\"Too important to fail\" means \"required to resolve.\"",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/two-screens.md",
+      "mirror_html_path": "/articles/two-screens.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/two-screens.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/two-screens.html",
+      "sha256_plaintext": "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
+    },
     {
       "title": "Transition Action: Color Becomes Structure",
       "slug": "transition-action-color-becomes-structure",

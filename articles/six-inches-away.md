@@ -7,7 +7,7 @@ updated_at: "2026-09-13T05:55:50.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T05:14:15.074Z"
+mirror_generated_at: "2026-09-15T12:02:28.563Z"
 sha256_plaintext: "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
 ---
 # Six Inches Away

@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-15T05:14:15.074Z
+Generated: 2026-09-15T12:02:28.563Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-15 — [The Quasiexplicable Origins of Modal Path Ethics](/articles/origins.md) ([HTML](/articles/origins.html))
+- 2026-09-15 — [Two Screens](/articles/two-screens.md) ([HTML](/articles/two-screens.html))
 - 2026-09-14 — [Transition Action: Color Becomes Structure](/articles/transition-action-color-becomes-structure.md) ([HTML](/articles/transition-action-color-becomes-structure.html))
 - 2026-09-14 — [A Tale of Three Headlines](/articles/a-tale-of-three-headlines.md) ([HTML](/articles/a-tale-of-three-headlines.html))
 - 2026-09-14 — [The Last Safe Megawatt](/articles/the-last-safe-megawatt.md) ([HTML](/articles/the-last-safe-megawatt.html))
