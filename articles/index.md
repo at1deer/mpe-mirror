@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-16T11:58:35.425Z
+Generated: 2026-09-16T17:14:53.511Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-16 — [Tales of Distortion: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html))
 - 2026-09-16 — [Applied Case: Physics Finds the Empty Altar](/articles/applied-case-physics-finds-the-empty-altar.md) ([HTML](/articles/applied-case-physics-finds-the-empty-altar.html))
 - 2026-09-15 — [The Quasiexplicable Origins of Modal Path Ethics](/articles/origins.md) ([HTML](/articles/origins.html))
 - 2026-09-15 — [Two Screens](/articles/two-screens.md) ([HTML](/articles/two-screens.html))

@@ -1,9 +1,28 @@
 {
-  "generated_at": "2026-09-16T11:58:35.425Z",
+  "generated_at": "2026-09-16T17:14:53.511Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 314,
+  "article_count": 315,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Book Was More Than the Text",
+      "slug": "the-book-was-more-than-the-text",
+      "published_at": "2026-09-16T07:15:33.000-05:00",
+      "updated_at": "2026-09-16T07:15:32.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-book-was-more-than-the-text/",
+      "excerpt": "They Destroyed the Books for the Information. Starring TraceLossBench.",
+      "tags": [
+        "Tales of Distortion",
+        "Field Creature",
+        "Modal Path Ethical Software",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/the-book-was-more-than-the-text.md",
+      "mirror_html_path": "/articles/the-book-was-more-than-the-text.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-book-was-more-than-the-text.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-book-was-more-than-the-text.html",
+      "sha256_plaintext": "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
+    },
     {
       "title": "Applied Case: Physics Finds the Empty Altar",
       "slug": "applied-case-physics-finds-the-empty-altar",
@@ -125,7 +144,7 @@
       "title": "Applied Case: The Fifth Fish",
       "slug": "applied-case-the-fifth-fish",
       "published_at": "2026-09-13T06:15:42.000-05:00",
-      "updated_at": "2026-09-13T06:15:41.000-05:00",
+      "updated_at": "2026-09-16T12:00:31.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-fifth-fish/",
       "excerpt": "Every lawful catch depends on somebody stopping.",
       "tags": [
@@ -135,7 +154,7 @@
       "mirror_html_path": "/articles/applied-case-the-fifth-fish.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.html",
-      "sha256_plaintext": "b91db8956c6adff27bab1cd70be6c1a70f6f3771dd6c199a87ec722ef8bf11d1"
+      "sha256_plaintext": "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
     },
     {
       "title": "Six Inches Away",

@@ -3,12 +3,12 @@ title: "Applied Case: The Fifth Fish"
 slug: "applied-case-the-fifth-fish"
 canonical_url: "https://modalpathethics.com/applied-case-the-fifth-fish/"
 published_at: "2026-09-13T06:15:42.000-05:00"
-updated_at: "2026-09-13T06:15:41.000-05:00"
+updated_at: "2026-09-16T12:00:31.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-16T11:58:35.425Z"
-sha256_plaintext: "b91db8956c6adff27bab1cd70be6c1a70f6f3771dd6c199a87ec722ef8bf11d1"
+mirror_generated_at: "2026-09-16T17:14:53.511Z"
+sha256_plaintext: "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
 ---
 # Applied Case: The Fifth Fish
 
@@ -711,6 +711,6 @@ Four fish could leave Percy Priest.
 
 The fifth required somebody else to stop.
 
-An eighteen fish later, Tennessee supplied the rest of the institution.
+And eighteen fish later, Tennessee supplied the rest of the institution.
 
 > **Every lawful catch depends on somebody stopping.**
