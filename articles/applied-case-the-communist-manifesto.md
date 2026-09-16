@@ -12,7 +12,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-16T05:09:21.365Z"
+mirror_generated_at: "2026-09-16T11:58:35.425Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto

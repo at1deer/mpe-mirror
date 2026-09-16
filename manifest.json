@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-16T05:09:21.365Z",
+  "generated_at": "2026-09-16T11:58:35.425Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 313,
+  "article_count": 314,
   "articles": [
+    {
+      "title": "Applied Case: Physics Finds the Empty Altar",
+      "slug": "applied-case-physics-finds-the-empty-altar",
+      "published_at": "2026-09-16T06:45:24.000-05:00",
+      "updated_at": "2026-09-16T06:45:24.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-physics-finds-the-empty-altar/",
+      "excerpt": "The observer may enter reality, not become reality.",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-physics-finds-the-empty-altar.md",
+      "mirror_html_path": "/articles/applied-case-physics-finds-the-empty-altar.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-physics-finds-the-empty-altar.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-physics-finds-the-empty-altar.html",
+      "sha256_plaintext": "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
+    },
     {
       "title": "The Quasiexplicable Origins of Modal Path Ethics",
       "slug": "origins",
