@@ -7,8 +7,9 @@ updated_at: "2026-08-22T06:00:24.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
+  - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T21:42:32.438Z"
+mirror_generated_at: "2026-09-16T05:09:21.365Z"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman

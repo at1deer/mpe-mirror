@@ -5,11 +5,12 @@ canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
 published_at: "2026-04-26T03:10:28.000-05:00"
 updated_at: "2026-07-09T05:15:03.000-05:00"
 tags:
+  - "Citadel Archive"
   - "Modal Path Ethics"
   - "Chirality"
-  - "Citadel Archive"
+  - "Field Creature"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T21:42:32.438Z"
+mirror_generated_at: "2026-09-16T05:09:21.365Z"
 sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
 ---
 # Citadel Archive: Commander Shepard

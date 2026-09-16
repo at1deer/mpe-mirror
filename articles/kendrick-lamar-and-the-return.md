@@ -8,7 +8,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T21:42:32.438Z"
+mirror_generated_at: "2026-09-16T05:09:21.365Z"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return

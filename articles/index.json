@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:42:32.438Z",
+  "generated_at": "2026-09-16T05:09:21.365Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 313,
@@ -160,7 +160,10 @@
       "updated_at": "2026-09-12T06:06:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/openai-is-sponsoring-the-seance/",
       "excerpt": "Roger Ebert left an archive, not a continuing critical appointment.",
-      "tags": [],
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
       "mirror_markdown_path": "/articles/openai-is-sponsoring-the-seance.md",
       "mirror_html_path": "/articles/openai-is-sponsoring-the-seance.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.md",
@@ -209,7 +212,6 @@
       "tags": [
         "Applied Case",
         "Geopolitical Wasteland",
-        "Modal Path Ethics",
         "Security Instruments"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-war-that-never-ended.md",
@@ -271,7 +273,7 @@
       "title": "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future",
       "slug": "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future",
       "published_at": "2026-09-10T06:00:49.000-05:00",
-      "updated_at": "2026-09-15T13:59:19.000-05:00",
+      "updated_at": "2026-09-15T21:59:23.000-05:00",
       "canonical_url": "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/",
       "excerpt": "Somehow we ended up arguing with the same geometry.",
       "tags": [
@@ -405,7 +407,8 @@
       "canonical_url": "https://modalpathethics.com/field-instruments-the-firm/",
       "excerpt": "The market ends at the company door. Then someone becomes your boss.",
       "tags": [
-        "Field Instruments"
+        "Field Instruments",
+        "Business"
       ],
       "mirror_markdown_path": "/articles/field-instruments-the-firm.md",
       "mirror_html_path": "/articles/field-instruments-the-firm.html",
@@ -458,7 +461,8 @@
       "excerpt": "The boats come first",
       "tags": [
         "Applied Case",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "News"
       ],
       "mirror_markdown_path": "/articles/applied-case-tennessee-found-1-2-billion.md",
       "mirror_html_path": "/articles/applied-case-tennessee-found-1-2-billion.html",
@@ -1236,7 +1240,8 @@
       "excerpt": "Removal is not succession.",
       "tags": [
         "Inner Apocalypse",
-        "Applied Case"
+        "Applied Case",
+        "Business"
       ],
       "mirror_markdown_path": "/articles/applied-case-the-firing-of-sam-altman.md",
       "mirror_html_path": "/articles/applied-case-the-firing-of-sam-altman.html",
@@ -1321,7 +1326,8 @@
       "excerpt": "The winner does not get to own the rules of winning.",
       "tags": [
         "Inner Apocalypse",
-        "Applied Case"
+        "Applied Case",
+        "Business"
       ],
       "mirror_markdown_path": "/articles/applied-case-last-look.md",
       "mirror_html_path": "/articles/applied-case-last-look.html",
@@ -2897,10 +2903,11 @@
       "canonical_url": "https://modalpathethics.com/the-second-battle-for-hoover-dam/",
       "excerpt": "Spoilers for Fallout: New Vegas. Failed Field Analysts: Colonel Moore [L]",
       "tags": [
-        "Chirality",
         "Applied Case",
         "Modal Path Ethics",
-        "Failed Field Analysts"
+        "Failed Field Analysts",
+        "Field Creature",
+        "Chirality"
       ],
       "mirror_markdown_path": "/articles/the-second-battle-for-hoover-dam.md",
       "mirror_html_path": "/articles/the-second-battle-for-hoover-dam.html",
@@ -3565,12 +3572,14 @@
       "title": "Citadel Archive: Eden Prime",
       "slug": "citadel-archive-eden-prime",
       "published_at": "2026-06-10T07:30:23.000-05:00",
-      "updated_at": "2026-06-29T00:53:33.000-05:00",
+      "updated_at": "2026-09-15T21:10:46.000-05:00",
       "canonical_url": "https://modalpathethics.com/citadel-archive-eden-prime/",
       "excerpt": "Commander Shepard finally gets to play this game('s tutorial). Failed Field Analysts: Saren Arterius. [L]",
       "tags": [
         "Citadel Archive",
-        "Failed Field Analysts"
+        "Failed Field Analysts",
+        "Field Creature",
+        "Chirality"
       ],
       "mirror_markdown_path": "/articles/citadel-archive-eden-prime.md",
       "mirror_html_path": "/articles/citadel-archive-eden-prime.html",
@@ -4974,9 +4983,10 @@
       "canonical_url": "https://modalpathethics.com/applied-case-commander-shepard/",
       "excerpt": "Commander Shepard is not a real person whose continuance is actually at stake. [L]",
       "tags": [
+        "Citadel Archive",
         "Modal Path Ethics",
         "Chirality",
-        "Citadel Archive"
+        "Field Creature"
       ],
       "mirror_markdown_path": "/articles/applied-case-commander-shepard.md",
       "mirror_html_path": "/articles/applied-case-commander-shepard.html",

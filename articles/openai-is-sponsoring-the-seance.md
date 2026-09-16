@@ -5,9 +5,10 @@ canonical_url: "https://modalpathethics.com/openai-is-sponsoring-the-seance/"
 published_at: "2026-09-12T06:06:35.000-05:00"
 updated_at: "2026-09-12T06:06:34.000-05:00"
 tags:
-  []
+  - "Modal Path Ethics"
+  - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-15T21:42:32.438Z"
+mirror_generated_at: "2026-09-16T05:09:21.365Z"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
 # OpenAI Is Sponsoring the Séance
