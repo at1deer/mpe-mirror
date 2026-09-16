@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-16T17:14:53.511Z"
+mirror_generated_at: "2026-09-16T21:38:49.102Z"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path
