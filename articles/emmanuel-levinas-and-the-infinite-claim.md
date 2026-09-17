@@ -8,7 +8,7 @@ tags:
   - "Engagement"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-17T12:00:04.017Z"
+mirror_generated_at: "2026-09-17T17:13:43.908Z"
 sha256_plaintext: "fe7919e8ca4827e45d892771d53b3f1776902a116c4eb13b5b9d0d4144b0d46f"
 ---
 # Emmanuel Levinas and the Infinite Claim
