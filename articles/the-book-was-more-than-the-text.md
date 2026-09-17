@@ -9,8 +9,9 @@ tags:
   - "Field Creature"
   - "Modal Path Ethical Software"
   - "Instrument Jurisdiction"
+  - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-16T21:38:49.102Z"
+mirror_generated_at: "2026-09-17T05:15:31.036Z"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
 # Tales of Distortion: The Book Was More Than the Text

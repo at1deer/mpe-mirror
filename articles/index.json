@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-16T21:38:49.102Z",
+  "generated_at": "2026-09-17T05:15:31.036Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 315,
+  "article_count": 316,
   "articles": [
+    {
+      "title": "SLIME WATCH II: The Slop Button",
+      "slug": "slime-watch-ii-the-slop-button",
+      "published_at": "2026-09-16T18:25:05.000-05:00",
+      "updated_at": "2026-09-16T18:29:42.000-05:00",
+      "canonical_url": "https://modalpathethics.com/slime-watch-ii-the-slop-button/",
+      "excerpt": "LinkedIn has installed the filter.",
+      "tags": [
+        "SLIME WATCH"
+      ],
+      "mirror_markdown_path": "/articles/slime-watch-ii-the-slop-button.md",
+      "mirror_html_path": "/articles/slime-watch-ii-the-slop-button.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-ii-the-slop-button.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/slime-watch-ii-the-slop-button.html",
+      "sha256_plaintext": "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
+    },
     {
       "title": "Tales of Distortion: The Book Was More Than the Text",
       "slug": "the-book-was-more-than-the-text",
@@ -15,7 +31,8 @@
         "Tales of Distortion",
         "Field Creature",
         "Modal Path Ethical Software",
-        "Instrument Jurisdiction"
+        "Instrument Jurisdiction",
+        "Inner Apocalypse"
       ],
       "mirror_markdown_path": "/articles/the-book-was-more-than-the-text.md",
       "mirror_html_path": "/articles/the-book-was-more-than-the-text.html",
@@ -48,10 +65,8 @@
       "canonical_url": "https://modalpathethics.com/origins/",
       "excerpt": "A Genealogy Reconstruction Attempt. Opening the archive for the 5-Month anniversary celebration of modalpathethics.com.",
       "tags": [
-        "Modal Path Ethics",
         "Convergence Point",
-        "Supplement",
-        "News"
+        "Modal Path Ethics"
       ],
       "mirror_markdown_path": "/articles/origins.md",
       "mirror_html_path": "/articles/origins.html",
@@ -460,9 +475,7 @@
       "canonical_url": "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/",
       "excerpt": "Apparently there is a neighborhood.",
       "tags": [
-        "Convergence Point",
-        "Engagement",
-        "Apologies Department"
+        "Convergence Point"
       ],
       "mirror_markdown_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.md",
       "mirror_html_path": "/articles/convergence-point-sangmok-kim-and-the-other-path.html",

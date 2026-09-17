@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-16T21:38:49.102Z
+Generated: 2026-09-17T05:15:31.036Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-16 — [SLIME WATCH II: The Slop Button](/articles/slime-watch-ii-the-slop-button.md) ([HTML](/articles/slime-watch-ii-the-slop-button.html))
 - 2026-09-16 — [Tales of Distortion: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html))
 - 2026-09-16 — [Applied Case: Physics Finds the Empty Altar](/articles/applied-case-physics-finds-the-empty-altar.md) ([HTML](/articles/applied-case-physics-finds-the-empty-altar.html))
 - 2026-09-15 — [The Quasiexplicable Origins of Modal Path Ethics](/articles/origins.md) ([HTML](/articles/origins.html))
