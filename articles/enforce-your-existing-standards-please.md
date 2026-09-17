@@ -9,7 +9,7 @@ tags:
   - "Epistemic Instruments"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-17T05:15:31.036Z"
+mirror_generated_at: "2026-09-17T12:00:04.017Z"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
 # Enforce Your Existing Standards, Please

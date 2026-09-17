@@ -1,9 +1,60 @@
 {
-  "generated_at": "2026-09-17T05:15:31.036Z",
+  "generated_at": "2026-09-17T12:00:04.017Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 316,
+  "article_count": 319,
   "articles": [
+    {
+      "title": "I",
+      "slug": "i",
+      "published_at": "2026-09-17T06:31:58.000-05:00",
+      "updated_at": "2026-09-17T06:31:57.000-05:00",
+      "canonical_url": "https://modalpathethics.com/i/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/i.md",
+      "mirror_html_path": "/articles/i.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/i.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/i.html",
+      "sha256_plaintext": "15ae08e30c295caf9b241e317ee94372c7c54fd54aa89e40653ed73026dd3dd7"
+    },
+    {
+      "title": "Emmanuel Levinas and the Infinite Claim",
+      "slug": "emmanuel-levinas-and-the-infinite-claim",
+      "published_at": "2026-09-17T06:00:45.000-05:00",
+      "updated_at": "2026-09-17T06:00:44.000-05:00",
+      "canonical_url": "https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/",
+      "excerpt": "The Other gets there before your freedom.",
+      "tags": [
+        "Engagement",
+        "Sacred Instruments"
+      ],
+      "mirror_markdown_path": "/articles/emmanuel-levinas-and-the-infinite-claim.md",
+      "mirror_html_path": "/articles/emmanuel-levinas-and-the-infinite-claim.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/emmanuel-levinas-and-the-infinite-claim.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/emmanuel-levinas-and-the-infinite-claim.html",
+      "sha256_plaintext": "fe7919e8ca4827e45d892771d53b3f1776902a116c4eb13b5b9d0d4144b0d46f"
+    },
+    {
+      "title": "Applied Case: The Thin Mint Heist",
+      "slug": "applied-case-the-thin-mint-heist",
+      "published_at": "2026-09-17T05:00:23.000-05:00",
+      "updated_at": "2026-09-17T05:00:24.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-thin-mint-heist/",
+      "excerpt": "Girl Scouts of the USA have ethics. Modal Path Ethics has never been permitted to learn them.",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction",
+        "Business"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-thin-mint-heist.md",
+      "mirror_html_path": "/articles/applied-case-the-thin-mint-heist.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-thin-mint-heist.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-thin-mint-heist.html",
+      "sha256_plaintext": "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
+    },
     {
       "title": "SLIME WATCH II: The Slop Button",
       "slug": "slime-watch-ii-the-slop-button",

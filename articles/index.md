@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-17T05:15:31.036Z
+Generated: 2026-09-17T12:00:04.017Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-17 — [I](/articles/i.md) ([HTML](/articles/i.html))
+- 2026-09-17 — [Emmanuel Levinas and the Infinite Claim](/articles/emmanuel-levinas-and-the-infinite-claim.md) ([HTML](/articles/emmanuel-levinas-and-the-infinite-claim.html))
+- 2026-09-17 — [Applied Case: The Thin Mint Heist](/articles/applied-case-the-thin-mint-heist.md) ([HTML](/articles/applied-case-the-thin-mint-heist.html))
 - 2026-09-16 — [SLIME WATCH II: The Slop Button](/articles/slime-watch-ii-the-slop-button.md) ([HTML](/articles/slime-watch-ii-the-slop-button.html))
 - 2026-09-16 — [Tales of Distortion: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html))
 - 2026-09-16 — [Applied Case: Physics Finds the Empty Altar](/articles/applied-case-physics-finds-the-empty-altar.md) ([HTML](/articles/applied-case-physics-finds-the-empty-altar.html))

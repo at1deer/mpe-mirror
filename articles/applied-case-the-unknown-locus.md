@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-17T05:15:31.036Z"
+mirror_generated_at: "2026-09-17T12:00:04.017Z"
 sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
 ---
 # Applied Case: The Unknown Locus
