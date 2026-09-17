@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-17T17:13:43.908Z"
+mirror_generated_at: "2026-09-17T21:41:00.410Z"
 sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
 ---
 # Solving the Parfit Puzzle Suite

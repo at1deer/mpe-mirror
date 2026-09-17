@@ -7,7 +7,7 @@ updated_at: "2026-08-27T06:15:46.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-17T17:13:43.908Z"
+mirror_generated_at: "2026-09-17T21:41:00.410Z"
 sha256_plaintext: "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
 ---
 # Transition Action: The Queue Reorders Itself
