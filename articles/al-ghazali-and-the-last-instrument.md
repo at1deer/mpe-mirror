@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T11:42:49.490Z"
+mirror_generated_at: "2026-09-18T16:40:55.873Z"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
 # Al-Ghazali and the Last Instrument
