@@ -7,7 +7,7 @@ updated_at: "2026-09-15T16:13:34.000-05:00"
 tags:
   - "Convergence Point"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T16:40:55.873Z"
+mirror_generated_at: "2026-09-18T21:11:14.197Z"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path

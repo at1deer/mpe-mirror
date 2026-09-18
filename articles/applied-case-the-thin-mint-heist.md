@@ -9,7 +9,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T16:40:55.873Z"
+mirror_generated_at: "2026-09-18T21:11:14.197Z"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
 # Applied Case: The Thin Mint Heist

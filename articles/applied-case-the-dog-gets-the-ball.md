@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T16:40:55.873Z"
+mirror_generated_at: "2026-09-18T21:11:14.197Z"
 sha256_plaintext: "d45bc0baff6aa1d6a24a9b266b9a9a6f1b13f09f55afdfdae3bb42ebadfa1eb3"
 ---
 # Applied Case: The Dog Gets the Ball
