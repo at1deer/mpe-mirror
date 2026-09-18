@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-18T05:06:40.673Z
+Generated: 2026-09-18T11:42:49.490Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-18 — [II](/articles/ii.md) ([HTML](/articles/ii.html))
+- 2026-09-18 — [Applied Case: The Dog Gets the Ball](/articles/applied-case-the-dog-gets-the-ball.md) ([HTML](/articles/applied-case-the-dog-gets-the-ball.html))
+- 2026-09-18 — [Modal Path Ethics Apologizes to Bill Gates](/articles/modal-path-ethics-apologizes-to-bill-gates.md) ([HTML](/articles/modal-path-ethics-apologizes-to-bill-gates.html))
 - 2026-09-17 — [I](/articles/i.md) ([HTML](/articles/i.html))
 - 2026-09-17 — [Emmanuel Levinas and the Infinite Claim](/articles/emmanuel-levinas-and-the-infinite-claim.md) ([HTML](/articles/emmanuel-levinas-and-the-infinite-claim.html))
 - 2026-09-17 — [Applied Case: The Thin Mint Heist](/articles/applied-case-the-thin-mint-heist.md) ([HTML](/articles/applied-case-the-thin-mint-heist.html))

@@ -1,9 +1,60 @@
 {
-  "generated_at": "2026-09-18T05:06:40.673Z",
+  "generated_at": "2026-09-18T11:42:49.490Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 319,
+  "article_count": 322,
   "articles": [
+    {
+      "title": "II",
+      "slug": "ii",
+      "published_at": "2026-09-18T06:02:21.000-05:00",
+      "updated_at": "2026-09-18T06:02:20.000-05:00",
+      "canonical_url": "https://modalpathethics.com/ii/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/ii.md",
+      "mirror_html_path": "/articles/ii.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/ii.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/ii.html",
+      "sha256_plaintext": "10fb864454ef6df82f15b10ee3862e412dc64bddc471d5447d2f6f9d5242d98e"
+    },
+    {
+      "title": "Applied Case: The Dog Gets the Ball",
+      "slug": "applied-case-the-dog-gets-the-ball",
+      "published_at": "2026-09-18T05:50:11.000-05:00",
+      "updated_at": "2026-09-18T05:50:10.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/",
+      "excerpt": "Everyone may be dead in ten years.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-dog-gets-the-ball.md",
+      "mirror_html_path": "/articles/applied-case-the-dog-gets-the-ball.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-dog-gets-the-ball.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-dog-gets-the-ball.html",
+      "sha256_plaintext": "d45bc0baff6aa1d6a24a9b266b9a9a6f1b13f09f55afdfdae3bb42ebadfa1eb3"
+    },
+    {
+      "title": "Modal Path Ethics Apologizes to Bill Gates",
+      "slug": "modal-path-ethics-apologizes-to-bill-gates",
+      "published_at": "2026-09-18T05:45:01.000-05:00",
+      "updated_at": "2026-09-18T05:45:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-bill-gates/",
+      "excerpt": "Human Reserved is still getting rezoned.",
+      "tags": [
+        "Apologies Department",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-bill-gates.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-bill-gates.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-bill-gates.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-bill-gates.html",
+      "sha256_plaintext": "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
+    },
     {
       "title": "I",
       "slug": "i",
@@ -24,7 +75,7 @@
       "title": "Emmanuel Levinas and the Infinite Claim",
       "slug": "emmanuel-levinas-and-the-infinite-claim",
       "published_at": "2026-09-17T06:00:45.000-05:00",
-      "updated_at": "2026-09-17T06:00:44.000-05:00",
+      "updated_at": "2026-09-18T00:55:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/",
       "excerpt": "The Other gets there before your freedom.",
       "tags": [
@@ -35,7 +86,7 @@
       "mirror_html_path": "/articles/emmanuel-levinas-and-the-infinite-claim.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/emmanuel-levinas-and-the-infinite-claim.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/emmanuel-levinas-and-the-infinite-claim.html",
-      "sha256_plaintext": "fe7919e8ca4827e45d892771d53b3f1776902a116c4eb13b5b9d0d4144b0d46f"
+      "sha256_plaintext": "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
     },
     {
       "title": "Applied Case: The Thin Mint Heist",

@@ -3,13 +3,13 @@ title: "Emmanuel Levinas and the Infinite Claim"
 slug: "emmanuel-levinas-and-the-infinite-claim"
 canonical_url: "https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/"
 published_at: "2026-09-17T06:00:45.000-05:00"
-updated_at: "2026-09-17T06:00:44.000-05:00"
+updated_at: "2026-09-18T00:55:45.000-05:00"
 tags:
   - "Engagement"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T05:06:40.673Z"
-sha256_plaintext: "fe7919e8ca4827e45d892771d53b3f1776902a116c4eb13b5b9d0d4144b0d46f"
+mirror_generated_at: "2026-09-18T11:42:49.490Z"
+sha256_plaintext: "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
 ---
 # Emmanuel Levinas and the Infinite Claim
 
@@ -531,7 +531,7 @@ Records, rights, categories, and rules are necessary memory instruments. They re
 
 These are serious additions.
 
-They also arrive with the dangerous object  in the box.
+They also arrive with the dangerous object still in the box.
 
 * * *
 
