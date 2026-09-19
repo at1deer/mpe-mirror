@@ -7,7 +7,7 @@ updated_at: "2026-09-14T07:00:09.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T21:11:14.197Z"
+mirror_generated_at: "2026-09-19T04:57:36.446Z"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
 # Transition Action: Color Becomes Structure

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T21:11:14.197Z",
+  "generated_at": "2026-09-19T04:57:36.446Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 322,
@@ -24,7 +24,7 @@
       "title": "Applied Case: The Dog Gets the Ball",
       "slug": "applied-case-the-dog-gets-the-ball",
       "published_at": "2026-09-18T05:50:11.000-05:00",
-      "updated_at": "2026-09-18T05:50:10.000-05:00",
+      "updated_at": "2026-09-18T23:10:16.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/",
       "excerpt": "Everyone may be dead in ten years.",
       "tags": [
@@ -36,7 +36,7 @@
       "mirror_html_path": "/articles/applied-case-the-dog-gets-the-ball.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-dog-gets-the-ball.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-dog-gets-the-ball.html",
-      "sha256_plaintext": "d45bc0baff6aa1d6a24a9b266b9a9a6f1b13f09f55afdfdae3bb42ebadfa1eb3"
+      "sha256_plaintext": "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
     },
     {
       "title": "Modal Path Ethics Apologizes to Bill Gates",
@@ -1368,7 +1368,7 @@
       "title": "Applied Case: The Temporary Topic Leader",
       "slug": "applied-case-the-temporary-topic-leader",
       "published_at": "2026-08-22T07:30:25.000-05:00",
-      "updated_at": "2026-08-23T16:49:23.000-05:00",
+      "updated_at": "2026-09-18T22:58:58.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-temporary-topic-leader/",
       "excerpt": "Create-A-Pokémon and the Succession Problem.",
       "tags": [
@@ -1380,7 +1380,7 @@
       "mirror_html_path": "/articles/applied-case-the-temporary-topic-leader.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-temporary-topic-leader.html",
-      "sha256_plaintext": "a61bb3c0168ffd17a1b89517876008a96d3306635b2e58890153559b366158ca"
+      "sha256_plaintext": "db8b03288c739895f307eaa0846695728b3c4c5e381f58598a65b0e48ac33156"
     },
     {
       "title": "Applied Case: The Firing of Sam Altman",

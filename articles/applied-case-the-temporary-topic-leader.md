@@ -3,14 +3,14 @@ title: "Applied Case: The Temporary Topic Leader"
 slug: "applied-case-the-temporary-topic-leader"
 canonical_url: "https://modalpathethics.com/applied-case-the-temporary-topic-leader/"
 published_at: "2026-08-22T07:30:25.000-05:00"
-updated_at: "2026-08-23T16:49:23.000-05:00"
+updated_at: "2026-09-18T22:58:58.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T21:11:14.197Z"
-sha256_plaintext: "a61bb3c0168ffd17a1b89517876008a96d3306635b2e58890153559b366158ca"
+mirror_generated_at: "2026-09-19T04:57:36.446Z"
+sha256_plaintext: "db8b03288c739895f307eaa0846695728b3c4c5e381f58598a65b0e48ac33156"
 ---
 # Applied Case: The Temporary Topic Leader
 
@@ -667,14 +667,10 @@ Gothic Togekiss was selected as Topic Leader by the early selection committee. T
 
 Then the project split.
 
-![](https://www.smogon.com/media/smog/12/capart_cockatrice.jpg)
-
 -   Some participants wanted a large offensive sweeper.
 -   Others wanted a defensive SubSeed Pokémon capable of using Substitute, Leech Seed, and bulk to wear opponents down.
 
 The dispute intensified when automatic sunlight entered the discussion. Permanent weather was one of the major boundaries separating ordinary Diamond and Pearl competitive play from the Ubers environment, and giving a community-created Pokémon access to it raised questions far beyond the selected typing.
-
-![](https://www.smogon.com/media/smog/12/capart_snake.jpg)
 
 Participants began arguing about later stages before earlier ones had settled. Each poll inherited several incompatible readings of what the project was becoming. The Topic Leader could organize those decisions without possessing a mandate to choose among the competing visions.
 
@@ -1450,7 +1446,7 @@ The final result was Malaconda.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/malaconda.png)
 
-Malaconda is a Grass/Dark snake with an apple growing from the end of its tail and what appears to be an enormous leaf cape.
+Malaconda is a Grass/Dark snake with an apple growing from the end of its tail.
 
 The constitution’s first field test was conducted on an evil orchard.
 

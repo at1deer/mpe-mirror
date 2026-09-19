@@ -7,7 +7,7 @@ updated_at: "2026-09-09T22:50:01.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T21:11:14.197Z"
+mirror_generated_at: "2026-09-19T04:57:36.446Z"
 sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
 ---
 # Simondon and the Locus in Formation

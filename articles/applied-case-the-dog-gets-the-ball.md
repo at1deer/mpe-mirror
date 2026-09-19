@@ -3,18 +3,20 @@ title: "Applied Case: The Dog Gets the Ball"
 slug: "applied-case-the-dog-gets-the-ball"
 canonical_url: "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/"
 published_at: "2026-09-18T05:50:11.000-05:00"
-updated_at: "2026-09-18T05:50:10.000-05:00"
+updated_at: "2026-09-18T23:10:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-18T21:11:14.197Z"
-sha256_plaintext: "d45bc0baff6aa1d6a24a9b266b9a9a6f1b13f09f55afdfdae3bb42ebadfa1eb3"
+mirror_generated_at: "2026-09-19T04:57:36.446Z"
+sha256_plaintext: "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
 ---
 # Applied Case: The Dog Gets the Ball
 
-> "Everyone may be dead in ten years."
+> **Update:** This article jumped containment and became a research paper. Material Bounded Finality: A Finite Feasibility Model of Correctable Final Authority develops and tests the constitutional claim introduced below through a full prior-art review, analytical reserve model, and an explicit finite feasibility witness. The preprint is available on Zenodo at [**10.5281/zenodo.22840444**](https://zenodo.org/records/22840444?ref=modalpathethics.com). Its executable reproducibility package is archived separately at [**10.5281/zenodo.22818297**](https://zenodo.org/records/22840444?ref=modalpathethics.com).
+
+> **"Everyone may be dead in ten years."**
 
 This is one inconvenient sentence.
 
