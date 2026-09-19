@@ -10,7 +10,7 @@ tags:
   - "Failed Field Analysts"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T16:01:38.181Z"
+mirror_generated_at: "2026-09-19T20:56:49.080Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus

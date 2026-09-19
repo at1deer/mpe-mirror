@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T16:01:38.181Z"
+mirror_generated_at: "2026-09-19T20:56:49.080Z"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm
