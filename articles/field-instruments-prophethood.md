@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T04:57:36.446Z"
+mirror_generated_at: "2026-09-19T11:26:20.358Z"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
 # Field Instruments: Prophethood

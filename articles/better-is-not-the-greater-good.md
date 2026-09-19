@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T04:57:36.446Z"
+mirror_generated_at: "2026-09-19T11:26:20.358Z"
 sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
 ---
 # Why Better is Not the Greater Good

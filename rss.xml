@@ -4,8 +4,32 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 04:57:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 11:26:20 GMT</lastBuildDate>
     
+    <item>
+      <title>III</title>
+      <link>https://modal-path-ethics.ghost.io/articles/iii.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/iii.html</guid>
+      <pubDate>Sat, 19 Sep 2026 11:03:29 GMT</pubDate>
+      <description>The Player Who Can Win Every Game.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Nord Stream</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-nord-stream.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-nord-stream.html</guid>
+      <pubDate>Sat, 19 Sep 2026 11:00:49 GMT</pubDate>
+      <description>The gas had stopped. The future had not.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Datacenter is Trying to Leave Earth</title>
+      <link>https://modal-path-ethics.ghost.io/articles/the-datacenter-is-trying-to-leave-earth.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/the-datacenter-is-trying-to-leave-earth.html</guid>
+      <pubDate>Sat, 19 Sep 2026 10:30:59 GMT</pubDate>
+      <description>The cloud found its body.</description>
+    </item>
+
     <item>
       <title>II</title>
       <link>https://modal-path-ethics.ghost.io/articles/ii.html</link>
@@ -382,30 +406,6 @@ Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</guid>
       <pubDate>Fri, 04 Sep 2026 11:05:16 GMT</pubDate>
       <description>Anthropic wrote a constitution for a mind.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics Apologizes to Roger Penrose</title>
-      <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-apologizes-to-roger-penrose.html</guid>
-      <pubDate>Fri, 04 Sep 2026 10:52:37 GMT</pubDate>
-      <description>The Tiny Throne is still coming down; I still did not need to throw it at him. Time for the part where Modal Path Ethics gets embarassing.</description>
-    </item>
-
-    <item>
-      <title>Ellen is Present</title>
-      <link>https://modal-path-ethics.ghost.io/articles/ellen-is-present.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/ellen-is-present.html</guid>
-      <pubDate>Fri, 04 Sep 2026 10:30:53 GMT</pubDate>
-      <description>Standing is not prediction.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: The Verification Gradient</title>
-      <link>https://modal-path-ethics.ghost.io/articles/field-instruments-the-verification-gradient.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/field-instruments-the-verification-gradient.html</guid>
-      <pubDate>Thu, 03 Sep 2026 11:30:25 GMT</pubDate>
-      <description>Artificial intelligence will move fastest where reality can answer it cleanly.</description>
     </item>
   </channel>
 </rss>

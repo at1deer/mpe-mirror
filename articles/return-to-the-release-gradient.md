@@ -7,7 +7,7 @@ updated_at: "2026-08-28T05:30:34.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T04:57:36.446Z"
+mirror_generated_at: "2026-09-19T11:26:20.358Z"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
 # Return to the Release Gradient

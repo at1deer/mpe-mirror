@@ -1,9 +1,60 @@
 {
-  "generated_at": "2026-09-19T04:57:36.446Z",
+  "generated_at": "2026-09-19T11:26:20.358Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 322,
+  "article_count": 325,
   "articles": [
+    {
+      "title": "III",
+      "slug": "iii",
+      "published_at": "2026-09-19T06:03:29.000-05:00",
+      "updated_at": "2026-09-19T06:03:28.000-05:00",
+      "canonical_url": "https://modalpathethics.com/iii/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/iii.md",
+      "mirror_html_path": "/articles/iii.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/iii.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/iii.html",
+      "sha256_plaintext": "422ed0ed152695e9d785ffa6fb111607de3f8c9976b91540de3b0354b12c162f"
+    },
+    {
+      "title": "Applied Case: Nord Stream",
+      "slug": "applied-case-nord-stream",
+      "published_at": "2026-09-19T06:00:49.000-05:00",
+      "updated_at": "2026-09-19T06:00:48.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-nord-stream/",
+      "excerpt": "The gas had stopped. The future had not.",
+      "tags": [
+        "Applied Case",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-nord-stream.md",
+      "mirror_html_path": "/articles/applied-case-nord-stream.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-nord-stream.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-nord-stream.html",
+      "sha256_plaintext": "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
+    },
+    {
+      "title": "Applied Case: The Datacenter is Trying to Leave Earth",
+      "slug": "the-datacenter-is-trying-to-leave-earth",
+      "published_at": "2026-09-19T05:30:59.000-05:00",
+      "updated_at": "2026-09-19T05:30:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-datacenter-is-trying-to-leave-earth/",
+      "excerpt": "The cloud found its body.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-datacenter-is-trying-to-leave-earth.md",
+      "mirror_html_path": "/articles/the-datacenter-is-trying-to-leave-earth.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-datacenter-is-trying-to-leave-earth.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-datacenter-is-trying-to-leave-earth.html",
+      "sha256_plaintext": "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
+    },
     {
       "title": "II",
       "slug": "ii",

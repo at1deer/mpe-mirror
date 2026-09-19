@@ -1,9 +1,12 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-19T04:57:36.446Z
+Generated: 2026-09-19T11:26:20.358Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-19 — [III](/articles/iii.md) ([HTML](/articles/iii.html))
+- 2026-09-19 — [Applied Case: Nord Stream](/articles/applied-case-nord-stream.md) ([HTML](/articles/applied-case-nord-stream.html))
+- 2026-09-19 — [Applied Case: The Datacenter is Trying to Leave Earth](/articles/the-datacenter-is-trying-to-leave-earth.md) ([HTML](/articles/the-datacenter-is-trying-to-leave-earth.html))
 - 2026-09-18 — [II](/articles/ii.md) ([HTML](/articles/ii.html))
 - 2026-09-18 — [Applied Case: The Dog Gets the Ball](/articles/applied-case-the-dog-gets-the-ball.md) ([HTML](/articles/applied-case-the-dog-gets-the-ball.html))
 - 2026-09-18 — [Modal Path Ethics Apologizes to Bill Gates](/articles/modal-path-ethics-apologizes-to-bill-gates.md) ([HTML](/articles/modal-path-ethics-apologizes-to-bill-gates.html))
