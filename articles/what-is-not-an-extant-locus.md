@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T11:26:20.358Z"
+mirror_generated_at: "2026-09-19T16:01:38.181Z"
 sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
 ---
 # What Is Not an Extant Locus

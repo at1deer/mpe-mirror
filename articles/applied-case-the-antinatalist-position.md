@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T11:26:20.358Z"
+mirror_generated_at: "2026-09-19T16:01:38.181Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism

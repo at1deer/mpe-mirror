@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T11:26:20.358Z"
+mirror_generated_at: "2026-09-19T16:01:38.181Z"
 sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
 ---
 # Applied Case: The Schizophrenia Firewall

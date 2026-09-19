@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T11:26:20.358Z"
+mirror_generated_at: "2026-09-19T16:01:38.181Z"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
 # Modal Path Ethics is Slowing Down

@@ -9,7 +9,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T11:26:20.358Z"
+mirror_generated_at: "2026-09-19T16:01:38.181Z"
 sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
 ---
 # Applied Case: The Therac-25
