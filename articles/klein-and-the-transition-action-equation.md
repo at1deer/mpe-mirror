@@ -9,7 +9,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T20:56:49.080Z"
+mirror_generated_at: "2026-09-20T05:19:52.176Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation

@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T20:56:49.080Z"
+mirror_generated_at: "2026-09-20T05:19:52.176Z"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
 # Applied Case: The Assembly and the Guards

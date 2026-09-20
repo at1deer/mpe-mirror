@@ -12,7 +12,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T20:56:49.080Z"
+mirror_generated_at: "2026-09-20T05:19:52.176Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle

@@ -9,7 +9,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-19T20:56:49.080Z"
+mirror_generated_at: "2026-09-20T05:19:52.176Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
