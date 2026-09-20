@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T05:19:52.176Z"
+mirror_generated_at: "2026-09-20T11:45:16.327Z"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home

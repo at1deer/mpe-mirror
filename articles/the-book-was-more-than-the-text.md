@@ -11,7 +11,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T05:19:52.176Z"
+mirror_generated_at: "2026-09-20T11:45:16.327Z"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
 # Tales of Distortion: The Book Was More Than the Text

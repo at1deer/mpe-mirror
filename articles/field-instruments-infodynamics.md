@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T05:19:52.176Z"
+mirror_generated_at: "2026-09-20T11:45:16.327Z"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
 # Field Instruments: Infodynamics

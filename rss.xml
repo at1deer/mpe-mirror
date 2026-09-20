@@ -4,8 +4,32 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 20 Sep 2026 05:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 11:45:16 GMT</lastBuildDate>
     
+    <item>
+      <title>IV</title>
+      <link>https://modal-path-ethics.ghost.io/articles/iv.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/iv.html</guid>
+      <pubDate>Sun, 20 Sep 2026 11:04:10 GMT</pubDate>
+      <description>The Player Who Can Win Every Game.</description>
+    </item>
+
+    <item>
+      <title>Harm as Contraction and the Structural Ethics Layer</title>
+      <link>https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.html</guid>
+      <pubDate>Sun, 20 Sep 2026 11:02:27 GMT</pubDate>
+      <description>Harm as Contraction of Reachable Continuation is now on Zenodo. It may identify something missing from the AI alignment stack.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: California’s Kill Switch</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-californias-ai-kill-switch.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-californias-ai-kill-switch.html</guid>
+      <pubDate>Sun, 20 Sep 2026 10:45:12 GMT</pubDate>
+      <description>The test is whether the system can lose.</description>
+    </item>
+
     <item>
       <title>III</title>
       <link>https://modal-path-ethics.ghost.io/articles/iii.html</link>
@@ -381,31 +405,6 @@ An institution begins when recurrent coordination becomes inherited structure. T
       <guid>https://modal-path-ethics.ghost.io/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.html</guid>
       <pubDate>Sat, 05 Sep 2026 11:05:35 GMT</pubDate>
       <description>Law needs rules. Rules need exits.</description>
-    </item>
-
-    <item>
-      <title>Three Lines Across One Body</title>
-      <link>https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/three-lines-across-one-body.html</guid>
-      <pubDate>Sat, 05 Sep 2026 10:30:19 GMT</pubDate>
-      <description>Jurisdiction follows function.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Superintelligence Ban Cannot Find the Superintelligence</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html</guid>
-      <pubDate>Fri, 04 Sep 2026 18:13:59 GMT</pubDate>
-      <description>
-Bernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Claude’s Constitution</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-claudes-constitution.html</guid>
-      <pubDate>Fri, 04 Sep 2026 11:05:16 GMT</pubDate>
-      <description>Anthropic wrote a constitution for a mind.</description>
     </item>
   </channel>
 </rss>

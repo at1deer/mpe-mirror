@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethical Software"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T05:19:52.176Z"
+mirror_generated_at: "2026-09-20T11:45:16.327Z"
 sha256_plaintext: "992194bad4392ab302ad93d885a623b754161de0677cff4c932f46b43ff1ea9a"
 ---
 # The Explanation Writes Back

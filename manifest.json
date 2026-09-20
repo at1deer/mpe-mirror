@@ -1,9 +1,62 @@
 {
-  "generated_at": "2026-09-20T05:19:52.176Z",
+  "generated_at": "2026-09-20T11:45:16.327Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 325,
+  "article_count": 328,
   "articles": [
+    {
+      "title": "IV",
+      "slug": "iv",
+      "published_at": "2026-09-20T06:04:10.000-05:00",
+      "updated_at": "2026-09-20T06:04:09.000-05:00",
+      "canonical_url": "https://modalpathethics.com/iv/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/iv.md",
+      "mirror_html_path": "/articles/iv.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/iv.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/iv.html",
+      "sha256_plaintext": "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
+    },
+    {
+      "title": "Harm as Contraction and the Structural Ethics Layer",
+      "slug": "artificial-intelligence-needs-a-structural-ethics-layer",
+      "published_at": "2026-09-20T06:02:27.000-05:00",
+      "updated_at": "2026-09-20T06:02:26.000-05:00",
+      "canonical_url": "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/",
+      "excerpt": "Harm as Contraction of Reachable Continuation is now on Zenodo. It may identify something missing from the AI alignment stack.",
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems",
+        "Inner Apocalypse",
+        "Formal"
+      ],
+      "mirror_markdown_path": "/articles/artificial-intelligence-needs-a-structural-ethics-layer.md",
+      "mirror_html_path": "/articles/artificial-intelligence-needs-a-structural-ethics-layer.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.html",
+      "sha256_plaintext": "bcd815f47a8f2ac953d743a8c581f4483e89ad3436b832674e384de3ef549c06"
+    },
+    {
+      "title": "Applied Case: California’s Kill Switch",
+      "slug": "applied-case-californias-ai-kill-switch",
+      "published_at": "2026-09-20T05:45:12.000-05:00",
+      "updated_at": "2026-09-20T05:45:11.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-californias-ai-kill-switch/",
+      "excerpt": "The test is whether the system can lose.",
+      "tags": [
+        "Applied Case",
+        "Inner Apocalypse",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-californias-ai-kill-switch.md",
+      "mirror_html_path": "/articles/applied-case-californias-ai-kill-switch.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-californias-ai-kill-switch.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-californias-ai-kill-switch.html",
+      "sha256_plaintext": "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
+    },
     {
       "title": "III",
       "slug": "iii",

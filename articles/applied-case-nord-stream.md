@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T05:19:52.176Z"
+mirror_generated_at: "2026-09-20T11:45:16.327Z"
 sha256_plaintext: "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
 ---
 # Applied Case: Nord Stream
