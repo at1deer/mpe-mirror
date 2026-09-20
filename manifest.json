@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:45:16.327Z",
+  "generated_at": "2026-09-20T16:26:23.155Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 328,
@@ -21,10 +21,10 @@
       "sha256_plaintext": "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
     },
     {
-      "title": "Harm as Contraction and the Structural Ethics Layer",
+      "title": "Harm as Contraction and Structural Ethics",
       "slug": "artificial-intelligence-needs-a-structural-ethics-layer",
       "published_at": "2026-09-20T06:02:27.000-05:00",
-      "updated_at": "2026-09-20T06:02:26.000-05:00",
+      "updated_at": "2026-09-20T10:18:39.000-05:00",
       "canonical_url": "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/",
       "excerpt": "Harm as Contraction of Reachable Continuation is now on Zenodo. It may identify something missing from the AI alignment stack.",
       "tags": [

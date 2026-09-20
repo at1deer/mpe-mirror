@@ -1,11 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-20T11:45:16.327Z
+Generated: 2026-09-20T16:26:23.155Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
 - 2026-09-20 — [IV](/articles/iv.md) ([HTML](/articles/iv.html))
-- 2026-09-20 — [Harm as Contraction and the Structural Ethics Layer](/articles/artificial-intelligence-needs-a-structural-ethics-layer.md) ([HTML](/articles/artificial-intelligence-needs-a-structural-ethics-layer.html))
+- 2026-09-20 — [Harm as Contraction and Structural Ethics](/articles/artificial-intelligence-needs-a-structural-ethics-layer.md) ([HTML](/articles/artificial-intelligence-needs-a-structural-ethics-layer.html))
 - 2026-09-20 — [Applied Case: California’s Kill Switch](/articles/applied-case-californias-ai-kill-switch.md) ([HTML](/articles/applied-case-californias-ai-kill-switch.html))
 - 2026-09-19 — [III](/articles/iii.md) ([HTML](/articles/iii.html))
 - 2026-09-19 — [Applied Case: Nord Stream](/articles/applied-case-nord-stream.md) ([HTML](/articles/applied-case-nord-stream.html))
