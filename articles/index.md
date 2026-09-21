@@ -1,6 +1,6 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-20T21:01:00.565Z
+Generated: 2026-09-21T05:22:54.035Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
@@ -15,7 +15,7 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-09-18 — [Modal Path Ethics Apologizes to Bill Gates](/articles/modal-path-ethics-apologizes-to-bill-gates.md) ([HTML](/articles/modal-path-ethics-apologizes-to-bill-gates.html))
 - 2026-09-17 — [I](/articles/i.md) ([HTML](/articles/i.html))
 - 2026-09-17 — [Emmanuel Levinas and the Infinite Claim](/articles/emmanuel-levinas-and-the-infinite-claim.md) ([HTML](/articles/emmanuel-levinas-and-the-infinite-claim.html))
-- 2026-09-17 — [Applied Case: The Thin Mint Heist](/articles/applied-case-the-thin-mint-heist.md) ([HTML](/articles/applied-case-the-thin-mint-heist.html))
+- 2026-09-17 — [Applied Case: Girl Scout Ethics](/articles/applied-case-the-thin-mint-heist.md) ([HTML](/articles/applied-case-the-thin-mint-heist.html))
 - 2026-09-16 — [SLIME WATCH II: The Slop Button](/articles/slime-watch-ii-the-slop-button.md) ([HTML](/articles/slime-watch-ii-the-slop-button.html))
 - 2026-09-16 — [Tales of Distortion: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html))
 - 2026-09-16 — [Applied Case: Physics Finds the Empty Altar](/articles/applied-case-physics-finds-the-empty-altar.md) ([HTML](/articles/applied-case-physics-finds-the-empty-altar.html))

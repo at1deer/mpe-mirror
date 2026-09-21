@@ -7,7 +7,7 @@ updated_at: "2026-09-16T18:29:42.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
 ---
 # SLIME WATCH II: The Slop Button

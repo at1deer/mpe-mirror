@@ -10,7 +10,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force

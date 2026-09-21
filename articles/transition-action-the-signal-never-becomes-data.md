@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data

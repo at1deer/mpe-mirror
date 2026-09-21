@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:01:00.565Z",
+  "generated_at": "2026-09-21T05:22:54.035Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 328,
@@ -193,10 +193,10 @@
       "sha256_plaintext": "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
     },
     {
-      "title": "Applied Case: The Thin Mint Heist",
+      "title": "Applied Case: Girl Scout Ethics",
       "slug": "applied-case-the-thin-mint-heist",
       "published_at": "2026-09-17T05:00:23.000-05:00",
-      "updated_at": "2026-09-17T05:00:24.000-05:00",
+      "updated_at": "2026-09-20T21:34:54.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-thin-mint-heist/",
       "excerpt": "Girl Scouts of the USA have ethics. Modal Path Ethics has never been permitted to learn them.",
       "tags": [
@@ -304,7 +304,8 @@
       "canonical_url": "https://modalpathethics.com/transition-action-color-becomes-structure/",
       "excerpt": "The pigment is losing jurisdiction.",
       "tags": [
-        "Transition Action"
+        "Transition Action",
+        "Chastening of the Controller"
       ],
       "mirror_markdown_path": "/articles/transition-action-color-becomes-structure.md",
       "mirror_html_path": "/articles/transition-action-color-becomes-structure.html",
@@ -2161,7 +2162,7 @@
       "title": "Applied Case: Psychiatry Before Psychiatry",
       "slug": "applied-case-psychiatry-before-psychiatry",
       "published_at": "2026-08-01T03:28:53.000-05:00",
-      "updated_at": "2026-08-01T05:17:40.000-05:00",
+      "updated_at": "2026-09-20T21:31:34.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/",
       "excerpt": "Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.",
       "tags": [
@@ -2172,7 +2173,7 @@
       "mirror_html_path": "/articles/applied-case-psychiatry-before-psychiatry.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-psychiatry-before-psychiatry.html",
-      "sha256_plaintext": "d1972e7b61419df60f924211abffa93dcd33bf4294ab3d5df62e0daf473228ab"
+      "sha256_plaintext": "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
     },
     {
       "title": "Applied Case: Russia and the Buffer Wound",
@@ -3143,7 +3144,10 @@
       "updated_at": "2026-06-29T18:17:05.000-05:00",
       "canonical_url": "https://modalpathethics.com/transition-action-the-animal-becomes-the-actuator/",
       "excerpt": "\nHumanity has begun issuing diving gear to cockroaches. This is not a drill.",
-      "tags": [],
+      "tags": [
+        "Transition Action",
+        "Chastening of the Controller"
+      ],
       "mirror_markdown_path": "/articles/transition-action-the-animal-becomes-the-actuator.md",
       "mirror_html_path": "/articles/transition-action-the-animal-becomes-the-actuator.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-animal-becomes-the-actuator.md",

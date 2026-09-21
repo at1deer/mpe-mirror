@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion

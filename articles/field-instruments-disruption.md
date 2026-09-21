@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption

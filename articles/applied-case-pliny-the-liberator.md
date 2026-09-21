@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
 # Applied Case: Pliny the Liberator

@@ -5,9 +5,10 @@ canonical_url: "https://modalpathethics.com/transition-action-the-animal-becomes
 published_at: "2026-06-29T18:02:48.000-05:00"
 updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
-  []
+  - "Transition Action"
+  - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator

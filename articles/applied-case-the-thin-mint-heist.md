@@ -1,18 +1,18 @@
 ---
-title: "Applied Case: The Thin Mint Heist"
+title: "Applied Case: Girl Scout Ethics"
 slug: "applied-case-the-thin-mint-heist"
 canonical_url: "https://modalpathethics.com/applied-case-the-thin-mint-heist/"
 published_at: "2026-09-17T05:00:23.000-05:00"
-updated_at: "2026-09-17T05:00:24.000-05:00"
+updated_at: "2026-09-20T21:34:54.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
-# Applied Case: The Thin Mint Heist
+# Applied Case: Girl Scout Ethics
 
 Modal Path Ethics was eating the evidence when it found the inscription.
 

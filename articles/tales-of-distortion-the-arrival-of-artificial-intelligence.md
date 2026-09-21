@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
 # **Discovery.**

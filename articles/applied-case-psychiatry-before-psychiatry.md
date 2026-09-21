@@ -3,13 +3,13 @@ title: "Applied Case: Psychiatry Before Psychiatry"
 slug: "applied-case-psychiatry-before-psychiatry"
 canonical_url: "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/"
 published_at: "2026-08-01T03:28:53.000-05:00"
-updated_at: "2026-08-01T05:17:40.000-05:00"
+updated_at: "2026-09-20T21:31:34.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-20T21:01:00.565Z"
-sha256_plaintext: "d1972e7b61419df60f924211abffa93dcd33bf4294ab3d5df62e0daf473228ab"
+mirror_generated_at: "2026-09-21T05:22:54.035Z"
+sha256_plaintext: "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
 ---
 # Applied Case: Psychiatry Before Psychiatry
 
@@ -684,17 +684,12 @@ That contradiction changes the **whole epistemic field**.
 
 Psychiatry did not simply fail to provide a service.
 
-## It helped create the obligation to seek the service.
-
-## It claimed authority over the condition.
-
-## It taught the public to recognize the condition.
-
-## It warned against delayed treatment.
-
-## It benefited enormously from a culture in which psychiatric refusal could be described as nonadherence by the patient.
-
-## Then, part of outpatient psychiatry made voluntary care unreachable to the class it had _**PUBLICLY RECRUITED**_.
+-   **It helped create the obligation to seek the service.**
+-   **It claimed authority over the condition.**
+-   **It taught the public to recognize the condition.**
+-   **It warned against delayed treatment.**
+-   **It benefited enormously from a culture in which psychiatric refusal could be described as nonadherence by the patient.**
+-   **Then, part of outpatient psychiatry made voluntary care unreachable to the class it had _PUBLICLY RECRUITED_.**
 
 The public invitation and private exclusion are one path. They do not get to bullshit about this.
 
