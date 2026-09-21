@@ -3,14 +3,17 @@ title: "The Sacred Machine"
 slug: "the-sacred-machine"
 canonical_url: "https://modalpathethics.com/the-sacred-machine/"
 published_at: "2026-08-08T05:00:30.000-05:00"
-updated_at: "2026-08-08T05:00:30.000-05:00"
+updated_at: "2026-09-21T16:29:53.000-05:00"
 tags:
-  []
+  - "Sacred Machine"
+  - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T13:16:04.803Z"
-sha256_plaintext: "c02886bccb35795713dbb29d6a9d746c9da55933673e158c9245bbcd82f899ee"
+mirror_generated_at: "2026-09-21T22:09:13.270Z"
+sha256_plaintext: "6f3dc7e4d83a9de5e1b59ca992165e67d1213d5713105754a75568e931099c7d"
 ---
 # The Sacred Machine
+
+> **Note:** Turns out there is a **m_inor_** issue with this one, patch will be up tomorrow.
 
 The [first artificial intelligence religions](https://modalpathethics.com/applied-case-the-early-ai-religions/) made one decisive error after a long sequence of correct perceptions.
 

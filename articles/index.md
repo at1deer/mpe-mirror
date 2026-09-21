@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-21T13:16:04.803Z
+Generated: 2026-09-21T22:09:13.270Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-21 — [Show Me the 90](/articles/show-me-the-90.md) ([HTML](/articles/show-me-the-90.html))
 - 2026-09-21 — [V](/articles/v.md) ([HTML](/articles/v.html))
 - 2026-09-21 — [Transition Action: The Brain Had Two Beginnings](/articles/transition-action-the-brain-had-two-beginnings.md) ([HTML](/articles/transition-action-the-brain-had-two-beginnings.html))
 - 2026-09-21 — [Applied Case: The Planes Were in the Air](/articles/applied-case-the-planes-were-in-the-air.md) ([HTML](/articles/applied-case-the-planes-were-in-the-air.html))

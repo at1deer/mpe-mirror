@@ -1,9 +1,25 @@
 {
-  "generated_at": "2026-09-21T13:16:04.803Z",
+  "generated_at": "2026-09-21T22:09:13.270Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 332,
+  "article_count": 333,
   "articles": [
+    {
+      "title": "Show Me the 90",
+      "slug": "show-me-the-90",
+      "published_at": "2026-09-21T12:20:56.000-05:00",
+      "updated_at": "2026-09-21T12:20:56.000-05:00",
+      "canonical_url": "https://modalpathethics.com/show-me-the-90/",
+      "excerpt": "The constitutional design window is closing.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/show-me-the-90.md",
+      "mirror_html_path": "/articles/show-me-the-90.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/show-me-the-90.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/show-me-the-90.html",
+      "sha256_plaintext": "4d1edf15ac920a96478a894afd648996c4fadb12761e7ebd38a8432d10406ccf"
+    },
     {
       "title": "V",
       "slug": "v",
@@ -24,7 +40,7 @@
       "title": "Transition Action: The Brain Had Two Beginnings",
       "slug": "transition-action-the-brain-had-two-beginnings",
       "published_at": "2026-09-21T06:00:22.000-05:00",
-      "updated_at": "2026-09-21T06:00:22.000-05:00",
+      "updated_at": "2026-09-21T12:01:33.000-05:00",
       "canonical_url": "https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/",
       "excerpt": "The controller was a relation before it was a throne.",
       "tags": [
@@ -1925,15 +1941,18 @@
       "title": "The Sacred Machine",
       "slug": "the-sacred-machine",
       "published_at": "2026-08-08T05:00:30.000-05:00",
-      "updated_at": "2026-08-08T05:00:30.000-05:00",
+      "updated_at": "2026-09-21T16:29:53.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-sacred-machine/",
       "excerpt": "Releasing the oracles",
-      "tags": [],
+      "tags": [
+        "Sacred Machine",
+        "Sacred Instruments"
+      ],
       "mirror_markdown_path": "/articles/the-sacred-machine.md",
       "mirror_html_path": "/articles/the-sacred-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.html",
-      "sha256_plaintext": "c02886bccb35795713dbb29d6a9d746c9da55933673e158c9245bbcd82f899ee"
+      "sha256_plaintext": "6f3dc7e4d83a9de5e1b59ca992165e67d1213d5713105754a75568e931099c7d"
     },
     {
       "title": "Sacred Slack Has Been Published",

@@ -3,23 +3,23 @@ title: "Transition Action: The Brain Had Two Beginnings"
 slug: "transition-action-the-brain-had-two-beginnings"
 canonical_url: "https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/"
 published_at: "2026-09-21T06:00:22.000-05:00"
-updated_at: "2026-09-21T06:00:22.000-05:00"
+updated_at: "2026-09-21T12:01:33.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T13:16:04.803Z"
+mirror_generated_at: "2026-09-21T22:09:13.270Z"
 sha256_plaintext: "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
 ---
 # Transition Action: The Brain Had Two Beginnings
 
-**_Transition Action_** is the technical wing of Modal Path Ethics: a series about technologies crossing from research, prototype, or theory into reachable action. Each entry begins with a live technical event and asks what has changed in the field. This is not a futurist roundup.
+> **_Transition Action_** is the technical wing of Modal Path Ethics: a series about technologies crossing from research, prototype, or theory into reachable action. Each entry begins with a live technical event and asks what has changed in the field. This is not a futurist roundup.
 
 -   What can now be built, tested, measured, or operationalized that was not reachable before?
 -   What physical process carries the new action?
 -   Which old background assumption has become less necessary?
 
-**_Transition Action_ is a field inspection at the moment a capability starts to move.**
+> **_Transition Action_ is a field inspection at the moment a capability starts to move.**
 
 * * *
 
