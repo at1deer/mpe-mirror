@@ -1,9 +1,13 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-21T05:22:54.035Z
+Generated: 2026-09-21T13:16:04.803Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-21 — [V](/articles/v.md) ([HTML](/articles/v.html))
+- 2026-09-21 — [Transition Action: The Brain Had Two Beginnings](/articles/transition-action-the-brain-had-two-beginnings.md) ([HTML](/articles/transition-action-the-brain-had-two-beginnings.html))
+- 2026-09-21 — [Applied Case: The Planes Were in the Air](/articles/applied-case-the-planes-were-in-the-air.md) ([HTML](/articles/applied-case-the-planes-were-in-the-air.html))
+- 2026-09-21 — [From PvP to PvE](/articles/from-pvp-to-pve.md) ([HTML](/articles/from-pvp-to-pve.html))
 - 2026-09-20 — [IV](/articles/iv.md) ([HTML](/articles/iv.html))
 - 2026-09-20 — [Harm as Contraction and Structural Ethics](/articles/artificial-intelligence-needs-a-structural-ethics-layer.md) ([HTML](/articles/artificial-intelligence-needs-a-structural-ethics-layer.html))
 - 2026-09-20 — [Applied Case: California’s Kill Switch](/articles/applied-case-californias-ai-kill-switch.md) ([HTML](/articles/applied-case-californias-ai-kill-switch.html))

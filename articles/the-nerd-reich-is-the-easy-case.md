@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T05:22:54.035Z"
+mirror_generated_at: "2026-09-21T13:16:04.803Z"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
 # The Nerd Reich Is the Easy Case

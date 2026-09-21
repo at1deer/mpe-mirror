@@ -7,7 +7,7 @@ updated_at: "2026-09-14T06:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T05:22:54.035Z"
+mirror_generated_at: "2026-09-21T13:16:04.803Z"
 sha256_plaintext: "2aac95e93cca980c36ab0514d017f42a6594633d8ceaba71b85700e9a2f4dbc5"
 ---
 # The Last Safe Megawatt

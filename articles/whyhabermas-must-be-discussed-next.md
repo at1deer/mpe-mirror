@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T05:22:54.035Z"
+mirror_generated_at: "2026-09-21T13:16:04.803Z"
 sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
 ---
 # Why Habermas Must Be Discussed Next

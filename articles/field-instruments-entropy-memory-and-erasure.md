@@ -8,7 +8,7 @@ tags:
   - "Epistemic Instruments"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T05:22:54.035Z"
+mirror_generated_at: "2026-09-21T13:16:04.803Z"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
 # Field Instruments: Entropy, Memory, and Erasure

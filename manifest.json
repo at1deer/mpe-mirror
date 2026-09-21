@@ -1,9 +1,73 @@
 {
-  "generated_at": "2026-09-21T05:22:54.035Z",
+  "generated_at": "2026-09-21T13:16:04.803Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 328,
+  "article_count": 332,
   "articles": [
+    {
+      "title": "V",
+      "slug": "v",
+      "published_at": "2026-09-21T06:05:32.000-05:00",
+      "updated_at": "2026-09-21T06:05:31.000-05:00",
+      "canonical_url": "https://modalpathethics.com/v/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/v.md",
+      "mirror_html_path": "/articles/v.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/v.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/v.html",
+      "sha256_plaintext": "560976c1633d8f89fff50549d22e5d65f76749b8558b7b2e8597fad980152805"
+    },
+    {
+      "title": "Transition Action: The Brain Had Two Beginnings",
+      "slug": "transition-action-the-brain-had-two-beginnings",
+      "published_at": "2026-09-21T06:00:22.000-05:00",
+      "updated_at": "2026-09-21T06:00:22.000-05:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/",
+      "excerpt": "The controller was a relation before it was a throne.",
+      "tags": [
+        "Transition Action",
+        "Chastening of the Controller"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-brain-had-two-beginnings.md",
+      "mirror_html_path": "/articles/transition-action-the-brain-had-two-beginnings.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-brain-had-two-beginnings.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/transition-action-the-brain-had-two-beginnings.html",
+      "sha256_plaintext": "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
+    },
+    {
+      "title": "Applied Case: The Planes Were in the Air",
+      "slug": "applied-case-the-planes-were-in-the-air",
+      "published_at": "2026-09-21T05:58:20.000-05:00",
+      "updated_at": "2026-09-21T05:58:19.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-planes-were-in-the-air/",
+      "excerpt": "The room was part of the targeter.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-planes-were-in-the-air.md",
+      "mirror_html_path": "/articles/applied-case-the-planes-were-in-the-air.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-planes-were-in-the-air.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-planes-were-in-the-air.html",
+      "sha256_plaintext": "c2c0ee3ca8b0286eda4a278593b327fc3d135d99453c3baf9e50f7e64a8cc1f5"
+    },
+    {
+      "title": "From PvP to PvE",
+      "slug": "from-pvp-to-pve",
+      "published_at": "2026-09-21T05:45:38.000-05:00",
+      "updated_at": "2026-09-21T05:45:37.000-05:00",
+      "canonical_url": "https://modalpathethics.com/from-pvp-to-pve/",
+      "excerpt": "Change what winning means.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/from-pvp-to-pve.md",
+      "mirror_html_path": "/articles/from-pvp-to-pve.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/from-pvp-to-pve.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/from-pvp-to-pve.html",
+      "sha256_plaintext": "c3657cb14bfb23f51b801f4a4522e4d80a617fcbe62a803dfc5cfee471aa9252"
+    },
     {
       "title": "IV",
       "slug": "iv",
