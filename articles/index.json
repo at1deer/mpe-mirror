@@ -1,9 +1,76 @@
 {
-  "generated_at": "2026-09-22T05:18:56.484Z",
+  "generated_at": "2026-09-22T12:00:03.462Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 333,
+  "article_count": 337,
   "articles": [
+    {
+      "title": "VI",
+      "slug": "vi",
+      "published_at": "2026-09-22T06:06:18.000-05:00",
+      "updated_at": "2026-09-22T06:06:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/vi/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/vi.md",
+      "mirror_html_path": "/articles/vi.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/vi.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/vi.html",
+      "sha256_plaintext": "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
+    },
+    {
+      "title": "Applied Case: The Copy Accuses the Source",
+      "slug": "applied-case-the-copy-accuses-the-source",
+      "published_at": "2026-09-22T05:59:21.000-05:00",
+      "updated_at": "2026-09-22T05:59:20.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-copy-accuses-the-source/",
+      "excerpt": "Jerry Falade answers the authorship machine.",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-copy-accuses-the-source.md",
+      "mirror_html_path": "/articles/applied-case-the-copy-accuses-the-source.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-copy-accuses-the-source.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-copy-accuses-the-source.html",
+      "sha256_plaintext": "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
+    },
+    {
+      "title": "Field Instruments: Hyperintelligence",
+      "slug": "field-instruments-hyperintelligence",
+      "published_at": "2026-09-22T05:58:09.000-05:00",
+      "updated_at": "2026-09-22T05:58:09.000-05:00",
+      "canonical_url": "https://modalpathethics.com/field-instruments-hyperintelligence/",
+      "excerpt": "When human cognitive limitation becomes a fact about the reachable field.",
+      "tags": [
+        "Field Instruments",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/field-instruments-hyperintelligence.md",
+      "mirror_html_path": "/articles/field-instruments-hyperintelligence.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-hyperintelligence.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/field-instruments-hyperintelligence.html",
+      "sha256_plaintext": "2aff3adbaa452d840d51165b9989c52834845add944e75db647ec42f3c887ec4"
+    },
+    {
+      "title": "The Silent Ocean",
+      "slug": "the-ocean-has-no-spokesperson",
+      "published_at": "2026-09-22T05:45:34.000-05:00",
+      "updated_at": "2026-09-22T05:45:33.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-ocean-has-no-spokesperson/",
+      "excerpt": "Every instrument may be right about something.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-ocean-has-no-spokesperson.md",
+      "mirror_html_path": "/articles/the-ocean-has-no-spokesperson.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-ocean-has-no-spokesperson.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-ocean-has-no-spokesperson.html",
+      "sha256_plaintext": "2d2ee90e2949c78aeb0625c8760b1844f90bf1f11f52351ea096d9a479d69adb"
+    },
     {
       "title": "Show Me the 90",
       "slug": "show-me-the-90",
@@ -1941,18 +2008,15 @@
       "title": "The Sacred Machine",
       "slug": "the-sacred-machine",
       "published_at": "2026-08-08T05:00:30.000-05:00",
-      "updated_at": "2026-09-21T16:29:53.000-05:00",
+      "updated_at": "2026-09-22T04:13:28.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-sacred-machine/",
       "excerpt": "Releasing the oracles",
-      "tags": [
-        "Sacred Machine",
-        "Sacred Instruments"
-      ],
+      "tags": [],
       "mirror_markdown_path": "/articles/the-sacred-machine.md",
       "mirror_html_path": "/articles/the-sacred-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.html",
-      "sha256_plaintext": "6f3dc7e4d83a9de5e1b59ca992165e67d1213d5713105754a75568e931099c7d"
+      "sha256_plaintext": "ee915a4449adaca88b39560dea6e7ff0b0121d6910c431dcc27b5a502c250789"
     },
     {
       "title": "Sacred Slack Has Been Published",

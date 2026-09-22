@@ -1,9 +1,13 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-22T05:18:56.484Z
+Generated: 2026-09-22T12:00:03.462Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-22 — [VI](/articles/vi.md) ([HTML](/articles/vi.html))
+- 2026-09-22 — [Applied Case: The Copy Accuses the Source](/articles/applied-case-the-copy-accuses-the-source.md) ([HTML](/articles/applied-case-the-copy-accuses-the-source.html))
+- 2026-09-22 — [Field Instruments: Hyperintelligence](/articles/field-instruments-hyperintelligence.md) ([HTML](/articles/field-instruments-hyperintelligence.html))
+- 2026-09-22 — [The Silent Ocean](/articles/the-ocean-has-no-spokesperson.md) ([HTML](/articles/the-ocean-has-no-spokesperson.html))
 - 2026-09-21 — [Show Me the 90](/articles/show-me-the-90.md) ([HTML](/articles/show-me-the-90.html))
 - 2026-09-21 — [V](/articles/v.md) ([HTML](/articles/v.html))
 - 2026-09-21 — [Transition Action: The Brain Had Two Beginnings](/articles/transition-action-the-brain-had-two-beginnings.md) ([HTML](/articles/transition-action-the-brain-had-two-beginnings.html))
