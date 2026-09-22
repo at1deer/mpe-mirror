@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-22T17:13:11.792Z"
+mirror_generated_at: "2026-09-22T21:37:22.974Z"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look

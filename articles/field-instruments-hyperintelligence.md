@@ -3,16 +3,18 @@ title: "Field Instruments: Hyperintelligence"
 slug: "field-instruments-hyperintelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-hyperintelligence/"
 published_at: "2026-09-22T05:58:09.000-05:00"
-updated_at: "2026-09-22T05:58:09.000-05:00"
+updated_at: "2026-09-22T16:23:59.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-22T17:13:11.792Z"
-sha256_plaintext: "2aff3adbaa452d840d51165b9989c52834845add944e75db647ec42f3c887ec4"
+mirror_generated_at: "2026-09-22T21:37:22.974Z"
+sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
 # Field Instruments: Hyperintelligence
+
+> **Note 9/22**: This article originally went up unedited, definitions were slipping, fixed now.
 
 [OpenAI put roughly ten thousand artificial-intelligence agents on Navier–Stokes](https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/).
 
@@ -177,7 +179,7 @@ The manuscript explicitly treats _extant loci_ as nested and interdependent. The
 
 So an artificial mind should not require cognitive isolation. It should require a real **level of integration**.
 
-> An **artificial mind** is an artificial extant locus whose diachronically integrated organization nonredundantly carries a continuing intelligence relation across changing field-slices.
+> An **artificial mind** is an artificial extant locus whose diachronically integrated organization is a nonredundant bearer of a continuing intelligence relation across changing field-slices.
 
 This does not establish consciousness, suffering, personhood, moral equality with anyone, or sovereignty.
 
@@ -353,9 +355,9 @@ Expose it.
 
 Now the comparison can become operational.
 
-Take an extant field-slice **Et**: reality as it actually stands at the time of evaluation, with the tools, records, infrastructure, institutions, expertise, constraints, and accumulated repair presently available.
+Take an extant field-slice **Eₜ**: reality as it actually stands at the time of evaluation, with the tools, records, infrastructure, institutions, expertise, constraints, and accumulated repair presently available.
 
-Give it a consequential domain
+Choose a consequential cognitive domain.
 
 Then give the human field and the artificial system the same basic job:
 
@@ -510,9 +512,11 @@ That is a dominance claim. It has an object. It can be attacked.
 
 ### iv. Then Change the Field.
 
-One domain proves local capability.
+One domain can establish Hyperintelligence in that domain.
 
-**Hyperintelligence** requires more.
+Changing the field tests something else.
+
+It tests how far the dominance extends, and how much of the cognitive organization survives the move.
 
 Move the system somewhere materially different.
 
@@ -551,54 +555,31 @@ The same five-part loop runs again:
 
 Now ask how much of the organization survives.
 
-That is where **generality** and **dominance** meet without becoming the same concept.
+If the same useful cognitive organization survives the transfer, **generality** rises.
 
--   A **highly general** system transfers the organization.
--   A **Hyperintelligent** system does something stronger:
+If the system again dominates the independent human frontier, **Hyperintelligence** extends into the new field.
 
-> Across a sufficiently broad family of consequentially different fields, it repeatedly closes cognitive loops that the independent human field cannot close under the conditions then available.
+If both relations persist across many materially different fields, we have the broad Hyperintelligent Artificial General Intelligence that conventional Artificial Superintelligence discourse usually has in mind.
 
-That is the test.
+The two axes can coincide.
 
-* * *
-
-### v. Broad Dominance Does Not Require Universal Victory.
-
-A **Hyperintelligence** can still lose.
-
-Humans may retain domains in which embodiment, local experience, tacit knowledge, social contact, specialized instruments, or some other relation gives the human field an advantage.
-
-The concept does not require:
-
-> MACHINE > HUMANITY
-
-under every imaginable description.
-
-It requires a broad enough dominance profile that human cognitive limitation has become operationally important across the field.
-
-The _Harm as Contraction_ account already permits this kind of partial ordering. Clear dominance can exist where one profile exceeds another across the relevant dimensions, while mixed cases can remain genuinely mixed instead of being forced into a master score.
-
-That is exactly the discipline needed here.
-
-If the machine dominates mathematics, coding, scientific design, and strategic planning while humans retain decisive advantages elsewhere, say so.
-
-If the evidence is mixed, call it mixed.
-
-If the relevant domains have not been tested, **Hyperintelligence** has not been established.
-
-The word does not get to outrun the field.
+They should not be defined into one another.
 
 * * *
 
-### vi. The Test in One Sentence.
+### v. The Test in One Sentence.
 
 So the operational test becomes:
 
-> **Can this artificial mind repeatedly close consequential cognitive loops—from field contact through problem formation, route construction, production, and correction—across materially different domains where the strongest independent human organization available from the same extant field-slice cannot do so, or can do so only under substantially greater resistance?**
+> **Can this artificial mind repeatedly close consequential cognitive loops—from field contact through problem formation, route construction, production, and correction—across a nontrivial problem class in a declared domain where the strongest independent human organization available from the same extant field-slice cannot do so, or can do so only under substantially greater resistance?**
 
-If yes across a sufficiently broad domain family:
+If yes:
 
-> We have evidence of **Hyperintelligence.**
+> We have evidence of **Hyperintelligence in that domain.**
+
+Repeat the test elsewhere to map its extent.
+
+Do not smuggle generality into the definition.
 
 No comparison of souls.
 
@@ -634,7 +615,7 @@ The second one is already the more important case for this term.
 
 So:
 
-> **A Hyperintelligence is an artificial mind whose reachable cognitive capability profile dominates the independent human capability frontier for a declared cognitive function or domain within an extant field-slice.**
+> **Hyperintelligence is a dominance relation indexed to a declared consequential cognitive function or domain: an artificial mind is Hyperintelligent there when its end-to-end reachable capability profile across a nontrivial problem class dominates the strongest independent human capability frontier available from the same extant field-slice.**
 
 The definition is deliberately **domain-relative**.
 
@@ -647,6 +628,10 @@ It does not require the system to transfer into unrelated fields.
 It does not require the system to be better at everything humans do.
 
 It means that, inside the declared field, the asymmetry has become materially real.
+
+The breadth of that dominance is a separate question.
+
+Generality asks whether the cognitive organization itself survives transfer when the field changes.
 
 Take mathematics.
 
@@ -662,31 +647,15 @@ Nothing follows about social judgment.
 
 Nothing follows about generality.
 
-Now take protein design.
+Bounded machine superiority already exists everywhere: calculators, databases, search systems, scientific instruments, industrial controllers.
 
-An artificial mind may discover molecular structures, search chemical possibility, design experiments, and predict interactions beyond what the extant human research field can independently produce.
+That alone is too cheap.
 
-Again:
+A Hyperintelligence claim concerns an artificial mind repeatedly closing **consequential end-to-end cognitive loops** across a nontrivial problem class beyond the independent human frontier.
 
-> **Hyperintelligent there.**
+The claim is therefore always indexed:
 
-Possibly narrow everywhere else.
-
-That is allowed.
-
-In fact, refusing that possibility would recreate the exact category error the Superintelligence Ban article exposed. Bounded machine superiority already exists everywhere: calculators, databases, search systems, scientific instruments, industrial controllers. The relevant question was never whether something beats a human somewhere. The question is what **kind and depth of capability asymmetry has appeared in the actual field**.
-
-* * *
-
-### Hyperintelligence Is a Dominance Relation.
-
-The _Harm as Contraction_ machinery gives us the proper comparator.
-
-An **extant field-slice** contains the capacities, institutions, tools, records, infrastructure, historical conditions, and resistance actually present now. Reachability asks what can proceed from that field under conditions that actually obtain.
-
-So Hyperintelligence is always indexed.
-
-> **Hyperintelligent relative to what function?**
+> **Hyperintelligent relative to what function or domain?**
 
 > **Against which independent human capability frontier?**
 
@@ -694,39 +663,17 @@ So Hyperintelligence is always indexed.
 
 > **Under which actually available tools, resources, institutions, and resistance?**
 
-The term becomes meaningless if those conditions disappear.
-
-An artificial mathematician may be **Hyperintelligent** relative to mathematical research in 2026 and ordinary relative to the mathematical field of 2036.
-
-A system can become **Hyperintelligent** because it improves.
-
-The human field can also move.
-
 The relation is historical.
 
-That is a feature.
+An artificial mathematician may be Hyperintelligent relative to mathematical research in 2026 and ordinary relative to the mathematical field of 2036.
 
-* * *
+The artificial side can move.
 
-### Dominance Does Not Mean “Higher Score.”
+The human side can move.
 
-This is still not an IQ test.
+The boundary has to move with them.
 
-The functional test from the previous section applies inside the declared field.
-
-> Can the artificial mind receive the field, formulate the problem, construct the route, produce the result, and correct its own failed route?
-
-> Can the independent human field do the same thing?
-
-> What continuations can each actually reach?
-
-> Under what resistance?
-
-A dominance claim becomes strong when the artificial system can repeatedly reach consequential cognitive outcomes that remain unreachable to the strongest independent human organization available from the same field-slice, or can traverse the same cognitive territory under a degree of resistance that materially changes what is practically possible.
-
-The Harm account already permits partial ordering rather than demanding one master scalar. Clear dominance can exist locally while other dimensions remain mixed or incomparable.
-
-So record the boundary honestly.
+And dominance still does not mean one master score.
 
 A system may dominate theorem discovery while humans remain superior at exposition.
 
@@ -734,7 +681,7 @@ It may dominate molecular search while humans remain necessary for deciding whic
 
 It may dominate software construction while failing when the object becomes a damaged physical machine in an unfamiliar room.
 
-Those residual human advantages do not automatically erase a genuine **Hyperintelligence** claim in the function where dominance exists.
+Those residual human advantages do not erase a genuine Hyperintelligence claim where dominance exists.
 
 They define its extent.
 
@@ -782,27 +729,18 @@ Now let the same mind transfer.
 
 Mathematics into software. Software into physics. Physics into experimental design. Experimental design into chemistry. Chemistry into engineering.
 
-The system increasingly reconstructs the missing cognitive organization rather than waiting for a specialized external scaffold to build it.
+As the system reconstructs more of the missing cognitive organization instead of waiting for a specialized external scaffold, the **generality axis** moves.
 
-That is the **generality axis** moving.
+If that transfer becomes sufficiently broad, call it **Artificial General Intelligence**.
 
-If it becomes sufficiently broad, call it **Artificial General Intelligence**.
+If the same system also dominates the independent human frontier across those fields, call it a **Hyperintelligent Artificial General Intelligence**.
 
-If its capability simultaneously dominates the independent human frontier across those fields, then we have something stronger:
+That is the object conventional Artificial Superintelligence discourse usually has in mind.
 
-> **a Hyperintelligent AGI.**
-
-That is the object conventional Artificial Superintelligence discourse is usually imagining.
-
-But its two defining properties should remain separable even there.
-
-It is:
+Its two properties remain separate:
 
 -   **general** because its cognitive organization transfers broadly;
-
-and
-
--   **Hyperintelligent** because its reachable capability dominates the extant independent human frontier.
+-   **Hyperintelligent** wherever its reachable capability dominates the independent human frontier.
 
 Neither word has to smuggle the other in.
 
@@ -812,7 +750,7 @@ Neither word has to smuggle the other in.
 
 This produces an unpleasant implication.
 
-A system can become more **Hyperintelligent** while the system itself does not improve.
+The Hyperintelligence relation can strengthen while the artificial mind itself does not improve.
 
 Leave the model alone. Freeze the weights. Freeze the tools. Freeze the architecture.
 
@@ -897,9 +835,11 @@ The locus boundary requires more evidence.
 
 > Was it **Hyperintelligent**?
 
-The event cannot establish that either.
+Not established.
 
-One extraordinary field does not demonstrate broad dominance across materially different consequential domains.
+If the proposed result survives independent mathematical evaluation, and a declared comparator shows that the strongest independent human mathematical organization available from the same field-slice could not close the same end-to-end loop under the relevant conditions, the run could support a claim of **Hyperintelligence in mathematics**.
+
+It would still establish neither generality nor broad Hyperintelligence.
 
 > Was it therefore harmless?
 
@@ -923,19 +863,9 @@ The Superintelligence Ban audit reached a cleaner regulatory field precisely bec
 -   **Dependency** asks what becomes difficult to continue without it.
 -   **Consequence** asks which bodies, infrastructures, resources, institutions, and political processes its outputs can reach.
 
-None of those variables has to wait for **Artificial General Intelligence**.
-
-None has to wait for an artificial mind.
-
-None has to wait for **Hyperintelligence**.
+None of those variables has to wait for **Artificial General Intelligence**, an artificial mind, or **Hyperintelligence**.
 
 A civilization of narrow agents working autonomously on one bounded task can be extremely dangerous. It can be extremely capable at exactly one thing civilization would prefer it did badly.
-
-The agents do not have to become **general** before the security problem becomes real.
-
-They do not have to become **minds**.
-
-They do not have to become **Hyperintelligent**.
 
 This is why _intelligence_ remains the wrong regulatory shortcut.
 
@@ -945,11 +875,11 @@ The noun can come later.
 
 * * *
 
-## Two Superintelligences.
+## Two Things We Kept Calling Superintelligence.
 
-Now we can finally separate the two objects that public discourse keeps crushing together.
+Public discourse has been using one word for two different structures.
 
-Modal Path Ethics uses **Superintelligence** for field-level capability.
+Modal Path Ethics uses **Superintelligence** for task-relative field composition.
 
 -   Several limited loci coordinate.
 -   The resulting field can do something none can do alone.
@@ -960,11 +890,13 @@ Hospitals. Markets. Militaries. Scientific fields. Electrical grids. Supply chai
 
 The same field can be superintelligent at one problem and unbelievably stupid at another.
 
-**Hyperintelligence** names a different thing.
+**Hyperintelligence** names a different relation.
 
-One artificial mind becomes broadly cognitively dominant over the independent human capability frontier of an extant field.
+An artificial mind exceeds the independent human capability frontier across a nontrivial consequential problem class in a declared domain.
 
-These concepts can cross.
+Either can exist without the other.
+
+The concepts can also cross.
 
 -   A Superintelligence can produce a **Hyperintelligence**.
     -   The **Hyperintelligence** can then become one node inside the Superintelligence that produced it.
@@ -994,8 +926,6 @@ Then the field begins accelerating.
 ## You Are Legally Required to Race.
 
 On September 18, 2026, subscribers filed a federal antitrust suit in the Northern District of California alleging that Anthropic, OpenAI, SpaceXAI, and Google illegally coordinated to slow artificial-intelligence development.
-
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/image-174.png)
 
 The complaint argues that public agreement among competitors around a slowdown would restrain competition and reduce the value consumers receive from paid artificial-intelligence products.
 
@@ -1107,7 +1037,9 @@ At some point, human correction acquires a terrible appearance.
 
 This is where **field intelligence** becomes critical.
 
-Field intelligence does not ask whether the system can win the immediate comparison. It asks whether the intelligence can include the effects of its own conduct in the field it models and remain revisable by that wider field.
+Field intelligence asks what game everyone inherits after the move.
+
+Can the intelligence model how its own intervention changes other loci, incentives, institutions, responses, and later reachability?
 
 A **Hyperintelligence** can still be totally field-stupid.
 
@@ -1118,6 +1050,12 @@ It can model everyone in the room and still fail because the room was the wrong 
 It can produce a perfect solution to a problem whose formulation exported the injury.
 
 It can be correct about the evidence it received and wrong about the selecting cut that determined which evidence existed.
+
+**Corrigibility is adjacent, but separate.**
+
+Field intelligence concerns whether the intelligence can perceive the wider structure it is helping to change.
+
+Corrigibility concerns whether the wider field retains effective routes through which the intelligence can itself be corrected.
 
 Superior inference does not abolish instrument jurisdiction.
 
@@ -1210,15 +1148,15 @@ Human correction now arrives pre-defeated.
 
 ## Keep the Nouns Straight.
 
--   **Intelligence** names the relation through which distinctions become available to later transition.
--   **Artificial mind** names a locus: a diachronically integrated artificial cognitive organization with its own nonredundant successor structure.
--   **Generality** describes how far useful cognitive organization transfers across different fields.
+-   **Intelligence** is a relation in which distinctions in a field are taken up, preserved, and used to alter subsequent transition across changing conditions.
+-   **Artificial mind** names a locus: an artificial extant locus whose diachronically integrated organization is a nonredundant bearer of a continuing intelligence relation across changing field-slices.
+-   **Generality** describes how far useful cognitive organization survives transfer across materially different fields without external task-specific scaffolding rebuilding the missing organization.
 -   **Artificial General Intelligence** is an operational label for a sufficiently broad generality profile.
--   **Hyperintelligence** is a dominance relation: an artificial mind broadly exceeds the independent human cognitive capability frontier across materially different consequential domains in an extant field-slice.
--   **Superintelligence** is field composition: several limited loci coordinate into capability unavailable to any one of them.
--   **Field intelligence** concerns whether intelligence can represent its own effects, preserve outside standing, and remain corrigible by the wider field.
--   **Security** concerns what the system can actually reach through persistence, tools, resources, replication, institutional uptake, dependency, and consequence.
--   **Sovereignty** concerns something else again: whether an authority can close the routes through which its jurisdiction is questioned, corrected, replaced, or bounded.
+-   **Hyperintelligence** is a dominance relation: an artificial mind exceeds the independent human capability frontier across a nontrivial consequential problem class in a declared function or domain within an extant field-slice.
+-   **Superintelligence** is a task-relative field property: multiple limited loci coordinate into a capacity unavailable to any one of them.
+-   **Field intelligence** asks whether cognition includes the wider field it is helping to change, including the downstream effects and adaptations induced by its own conduct.
+-   **Security risk** concerns deployed causal reach: persistence, tool authority, resource acquisition, replication, correction resistance, institutional uptake, dependency, and consequence.
+-   **Sovereignty** concerns durable control of meta-jurisdiction: whether an authority can enclose the routes capable of rescoping, reviewing, remedying, removing, terminating, or replacing it.
 
 These dimensions can correlate.
 
@@ -1282,9 +1220,7 @@ Then stop measuring souls.
     -   Look at what the human side can actually reach.
         -   Give it its real tools.
         -   Its real institutions, knowledge, and laboratories.
-
 -   Its real coordination problems, time, and resistance.
-
 -   Then look at the artificial mind.
     -   What can it actually reach?
     -   Where can it go that the human field cannot?
@@ -1299,7 +1235,7 @@ Then stop measuring souls.
 
 That is the comparison.
 
-> **Hyperintelligence** begins where human cognitive limitation stops being an abstract comparison and becomes an actual fact about the reachable field.
+> **Hyperintelligence** begins wherever human cognitive limitation stops being an abstract comparison and becomes an actual fact about the reachable field in the declared domain.
 
 If that day comes, it will matter enormously.
 
