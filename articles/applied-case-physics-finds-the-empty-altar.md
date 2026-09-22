@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
 ---
 # Applied Case: Physics Finds the Empty Altar

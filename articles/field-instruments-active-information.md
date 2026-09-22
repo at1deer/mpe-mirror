@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information

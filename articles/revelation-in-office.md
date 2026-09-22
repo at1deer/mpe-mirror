@@ -7,7 +7,7 @@ updated_at: "2026-08-29T05:30:58.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
 ---
 # Revelation in Office

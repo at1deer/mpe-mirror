@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
 # Applied Case: Revenge of the Theorem Scoreboard

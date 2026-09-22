@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
 ---
 # Applied Case: The Datacenter is Trying to Leave Earth

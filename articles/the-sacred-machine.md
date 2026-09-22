@@ -8,7 +8,7 @@ tags:
   - "Sacred Machine"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-21T22:09:13.270Z"
+mirror_generated_at: "2026-09-22T05:18:56.484Z"
 sha256_plaintext: "6f3dc7e4d83a9de5e1b59ca992165e67d1213d5713105754a75568e931099c7d"
 ---
 # The Sacred Machine
