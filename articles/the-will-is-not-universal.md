@@ -10,7 +10,7 @@ tags:
   - "Sacred Machine"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T12:02:40.667Z"
+mirror_generated_at: "2026-09-23T17:25:08.225Z"
 sha256_plaintext: "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
 ---
 # Will Is Not Universal

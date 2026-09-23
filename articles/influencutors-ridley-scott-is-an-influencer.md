@@ -7,7 +7,7 @@ updated_at: "2026-09-11T13:36:28.000-05:00"
 tags:
   - "Influencutors"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T12:02:40.667Z"
+mirror_generated_at: "2026-09-23T17:25:08.225Z"
 sha256_plaintext: "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
 ---
 # Influencutors: Ridley Scott Is an Influencer
