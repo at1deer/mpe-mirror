@@ -7,7 +7,7 @@ updated_at: "2026-09-14T06:30:32.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T17:25:08.225Z"
+mirror_generated_at: "2026-09-23T21:43:11.330Z"
 sha256_plaintext: "4442f9e4695aae1a804866ddc7aa112d5f7e0dbbd42ff9baa19845761f879a57"
 ---
 # A Tale of Three Headlines

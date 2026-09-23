@@ -7,7 +7,7 @@ updated_at: "2026-09-15T05:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T17:25:08.225Z"
+mirror_generated_at: "2026-09-23T21:43:11.330Z"
 sha256_plaintext: "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
 ---
 # Two Screens
