@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-22T21:37:22.974Z"
+mirror_generated_at: "2026-09-23T05:05:39.659Z"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
 # OpenAI Is Sponsoring the Séance
