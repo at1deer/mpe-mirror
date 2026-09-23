@@ -3,17 +3,29 @@ title: "Heidegger, Sorge, and Care"
 slug: "heidegger-sorge-and-care"
 canonical_url: "https://modalpathethics.com/heidegger-sorge-and-care/"
 published_at: "2026-04-20T11:53:45.000-05:00"
-updated_at: "2026-05-17T17:25:22.000-05:00"
+updated_at: "2026-09-23T02:19:56.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T05:05:39.659Z"
-sha256_plaintext: "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
+mirror_generated_at: "2026-09-23T12:02:40.667Z"
+sha256_plaintext: "cf3a15c78c43a32d74b2abacf51f1dfaee9b5baa480f0ea3eb82aec1a5a6144c"
 ---
 # Heidegger, Sorge, and Care
+
+[
+
+Failed Field Analysts: Marty Heidegger and the Depth Machine
+
+A more neutral approach to the man who dug under ethics and lost the ladder. \[L\]
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-67abcd4f-3360-46e1-80b0-6bcdcd2a2675.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Heidegger-1-768x429-c2f1d073-8691-4b69-af12-5249f0fb7256.webp)
+
+](https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/)
 
 The word **care** works very hard for us in Modal Path Ethics.
 

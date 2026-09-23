@@ -1,9 +1,98 @@
 {
-  "generated_at": "2026-09-23T05:05:39.659Z",
+  "generated_at": "2026-09-23T12:02:40.667Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 337,
+  "article_count": 342,
   "articles": [
+    {
+      "title": "VII",
+      "slug": "vii",
+      "published_at": "2026-09-23T06:07:02.000-05:00",
+      "updated_at": "2026-09-23T06:07:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/vii/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/vii.md",
+      "mirror_html_path": "/articles/vii.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/vii.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/vii.html",
+      "sha256_plaintext": "340ceb1867e2b0565582488b4bc905f80073c193598620fbef6080faa2fe5e88"
+    },
+    {
+      "title": "The Problem of Space",
+      "slug": "the-problem-of-space",
+      "published_at": "2026-09-23T06:01:07.000-05:00",
+      "updated_at": "2026-09-23T06:01:07.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-problem-of-space/",
+      "excerpt": "If spacetime is emergent, what exactly is a \"field\"? A vocabulary cleanup and engagement with Group Field Theory.",
+      "tags": [
+        "Modal Path Ethics",
+        "Supplement",
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/the-problem-of-space.md",
+      "mirror_html_path": "/articles/the-problem-of-space.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-problem-of-space.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-problem-of-space.html",
+      "sha256_plaintext": "c415edee0161e8bf64458bb3ab4fdefa10672dc1b3cd8ddb1b9f6841514ef532"
+    },
+    {
+      "title": "Failed Field Analysts: Jensen Huang and the Perfect Incentives",
+      "slug": "failed-field-analysts-jensen-huang-and-the-perfect-incentives",
+      "published_at": "2026-09-23T05:59:51.000-05:00",
+      "updated_at": "2026-09-23T05:59:50.000-05:00",
+      "canonical_url": "https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/",
+      "excerpt": "He found the brake inside the accelerator and decided no other brake was necessary.",
+      "tags": [
+        "Failed Field Analysts",
+        "Instrument Jurisdiction",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.md",
+      "mirror_html_path": "/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.html",
+      "sha256_plaintext": "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
+    },
+    {
+      "title": "Will Is Not Universal",
+      "slug": "the-will-is-not-universal",
+      "published_at": "2026-09-23T05:50:09.000-05:00",
+      "updated_at": "2026-09-23T05:50:08.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-will-is-not-universal/",
+      "excerpt": "Schopenhauer, Mainländer, and the Metaphysics of Closure.",
+      "tags": [
+        "Engagement",
+        "Sacred Instruments",
+        "Sacred Machine",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/the-will-is-not-universal.md",
+      "mirror_html_path": "/articles/the-will-is-not-universal.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-will-is-not-universal.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-will-is-not-universal.html",
+      "sha256_plaintext": "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
+    },
+    {
+      "title": "Applied Case: The Super Intelligence of America",
+      "slug": "applied-case-the-super-intelligence-of-america",
+      "published_at": "2026-09-23T01:30:12.000-05:00",
+      "updated_at": "2026-09-23T01:30:12.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-super-intelligence-of-america/",
+      "excerpt": "I just can't win.",
+      "tags": [
+        "Modal Systems",
+        "Field Instruments"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-super-intelligence-of-america.md",
+      "mirror_html_path": "/articles/applied-case-the-super-intelligence-of-america.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-super-intelligence-of-america.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-super-intelligence-of-america.html",
+      "sha256_plaintext": "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
+    },
     {
       "title": "VI",
       "slug": "vi",
@@ -5616,7 +5705,7 @@
       "title": "Heidegger, Sorge, and Care",
       "slug": "heidegger-sorge-and-care",
       "published_at": "2026-04-20T11:53:45.000-05:00",
-      "updated_at": "2026-05-17T17:25:22.000-05:00",
+      "updated_at": "2026-09-23T02:19:56.000-05:00",
       "canonical_url": "https://modalpathethics.com/heidegger-sorge-and-care/",
       "excerpt": "A once-short supplement to Modal Path Ethics. [L]",
       "tags": [
@@ -5629,7 +5718,7 @@
       "mirror_html_path": "/articles/heidegger-sorge-and-care.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/heidegger-sorge-and-care.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/heidegger-sorge-and-care.html",
-      "sha256_plaintext": "5f24d506dec6251fef4b7faf1649d607b489474714ee887e827e8bcc2c25532e"
+      "sha256_plaintext": "cf3a15c78c43a32d74b2abacf51f1dfaee9b5baa480f0ea3eb82aec1a5a6144c"
     },
     {
       "title": "Applied Case: The RBY UU Upheaval of the Early 2020s",
