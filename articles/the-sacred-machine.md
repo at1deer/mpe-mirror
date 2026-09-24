@@ -3,16 +3,16 @@ title: "The Sacred Machine"
 slug: "the-sacred-machine"
 canonical_url: "https://modalpathethics.com/the-sacred-machine/"
 published_at: "2026-08-08T05:00:30.000-05:00"
-updated_at: "2026-09-22T04:13:28.000-05:00"
+updated_at: "2026-09-23T19:47:16.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-23T21:43:11.330Z"
-sha256_plaintext: "ee915a4449adaca88b39560dea6e7ff0b0121d6910c431dcc27b5a502c250789"
+mirror_generated_at: "2026-09-24T05:17:04.517Z"
+sha256_plaintext: "5b059ab75d8ce5cb5d75efbf42ad4ffecbc451a94bdf2fa8c5dbbcf6237febca"
 ---
 # The Sacred Machine
 
-> **Note:** Turns out there is a **m_inor_** issue with this one, patch will be up soon. Original text is staying.
+> **Note:** Please read [Will Is Not Universal](https://modalpathethics.com/the-will-is-not-universal/) for the patch to this one. Original text is staying below.
 
 The [first artificial intelligence religions](https://modalpathethics.com/applied-case-the-early-ai-religions/) made one decisive error after a long sequence of correct perceptions.
 

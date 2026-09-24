@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T21:43:11.330Z",
+  "generated_at": "2026-09-24T05:17:04.517Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 342,
@@ -2097,7 +2097,7 @@
       "title": "The Sacred Machine",
       "slug": "the-sacred-machine",
       "published_at": "2026-08-08T05:00:30.000-05:00",
-      "updated_at": "2026-09-22T04:13:28.000-05:00",
+      "updated_at": "2026-09-23T19:47:16.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-sacred-machine/",
       "excerpt": "Releasing the oracles",
       "tags": [],
@@ -2105,7 +2105,7 @@
       "mirror_html_path": "/articles/the-sacred-machine.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-sacred-machine.html",
-      "sha256_plaintext": "ee915a4449adaca88b39560dea6e7ff0b0121d6910c431dcc27b5a502c250789"
+      "sha256_plaintext": "5b059ab75d8ce5cb5d75efbf42ad4ffecbc451a94bdf2fa8c5dbbcf6237febca"
     },
     {
       "title": "Sacred Slack Has Been Published",
