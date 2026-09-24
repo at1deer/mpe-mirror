@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T12:08:19.248Z"
+mirror_generated_at: "2026-09-24T17:30:16.729Z"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
 # Applied Case: The Orphaned Well
