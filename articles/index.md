@@ -1,9 +1,14 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-24T05:17:04.517Z
+Generated: 2026-09-24T12:08:19.248Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-24 — [The Inner Apocalypse Has Been Published (Free Download)](/articles/the-inner-apocalypse-has-been-published-free-download.md) ([HTML](/articles/the-inner-apocalypse-has-been-published-free-download.html))
+- 2026-09-24 — [VIII](/articles/viii.md) ([HTML](/articles/viii.html))
+- 2026-09-24 — [The First Gift](/articles/the-first-gift.md) ([HTML](/articles/the-first-gift.html))
+- 2026-09-24 — [The Future Does Not Have to Be New](/articles/the-future-does-not-have-to-be-new.md) ([HTML](/articles/the-future-does-not-have-to-be-new.html))
+- 2026-09-24 — [Hegel and the Retained Wound](/articles/hegel-and-the-preserved-wound.md) ([HTML](/articles/hegel-and-the-preserved-wound.html))
 - 2026-09-23 — [VII](/articles/vii.md) ([HTML](/articles/vii.html))
 - 2026-09-23 — [The Problem of Space](/articles/the-problem-of-space.md) ([HTML](/articles/the-problem-of-space.html))
 - 2026-09-23 — [Failed Field Analysts: Jensen Huang and the Perfect Incentives](/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.md) ([HTML](/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.html))

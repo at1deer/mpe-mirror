@@ -10,7 +10,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T05:17:04.517Z"
+mirror_generated_at: "2026-09-24T12:08:19.248Z"
 sha256_plaintext: "cf3a15c78c43a32d74b2abacf51f1dfaee9b5baa480f0ea3eb82aec1a5a6144c"
 ---
 # Heidegger, Sorge, and Care

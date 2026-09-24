@@ -6,8 +6,9 @@ published_at: "2026-09-22T06:06:18.000-05:00"
 updated_at: "2026-09-22T06:06:18.000-05:00"
 tags:
   - "Inner Apocalypse"
+  - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T05:17:04.517Z"
+mirror_generated_at: "2026-09-24T12:08:19.248Z"
 sha256_plaintext: "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
 ---
 # VI

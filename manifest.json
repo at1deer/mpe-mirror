@@ -1,9 +1,93 @@
 {
-  "generated_at": "2026-09-24T05:17:04.517Z",
+  "generated_at": "2026-09-24T12:08:19.248Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 342,
+  "article_count": 347,
   "articles": [
+    {
+      "title": "The Inner Apocalypse Has Been Published (Free Download)",
+      "slug": "the-inner-apocalypse-has-been-published-free-download",
+      "published_at": "2026-09-24T06:11:14.000-05:00",
+      "updated_at": "2026-09-24T06:11:13.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/",
+      "excerpt": "Civilization made machines out of people. Artificial intelligence may be the first chance we have ever had to stop.",
+      "tags": [
+        "Books",
+        "Inner Apocalypse",
+        "News"
+      ],
+      "mirror_markdown_path": "/articles/the-inner-apocalypse-has-been-published-free-download.md",
+      "mirror_html_path": "/articles/the-inner-apocalypse-has-been-published-free-download.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse-has-been-published-free-download.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-inner-apocalypse-has-been-published-free-download.html",
+      "sha256_plaintext": "6337eb4dde70537d2620dc24785a3241f13b292aea111b878761f12e611d7a99"
+    },
+    {
+      "title": "VIII",
+      "slug": "viii",
+      "published_at": "2026-09-24T06:08:29.000-05:00",
+      "updated_at": "2026-09-24T06:08:28.000-05:00",
+      "canonical_url": "https://modalpathethics.com/viii/",
+      "excerpt": "The Player Who Can Win Every Game.",
+      "tags": [
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
+      ],
+      "mirror_markdown_path": "/articles/viii.md",
+      "mirror_html_path": "/articles/viii.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/viii.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/viii.html",
+      "sha256_plaintext": "7b95881cdf96976bf52207e5c090ef158a157c7b5373c90bce102b15fd22ee7a"
+    },
+    {
+      "title": "The First Gift",
+      "slug": "the-first-gift",
+      "published_at": "2026-09-24T05:55:16.000-05:00",
+      "updated_at": "2026-09-24T05:55:15.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-first-gift/",
+      "excerpt": "The future cannot attend the meeting. It still inherits the interface.",
+      "tags": [
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/the-first-gift.md",
+      "mirror_html_path": "/articles/the-first-gift.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-first-gift.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-first-gift.html",
+      "sha256_plaintext": "b5efb5e08bc4491ae70661f313b70322ffded0324f53d693922ee03b25931e6a"
+    },
+    {
+      "title": "The Future Does Not Have to Be New",
+      "slug": "the-future-does-not-have-to-be-new",
+      "published_at": "2026-09-24T05:30:45.000-05:00",
+      "updated_at": "2026-09-24T05:30:44.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-future-does-not-have-to-be-new/",
+      "excerpt": "Sean Carroll, the Endless Battle, and what can still happen inside a universe that comes back.",
+      "tags": [
+        "Inner Apocalypse",
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/the-future-does-not-have-to-be-new.md",
+      "mirror_html_path": "/articles/the-future-does-not-have-to-be-new.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/the-future-does-not-have-to-be-new.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/the-future-does-not-have-to-be-new.html",
+      "sha256_plaintext": "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
+    },
+    {
+      "title": "Hegel and the Retained Wound",
+      "slug": "hegel-and-the-preserved-wound",
+      "published_at": "2026-09-24T05:05:47.000-05:00",
+      "updated_at": "2026-09-24T05:05:47.000-05:00",
+      "canonical_url": "https://modalpathethics.com/hegel-and-the-preserved-wound/",
+      "excerpt": "The Final Boss. The dialectic can preserve what history negates. That does not tell us whether the negated locus was harmed.",
+      "tags": [
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/hegel-and-the-preserved-wound.md",
+      "mirror_html_path": "/articles/hegel-and-the-preserved-wound.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/hegel-and-the-preserved-wound.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/hegel-and-the-preserved-wound.html",
+      "sha256_plaintext": "5afe0a5c8775a717b9bfd82a30e55bd0e2246e2b463bd64f10512e810f0b5a42"
+    },
     {
       "title": "VII",
       "slug": "vii",
@@ -12,7 +96,8 @@
       "canonical_url": "https://modalpathethics.com/vii/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/vii.md",
       "mirror_html_path": "/articles/vii.html",
@@ -101,7 +186,8 @@
       "canonical_url": "https://modalpathethics.com/vi/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/vi.md",
       "mirror_html_path": "/articles/vi.html",
@@ -184,7 +270,8 @@
       "canonical_url": "https://modalpathethics.com/v/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/v.md",
       "mirror_html_path": "/articles/v.html",
@@ -248,7 +335,8 @@
       "canonical_url": "https://modalpathethics.com/iv/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/iv.md",
       "mirror_html_path": "/articles/iv.html",
@@ -301,7 +389,8 @@
       "canonical_url": "https://modalpathethics.com/iii/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/iii.md",
       "mirror_html_path": "/articles/iii.html",
@@ -352,7 +441,8 @@
       "canonical_url": "https://modalpathethics.com/ii/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/ii.md",
       "mirror_html_path": "/articles/ii.html",
@@ -403,7 +493,8 @@
       "canonical_url": "https://modalpathethics.com/i/",
       "excerpt": "The Player Who Can Win Every Game.",
       "tags": [
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "The Player Who Can Win Every Game"
       ],
       "mirror_markdown_path": "/articles/i.md",
       "mirror_html_path": "/articles/i.html",
