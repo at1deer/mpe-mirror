@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-25T05:17:48.399Z
+Generated: 2026-09-25T12:07:41.575Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-25 — [Modal Path Ethics Tries to Retire](/articles/modal-path-ethics-tries-to-retire.md) ([HTML](/articles/modal-path-ethics-tries-to-retire.html))
+- 2026-09-25 — [Field Instruments: Telepathy](/articles/field-instruments-telepathy.md) ([HTML](/articles/field-instruments-telepathy.html))
 - 2026-09-24 — [Emergency Audit: Is Modal Path Ethics Still Apolitical?](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md) ([HTML](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.html))
 - 2026-09-24 — [The Inner Apocalypse Has Been Published (Free Download)](/articles/the-inner-apocalypse-has-been-published-free-download.md) ([HTML](/articles/the-inner-apocalypse-has-been-published-free-download.html))
 - 2026-09-24 — [VIII](/articles/viii.md) ([HTML](/articles/viii.html))
