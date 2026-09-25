@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
 # Failed Field Analysts: Antonin Scalia and the Frozen Grammar

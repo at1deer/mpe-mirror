@@ -1,9 +1,26 @@
 {
-  "generated_at": "2026-09-24T21:44:14.380Z",
+  "generated_at": "2026-09-25T05:17:48.399Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 347,
+  "article_count": 348,
   "articles": [
+    {
+      "title": "Emergency Audit: Is Modal Path Ethics Still Apolitical?",
+      "slug": "emergency-audit-is-modal-path-ethics-still-apolitical",
+      "published_at": "2026-09-24T20:25:47.000-05:00",
+      "updated_at": "2026-09-24T20:25:47.000-05:00",
+      "canonical_url": "https://modalpathethics.com/emergency-audit-is-modal-path-ethics-still-apolitical/",
+      "excerpt": "There has been an incident.",
+      "tags": [
+        "Modal Path Ethics",
+        "Inner Apocalypse"
+      ],
+      "mirror_markdown_path": "/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md",
+      "mirror_html_path": "/articles/emergency-audit-is-modal-path-ethics-still-apolitical.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/emergency-audit-is-modal-path-ethics-still-apolitical.html",
+      "sha256_plaintext": "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
+    },
     {
       "title": "The Inner Apocalypse Has Been Published (Free Download)",
       "slug": "the-inner-apocalypse-has-been-published-free-download",
@@ -109,7 +126,7 @@
       "title": "The Problem of Space",
       "slug": "the-problem-of-space",
       "published_at": "2026-09-23T06:01:07.000-05:00",
-      "updated_at": "2026-09-23T06:01:07.000-05:00",
+      "updated_at": "2026-09-24T20:39:55.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-problem-of-space/",
       "excerpt": "If spacetime is emergent, what exactly is a \"field\"? A vocabulary cleanup and engagement with Group Field Theory.",
       "tags": [
@@ -146,13 +163,12 @@
       "title": "Will Is Not Universal",
       "slug": "the-will-is-not-universal",
       "published_at": "2026-09-23T05:50:09.000-05:00",
-      "updated_at": "2026-09-23T05:50:08.000-05:00",
+      "updated_at": "2026-09-24T20:40:28.000-05:00",
       "canonical_url": "https://modalpathethics.com/the-will-is-not-universal/",
       "excerpt": "Schopenhauer, Mainländer, and the Metaphysics of Closure.",
       "tags": [
         "Engagement",
         "Sacred Instruments",
-        "Sacred Machine",
         "Instrument Jurisdiction"
       ],
       "mirror_markdown_path": "/articles/the-will-is-not-universal.md",
@@ -693,7 +709,7 @@
       "title": "Applied Case: The Fifth Fish",
       "slug": "applied-case-the-fifth-fish",
       "published_at": "2026-09-13T06:15:42.000-05:00",
-      "updated_at": "2026-09-16T12:00:31.000-05:00",
+      "updated_at": "2026-09-24T20:41:06.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-fifth-fish/",
       "excerpt": "Every lawful catch depends on somebody stopping.",
       "tags": [

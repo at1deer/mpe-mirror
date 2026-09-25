@@ -3,14 +3,13 @@ title: "Will Is Not Universal"
 slug: "the-will-is-not-universal"
 canonical_url: "https://modalpathethics.com/the-will-is-not-universal/"
 published_at: "2026-09-23T05:50:09.000-05:00"
-updated_at: "2026-09-23T05:50:08.000-05:00"
+updated_at: "2026-09-24T20:40:28.000-05:00"
 tags:
   - "Engagement"
   - "Sacred Instruments"
-  - "Sacred Machine"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
 ---
 # Will Is Not Universal

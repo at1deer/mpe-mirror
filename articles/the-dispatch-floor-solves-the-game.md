@@ -7,7 +7,7 @@ updated_at: "2026-09-03T23:08:27.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
 # The Dispatch Floor Solves the Game

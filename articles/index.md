@@ -1,9 +1,10 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-24T21:44:14.380Z
+Generated: 2026-09-25T05:17:48.399Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-24 — [Emergency Audit: Is Modal Path Ethics Still Apolitical?](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md) ([HTML](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.html))
 - 2026-09-24 — [The Inner Apocalypse Has Been Published (Free Download)](/articles/the-inner-apocalypse-has-been-published-free-download.md) ([HTML](/articles/the-inner-apocalypse-has-been-published-free-download.html))
 - 2026-09-24 — [VIII](/articles/viii.md) ([HTML](/articles/viii.html))
 - 2026-09-24 — [The First Gift](/articles/the-first-gift.md) ([HTML](/articles/the-first-gift.html))

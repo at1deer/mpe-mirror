@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---
 # Field Instruments: Alignment

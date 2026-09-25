@@ -7,7 +7,7 @@ updated_at: "2026-09-03T06:30:26.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
 # Field Instruments: The Verification Gradient

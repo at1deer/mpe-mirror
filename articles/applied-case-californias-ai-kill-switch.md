@@ -9,7 +9,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
 ---
 # Applied Case: California’s Kill Switch

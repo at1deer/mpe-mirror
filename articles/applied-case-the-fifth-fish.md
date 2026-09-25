@@ -3,11 +3,11 @@ title: "Applied Case: The Fifth Fish"
 slug: "applied-case-the-fifth-fish"
 canonical_url: "https://modalpathethics.com/applied-case-the-fifth-fish/"
 published_at: "2026-09-13T06:15:42.000-05:00"
-updated_at: "2026-09-16T12:00:31.000-05:00"
+updated_at: "2026-09-24T20:41:06.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
 ---
 # Applied Case: The Fifth Fish

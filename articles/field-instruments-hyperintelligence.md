@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-24T21:44:14.380Z"
+mirror_generated_at: "2026-09-25T05:17:48.399Z"
 sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
 # Field Instruments: Hyperintelligence
