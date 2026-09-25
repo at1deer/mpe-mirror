@@ -1,6 +1,6 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-25T12:07:41.575Z
+Generated: 2026-09-25T17:29:47.654Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 

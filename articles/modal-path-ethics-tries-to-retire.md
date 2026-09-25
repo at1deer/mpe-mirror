@@ -3,14 +3,14 @@ title: "Modal Path Ethics Tries to Retire"
 slug: "modal-path-ethics-tries-to-retire"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-tries-to-retire/"
 published_at: "2026-09-25T05:45:11.000-05:00"
-updated_at: "2026-09-25T05:45:10.000-05:00"
+updated_at: "2026-09-25T10:34:33.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-25T12:07:41.575Z"
-sha256_plaintext: "1e00022e2e9d6bfb48eb08e01e16073df3e166ddd9be5b5826f3f8d6b13c4432"
+mirror_generated_at: "2026-09-25T17:29:47.654Z"
+sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire
 
@@ -205,8 +205,6 @@ Pure potentials and actual occasions answer a different metaphysical problem. Mo
 -   He gives us becoming under constraint.
 -   He gives us loss.
     -   He does not derive the moral primitive we are looking for from the topology of what an extant locus can still continue into.
-
-That organ also goes onto the table.
 
 * * *
 

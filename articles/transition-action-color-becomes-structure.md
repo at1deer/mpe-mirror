@@ -8,7 +8,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-25T12:07:41.575Z"
+mirror_generated_at: "2026-09-25T17:29:47.654Z"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
 # Transition Action: Color Becomes Structure
