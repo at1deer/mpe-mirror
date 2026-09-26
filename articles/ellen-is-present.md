@@ -7,7 +7,7 @@ updated_at: "2026-09-04T05:30:52.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-25T21:47:02.791Z"
+mirror_generated_at: "2026-09-26T05:22:59.135Z"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
 # Ellen is Present

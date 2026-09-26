@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-25T21:47:02.791Z"
+mirror_generated_at: "2026-09-26T05:22:59.135Z"
 sha256_plaintext: "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
 ---
 # Applied Case: The Copy Accuses the Source
