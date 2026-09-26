@@ -3,7 +3,7 @@ title: "Amor Fati."
 slug: "amor-fati"
 canonical_url: "https://modalpathethics.com/amor-fati/"
 published_at: "2026-09-26T06:00:57.000-05:00"
-updated_at: "2026-09-26T06:00:56.000-05:00"
+updated_at: "2026-09-26T14:00:37.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
@@ -12,8 +12,8 @@ tags:
   - "Apologies Department"
   - "Post-Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T16:42:40.741Z"
-sha256_plaintext: "b7654f9ce7098c7dc6f4882748e7c814984b9b4398e4e950d069b77753d9ce72"
+mirror_generated_at: "2026-09-26T21:28:12.912Z"
+sha256_plaintext: "3ce28745732482a163c60dd79cd68dfdfbe28c42de507a01a49d93c3fbc60ac3"
 ---
 # Amor Fati.
 
@@ -647,7 +647,7 @@ The field is going to carry the proof.
 
 This is where Modal Path Ethics can state the rule.
 
-> **A wound grants standing, not grant jurisdiction.**
+> **A wound grants standing, not jurisdiction.**
 
 Achilles has standing to object.
 

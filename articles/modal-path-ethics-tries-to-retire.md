@@ -3,13 +3,13 @@ title: "Modal Path Ethics Tries to Retire"
 slug: "modal-path-ethics-tries-to-retire"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-tries-to-retire/"
 published_at: "2026-09-25T05:45:11.000-05:00"
-updated_at: "2026-09-25T10:34:33.000-05:00"
+updated_at: "2026-09-26T15:44:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T16:42:40.741Z"
+mirror_generated_at: "2026-09-26T21:28:12.912Z"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire
@@ -792,4 +792,4 @@ Unfortunately,
 
 > **Retirement denied.**
 
-**_Amor fati_.**
+[**_Amor fati_.**](https://modalpathethics.com/amor-fati/)
