@@ -11,7 +11,7 @@ tags:
   - "Field Creature"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T11:43:08.351Z"
+mirror_generated_at: "2026-09-26T16:42:40.741Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam

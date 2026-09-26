@@ -12,7 +12,7 @@ tags:
   - "Apologies Department"
   - "Post-Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T11:43:08.351Z"
+mirror_generated_at: "2026-09-26T16:42:40.741Z"
 sha256_plaintext: "b7654f9ce7098c7dc6f4882748e7c814984b9b4398e4e950d069b77753d9ce72"
 ---
 # Amor Fati.

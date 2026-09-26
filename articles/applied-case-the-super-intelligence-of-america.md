@@ -8,7 +8,7 @@ tags:
   - "Modal Systems"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T11:43:08.351Z"
+mirror_generated_at: "2026-09-26T16:42:40.741Z"
 sha256_plaintext: "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
 ---
 # Applied Case: The Super Intelligence of America

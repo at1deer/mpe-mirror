@@ -8,7 +8,7 @@ tags:
   - "Fictional Earth"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T11:43:08.351Z"
+mirror_generated_at: "2026-09-26T16:42:40.741Z"
 sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
 # Fictional Earth: Substack and the Argument Machine
