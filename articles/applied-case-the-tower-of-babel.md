@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T05:22:59.135Z"
+mirror_generated_at: "2026-09-26T11:43:08.351Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel

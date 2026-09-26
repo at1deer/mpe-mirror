@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T05:22:59.135Z"
+mirror_generated_at: "2026-09-26T11:43:08.351Z"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman

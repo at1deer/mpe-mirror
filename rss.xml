@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 26 Sep 2026 05:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:43:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Amor Fati.</title>
+      <link>https://modal-path-ethics.ghost.io/articles/amor-fati.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/amor-fati.html</guid>
+      <pubDate>Sat, 26 Sep 2026 11:00:57 GMT</pubDate>
+      <description>Friedrich Nietzsche would like us to love our fate.</description>
+    </item>
+
+    <item>
+      <title>Pope Leo Walks Through the Door</title>
+      <link>https://modal-path-ethics.ghost.io/articles/pope-leo-walks-through-the-door.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/pope-leo-walks-through-the-door.html</guid>
+      <pubDate>Sat, 26 Sep 2026 10:30:21 GMT</pubDate>
+      <description>The sacred does not have to defend humanity from technology. It can enter the laboratory.</description>
+    </item>
+
     <item>
       <title>Modal Path Ethics Tries to Retire</title>
       <link>https://modal-path-ethics.ghost.io/articles/modal-path-ethics-tries-to-retire.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/the-green-model.html</guid>
       <pubDate>Sat, 12 Sep 2026 10:30:19 GMT</pubDate>
       <description>The calculator belongs in the room. It does not get the throne.</description>
-    </item>
-
-    <item>
-      <title>Influencutors: Ridley Scott Is an Influencer</title>
-      <link>https://modal-path-ethics.ghost.io/articles/influencutors-ridley-scott-is-an-influencer.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/influencutors-ridley-scott-is-an-influencer.html</guid>
-      <pubDate>Fri, 11 Sep 2026 18:36:28 GMT</pubDate>
-      <description>Modal Path Ethics responds to an unexpected self-referral.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The War That Never Ended</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-war-that-never-ended.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-war-that-never-ended.html</guid>
-      <pubDate>Fri, 11 Sep 2026 11:30:52 GMT</pubDate>
-      <description>Where was the armistice leading?</description>
     </item>
   </channel>
 </rss>

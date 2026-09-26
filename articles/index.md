@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-26T05:22:59.135Z
+Generated: 2026-09-26T11:43:08.351Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-26 — [Amor Fati.](/articles/amor-fati.md) ([HTML](/articles/amor-fati.html))
+- 2026-09-26 — [Pope Leo Walks Through the Door](/articles/pope-leo-walks-through-the-door.md) ([HTML](/articles/pope-leo-walks-through-the-door.html))
 - 2026-09-25 — [Modal Path Ethics Tries to Retire](/articles/modal-path-ethics-tries-to-retire.md) ([HTML](/articles/modal-path-ethics-tries-to-retire.html))
 - 2026-09-25 — [Field Instruments: Telepathy](/articles/field-instruments-telepathy.md) ([HTML](/articles/field-instruments-telepathy.html))
 - 2026-09-24 — [Emergency Audit: Is Modal Path Ethics Still Apolitical?](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md) ([HTML](/articles/emergency-audit-is-modal-path-ethics-still-apolitical.html))

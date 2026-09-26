@@ -3,12 +3,12 @@ title: "The Future Does Not Have to Be New"
 slug: "the-future-does-not-have-to-be-new"
 canonical_url: "https://modalpathethics.com/the-future-does-not-have-to-be-new/"
 published_at: "2026-09-24T05:30:45.000-05:00"
-updated_at: "2026-09-24T05:30:44.000-05:00"
+updated_at: "2026-09-26T02:36:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T05:22:59.135Z"
+mirror_generated_at: "2026-09-26T11:43:08.351Z"
 sha256_plaintext: "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
 ---
 # The Future Does Not Have to Be New
@@ -170,7 +170,7 @@ _Applied Case: The Endless Battle_ contained a second distinction that becomes m
 
 Sleep returns. Seasons return. Maintenance returns. Ritual returns.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdcgEKs3gRDwm0gKqG3Zo8FHMy8CqlNWb0iCFmHfdhReTW4siQxhtFfw6n-9U0W3op993glotMIx1Elumqc9Cgj8cgqa9V7RI0K8I886-ZVN7zow0flCyTh-Jztn2I3easYx0xARuxVvv114Li3BqlJ932fZ2rM=s2048?key=70KQZYzxuOXOFHd6eqrUUA)
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/09/82901.png)
 
 A heart can spend decades repeating an extremely limited tactical repertoire without thereby becoming a chest-mounted prison.
 

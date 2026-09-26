@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T05:22:59.135Z"
+mirror_generated_at: "2026-09-26T11:43:08.351Z"
 sha256_plaintext: "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
 ---
 # Emergency Audit: Is Modal Path Ethics Still Apolitical?

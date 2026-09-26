@@ -9,7 +9,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T05:22:59.135Z"
+mirror_generated_at: "2026-09-26T11:43:08.351Z"
 sha256_plaintext: "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
 ---
 # Applied Case: The War That Never Ended
