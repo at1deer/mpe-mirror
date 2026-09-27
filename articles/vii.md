@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T21:28:12.912Z"
+mirror_generated_at: "2026-09-27T05:39:24.756Z"
 sha256_plaintext: "340ceb1867e2b0565582488b4bc905f80073c193598620fbef6080faa2fe5e88"
 ---
 # VII

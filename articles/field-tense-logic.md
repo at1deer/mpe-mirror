@@ -3,16 +3,22 @@ title: "Field Tense Logic"
 slug: "field-tense-logic"
 canonical_url: "https://modalpathethics.com/field-tense-logic/"
 published_at: "2026-07-01T07:30:55.000-05:00"
-updated_at: "2026-07-01T07:30:55.000-05:00"
+updated_at: "2026-09-26T16:37:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T21:28:12.912Z"
-sha256_plaintext: "8fb58f311cae296df0bdab0013884781b9cc0fda33b07358d7644ad1b1f4c208"
+mirror_generated_at: "2026-09-27T05:39:24.756Z"
+sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
 ---
 # Field Tense Logic
+
+> **Update _—_ September 2026:** This article preserves an early attempt to formalize several Modal Path Ethics ideas using tense logic, branching time, and STIT. **That symbolic apparatus is no longer part of the framework's active formulation**.
+
+> The underlying distinctions concerning retained history, reachability, resistance, repair, and moral remainder remain useful, while later work has shifted toward **actual transitions**, **structurally significant continuation**, and **damage to continuation-generating structure** without requiring a pre-given inventory of future branches.
+
+> A forthcoming engagement with Henri Bergson will give the current account.
 
 **Modal Path Ethics field-tense logic** is the formal language behind the tail argument. [The earlier Buddhism-facing article](https://modalpathethics.com/samsara-repair/) used the language only where it was needed: to show why repair does not cancel history, why better does not mean innocent, and why a damaged extant field cannot path into literal zero resistance.
 

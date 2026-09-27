@@ -9,7 +9,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T21:28:12.912Z"
+mirror_generated_at: "2026-09-27T05:39:24.756Z"
 sha256_plaintext: "cf0a0d4437bb1684d2215184ea56257592fff503a3a4f1dcc0d319b768a737f3"
 ---
 # Pope Leo Walks Through the Door

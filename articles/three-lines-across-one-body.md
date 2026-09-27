@@ -7,7 +7,7 @@ updated_at: "2026-09-05T05:30:19.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-26T21:28:12.912Z"
+mirror_generated_at: "2026-09-27T05:39:24.756Z"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
 # Three Lines Across One Body
