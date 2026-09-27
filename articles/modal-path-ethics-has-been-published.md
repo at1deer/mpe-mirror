@@ -3,18 +3,32 @@ title: "Modal Path Ethics Has Been Published"
 slug: "modal-path-ethics-has-been-published"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-been-published/"
 published_at: "2026-06-17T02:22:31.000-05:00"
-updated_at: "2026-06-17T02:28:03.000-05:00"
+updated_at: "2026-09-27T02:28:35.000-05:00"
 tags:
   - "Books"
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-27T05:39:24.756Z"
-sha256_plaintext: "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
+mirror_generated_at: "2026-09-27T12:22:48.080Z"
+sha256_plaintext: "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
 ---
 # Modal Path Ethics Has Been Published
 
 [Modal Path Ethics has been published](https://www.amazon.com/dp/B0H555K3XL?ref=modalpathethics.com).
+
+> **Note 9/22:** Free pdf copy of the original is now available:
+
+[
+
+Modal Path Ethics
+
+Modal Path Ethics.pdf
+
+69 MB
+
+download-circle
+
+](https://modalpathethics.com/content/files/2026/09/Modal-Path-Ethics.pdf "Download")
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/06/Screenshot-2026-06-17-021135.png)
 

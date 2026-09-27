@@ -7,7 +7,7 @@ updated_at: "2026-09-21T12:20:56.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-27T05:39:24.756Z"
+mirror_generated_at: "2026-09-27T12:22:48.080Z"
 sha256_plaintext: "4d1edf15ac920a96478a894afd648996c4fadb12761e7ebd38a8432d10406ccf"
 ---
 # Show Me the 90

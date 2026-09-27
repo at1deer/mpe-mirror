@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-27T05:39:24.756Z",
+  "generated_at": "2026-09-27T12:22:48.080Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 352,
+  "article_count": 354,
   "articles": [
+    {
+      "title": "Hume, Moore, and the Normative Bridge",
+      "slug": "hume-moore-and-the-normative-bridge",
+      "published_at": "2026-09-27T06:00:22.000-05:00",
+      "updated_at": "2026-09-27T06:00:21.000-05:00",
+      "canonical_url": "https://modalpathethics.com/hume-moore-and-the-normative-bridge/",
+      "excerpt": "Welcome to the post-game.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/hume-moore-and-the-normative-bridge.md",
+      "mirror_html_path": "/articles/hume-moore-and-the-normative-bridge.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.html",
+      "sha256_plaintext": "e9d1a160f0a45542c2fb3905d2ad161396e436f6296cc4f3e8763cb81bf2010d"
+    },
+    {
+      "title": "Australia vs. The Biosphere SPECIAL: The Agent",
+      "slug": "australia-vs-the-biosphere-special-the-agent",
+      "published_at": "2026-09-27T05:30:14.000-05:00",
+      "updated_at": "2026-09-27T05:30:13.000-05:00",
+      "canonical_url": "https://modalpathethics.com/australia-vs-the-biosphere-special-the-agent/",
+      "excerpt": "AUS 1 • BIO 2 • ??? 1",
+      "tags": [
+        "Australia vs. The Biosphere",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/australia-vs-the-biosphere-special-the-agent.md",
+      "mirror_html_path": "/articles/australia-vs-the-biosphere-special-the-agent.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-special-the-agent.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-special-the-agent.html",
+      "sha256_plaintext": "55153fec9be9bbb6d65ebee5adf792d44aa4e7fe73abe7826c60fbe4a6d097e0"
+    },
     {
       "title": "Amor Fati.",
       "slug": "amor-fati",
@@ -439,7 +474,7 @@
       "title": "Harm as Contraction and Structural Ethics",
       "slug": "artificial-intelligence-needs-a-structural-ethics-layer",
       "published_at": "2026-09-20T06:02:27.000-05:00",
-      "updated_at": "2026-09-20T10:18:39.000-05:00",
+      "updated_at": "2026-09-27T02:02:02.000-05:00",
       "canonical_url": "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/",
       "excerpt": "Harm as Contraction of Reachable Continuation is now on Zenodo. It may identify something missing from the AI alignment stack.",
       "tags": [
@@ -452,7 +487,7 @@
       "mirror_html_path": "/articles/artificial-intelligence-needs-a-structural-ethics-layer.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/artificial-intelligence-needs-a-structural-ethics-layer.html",
-      "sha256_plaintext": "bcd815f47a8f2ac953d743a8c581f4483e89ad3436b832674e384de3ef549c06"
+      "sha256_plaintext": "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
     },
     {
       "title": "Applied Case: California’s Kill Switch",
@@ -4049,7 +4084,7 @@
       "title": "Modal Path Ethics Has Been Published",
       "slug": "modal-path-ethics-has-been-published",
       "published_at": "2026-06-17T02:22:31.000-05:00",
-      "updated_at": "2026-06-17T02:28:03.000-05:00",
+      "updated_at": "2026-09-27T02:28:35.000-05:00",
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-has-been-published/",
       "excerpt": "This has become official.",
       "tags": [
@@ -4061,7 +4096,7 @@
       "mirror_html_path": "/articles/modal-path-ethics-has-been-published.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-has-been-published.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/modal-path-ethics-has-been-published.html",
-      "sha256_plaintext": "0ecd39a53949c702733a06fbf6b944d542c50c0aa6c566e755837489a770c9cc"
+      "sha256_plaintext": "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
     },
     {
       "title": "Humanity Does Not Possess a Radioactive Half-Life",

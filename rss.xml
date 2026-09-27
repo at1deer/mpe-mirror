@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 05:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 12:22:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Hume, Moore, and the Normative Bridge</title>
+      <link>https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.html</guid>
+      <pubDate>Sun, 27 Sep 2026 11:00:22 GMT</pubDate>
+      <description>Welcome to the post-game.</description>
+    </item>
+
+    <item>
+      <title>Australia vs. The Biosphere SPECIAL: The Agent</title>
+      <link>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-special-the-agent.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/australia-vs-the-biosphere-special-the-agent.html</guid>
+      <pubDate>Sun, 27 Sep 2026 10:30:14 GMT</pubDate>
+      <description>AUS 1 • BIO 2 • ??? 1</description>
+    </item>
+
     <item>
       <title>Amor Fati.</title>
       <link>https://modal-path-ethics.ghost.io/articles/amor-fati.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html</guid>
       <pubDate>Sat, 12 Sep 2026 11:30:24 GMT</pubDate>
       <description>Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.</description>
-    </item>
-
-    <item>
-      <title>OpenAI Is Sponsoring the Séance</title>
-      <link>https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/openai-is-sponsoring-the-seance.html</guid>
-      <pubDate>Sat, 12 Sep 2026 11:06:35 GMT</pubDate>
-      <description>Roger Ebert left an archive, not a continuing critical appointment.</description>
-    </item>
-
-    <item>
-      <title>The Green Model</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-green-model.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-green-model.html</guid>
-      <pubDate>Sat, 12 Sep 2026 10:30:19 GMT</pubDate>
-      <description>The calculator belongs in the room. It does not get the throne.</description>
     </item>
   </channel>
 </rss>

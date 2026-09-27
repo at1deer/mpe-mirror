@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-27T05:39:24.756Z
+Generated: 2026-09-27T12:22:48.080Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-27 — [Hume, Moore, and the Normative Bridge](/articles/hume-moore-and-the-normative-bridge.md) ([HTML](/articles/hume-moore-and-the-normative-bridge.html))
+- 2026-09-27 — [Australia vs. The Biosphere SPECIAL: The Agent](/articles/australia-vs-the-biosphere-special-the-agent.md) ([HTML](/articles/australia-vs-the-biosphere-special-the-agent.html))
 - 2026-09-26 — [Amor Fati.](/articles/amor-fati.md) ([HTML](/articles/amor-fati.html))
 - 2026-09-26 — [Pope Leo Walks Through the Door](/articles/pope-leo-walks-through-the-door.md) ([HTML](/articles/pope-leo-walks-through-the-door.html))
 - 2026-09-25 — [Modal Path Ethics Tries to Retire](/articles/modal-path-ethics-tries-to-retire.md) ([HTML](/articles/modal-path-ethics-tries-to-retire.html))

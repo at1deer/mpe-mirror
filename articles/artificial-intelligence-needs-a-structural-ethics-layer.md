@@ -3,17 +3,29 @@ title: "Harm as Contraction and Structural Ethics"
 slug: "artificial-intelligence-needs-a-structural-ethics-layer"
 canonical_url: "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/"
 published_at: "2026-09-20T06:02:27.000-05:00"
-updated_at: "2026-09-20T10:18:39.000-05:00"
+updated_at: "2026-09-27T02:02:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Inner Apocalypse"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-27T05:39:24.756Z"
-sha256_plaintext: "bcd815f47a8f2ac953d743a8c581f4483e89ad3436b832674e384de3ef549c06"
+mirror_generated_at: "2026-09-27T12:22:48.080Z"
+sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
 # Harm as Contraction and Structural Ethics
+
+[
+
+Lawson\_Harm\_as\_Contraction\_Preprint\_v1\_2
+
+Lawson\_Harm\_as\_Contraction\_Preprint\_v1\_2.pdf
+
+203 KB
+
+download-circle
+
+](https://modalpathethics.com/content/files/2026/09/Lawson_Harm_as_Contraction_Preprint_v1_2.pdf "Download")
 
 _Harm as Contraction of Reachable Continuation_ is a new Modal Path Ethics preprint (**DOI:**[10.5281/zenodo.22849013](https://doi.org/10.5281/zenodo.22849013?ref=modalpathethics.com)) trying to isolate the object damaged when an actual transition makes a real bearer less able to continue, even before complete deprivation, collapse, or disappearance. It distinguishes formal possibility from genuine reachability, ordinary specification from contraction, and a local harm-token from the wider judgment about whether a transition was justified. The paper is deliberately narrower than a complete moral theory. It identifies something that later moral, political, and institutional systems have to be able to see before they can argue responsibly about what should be done.
 
