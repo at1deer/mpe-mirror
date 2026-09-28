@@ -1,9 +1,44 @@
 {
-  "generated_at": "2026-09-28T05:46:44.634Z",
+  "generated_at": "2026-09-28T14:23:43.008Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 354,
+  "article_count": 356,
   "articles": [
+    {
+      "title": "Rotation Battle: Habermas, Foucault, Luhmann",
+      "slug": "rotation-battle-habermas-foucault-luhmann",
+      "published_at": "2026-09-28T06:00:36.000-05:00",
+      "updated_at": "2026-09-28T06:00:35.000-05:00",
+      "canonical_url": "https://modalpathethics.com/rotation-battle-habermas-foucault-luhmann/",
+      "excerpt": "Welcome to Unova.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Pokémon"
+      ],
+      "mirror_markdown_path": "/articles/rotation-battle-habermas-foucault-luhmann.md",
+      "mirror_html_path": "/articles/rotation-battle-habermas-foucault-luhmann.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/rotation-battle-habermas-foucault-luhmann.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/rotation-battle-habermas-foucault-luhmann.html",
+      "sha256_plaintext": "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
+    },
+    {
+      "title": "Applied Case: The Creek Has No Jurisdiction",
+      "slug": "applied-case-the-creek-has-no-jurisdiction",
+      "published_at": "2026-09-28T05:30:06.000-05:00",
+      "updated_at": "2026-09-28T05:30:05.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-creek-has-no-jurisdiction/",
+      "excerpt": "The county ends. The water keeps going.",
+      "tags": [
+        "Applied Case",
+        "Instrument Jurisdiction"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-creek-has-no-jurisdiction.md",
+      "mirror_html_path": "/articles/applied-case-the-creek-has-no-jurisdiction.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-creek-has-no-jurisdiction.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-creek-has-no-jurisdiction.html",
+      "sha256_plaintext": "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
+    },
     {
       "title": "Hume, Moore, and the Normative Bridge",
       "slug": "hume-moore-and-the-normative-bridge",

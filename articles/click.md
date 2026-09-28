@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T05:46:44.634Z"
+mirror_generated_at: "2026-09-28T14:23:43.008Z"
 sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
 # Applied Case: Click (2006)

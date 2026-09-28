@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 28 Sep 2026 05:46:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:23:43 GMT</lastBuildDate>
     
+    <item>
+      <title>Rotation Battle: Habermas, Foucault, Luhmann</title>
+      <link>https://modal-path-ethics.ghost.io/articles/rotation-battle-habermas-foucault-luhmann.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/rotation-battle-habermas-foucault-luhmann.html</guid>
+      <pubDate>Mon, 28 Sep 2026 11:00:36 GMT</pubDate>
+      <description>Welcome to Unova.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Creek Has No Jurisdiction</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-creek-has-no-jurisdiction.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-creek-has-no-jurisdiction.html</guid>
+      <pubDate>Mon, 28 Sep 2026 10:30:06 GMT</pubDate>
+      <description>The county ends. The water keeps going.</description>
+    </item>
+
     <item>
       <title>Hume, Moore, and the Normative Bridge</title>
       <link>https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.html</guid>
       <pubDate>Sun, 13 Sep 2026 11:15:42 GMT</pubDate>
       <description>Every lawful catch depends on somebody stopping.</description>
-    </item>
-
-    <item>
-      <title>Six Inches Away</title>
-      <link>https://modal-path-ethics.ghost.io/articles/six-inches-away.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/six-inches-away.html</guid>
-      <pubDate>Sun, 13 Sep 2026 10:55:51 GMT</pubDate>
-      <description>The floor is judged at receipt.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Revenge of the Theorem Scoreboard</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematicians-appeal-the-scoreboard.html</guid>
-      <pubDate>Sat, 12 Sep 2026 11:30:24 GMT</pubDate>
-      <description>Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.</description>
     </item>
   </channel>
 </rss>
