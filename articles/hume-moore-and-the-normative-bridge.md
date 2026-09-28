@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T14:23:43.008Z"
+mirror_generated_at: "2026-09-28T23:27:56.826Z"
 sha256_plaintext: "e9d1a160f0a45542c2fb3905d2ad161396e436f6296cc4f3e8763cb81bf2010d"
 ---
 # Hume, Moore, and the Normative Bridge

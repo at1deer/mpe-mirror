@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T14:23:43.008Z"
+mirror_generated_at: "2026-09-28T23:27:56.826Z"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
 # Applied Case: The Creek Has No Jurisdiction
