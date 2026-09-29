@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 06:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:16:09 GMT</lastBuildDate>
     
+    <item>
+      <title>Carl Schmitt and the Batman Who Leaves</title>
+      <link>https://modal-path-ethics.ghost.io/articles/carl-schmitt-and-the-batman-who-leaves.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/carl-schmitt-and-the-batman-who-leaves.html</guid>
+      <pubDate>Tue, 29 Sep 2026 11:00:56 GMT</pubDate>
+      <description>Gotham does not belong to you.</description>
+    </item>
+
+    <item>
+      <title>Christine Korsgaard, Sharon Street, and the Late Agent</title>
+      <link>https://modal-path-ethics.ghost.io/articles/christine-korsgaard-sharon-street-and-the-late-agent.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/christine-korsgaard-sharon-street-and-the-late-agent.html</guid>
+      <pubDate>Tue, 29 Sep 2026 10:30:32 GMT</pubDate>
+      <description>Two Hunters guard the road out of moral realism.</description>
+    </item>
+
     <item>
       <title>Rotation Battle: Habermas, Foucault, Luhmann</title>
       <link>https://modal-path-ethics.ghost.io/articles/rotation-battle-habermas-foucault-luhmann.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/the-last-safe-megawatt.html</guid>
       <pubDate>Mon, 14 Sep 2026 11:00:17 GMT</pubDate>
       <description>No instrument gets the whole economy.</description>
-    </item>
-
-    <item>
-      <title>The Explanation Writes Back</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-explanation-writes-back.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-explanation-writes-back.html</guid>
-      <pubDate>Sun, 13 Sep 2026 12:00:35 GMT</pubDate>
-      <description>An audit can be right about the wrong version of the model.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Fifth Fish</title>
-      <link>https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-the-fifth-fish.html</guid>
-      <pubDate>Sun, 13 Sep 2026 11:15:42 GMT</pubDate>
-      <description>Every lawful catch depends on somebody stopping.</description>
     </item>
   </channel>
 </rss>

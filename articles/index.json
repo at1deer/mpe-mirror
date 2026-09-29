@@ -1,9 +1,46 @@
 {
-  "generated_at": "2026-09-29T06:06:47.184Z",
+  "generated_at": "2026-09-29T13:16:09.842Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 356,
+  "article_count": 358,
   "articles": [
+    {
+      "title": "Carl Schmitt and the Batman Who Leaves",
+      "slug": "carl-schmitt-and-the-batman-who-leaves",
+      "published_at": "2026-09-29T06:00:56.000-05:00",
+      "updated_at": "2026-09-29T06:00:55.000-05:00",
+      "canonical_url": "https://modalpathethics.com/carl-schmitt-and-the-batman-who-leaves/",
+      "excerpt": "Gotham does not belong to you.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Inner Apocalypse",
+        "Modal Path Ethics"
+      ],
+      "mirror_markdown_path": "/articles/carl-schmitt-and-the-batman-who-leaves.md",
+      "mirror_html_path": "/articles/carl-schmitt-and-the-batman-who-leaves.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/carl-schmitt-and-the-batman-who-leaves.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/carl-schmitt-and-the-batman-who-leaves.html",
+      "sha256_plaintext": "6942b6c244f6ae23fc50367143edd84131d6294b7d268d6f45b6bb53845fe92c"
+    },
+    {
+      "title": "Christine Korsgaard, Sharon Street, and the Late Agent",
+      "slug": "christine-korsgaard-sharon-street-and-the-late-agent",
+      "published_at": "2026-09-29T05:30:32.000-05:00",
+      "updated_at": "2026-09-29T05:30:32.000-05:00",
+      "canonical_url": "https://modalpathethics.com/christine-korsgaard-sharon-street-and-the-late-agent/",
+      "excerpt": "Two Hunters guard the road out of moral realism.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Multiplayer"
+      ],
+      "mirror_markdown_path": "/articles/christine-korsgaard-sharon-street-and-the-late-agent.md",
+      "mirror_html_path": "/articles/christine-korsgaard-sharon-street-and-the-late-agent.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/christine-korsgaard-sharon-street-and-the-late-agent.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/christine-korsgaard-sharon-street-and-the-late-agent.html",
+      "sha256_plaintext": "e995e43ffc84b2b6f85db066af635243ff633264fa65e4c938f8920cc86855bc"
+    },
     {
       "title": "Rotation Battle: Habermas, Foucault, Luhmann",
       "slug": "rotation-battle-habermas-foucault-luhmann",
@@ -43,7 +80,7 @@
       "title": "Hume, Moore, and the Normative Bridge",
       "slug": "hume-moore-and-the-normative-bridge",
       "published_at": "2026-09-27T06:00:22.000-05:00",
-      "updated_at": "2026-09-27T06:00:21.000-05:00",
+      "updated_at": "2026-09-29T02:29:52.000-05:00",
       "canonical_url": "https://modalpathethics.com/hume-moore-and-the-normative-bridge/",
       "excerpt": "Welcome to the post-game.",
       "tags": [
@@ -55,7 +92,7 @@
       "mirror_html_path": "/articles/hume-moore-and-the-normative-bridge.html",
       "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.md",
       "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/hume-moore-and-the-normative-bridge.html",
-      "sha256_plaintext": "e9d1a160f0a45542c2fb3905d2ad161396e436f6296cc4f3e8763cb81bf2010d"
+      "sha256_plaintext": "11b3a5a4af1b851e0565f384d8cd20e3f2a56eeeef95c8aa96c002852ea4aa33"
     },
     {
       "title": "Australia vs. The Biosphere SPECIAL: The Agent",

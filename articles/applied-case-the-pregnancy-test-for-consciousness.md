@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness

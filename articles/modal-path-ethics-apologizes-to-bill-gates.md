@@ -8,7 +8,7 @@ tags:
   - "Apologies Department"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
 ---
 # Modal Path Ethics Apologizes to Bill Gates

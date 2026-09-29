@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
 # Workers Deserve More! Is Not a Constitution

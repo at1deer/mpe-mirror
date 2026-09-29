@@ -9,7 +9,7 @@ tags:
   - "Sacred Slack"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
 # Applied Case: The Epicurean Death Problem

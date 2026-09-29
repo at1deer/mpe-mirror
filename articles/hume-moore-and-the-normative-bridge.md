@@ -3,14 +3,14 @@ title: "Hume, Moore, and the Normative Bridge"
 slug: "hume-moore-and-the-normative-bridge"
 canonical_url: "https://modalpathethics.com/hume-moore-and-the-normative-bridge/"
 published_at: "2026-09-27T06:00:22.000-05:00"
-updated_at: "2026-09-27T06:00:21.000-05:00"
+updated_at: "2026-09-29T02:29:52.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
-sha256_plaintext: "e9d1a160f0a45542c2fb3905d2ad161396e436f6296cc4f3e8763cb81bf2010d"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
+sha256_plaintext: "11b3a5a4af1b851e0565f384d8cd20e3f2a56eeeef95c8aa96c002852ea4aa33"
 ---
 # Hume, Moore, and the Normative Bridge
 
@@ -64,7 +64,7 @@ A **locus** is an extant bearer capable of structured continuation.
 
 A **reachable continuation** is a continuation genuinely available from that bearer under the actual field conditions.
 
-A continuation becomes **structurally significant** through the weighting dimensions Modal Path Ethics already uses: severity, irreversibility, breadth, centrality, asymmetry, and distribution. Those dimensions are not added into one master number. They describe different features of the damaged relation and support partial comparison where the field actually supports comparison.
+Structural significance is constrained by features including enabling centrality, irreversibility, breadth, depth, resistance, distribution, and destructive potential. These are diagnostic dimensions, not terms in a master score or an exhaustive canonical vector. They expose different features of the damaged relation and support partial comparison only where the field actually supports comparison.
 
 -   **_Then an actual transition happens._**
 
@@ -577,7 +577,7 @@ Hume and Moore have now done something useful. They have forced the architecture
 
 -   The field contains extant loci with structured continuations.
 -   **Reachability** identifies which continuations genuinely belong to the present field.
--   **Weighting** identifies structural significance across severity, irreversibility, breadth, centrality, asymmetry, and distribution.
+-   **Weighting** constrains judgments of structural significance through features including enabling centrality, irreversibility, breadth, depth, resistance, distribution, and destructive potential; it does not produce a universal scalar.
 -   The harm thesis identifies qualifying degradation to that continuability.
 -   The **Continuance Principle** gives the harm-token pro tanto normative significance.
 -   **Care** describes an agent's cultivated availability to that significance.

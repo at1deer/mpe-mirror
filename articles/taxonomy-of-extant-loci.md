@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
 # Taxonomy of Extant Loci

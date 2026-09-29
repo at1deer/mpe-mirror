@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-29T06:06:47.184Z
+Generated: 2026-09-29T13:16:09.842Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-29 — [Carl Schmitt and the Batman Who Leaves](/articles/carl-schmitt-and-the-batman-who-leaves.md) ([HTML](/articles/carl-schmitt-and-the-batman-who-leaves.html))
+- 2026-09-29 — [Christine Korsgaard, Sharon Street, and the Late Agent](/articles/christine-korsgaard-sharon-street-and-the-late-agent.md) ([HTML](/articles/christine-korsgaard-sharon-street-and-the-late-agent.html))
 - 2026-09-28 — [Rotation Battle: Habermas, Foucault, Luhmann](/articles/rotation-battle-habermas-foucault-luhmann.md) ([HTML](/articles/rotation-battle-habermas-foucault-luhmann.html))
 - 2026-09-28 — [Applied Case: The Creek Has No Jurisdiction](/articles/applied-case-the-creek-has-no-jurisdiction.md) ([HTML](/articles/applied-case-the-creek-has-no-jurisdiction.html))
 - 2026-09-27 — [Hume, Moore, and the Normative Bridge](/articles/hume-moore-and-the-normative-bridge.md) ([HTML](/articles/hume-moore-and-the-normative-bridge.html))

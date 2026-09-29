@@ -10,7 +10,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T06:06:47.184Z"
+mirror_generated_at: "2026-09-29T13:16:09.842Z"
 sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
 # Applied Case: The Batman
