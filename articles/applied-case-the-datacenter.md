@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
 # Applied Case: The Datacenter

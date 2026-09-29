@@ -8,7 +8,7 @@ tags:
   - "Tales of Distortion"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
 # Tales of Distortion: InfoWars

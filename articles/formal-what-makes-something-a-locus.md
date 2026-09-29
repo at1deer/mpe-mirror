@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
 # Formal: What Makes Something a Locus

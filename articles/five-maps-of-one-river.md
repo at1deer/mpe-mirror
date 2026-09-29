@@ -7,7 +7,7 @@ updated_at: "2026-09-06T06:00:12.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
 # Five Maps of One River

@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire

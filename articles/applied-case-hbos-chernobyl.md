@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl

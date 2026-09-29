@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
 # Applied Case: Claude’s Constitution

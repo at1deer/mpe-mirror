@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T13:16:09.842Z"
+mirror_generated_at: "2026-09-29T22:32:55.675Z"
 sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
 # Applied Case: The Bing Chat
