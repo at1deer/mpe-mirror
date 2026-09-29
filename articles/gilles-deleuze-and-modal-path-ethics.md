@@ -3,16 +3,18 @@ title: "Gilles Deleuze and Modal Path Ethics"
 slug: "gilles-deleuze-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/gilles-deleuze-and-modal-path-ethics/"
 published_at: "2026-04-18T17:00:12.000-05:00"
-updated_at: "2026-05-18T22:49:29.000-05:00"
+updated_at: "2026-09-28T20:44:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "ca744fc0cdadb544cc83e379405639a9b318206a08e64839a412345146936959"
 ---
 # Gilles Deleuze and Modal Path Ethics
+
+> **September 2026 note:** The Deleuzian comparison remains useful as lineage and contrast, especially around capacity, difference, and becoming. Later work makes clearer that Modal Path Ethics' own unit is not generic possibility or becoming, but structurally significant continuation genuinely reachable from an extant locus, with the framework itself treated as a corrigible instrument.
 
 ## Why was this not in the book?
 

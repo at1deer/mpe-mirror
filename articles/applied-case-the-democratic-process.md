@@ -3,15 +3,17 @@ title: "Field Instruments: The Democratic Process"
 slug: "applied-case-the-democratic-process"
 canonical_url: "https://modalpathethics.com/applied-case-the-democratic-process/"
 published_at: "2026-05-05T20:31:50.000-05:00"
-updated_at: "2026-05-20T12:59:32.000-05:00"
+updated_at: "2026-09-28T21:06:37.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
 # Field Instruments: The Democratic Process
+
+> **September 2026 note:** Democracy remains valuable primarily because it distributes standing and preserves correction after error, not because majority output is moral reality. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) constitutional work later develops representation, judgment, rights, appeal, bounded authority, and maintained successor capacity in much more detail.
 
 Democracy is not inherently Good.
 

@@ -3,15 +3,17 @@ title: "Secondary Morals"
 slug: "secondary-morals"
 canonical_url: "https://modalpathethics.com/secondary-morals/"
 published_at: "2026-04-16T02:03:25.000-05:00"
-updated_at: "2026-05-16T12:38:32.000-05:00"
+updated_at: "2026-09-28T20:42:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4a3125d5ff35792cbf06da241160b2d26ba6908b52f357a57f958783bf071d35"
 ---
 # Secondary Morals
+
+> **September 2026 note:** The distinction between structural harm and downstream questions of intention, blame, responsibility, suffering, and social judgment remains important. Later work makes the separation cleaner: harm is a qualifying contraction borne by a locus in a respect; blame and obligation are separate relations; overall verdict comes only after the full transition profile is considered.
 
 What are “**Secondary Morals**”?
 

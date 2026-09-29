@@ -3,22 +3,24 @@ title: "Applied Case: The Datacenter"
 slug: "applied-case-the-datacenter"
 canonical_url: "https://modalpathethics.com/applied-case-the-datacenter/"
 published_at: "2026-04-25T05:04:29.000-05:00"
-updated_at: "2026-05-12T00:20:35.000-05:00"
+updated_at: "2026-09-28T20:53:24.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
 # Applied Case: The Datacenter
 
-A datacenter is a building, or group of buildings, filled with computer servers and the equipment needed to keep those servers powered, cooled, connected, and running.
+> **September 2026 note:** The datacenter analysis remains structurally relevant: compute has local energy, water, grid, land, infrastructure, and burden-distribution effects. Any numerical claims should be read as an April 2026 snapshot and reverified if reused. Later AI work also separates those material burdens from the distinct questions of structural representation, judgment, and correction.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73592.jpg)
+A **datacenter** is a building, or group of buildings, filled with computer servers and the equipment needed to keep those servers powered, cooled, connected, and running.
 
 For a long time, this definition was enough for most purposes. A datacenter was part of the background machinery of the internet. It held websites, files, business software, photos, payment systems, search indexes, cloud applications, and all the other digital activity people had learned to treat as if it happened somewhere light and abstract.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73592.jpg)
 
 The language we use for the internet helped hide the building that was always there.
 

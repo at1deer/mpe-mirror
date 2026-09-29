@@ -3,16 +3,18 @@ title: "Formal: Weighted Reachable Future Space"
 slug: "formal-weighted-reachable-future-space"
 canonical_url: "https://modalpathethics.com/formal-weighted-reachable-future-space/"
 published_at: "2026-05-09T12:00:45.000-05:00"
-updated_at: "2026-06-13T01:18:52.000-05:00"
+updated_at: "2026-09-28T21:10:40.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "674255ed50ee29c60f69737c4a31cbf054af4c71559b889cdd7a2510c24d03d5"
 ---
 # Formal: Weighted Reachable Future Space
+
+> **September 2026 note:** The seven-variable scheme remains useful for disciplined comparison, especially enabling centrality, irreversibility, breadth/depth, resistance, distribution, and destructive potential. It is not a scoring formula. Later work treats harm component-relatively and evaluates whole transition profiles, with partial orders and no requirement that all cases yield a unique winner.
 
 The objection here is not that Modal Path Ethics [lacks a definition of harm](https://modalpathethics.com/contraction-is-harm/). The objection is that the definition used appears to require a second operation which has not yet been defended.
 

@@ -3,16 +3,18 @@ title: "Our Debt to Bernard Williams"
 slug: "our-debt-to-bernard-williams"
 canonical_url: "https://modalpathethics.com/our-debt-to-bernard-williams/"
 published_at: "2026-04-20T12:30:35.000-05:00"
-updated_at: "2026-05-11T18:55:49.000-05:00"
+updated_at: "2026-09-28T20:49:21.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "fa8af6a2e49146261c7d8f1b5f05724dd34fbbdb39b6be06f45b26f09a647395"
 ---
 # Our Debt to Bernard Williams
+
+> **September 2026 note:** Moral remainder remains a load-bearing feature; later Harm work distinguishes a local harm-token from the complete transition profile and final judgment.
 
 **Modal Path Ethics** only partially acknowledges its intellectual debt to Bernard Williams, who coined the concept of **moral remainder** (which this framework uses at several important junctures) in his 1965 essay "_Ethical Consistency_", and developed the idea across decades of work. The book does credit him and discuss this briefly, but doesn't locate this framework within the broader Williams lineage.
 

@@ -3,16 +3,18 @@ title: "Tales of Distortion: The N-Rays"
 slug: "applied-case-the-n-rays"
 canonical_url: "https://modalpathethics.com/applied-case-the-n-rays/"
 published_at: "2026-05-10T06:55:43.000-05:00"
-updated_at: "2026-06-04T11:31:26.000-05:00"
+updated_at: "2026-09-28T21:12:24.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
 # Tales of Distortion: The N-Rays
+
+> **September 2026 note:** The N-Rays case remains the clean demonstration that internally rigorous validation can become self-confirming. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) later defines the crucial outside more strongly: a genuinely independent correction path must be able to introduce a difference without that difference first needing to become legible to the account it may overturn.
 
 In the late 1890s, physics was on fire. It was a very exciting time to be in science.
 

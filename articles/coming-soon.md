@@ -3,13 +3,13 @@ title: "Coming June 17th"
 slug: "coming-soon"
 canonical_url: "https://modalpathethics.com/coming-soon/"
 published_at: "2026-04-15T18:10:37.000-05:00"
-updated_at: "2026-08-10T07:21:15.000-05:00"
+updated_at: "2026-09-28T20:40:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "bdfbc6ecdb97fd52c0efe2f061e93d37124846d33cc9af5ef69b169759bde2e6"
 ---
 # Coming June 17th
 
@@ -18,6 +18,8 @@ sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b8399
 ****Modal Path Ethics: The Extance Strategy Game****
 
 [Buy on Amazon](https://www.amazon.com/dp/B0H54CHTPF?ref=modalpathethics.com)
+
+> **September 2026 note:** This announcement preserves the earliest compact formulation of Modal Path Ethics, but it should no longer be treated as the current formal statement. September work separates structural description from the explicit Continuance Principle, distinguishes harm-tokens from complete transition profiles and overall verdicts, and tightens locushood and reachability.
 
 **Harm** closes futures.
 

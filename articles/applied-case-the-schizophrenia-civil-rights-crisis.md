@@ -3,15 +3,19 @@ title: "Applied Case: The Schizophrenia Firewall"
 slug: "applied-case-the-schizophrenia-civil-rights-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/"
 published_at: "2026-05-22T18:43:25.000-05:00"
-updated_at: "2026-07-08T18:08:17.000-05:00"
+updated_at: "2026-09-28T21:20:50.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "9a8343758a6430510d295b41b9346c4f9301bcc55fab3f29cc8485fd0335f7d1"
 ---
 # Applied Case: The Schizophrenia Firewall
+
+> **September 2026 note:** The structural core remains: diagnosis-based exclusion can foreclose ordinary voluntary care, ghost networks and delays can thicken resistance to treatment, and upstream access failure can make crisis and coercive pathways more reachable. [Newer work gives cleaner language for those distinct harm modes and for separating a harm-token from the complete transition profile](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/). It also separates structural discrimination, responsibility, motive, and overall moral verdict more sharply than some of the article's rhetoric does: a policy can be discriminatory in effect without that fact alone proving every individual provider's motive or character. The ADA, Section 1557, Olmstead-related, clinic-policy, network-availability, and provider examples are dated legal/factual claims and should be reverified before reuse; the article is an applied civil-rights argument, not a timeless formal theorem of Modal Path Ethics.
+
+* * *
 
 **Source note:** This Applied Case is book-length, and will be published as paperback once final. It is being soft-published now while the full evidence vault is being prepared. The main clinic examples, screenshots, public links, and core legal standards are included in the article.
 

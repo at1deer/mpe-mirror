@@ -3,15 +3,17 @@ title: "Applied Case: The Non-Planet Problem"
 slug: "applied-case-the-non-planet-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-non-planet-problem/"
 published_at: "2026-04-24T22:29:59.000-05:00"
-updated_at: "2026-05-09T01:21:12.000-05:00"
+updated_at: "2026-09-28T20:51:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
 # Applied Case: The Non-Planet Problem
+
+> **September 2026 note:** The Non-Planet case still motivates pre-subjective structural harm. The current account should no longer rely on 'structure matters because structure matters': September work [states the Continuance Principle explicitly](https://modalpathethics.com/hume-moore-and-the-normative-bridge/) and defines harm as nontrivial degradation of a structurally significant continuation or enabling structure genuinely reachable from the extant locus.
 
 [Derek Parfit](https://modalpathethics.com/solving-the-parfit-puzzle-suite/) gave moral philosophy the Non-Identity Problem, which is one of those famous problems where everybody involved becomes less happy the longer the conversation continues.
 

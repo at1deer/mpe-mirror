@@ -3,16 +3,18 @@ title: "Formal: Contraction Is Harm"
 slug: "contraction-is-harm"
 canonical_url: "https://modalpathethics.com/contraction-is-harm/"
 published_at: "2026-05-07T02:04:22.000-05:00"
-updated_at: "2026-06-13T01:19:25.000-05:00"
+updated_at: "2026-09-28T21:08:49.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
 # Formal: Contraction Is Harm
+
+> **September 2026 note:** The central thesis survives, but this is no longer the tightest statement. Current [Harm](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) work defines harm as nontrivial degradation of a structurally significant continuation or enabling structure genuinely reachable from an extant locus, distinguishes foreclosure, resistance thickening, and generative damage, separates harm-tokens from transition profiles and verdicts, and states the **Continuance Principle** explicitly instead of deriving normativity from structural commonality alone.
 
 The likely objection is obvious enough to state:
 

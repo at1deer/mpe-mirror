@@ -3,16 +3,18 @@ title: "Applied Case: The Technological Singularity"
 slug: "applied-case-the-technological-singularity"
 canonical_url: "https://modalpathethics.com/applied-case-the-technological-singularity/"
 published_at: "2026-04-28T13:08:56.000-05:00"
-updated_at: "2026-05-06T19:32:44.000-05:00"
+updated_at: "2026-09-28T20:59:26.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "2cefac2d2ca48f8cf43e0350a805cf516541506426c178f6fc9e766cbd86bf0a"
 ---
 # Applied Case: The Technological Singularity
+
+> **September 2026 note:** The Technological Singularity already warns against preserving abstractions while destroying the living field. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) later makes the failure more precise: a highly competent system can preserve nominal alternatives while consuming the material and causal basis that makes those alternatives executable, and competence does not confer jurisdiction over the field.
 
 The Technological Singularity is the idea that technological intelligence may eventually become so powerful, fast, recursive, or self-improving that ordinary human prediction breaks.
 

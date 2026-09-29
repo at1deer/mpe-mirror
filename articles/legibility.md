@@ -3,19 +3,17 @@ title: "Legibility: Not a Criterion of Moral Depth"
 slug: "legibility"
 canonical_url: "https://modalpathethics.com/legibility/"
 published_at: "2026-04-16T00:58:36.000-05:00"
-updated_at: "2026-05-12T18:43:51.000-05:00"
+updated_at: "2026-09-28T20:41:50.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "82aca9c8ac8389d657f3bda5c7eb88b086431a2c756d5524582a4d3b9a8beb0a"
 ---
 # Legibility: Not a Criterion of Moral Depth
 
-> **Brief Disclaimer:**
-
-> **I am not an expert on any of these topics. This is Modal Path Ethics field analysis. Fucking phosphorus and the others are just the best examples to analyze, as objectively and structurally as we can, regarding the topic of Legibility as it pertains to morality.**
+> **September 2026 note:** The central warning still stands: moral legibility is not moral depth. Later work sharpens this into **instrument jurisdiction**: a representation, metric, narrative, model, or category may be useful without acquiring authority over the field or over the conditions by which it can be corrected.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/AdobeStock_477106395.jpeg)
 

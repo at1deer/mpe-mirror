@@ -3,16 +3,18 @@ title: "Applied Case: Fresh (1994)"
 slug: "applied-case-fresh"
 canonical_url: "https://modalpathethics.com/applied-case-fresh/"
 published_at: "2026-05-13T17:31:51.000-05:00"
-updated_at: "2026-05-15T16:31:18.000-05:00"
+updated_at: "2026-09-28T21:15:39.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
 # Applied Case: Fresh (1994)
+
+> **September 2026 note:** Fresh remains a strong example of competent action inside a field that has already made Good unreachable. Later work would describe the plan as a transition profile containing real openings, real harm-tokens, burden transfer, and residue; calling the plan Better never erases Roscoe, trauma, manipulation, or the adult structures that made the plan necessary.
 
 _Fresh_ is a 1994 crime drama about a twelve-year-old boy in Brooklyn who sells drugs before school, plays chess with his alcoholic father in the park, and eventually uses the structure of chess to destroy the adult criminal field closing in around him and his sister.
 

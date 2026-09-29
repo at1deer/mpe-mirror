@@ -3,15 +3,17 @@ title: "Commensurability"
 slug: "commensurability"
 canonical_url: "https://modalpathethics.com/commensurability/"
 published_at: "2026-05-09T20:08:29.000-05:00"
-updated_at: "2026-05-12T03:22:33.000-05:00"
+updated_at: "2026-09-28T21:11:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "00245aee845a2803f9ccea32a73b457c0fb2efc2c6e23f61637b863ffcc9370b"
 ---
 # Commensurability
+
+> **September 2026 note:** The rejection of scalar collapse and acceptance of structured partial comparison remain central. Later work should be read as adding layers around this, not replacing it: structural representation supplies the facts, constitutional judgment handles competing claims and authority, and material correction remains necessary because a correct-looking comparison can still fail in deployment.
 
 The deepest technical question in ethics is whether different morally relevant facts can be placed on a common scale. If yes, in some strong sense, then ethics reduces to [arithmetic](https://modalpathethics.com/applied-case-the-mathematics-problem/). Just find the option with the higher number, then choose it.
 

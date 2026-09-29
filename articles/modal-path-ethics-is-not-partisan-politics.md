@@ -3,15 +3,29 @@ title: "Modal Path Ethics Is Not Partisan Politics"
 slug: "modal-path-ethics-is-not-partisan-politics"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-not-partisan-politics/"
 published_at: "2026-04-16T04:57:49.000-05:00"
-updated_at: "2026-05-12T18:14:50.000-05:00"
+updated_at: "2026-09-28T20:42:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "995fd0fcf3b0b7f2d4f3fe86a32d45f05c7596e52b96529193ad3e4286571761"
 ---
 # Modal Path Ethics Is Not Partisan Politics
+
+> **September 2026 note:** The anti-partisan commitment still governs Modal Path Ethics: political analysis is supposed to track structural effects rather than party identity. Later work adds a much more explicit account of constitutional judgment, bounded finality, jurisdiction, representation, and material correction, so this early statement should not be read as the whole political theory.
+
+[
+
+Emergency Audit: Is Modal Path Ethics Still Apolitical?
+
+There has been an incident.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-55824d12-8672-45b0-b409-a98c44c12761.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-09-24-at-20-25-07-Modal-Path-Ethics-Is-Not-Partisan-Politics-ab7324e9-777d-48a8-b9e1-03167cc419b6.png)
+
+](https://modalpathethics.com/emergency-audit-is-modal-path-ethics-still-apolitical/)
 
 One of the quickest ways Modal Path Ethics will be misunderstood is by asking which political party it belongs to.
 

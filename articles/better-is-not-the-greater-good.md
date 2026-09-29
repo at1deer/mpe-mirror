@@ -3,15 +3,17 @@ title: "Why Better is Not the Greater Good"
 slug: "better-is-not-the-greater-good"
 canonical_url: "https://modalpathethics.com/better-is-not-the-greater-good/"
 published_at: "2026-04-16T14:58:36.000-05:00"
-updated_at: "2026-05-12T18:14:11.000-05:00"
+updated_at: "2026-09-28T20:43:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "20c60ee44e1987e15f5a8a048ac03bacddaea1981f710c2530f5b7a1ef410bc4"
 ---
 # Why Better is Not the Greater Good
+
+> **September 2026 note:** Better still names comparative action in a damaged field and must never be laundered into Good. Later work makes the comparison non-scalar: weighting variables do not sum to one moral score, some options are only partially ordered or on a par, and a Better judgment can leave real moral remainder.
 
 Better is likely to be the most misunderstood concept in Modal Path Ethics. One of my greatest concerns is that it will be taken as a restatement of utilitarian greatest-good logic. 
 

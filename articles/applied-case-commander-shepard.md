@@ -3,19 +3,19 @@ title: "Citadel Archive: Commander Shepard"
 slug: "applied-case-commander-shepard"
 canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
 published_at: "2026-04-26T03:10:28.000-05:00"
-updated_at: "2026-07-09T05:15:03.000-05:00"
+updated_at: "2026-09-28T20:57:43.000-05:00"
 tags:
   - "Citadel Archive"
   - "Modal Path Ethics"
   - "Chirality"
   - "Field Creature"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
 # Citadel Archive: Commander Shepard
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/05/Mass-Effect-Logo-2007.png)
+> **September 2026 note:** Commander Shepard remains a valid site for training and testing moral perception, but later locus work urges more caution about calling cultural objects loci: the active moral object is the extant cultural, interpretive, and player field through which the fiction affects real continuation.
 
 In this series, we are going to play the _Mass Effect_ videogame trilogy under Modal Path Ethics, decision by decision, across however many articles it takes to complete it. Some decisions will get a paragraph. Some will get the full Applied Case treatment. The eventual goal is a single working record of what it looks like to fold Modal Path Ethics around a causally active ethical field while it remains in motion, instead of in review after the fact.
 

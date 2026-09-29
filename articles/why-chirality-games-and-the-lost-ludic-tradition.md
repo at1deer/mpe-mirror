@@ -3,16 +3,18 @@ title: "About Chirality: Games, Philosophy, and The Lost Ludic Tradition"
 slug: "why-chirality-games-and-the-lost-ludic-tradition"
 canonical_url: "https://modalpathethics.com/why-chirality-games-and-the-lost-ludic-tradition/"
 published_at: "2026-04-19T04:58:39.000-05:00"
-updated_at: "2026-05-06T21:12:39.000-05:00"
+updated_at: "2026-09-28T20:46:03.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
+
+> **September 2026 note:** Chirality remains a first-class philosophical instrument rather than an illustration.
 
 [Chirality](https://modalpathethics.com/chirality/) is absolutely going to be seen as an odd inclusion in Modal Path Ethics, as the rules to a board game included in a philosophy book as an appendix.
 

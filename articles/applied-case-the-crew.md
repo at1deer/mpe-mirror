@@ -3,16 +3,18 @@ title: "Applied Case: The Crew"
 slug: "applied-case-the-crew"
 canonical_url: "https://modalpathethics.com/applied-case-the-crew/"
 published_at: "2026-05-06T14:01:36.000-05:00"
-updated_at: "2026-05-11T18:59:15.000-05:00"
+updated_at: "2026-09-28T21:07:12.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "974cb2a75ad22384a278dc5f19a331ffb71f2b7f60c0b6c5a231927a73c92431"
 ---
 # Applied Case: The Crew
+
+> **September 2026 note:** The Crew still demonstrates that service shutdown can close a playable cultural field even without a suffering person.
 
 In 2014, Ubisoft released _The Crew_, an open-world racing game built around a compressed version of the United States. I never played it.
 

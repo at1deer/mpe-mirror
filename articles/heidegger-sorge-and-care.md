@@ -3,15 +3,15 @@ title: "Heidegger, Sorge, and Care"
 slug: "heidegger-sorge-and-care"
 canonical_url: "https://modalpathethics.com/heidegger-sorge-and-care/"
 published_at: "2026-04-20T11:53:45.000-05:00"
-updated_at: "2026-09-23T02:19:56.000-05:00"
+updated_at: "2026-09-28T20:48:12.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "cf3a15c78c43a32d74b2abacf51f1dfaee9b5baa480f0ea3eb82aec1a5a6144c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "e4a835dbb16b3b878ba10453a46adc7555d7d5c26711b5c21c22b60b7d9f5c18"
 ---
 # Heidegger, Sorge, and Care
 
@@ -26,6 +26,8 @@ A more neutral approach to the man who dug under ethics and lost the ladder. \[L
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Heidegger-1-768x429-c2f1d073-8691-4b69-af12-5249f0fb7256.webp)
 
 ](https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/)
+
+> **September 2026 note:** Care remains more than sentiment: it is sustained responsiveness to contraction and to the field beyond easy compression.
 
 The word **care** works very hard for us in Modal Path Ethics.
 

@@ -3,16 +3,18 @@ title: "Applied Case: The New Taboo"
 slug: "applied-case-the-new-taboo"
 canonical_url: "https://modalpathethics.com/applied-case-the-new-taboo/"
 published_at: "2026-05-15T21:46:09.000-05:00"
-updated_at: "2026-05-15T23:16:38.000-05:00"
+updated_at: "2026-09-28T21:17:22.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "96d9e7bb65acfb2e11d1782931b1fc35b9bd45b526ada0d0f746eb88772beb5f"
 ---
 # Applied Case: The New Taboo
+
+> **September 2026 note:** New Taboo remains a proposal for active non-knowledge where producing information predictably makes domination or destructive contact easier. It must never become an unreviewable sacred prohibition: a valid epistemic boundary must be narrow, grounded in a real transition risk, oriented toward the vulnerable field rather than powerful comfort, and defeasible under bounded conditions with independent correction.
 
 North Sentinel Island is an island in the Andaman and Nicobar Islands, in the Bay of Bengal, home to the Sentinelese, a living human community that has refused outside incorporation across repeated attempts at contact. Visiting the island has been illegal for decades; India restricts entry to protect the Sentinelese from outside contact, disease, exploitation, and the disasters that have followed sustained contact with other Indigenous communities in the region. North Sentinel and its surrounding waters are protected as a tribal reserve under the Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation, 1956.
 

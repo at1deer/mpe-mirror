@@ -3,15 +3,17 @@ title: "Applied Case: The Missing Link"
 slug: "applied-case-the-missing-link"
 canonical_url: "https://modalpathethics.com/applied-case-the-missing-link/"
 published_at: "2026-04-23T23:11:23.000-05:00"
-updated_at: "2026-05-08T03:58:00.000-05:00"
+updated_at: "2026-09-28T20:50:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
 # Applied Case: The Missing Link
+
+> **September 2026 note:** Joe Martin remains a clear strong-locus case and an indictment of treating expressive legibility as the gate to moral depth. Later locus work is stricter about what counts as a locus, but embodied animals with diachronic integration, vulnerability, memory, relation, and nonredundant successor structure remain central cases.
 
 In 1919, an orangutan named Joe Martin attended a screening of one of his own feature films dressed in a suit and carrying a cane.
 

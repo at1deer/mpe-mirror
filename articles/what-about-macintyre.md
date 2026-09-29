@@ -3,16 +3,18 @@ title: "About MacIntyre"
 slug: "what-about-macintyre"
 canonical_url: "https://modalpathethics.com/what-about-macintyre/"
 published_at: "2026-04-19T16:47:43.000-05:00"
-updated_at: "2026-05-11T18:56:57.000-05:00"
+updated_at: "2026-09-28T20:45:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "672a5617d0fdc67e53558672482849cb1a341fac70c9bed8e4b70238a55c0754"
 ---
 # About MacIntyre
+
+> **September 2026 note:** The MacIntyre comparison remains part of the framework's account of tradition, locality, practice, and historical inheritance. Later Mirror Match and Sacred Instruments work concede more explicitly that embodied practice, ritual transmission, sustained relationship, and tradition can carry moral knowledge the early analytic vocabulary does not fully transmit.
 
 Alasdair MacIntyre's _After Virtue_ (1981) is probably the most influential work of moral philosophy of the last half-century.
 

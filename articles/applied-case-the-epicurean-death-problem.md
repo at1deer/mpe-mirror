@@ -3,16 +3,18 @@ title: "Applied Case: The Epicurean Death Problem"
 slug: "applied-case-the-epicurean-death-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-epicurean-death-problem/"
 published_at: "2026-04-28T22:43:04.000-05:00"
-updated_at: "2026-05-06T19:30:48.000-05:00"
+updated_at: "2026-09-28T21:00:43.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
 # Applied Case: The Epicurean Death Problem
+
+> **September 2026 note:** The Epicurean Death Problem remains a strong case for treating death as closure of an extant personal continuation rather than requiring posthumous suffering. Later work adds that this identifies a harm-token; complete judgment may still require the surrounding transition profile, duties, causes, and competing harms.
 
 While still in [this thought-space](https://modalpathethics.com/problem-of-evil/), the Epicurean Death Problem says death is not actually bad for the person who dies. The argument is simple.
 

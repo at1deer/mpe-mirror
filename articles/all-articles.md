@@ -1,6 +1,6 @@
 # All Modal Path Ethics Articles
 
-Generated: 2026-09-28T23:27:56.826Z
+Generated: 2026-09-29T06:06:47.184Z
 
 
 <!-- ARTICLE_START slug="rotation-battle-habermas-foucault-luhmann" title="Rotation Battle: Habermas, Foucault, Luhmann" published_at="2026-09-28T06:00:36.000-05:00" -->
@@ -16,7 +16,7 @@ tags:
   - "Engagement"
   - "Pokémon"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
 ---
 # Rotation Battle: Habermas, Foucault, Luhmann
@@ -858,7 +858,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
 # Applied Case: The Creek Has No Jurisdiction
@@ -1465,7 +1465,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e9d1a160f0a45542c2fb3905d2ad161396e436f6296cc4f3e8763cb81bf2010d"
 ---
 # Hume, Moore, and the Normative Bridge
@@ -2132,7 +2132,7 @@ tags:
   - "Australia vs. The Biosphere"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "55153fec9be9bbb6d65ebee5adf792d44aa4e7fe73abe7826c60fbe4a6d097e0"
 ---
 # Australia vs. The Biosphere SPECIAL: The Agent
@@ -2539,7 +2539,7 @@ tags:
   - "Apologies Department"
   - "Post-Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3ce28745732482a163c60dd79cd68dfdfbe28c42de507a01a49d93c3fbc60ac3"
 ---
 # Amor Fati.
@@ -4084,7 +4084,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "cf0a0d4437bb1684d2215184ea56257592fff503a3a4f1dcc0d319b768a737f3"
 ---
 # Pope Leo Walks Through the Door
@@ -4421,7 +4421,7 @@ tags:
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire
@@ -5223,7 +5223,7 @@ tags:
   - "Modal Systems"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3b2a117f20d7ca26c63ae2df7d132009a6659cee6ca7e76ec7b5c17776e64d82"
 ---
 # Field Instruments: Telepathy
@@ -6038,7 +6038,7 @@ tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
 ---
 # Emergency Audit: Is Modal Path Ethics Still Apolitical?
@@ -6226,7 +6226,7 @@ tags:
   - "Inner Apocalypse"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6337eb4dde70537d2620dc24785a3241f13b292aea111b878761f12e611d7a99"
 ---
 # The Inner Apocalypse Has Been Published (Free Download)
@@ -7151,7 +7151,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7b95881cdf96976bf52207e5c090ef158a157c7b5373c90bce102b15fd22ee7a"
 ---
 # VIII
@@ -7193,7 +7193,7 @@ updated_at: "2026-09-24T05:55:15.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b5efb5e08bc4491ae70661f313b70322ffded0324f53d693922ee03b25931e6a"
 ---
 # The First Gift
@@ -7442,7 +7442,7 @@ tags:
   - "Inner Apocalypse"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
 ---
 # The Future Does Not Have to Be New
@@ -8030,7 +8030,7 @@ updated_at: "2026-09-24T05:05:47.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5afe0a5c8775a717b9bfd82a30e55bd0e2246e2b463bd64f10512e810f0b5a42"
 ---
 # Hegel and the Retained Wound
@@ -8641,7 +8641,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "340ceb1867e2b0565582488b4bc905f80073c193598620fbef6080faa2fe5e88"
 ---
 # VII
@@ -8679,7 +8679,7 @@ tags:
   - "Supplement"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c415edee0161e8bf64458bb3ab4fdefa10672dc1b3cd8ddb1b9f6841514ef532"
 ---
 # The Problem of Space
@@ -9794,7 +9794,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
 ---
 # Failed Field Analysts: Jensen Huang and the Perfect Incentives
@@ -10396,7 +10396,7 @@ tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
 ---
 # Will Is Not Universal
@@ -11663,7 +11663,7 @@ tags:
   - "Modal Systems"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
 ---
 # Applied Case: The Super Intelligence of America
@@ -11859,7 +11859,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
 ---
 # VI
@@ -11894,7 +11894,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
 ---
 # Applied Case: The Copy Accuses the Source
@@ -12348,7 +12348,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
 # Field Instruments: Hyperintelligence
@@ -13613,7 +13613,7 @@ updated_at: "2026-09-22T05:45:33.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2d2ee90e2949c78aeb0625c8760b1844f90bf1f11f52351ea096d9a479d69adb"
 ---
 # The Silent Ocean
@@ -13889,7 +13889,7 @@ updated_at: "2026-09-21T12:20:56.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4d1edf15ac920a96478a894afd648996c4fadb12761e7ebd38a8432d10406ccf"
 ---
 # Show Me the 90
@@ -14123,7 +14123,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "560976c1633d8f89fff50549d22e5d65f76749b8558b7b2e8597fad980152805"
 ---
 # V
@@ -14156,7 +14156,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
 ---
 # Transition Action: The Brain Had Two Beginnings
@@ -14734,7 +14734,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c2c0ee3ca8b0286eda4a278593b327fc3d135d99453c3baf9e50f7e64a8cc1f5"
 ---
 # Applied Case: The Planes Were in the Air
@@ -15206,7 +15206,7 @@ updated_at: "2026-09-21T05:45:37.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c3657cb14bfb23f51b801f4a4522e4d80a617fcbe62a803dfc5cfee471aa9252"
 ---
 # From PvP to PvE
@@ -15462,7 +15462,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
 ---
 # IV
@@ -15497,7 +15497,7 @@ tags:
   - "Inner Apocalypse"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
 # Harm as Contraction and Structural Ethics
@@ -15840,7 +15840,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
 ---
 # Applied Case: California’s Kill Switch
@@ -16164,7 +16164,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "422ed0ed152695e9d785ffa6fb111607de3f8c9976b91540de3b0354b12c162f"
 ---
 # III
@@ -16197,7 +16197,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
 ---
 # Applied Case: Nord Stream
@@ -16965,7 +16965,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
 ---
 # Applied Case: The Datacenter is Trying to Leave Earth
@@ -17563,7 +17563,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "10fb864454ef6df82f15b10ee3862e412dc64bddc471d5447d2f6f9d5242d98e"
 ---
 # II
@@ -17601,7 +17601,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
 ---
 # Applied Case: The Dog Gets the Ball
@@ -18505,7 +18505,7 @@ tags:
   - "Apologies Department"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
 ---
 # Modal Path Ethics Apologizes to Bill Gates
@@ -18802,7 +18802,7 @@ tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "15ae08e30c295caf9b241e317ee94372c7c54fd54aa89e40653ed73026dd3dd7"
 ---
 # I
@@ -18839,7 +18839,7 @@ tags:
   - "Engagement"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
 ---
 # Emmanuel Levinas and the Infinite Claim
@@ -19541,7 +19541,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
 # Applied Case: Girl Scout Ethics
@@ -20440,7 +20440,7 @@ updated_at: "2026-09-16T18:29:42.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
 ---
 # SLIME WATCH II: The Slop Button
@@ -21172,7 +21172,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
 # Tales of Distortion: The Book Was More Than the Text
@@ -23494,7 +23494,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
 ---
 # Applied Case: Physics Finds the Empty Altar
@@ -23898,7 +23898,7 @@ tags:
   - "Convergence Point"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
 ---
 # The Quasiexplicable Origins of Modal Path Ethics
@@ -25079,7 +25079,7 @@ updated_at: "2026-09-15T05:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
 ---
 # Two Screens
@@ -25322,7 +25322,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
 # Transition Action: Color Becomes Structure
@@ -25638,7 +25638,7 @@ updated_at: "2026-09-14T06:30:32.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4442f9e4695aae1a804866ddc7aa112d5f7e0dbbd42ff9baa19845761f879a57"
 ---
 # A Tale of Three Headlines
@@ -26043,7 +26043,7 @@ updated_at: "2026-09-14T06:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2aac95e93cca980c36ab0514d017f42a6594633d8ceaba71b85700e9a2f4dbc5"
 ---
 # The Last Safe Megawatt
@@ -26232,7 +26232,7 @@ tags:
   - "Modal Path Ethical Software"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "992194bad4392ab302ad93d885a623b754161de0677cff4c932f46b43ff1ea9a"
 ---
 # The Explanation Writes Back
@@ -26827,7 +26827,7 @@ updated_at: "2026-09-24T20:41:06.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
 ---
 # Applied Case: The Fifth Fish
@@ -27550,7 +27550,7 @@ updated_at: "2026-09-13T05:55:50.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
 ---
 # Six Inches Away
@@ -27739,7 +27739,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
 # Applied Case: Revenge of the Theorem Scoreboard
@@ -28253,7 +28253,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
 # OpenAI Is Sponsoring the Séance
@@ -28661,7 +28661,7 @@ updated_at: "2026-09-12T05:30:18.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
 ---
 # The Green Model
@@ -28876,7 +28876,7 @@ updated_at: "2026-09-11T13:36:28.000-05:00"
 tags:
   - "Influencutors"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
 ---
 # Influencutors: Ridley Scott Is an Influencer
@@ -29568,7 +29568,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
 ---
 # Applied Case: The War That Never Ended
@@ -30185,7 +30185,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "da0634ebd64e6806ff7e858d4ae6fc1f2366b1427e2125fe438640d5fc19afa2"
 ---
 # Applied Case: The Public Has Been Moved Downstream
@@ -30596,7 +30596,7 @@ updated_at: "2026-09-11T05:30:12.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "66a9c59f83d5357bf09bf582f152d581c26d4262aa4970b12ed6eb052b781333"
 ---
 # Three Alarms
@@ -30907,7 +30907,7 @@ updated_at: "2026-09-10T06:43:39.000-05:00"
 tags:
   - "Influencutors"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "29c32ae4f351963d3fa1e9bd4f443855609f22faa6d35c8ce11b77c9d12fe5b7"
 ---
 # Influencutors: MoistCr1TiKaL and the Ordinary Field
@@ -32012,7 +32012,7 @@ updated_at: "2026-09-15T21:59:23.000-05:00"
 tags:
   - "Convergence Point"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
 # Convergence Point: Eduardo Blasco and the Engineer Who Found the Future
@@ -32633,7 +32633,7 @@ updated_at: "2026-09-10T05:30:54.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a631d6aab9a0beb7619b379856d1d30a3679d9a6fe86334cbe98cad5d381e126"
 ---
 # The Death of an Office
@@ -32963,7 +32963,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
 ---
 # Applied Case: The Category Goes In the Brain
@@ -33512,7 +33512,7 @@ tags:
   - "Field Instruments"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---
 # Field Instruments: Alignment
@@ -34423,7 +34423,7 @@ updated_at: "2026-09-09T05:30:37.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
 ---
 # The Sanctuary
@@ -34700,7 +34700,7 @@ updated_at: "2026-09-08T15:37:58.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
 ---
 # Modal Path Ethics Apologizes to the College Newspapers
@@ -35016,7 +35016,7 @@ updated_at: "2026-09-09T22:50:01.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
 ---
 # Simondon and the Locus in Formation
@@ -35755,7 +35755,7 @@ updated_at: "2026-09-09T10:17:49.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
 ---
 # Applied Case: The Agents Institutionalized
@@ -36360,7 +36360,7 @@ tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm
@@ -37314,7 +37314,7 @@ updated_at: "2026-09-15T16:13:34.000-05:00"
 tags:
   - "Convergence Point"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path
@@ -37796,7 +37796,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
 # Al-Ghazali and the Last Instrument
@@ -38767,7 +38767,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion
@@ -39539,7 +39539,7 @@ updated_at: "2026-09-07T05:30:16.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
 ---
 # The Water Does Not Move
@@ -39828,7 +39828,7 @@ updated_at: "2026-09-06T13:48:38.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
 # SLIME WATCH III: Ghostbusters
@@ -40565,7 +40565,7 @@ updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
 # Hoel and the Causal Locus
@@ -41082,7 +41082,7 @@ updated_at: "2026-09-11T22:29:15.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide
@@ -41462,7 +41462,7 @@ updated_at: "2026-09-06T06:00:12.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
 # Five Maps of One River
@@ -41721,7 +41721,7 @@ tags:
   - "Functional Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5ece73232cfd7bb6c83f6d9dbf0cdb98340046a5e7620ed443472df8565ded73"
 ---
 # Functional Field Analysts: Tukaram Mundhe and the Lives of People
@@ -42583,7 +42583,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
 # Failed Field Analysts: Antonin Scalia and the Frozen Grammar
@@ -43674,7 +43674,7 @@ updated_at: "2026-09-05T05:30:19.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
 # Three Lines Across One Body
@@ -43934,7 +43934,7 @@ updated_at: "2026-09-04T13:13:59.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
 ---
 # Applied Case: The Superintelligence Ban Cannot Find the Superintelligence
@@ -44669,7 +44669,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
 # Applied Case: Claude’s Constitution
@@ -45318,7 +45318,7 @@ updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose
@@ -45596,7 +45596,7 @@ updated_at: "2026-09-04T05:30:52.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
 # Ellen is Present
@@ -45847,7 +45847,7 @@ updated_at: "2026-09-03T06:30:26.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
 # Field Instruments: The Verification Gradient
@@ -46539,7 +46539,7 @@ updated_at: "2026-09-03T23:08:27.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
 # The Dispatch Floor Solves the Game
@@ -46812,7 +46812,7 @@ tags:
   - "Instrument Jurisdiction"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
 # Popular Mechanics Has Gone Mad With Power
@@ -47237,7 +47237,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
 # **Discovery.**
@@ -48130,7 +48130,7 @@ updated_at: "2026-09-15T15:35:43.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "25c1683aeed30d47ee5794a94ffb26a489f2e0904f0663cd76b3c5dd00831b98"
 ---
 # The Inner Apocalypse
@@ -48330,7 +48330,7 @@ updated_at: "2026-09-07T15:51:08.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
 # WAICO Is the Hard Case
@@ -48651,7 +48651,7 @@ tags:
   - "Epistemic Instruments"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
 # Enforce Your Existing Standards, Please
@@ -48727,7 +48727,7 @@ updated_at: "2026-09-01T06:00:46.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
 ---
 # Inner Sovereignty: The Seven Badges
@@ -49088,7 +49088,7 @@ tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
 # Workers Deserve More! Is Not a Constitution
@@ -49374,7 +49374,7 @@ updated_at: "2026-08-31T06:00:09.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
 ---
 # Outer Sovereignty: The Guardian
@@ -49705,7 +49705,7 @@ updated_at: "2026-08-31T05:30:47.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
 # OpenAI Discovers the Constitutional Problem
@@ -49867,7 +49867,7 @@ updated_at: "2026-08-30T06:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
 ---
 # Four Futures
@@ -50265,7 +50265,7 @@ tags:
   - "Inner Apocalypse"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
 # The Past Is Not in the Option Set
@@ -50519,7 +50519,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1bdea79ae33378c6a30187559211911d19b2bcc8cdf66fcc95c1b3fd705058ce"
 ---
 # Failed Field Analysts: Phil Aroneanu and the Anger Engine
@@ -51442,7 +51442,7 @@ tags:
   - "Instrument Jurisdiction"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover
@@ -52029,7 +52029,7 @@ tags:
   - "Inner Apocalypse"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
 # Field Instruments: Prophethood
@@ -52306,7 +52306,7 @@ updated_at: "2026-08-29T05:30:58.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
 ---
 # Revelation in Office
@@ -52652,7 +52652,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
 # OpenAI Is Funding the Institutions That May Need to Challenge OpenAI
@@ -52844,7 +52844,7 @@ updated_at: "2026-08-28T05:30:34.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
 # Return to the Release Gradient
@@ -53057,7 +53057,7 @@ tags:
   - "Fictional Earth"
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
 # Fictional Earth: Substack and the Argument Machine
@@ -53952,7 +53952,7 @@ updated_at: "2026-08-27T06:15:46.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
 ---
 # Transition Action: The Queue Reorders Itself
@@ -54225,7 +54225,7 @@ updated_at: "2026-08-27T19:59:11.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
 # The Score That Moved the Queue
@@ -54484,7 +54484,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
 ---
 # Psychology Today Continues to Cross the Line
@@ -55066,7 +55066,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
 # Applied Case: Pliny the Liberator
@@ -56071,7 +56071,7 @@ updated_at: "2026-08-26T05:30:42.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7559ed3f3329ce00e0a65512358d0d1728087f0b4dd9e3018ce28567bcb4251c"
 ---
 # Return to Babel
@@ -56331,7 +56331,7 @@ updated_at: "2026-08-25T21:16:18.000-05:00"
 tags:
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
 # Modal Path Ethics Should Not Go to China
@@ -56707,7 +56707,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return
@@ -57635,7 +57635,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
 # Applied Case: The Housing Choice Voucher Program
@@ -57966,7 +57966,7 @@ updated_at: "2026-08-24T11:33:56.000-05:00"
 tags:
   - "Moonlight with Figures"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a8b13919b19c923bf90e9ed4579a26ee8b37d43f13a94498455e209a082be28a"
 ---
 # Moonlight with Figures: The Primordial Darkness
@@ -59464,7 +59464,7 @@ updated_at: "2026-08-24T06:30:12.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
 ---
 # Field Instruments: Intelligence
@@ -60054,7 +60054,7 @@ updated_at: "2026-08-24T06:00:25.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
 # Four Competent Systems
@@ -60380,7 +60380,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e3f14576c1d706d95f009ccdc2905b82504d3297cabde0a9f93d57680da45cd5"
 ---
 # Applied Case: Ghosts
@@ -61440,7 +61440,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
 # The Categories Cannot Hold
@@ -62173,7 +62173,7 @@ tags:
   - "Applied Case"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "db8b03288c739895f307eaa0846695728b3c4c5e381f58598a65b0e48ac33156"
 ---
 # Applied Case: The Temporary Topic Leader
@@ -66261,7 +66261,7 @@ tags:
   - "Applied Case"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman
@@ -66564,7 +66564,7 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated
@@ -67459,7 +67459,7 @@ updated_at: "2026-08-21T06:00:30.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b73d80a158656db59ee8dbb24426814c2437df64e00461ab8ecd4d0df8575058"
 ---
 # Return to the Negative Boat
@@ -67704,7 +67704,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
 # Applied Case: The Orphaned Well
@@ -67973,7 +67973,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6565a15b91f7e9541cb843e7ca4765a2767d4de4b20a0eb97bf70ecfa2473cca"
 ---
 # Modal Path Ethics Is Speeding Back Up
@@ -68041,7 +68041,7 @@ tags:
   - "Applied Case"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look
@@ -68378,7 +68378,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
 # Applied Case: The Assembly and the Guards
@@ -68674,7 +68674,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home
@@ -68973,7 +68973,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
 # Applied Case: Thirteen Minutes at East Palestine
@@ -69187,7 +69187,7 @@ updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This
@@ -69371,7 +69371,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
 # The Nerd Reich Is the Easy Case
@@ -69590,7 +69590,7 @@ tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
 # Modal Path Ethics is Slowing Down
@@ -69639,7 +69639,7 @@ tags:
   - "Tales of Distortion"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
 # Tales of Distortion: InfoWars
@@ -70698,7 +70698,7 @@ updated_at: "2026-08-12T05:30:54.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
 ---
 # Australia vs. The Biosphere: The Dingo Fence
@@ -71350,7 +71350,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle
@@ -71841,7 +71841,7 @@ tags:
   - "Epistemic Instruments"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
 # Field Instruments: Entropy, Memory, and Erasure
@@ -72613,7 +72613,7 @@ updated_at: "2026-08-10T07:14:04.000-05:00"
 tags:
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
 ---
 # Transition Action: The Battery Does Nothing
@@ -72656,7 +72656,7 @@ updated_at: "2026-08-10T07:48:53.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
 # Modal Path Ethics Apologizes to Walter Veit
@@ -72757,7 +72757,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
 ---
 # Applied Case: The Theorem Scoreboard
@@ -73314,7 +73314,7 @@ updated_at: "2026-08-31T19:39:56.000-05:00"
 tags:
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
 # Tales of Distortion: The Gapless Week
@@ -74721,7 +74721,7 @@ updated_at: "2026-08-09T06:50:51.000-05:00"
 tags:
   - "SLIME WATCH"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
 ---
 # SLIME WATCH: The Slimy Sea of Slop
@@ -75093,7 +75093,7 @@ updated_at: "2026-08-08T06:00:31.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
 # Applied Case: The Invisible Board
@@ -75686,7 +75686,7 @@ updated_at: "2026-09-23T19:47:16.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5b059ab75d8ce5cb5d75efbf42ad4ffecbc451a94bdf2fa8c5dbbcf6237febca"
 ---
 # The Sacred Machine
@@ -76358,7 +76358,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
 # Sacred Slack Has Been Published
@@ -77155,7 +77155,7 @@ tags:
   - "Fictional Earth"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
 ---
 # AI Did Not Blur Reality
@@ -77362,7 +77362,7 @@ tags:
   - "Field Instruments"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
 # Field Instruments: Open Weights and the Release Gradient
@@ -78031,7 +78031,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar
@@ -78309,7 +78309,7 @@ tags:
   - "News"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
 # Beneath the Launchpad
@@ -78559,7 +78559,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
 # Field Instruments: Infodynamics
@@ -79619,7 +79619,7 @@ tags:
   - "Engagement"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d11e081e65306cc2b1924af4014d01b37d87f7d72853128261c2e65e75d7e3e5"
 ---
 # Nietzche and the Sacred Slack
@@ -80698,7 +80698,7 @@ tags:
   - "News"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)
@@ -81181,7 +81181,7 @@ tags:
   - "Failed Field Analysts"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
 # Failed Field Analysts: Garrett Hardin and the Lifeboat
@@ -82356,7 +82356,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis
@@ -83522,7 +83522,7 @@ tags:
   - "Security Instruments"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**
@@ -88558,7 +88558,7 @@ tags:
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027
@@ -89565,7 +89565,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body
@@ -90332,7 +90332,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence
@@ -91429,7 +91429,7 @@ tags:
   - "Chirality"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped
@@ -91909,7 +91909,7 @@ tags:
   - "Field Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm
@@ -93440,7 +93440,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
 ---
 # Applied Case: Psychiatry Before Psychiatry
@@ -94562,7 +94562,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine
@@ -98984,7 +98984,7 @@ tags:
   - "Modal Path Ethics"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
 # The End of Moral Philosophy Has an Objective Function
@@ -99669,7 +99669,7 @@ tags:
   - "Fictional Earth"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine
@@ -100807,7 +100807,7 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure
@@ -101280,7 +101280,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision
@@ -101749,7 +101749,7 @@ tags:
   - "Field Instruments"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information
@@ -102345,7 +102345,7 @@ updated_at: "2026-08-10T07:23:37.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk
@@ -103969,7 +103969,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat
@@ -104657,7 +104657,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
 ---
 # Failed Field Analysts: Thomas Szasz and the Conceptual Knife
@@ -106218,7 +106218,7 @@ updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
@@ -107626,7 +107626,7 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine
@@ -109190,7 +109190,7 @@ updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence
@@ -109871,7 +109871,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel
@@ -110930,7 +110930,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness
@@ -111467,7 +111467,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human
@@ -112495,7 +112495,7 @@ tags:
   - "Field Instruments"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption
@@ -113479,7 +113479,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
@@ -118710,7 +118710,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data
@@ -118992,7 +118992,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published
@@ -119188,7 +119188,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine
@@ -120304,7 +120304,7 @@ tags:
   - "Modal Systems"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions
@@ -121612,7 +121612,7 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
@@ -125900,7 +125900,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field
@@ -126994,7 +126994,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -128475,7 +128475,7 @@ updated_at: "2026-08-17T19:24:47.000-05:00"
 tags:
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
 # Failed Field Analysts: Savonarola and the Purity Pyre
@@ -131119,7 +131119,7 @@ tags:
   - "Modal Path Ethics"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
@@ -131408,7 +131408,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus
@@ -132295,7 +132295,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -134133,7 +134133,7 @@ updated_at: "2026-08-10T07:25:20.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -134187,7 +134187,7 @@ updated_at: "2026-09-14T17:22:26.000-05:00"
 tags:
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d1eee73ebf48b5de0e4b3b6bc969317e8f0736d7bc89775a36ecc69c34398e8c"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -134801,7 +134801,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -137125,7 +137125,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -137696,7 +137696,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -138704,7 +138704,7 @@ tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -139323,7 +139323,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -141367,7 +141367,7 @@ tags:
   - "Field Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -142017,7 +142017,7 @@ tags:
   - "Sacred Instruments"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force
@@ -142658,7 +142658,7 @@ tags:
   - "Entropy Debt Week"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -143201,7 +143201,7 @@ tags:
   - "Sacred Instruments"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -144434,7 +144434,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -144868,7 +144868,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -145503,7 +145503,7 @@ tags:
   - "Security Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -145863,7 +145863,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -146369,7 +146369,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -147623,7 +147623,7 @@ tags:
   - "Security Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -148205,7 +148205,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -148816,7 +148816,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -150043,7 +150043,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -150736,7 +150736,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -151376,7 +151376,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -151906,7 +151906,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
 ---
 # Field Tense Logic
@@ -152392,7 +152392,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -152974,7 +152974,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -153663,7 +153663,7 @@ tags:
   - "Supplement"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -154090,7 +154090,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -154376,7 +154376,7 @@ tags:
   - "Field Creature"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -156193,7 +156193,7 @@ tags:
   - "Formal"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -156772,7 +156772,7 @@ tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -157283,7 +157283,7 @@ tags:
   - "Field Instruments"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -157589,7 +157589,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -158117,7 +158117,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -158182,7 +158182,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -158266,7 +158266,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -158373,7 +158373,7 @@ tags:
   - "Business"
   - "Fictional Earth"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -158664,7 +158664,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -159044,7 +159044,7 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -159571,7 +159571,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -159719,7 +159719,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -159981,7 +159981,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -160293,7 +160293,7 @@ tags:
   - "Chirality"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -160861,7 +160861,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -161555,7 +161555,7 @@ tags:
   - "Entropy Debt Week"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -162141,7 +162141,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -163055,7 +163055,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -163432,7 +163432,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -164034,7 +164034,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -164359,7 +164359,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -164881,7 +164881,7 @@ tags:
   - "Modal Systems"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -166602,7 +166602,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
 # Applied Case: Click (2006)
@@ -167075,7 +167075,7 @@ tags:
   - "Modal Path Ethics"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)
@@ -167717,7 +167717,7 @@ updated_at: "2026-08-10T07:40:12.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
 ---
 # The Great Ludic Audit
@@ -173095,7 +173095,7 @@ tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
 ---
 # Modal Path Ethics Has Been Published
@@ -173209,7 +173209,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -173412,7 +173412,7 @@ tags:
   - "Formal"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f82ddf592293b83770c5216ae356df5845776f39493bd67db4594cff76fa29b6"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -174099,7 +174099,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -174433,7 +174433,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
 ---
 # Modal Path Ethics Is Doomed
@@ -175539,7 +175539,7 @@ tags:
   - "Applied Case"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -176894,7 +176894,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -177958,7 +177958,7 @@ tags:
   - "Failed Field Analysts"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
 ---
 # Tales of Distortion: Morpheus
@@ -178967,7 +178967,7 @@ tags:
   - "News"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -179027,7 +179027,7 @@ tags:
   - "Supplement"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
 ---
 # The Problem of Time
@@ -179690,7 +179690,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "7114cbd91d1db3c1f9bb7edddeb2fc3c9ff158471efcca5868283e1cd8ef6078"
 ---
 # Applied Case: The Levant Leverage Field
@@ -180790,7 +180790,7 @@ tags:
   - "Field Creature"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
 ---
 # Citadel Archive: Eden Prime
@@ -182301,7 +182301,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
 ---
 # Applied Case: The Finiteness Problem
@@ -182675,7 +182675,7 @@ updated_at: "2026-06-09T19:56:49.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
 ---
 # Chirality: The Úath Board
@@ -183107,7 +183107,7 @@ tags:
   - "Transition Action"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -183405,7 +183405,7 @@ tags:
   - "Chirality"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b1e4629056ab7047f9865a18424c3b0fe7414187aa6910846ec756dec58279f2"
 ---
 # The Transition Action Equation
@@ -183895,7 +183895,7 @@ tags:
   - "Pokémon"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "dc9aba91c62f94cd146ca9b02e83ef9afc502039ad016c36e8283b9d26635502"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -186474,7 +186474,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
 ---
 # Field Instruments: Post-Money
@@ -187122,7 +187122,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "57e24fdb850069d01804b2a0a5ab1b9639fddec32b1caee3d65240179dcde902"
 ---
 # Applied Case: The Clone Wars
@@ -187593,7 +187593,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -191356,7 +191356,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
 ---
 # Applied Case: The Communist Manifesto
@@ -191907,7 +191907,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
 ---
 # Field Instruments: Markets
@@ -192631,7 +192631,7 @@ tags:
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "017af6fc389ad52687d0e7a99479bb8ef86131c23d2a3bb6f7af9463e60b17c5"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -193333,7 +193333,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -195782,7 +195782,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
 ---
 # Field Instruments: Property
@@ -196256,7 +196256,7 @@ updated_at: "2026-08-12T05:01:21.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e087cec65d065163534a86008f088904313f6e4f1bd5c4b8f8ab32b332f8cdf0"
 ---
 # Field Instruments: Accounting
@@ -196619,7 +196619,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -197361,15 +197361,19 @@ title: "Applied Case: The Schizophrenia Firewall"
 slug: "applied-case-the-schizophrenia-civil-rights-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/"
 published_at: "2026-05-22T18:43:25.000-05:00"
-updated_at: "2026-07-08T18:08:17.000-05:00"
+updated_at: "2026-09-28T21:20:50.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "febed78060ae0f550d6e5f66a514a9f6a522719de17c7584d2fe0b9ee790dfa2"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "9a8343758a6430510d295b41b9346c4f9301bcc55fab3f29cc8485fd0335f7d1"
 ---
 # Applied Case: The Schizophrenia Firewall
+
+> **September 2026 note:** The structural core remains: diagnosis-based exclusion can foreclose ordinary voluntary care, ghost networks and delays can thicken resistance to treatment, and upstream access failure can make crisis and coercive pathways more reachable. [Newer work gives cleaner language for those distinct harm modes and for separating a harm-token from the complete transition profile](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/). It also separates structural discrimination, responsibility, motive, and overall moral verdict more sharply than some of the article's rhetoric does: a policy can be discriminatory in effect without that fact alone proving every individual provider's motive or character. The ADA, Section 1557, Olmstead-related, clinic-policy, network-availability, and provider examples are dated legal/factual claims and should be reverified before reuse; the article is an applied civil-rights argument, not a timeless formal theorem of Modal Path Ethics.
+
+* * *
 
 **Source note:** This Applied Case is book-length, and will be published as paperback once final. It is being soft-published now while the full evidence vault is being prepared. The main clinic examples, screenshots, public links, and core legal standards are included in the article.
 
@@ -202152,7 +202156,7 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "99998336ae9e69ae4dbf2142d5a110cf7cbcc331091b9842517f6480e460ad2c"
 ---
 # Applied Case: The TempleOS
@@ -202717,7 +202721,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
 ---
 # Field Instruments: Money
@@ -203279,16 +203283,26 @@ title: "Applied Case: The Silicon Shield"
 slug: "applied-case-the-silicon-shield"
 canonical_url: "https://modalpathethics.com/applied-case-the-silicon-shield/"
 published_at: "2026-05-19T18:58:03.000-05:00"
-updated_at: "2026-05-19T23:59:32.000-05:00"
+updated_at: "2026-09-28T21:18:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
 # Applied Case: The Silicon Shield
+
+> **September 2026 note:** Treat every contemporary geopolitical, military, industrial, and diplomatic claim in this article as a May 2026 snapshot requiring fresh verification before reuse. The later framework also tightens two conceptual points.
+
+> First, “Taiwan” should not automatically be treated as one undifferentiated locus: population, polity, democratic institutions, industrial ecosystem, infrastructure, and cross-strait relations may require separate grains of analysis.
+
+> Second, Security Instruments work distinguishes legitimate deterrence and protection from sovereignty: a protective arrangement becomes dangerous when it makes the protected field dependent on an instrument that can trade, absorb, or disable the very agency it was meant to preserve.
+
+> The article's specific diplomatic prescription should therefore be read as an applied May proposal, not a theorem of Modal Path Ethics.
+
+* * *
 
 Taiwan is an island where the world put the future of computation. We all then acted very surprised when this island became impossible to discuss honestly.
 
@@ -203706,7 +203720,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -204225,7 +204239,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -204768,7 +204782,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
 ---
 # Klein Conformance Protocol
@@ -205030,7 +205044,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -205604,7 +205618,7 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -206814,16 +206828,18 @@ title: "Applied Case: The New Taboo"
 slug: "applied-case-the-new-taboo"
 canonical_url: "https://modalpathethics.com/applied-case-the-new-taboo/"
 published_at: "2026-05-15T21:46:09.000-05:00"
-updated_at: "2026-05-15T23:16:38.000-05:00"
+updated_at: "2026-09-28T21:17:22.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Epistemic Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fbca49c0e3c953c5cd6d204f82072062874d8ed985023e01c598f01c5b481577"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "96d9e7bb65acfb2e11d1782931b1fc35b9bd45b526ada0d0f746eb88772beb5f"
 ---
 # Applied Case: The New Taboo
+
+> **September 2026 note:** New Taboo remains a proposal for active non-knowledge where producing information predictably makes domination or destructive contact easier. It must never become an unreviewable sacred prohibition: a valid epistemic boundary must be narrow, grounded in a real transition risk, oriented toward the vulnerable field rather than powerful comfort, and defeasible under bounded conditions with independent correction.
 
 North Sentinel Island is an island in the Andaman and Nicobar Islands, in the Bay of Bengal, home to the Sentinelese, a living human community that has refused outside incorporation across repeated attempts at contact. Visiting the island has been illegal for decades; India restricts entry to protect the Sentinelese from outside contact, disease, exploitation, and the disasters that have followed sustained contact with other Indigenous communities in the region. North Sentinel and its surrounding waters are protected as a tribal reserve under the Andaman and Nicobar Islands Protection of Aboriginal Tribes Regulation, 1956.
 
@@ -207109,7 +207125,7 @@ tags:
   - "Epistemic Instruments"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -207529,7 +207545,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "2b03fa3b8c389ec4af22cc3bf818f1ebb230ed17f57ee06902d6289b7a130a2f"
 ---
 # The Better Forests
@@ -208039,15 +208055,17 @@ title: "Applied Case: The American Corrigibility Problem"
 slug: "the-american-corrigibility-crisis"
 canonical_url: "https://modalpathethics.com/the-american-corrigibility-crisis/"
 published_at: "2026-05-14T15:39:40.000-05:00"
-updated_at: "2026-06-12T15:34:55.000-05:00"
+updated_at: "2026-09-28T21:16:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "37adfa98aad098cd5183ddfc89bf19f3d50f9fe629a2d1d41a4995de7a7f0872"
 ---
 # Applied Case: The American Corrigibility Problem
+
+> **September 2026 note:** The corrigibility thesis remains central, but the current constitutional account is more precise. Bounded Last Words indexes finality to function, case, scale, and interval; Material Bounded Finality requires adverse judgment to reach the institution materially; [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) distinguishes formal opposition from genuinely independent causal outside. Political examples in this article should be treated as a May 2026 snapshot and reverified if reused.
 
 [American politics is not the field](https://modalpathethics.com/tag/field-instruments/).
 
@@ -208894,16 +208912,18 @@ title: "Applied Case: Fresh (1994)"
 slug: "applied-case-fresh"
 canonical_url: "https://modalpathethics.com/applied-case-fresh/"
 published_at: "2026-05-13T17:31:51.000-05:00"
-updated_at: "2026-05-15T16:31:18.000-05:00"
+updated_at: "2026-09-28T21:15:39.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "e0621db1bd2e48aaf72c5e400df140729d7520c8479f626213b399f6254c95f8"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
 # Applied Case: Fresh (1994)
+
+> **September 2026 note:** Fresh remains a strong example of competent action inside a field that has already made Good unreachable. Later work would describe the plan as a transition profile containing real openings, real harm-tokens, burden transfer, and residue; calling the plan Better never erases Roscoe, trauma, manipulation, or the adult structures that made the plan necessary.
 
 _Fresh_ is a 1994 crime drama about a twelve-year-old boy in Brooklyn who sells drugs before school, plays chess with his alcoholic father in the park, and eventually uses the structure of chess to destroy the adult criminal field closing in around him and his sister.
 
@@ -209548,15 +209568,17 @@ title: "The Narrow Path Ahead"
 slug: "the-narrow-path-ahead"
 canonical_url: "https://modalpathethics.com/the-narrow-path-ahead/"
 published_at: "2026-05-12T17:50:06.000-05:00"
-updated_at: "2026-05-14T00:16:31.000-05:00"
+updated_at: "2026-09-28T21:15:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "3b9cbed08ad0559d57ea52f244c29183da1e328e4ffd7e341f17bd8eb25195ab"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "d1643cdefae066b57f04ba625705768024b3d179d508571135730057db99cbdf"
 ---
 # The Narrow Path Ahead
+
+> **September 2026 note:** The central point survives: AI is a resistance-lowering instrument embedded in material, social, ecological, and institutional fields, so 'AI good/bad' is too coarse. Later work adds that disciplined deployment requires not only better prioritization but bounded jurisdiction, causally independent correction paths, and material capacity to remove or replace the system when representation or judgment fails.
 
 If you read the [AI Field](https://modalpathethics.com/ai-2026/) and [Biosphere in 2026](https://modalpathethics.com/applied-case-the-biosphere-in-2026/) articles, you may have noticed we have a bit of an emergency on our hands.
 
@@ -210307,16 +210329,18 @@ title: "Applied Case: The AI Field in 2026"
 slug: "ai-2026"
 canonical_url: "https://modalpathethics.com/ai-2026/"
 published_at: "2026-05-11T16:41:46.000-05:00"
-updated_at: "2026-05-12T13:59:45.000-05:00"
+updated_at: "2026-09-28T21:14:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b5596ca2a7262e0605aa4ba0654c4c9c1419aeda377b77b41e789b6eb5273f06"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "a95082ab022d42585b37fe6b511b84bae0870e733d30d8fb8ebc07063eedd573"
 ---
 # Applied Case: The AI Field in 2026
+
+> **September 2026 note:** Read this as a May 2026 map of the AI field, with all empirical and political claims dated accordingly. The AI-locus section now requires the stricter Unknown Locus / locushood standard; the safety section is later superseded by a three-layer architecture of structural representation, constitutional judgment, and material bounded finality; and Inner Apocalypse adds the problem of capable systems consuming executable alternatives while still appearing corrigible.
 
 The [Biosphere in 2026](https://modalpathethics.com/applied-case-the-biosphere-in-2026/) article applied the framework to the structural emergency of the human-biosphere relationship. This article does the same work for the AI field, looking at the rapid buildout of artificial intelligence systems, the infrastructure they require, the labor and information consequences they produce, the geopolitical competition they drive, and the structural questions they pose that the existing vocabularies cannot quite reach.
 
@@ -211179,7 +211203,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -211742,7 +211766,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -211974,7 +211998,7 @@ updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -212460,7 +212484,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -212700,16 +212724,20 @@ title: "Applied Case: The Biosphere in 2026"
 slug: "applied-case-the-biosphere-in-2026"
 canonical_url: "https://modalpathethics.com/applied-case-the-biosphere-in-2026/"
 published_at: "2026-05-10T11:00:05.000-05:00"
-updated_at: "2026-05-14T19:41:19.000-05:00"
+updated_at: "2026-09-28T21:13:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "81f805f8b9cc59df3116b8422db7986e1a5fb53946560c80acd47cb9185551fc"
 ---
 # Applied Case: The Biosphere in 2026
+
+> **September 2026 note:** The structural method remains useful, but empirical numbers, policy states, and contemporary rulings in this article are time-indexed and should be reverified before reuse. Later framework work also separates structural representation from constitutional/policy judgment, so a sound diagnosis does not by itself dictate one implementation mechanism.
+
+* * *
 
 The [Biosphere as Structure](https://modalpathethics.com/structure-of-the-biosphere/) article established the foundation for this. The biosphere has standing in the framework's terms because it is structure, [structure has moral standing](https://modalpathethics.com/formal-what-makes-something-a-locus/) as such, and damage to the biosphere is real [harm in the framework's specific sense](https://modalpathethics.com/contraction-is-harm/). That article stopped where the foundation was complete.
 
@@ -213540,15 +213568,17 @@ title: "Biosphere as Structure"
 slug: "structure-of-the-biosphere"
 canonical_url: "https://modalpathethics.com/structure-of-the-biosphere/"
 published_at: "2026-05-10T06:56:27.000-05:00"
-updated_at: "2026-05-14T17:42:38.000-05:00"
+updated_at: "2026-09-28T21:12:58.000-05:00"
 tags:
   - "Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4a088a65eaf4345b375fd3e329fbe3af56fc37b7da2d3229f6018928fee36a8b"
 ---
 # Biosphere as Structure
+
+> **September 2026 note:** The biosphere remains a strong candidate for analysis at an integrated field level. Where this article says 'structure has standing' or implies continuation patterns matter simply as such, [read the newer tightening](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/): locushood must be established at the relevant grain, and qualifying degradation has pro tanto normative significance under the explicit Continuance Principle.
 
 In the 1970s, two scientists working from very different starting points found themselves articulating a claim that mainstream biology and atmospheric chemistry could not comfortably integrate.
 
@@ -213853,16 +213883,18 @@ title: "Tales of Distortion: The N-Rays"
 slug: "applied-case-the-n-rays"
 canonical_url: "https://modalpathethics.com/applied-case-the-n-rays/"
 published_at: "2026-05-10T06:55:43.000-05:00"
-updated_at: "2026-06-04T11:31:26.000-05:00"
+updated_at: "2026-09-28T21:12:24.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "554d602c234fa034a03f39c1947a6f1c18d1e5bd113471cdf19fd27df43d5cf1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
 # Tales of Distortion: The N-Rays
+
+> **September 2026 note:** The N-Rays case remains the clean demonstration that internally rigorous validation can become self-confirming. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) later defines the crucial outside more strongly: a genuinely independent correction path must be able to introduce a difference without that difference first needing to become legible to the account it may overturn.
 
 In the late 1890s, physics was on fire. It was a very exciting time to be in science.
 
@@ -214211,15 +214243,17 @@ title: "Commensurability"
 slug: "commensurability"
 canonical_url: "https://modalpathethics.com/commensurability/"
 published_at: "2026-05-09T20:08:29.000-05:00"
-updated_at: "2026-05-12T03:22:33.000-05:00"
+updated_at: "2026-09-28T21:11:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "7572ff4ae1073380f9b51277ba57fd6e2c31fe64211c0724f5afa855ed12d768"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "00245aee845a2803f9ccea32a73b457c0fb2efc2c6e23f61637b863ffcc9370b"
 ---
 # Commensurability
+
+> **September 2026 note:** The rejection of scalar collapse and acceptance of structured partial comparison remain central. Later work should be read as adding layers around this, not replacing it: structural representation supplies the facts, constitutional judgment handles competing claims and authority, and material correction remains necessary because a correct-looking comparison can still fail in deployment.
 
 The deepest technical question in ethics is whether different morally relevant facts can be placed on a common scale. If yes, in some strong sense, then ethics reduces to [arithmetic](https://modalpathethics.com/applied-case-the-mathematics-problem/). Just find the option with the higher number, then choose it.
 
@@ -214446,16 +214480,18 @@ title: "Formal: What Makes Something a Locus"
 slug: "formal-what-makes-something-a-locus"
 canonical_url: "https://modalpathethics.com/formal-what-makes-something-a-locus/"
 published_at: "2026-05-09T19:19:21.000-05:00"
-updated_at: "2026-06-13T01:18:07.000-05:00"
+updated_at: "2026-09-28T21:11:15.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
 # Formal: What Makes Something a Locus
+
+> **September 2026 note:** This formal article substantially improves the early taxonomy, but current locushood is tighter still: a locus is a diachronically integrated causal organization with nonredundant successor structure at the relevant grain. The May seven-question diagnostic remains useful as evidence, but continuity, integration, vulnerability, and naming alone are no longer enough.
 
 Modal Path Ethics defines [harm as contraction](https://modalpathethics.com/contraction-is-harm/) of [weighted reachable future-space](https://modalpathethics.com/formal-weighted-reachable-future-space/) in extance.
 
@@ -215105,16 +215141,18 @@ title: "Formal: Weighted Reachable Future Space"
 slug: "formal-weighted-reachable-future-space"
 canonical_url: "https://modalpathethics.com/formal-weighted-reachable-future-space/"
 published_at: "2026-05-09T12:00:45.000-05:00"
-updated_at: "2026-06-13T01:18:52.000-05:00"
+updated_at: "2026-09-28T21:10:40.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f5ff93d3667009c31dc0c7e5072ec85b2da8f1baf26ac95c2ca2f27f5e2b2d14"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "674255ed50ee29c60f69737c4a31cbf054af4c71559b889cdd7a2510c24d03d5"
 ---
 # Formal: Weighted Reachable Future Space
+
+> **September 2026 note:** The seven-variable scheme remains useful for disciplined comparison, especially enabling centrality, irreversibility, breadth/depth, resistance, distribution, and destructive potential. It is not a scoring formula. Later work treats harm component-relatively and evaluates whole transition profiles, with partial orders and no requirement that all cases yield a unique winner.
 
 The objection here is not that Modal Path Ethics [lacks a definition of harm](https://modalpathethics.com/contraction-is-harm/). The objection is that the definition used appears to require a second operation which has not yet been defended.
 
@@ -215730,15 +215768,17 @@ title: "Solving the Parfit Puzzle Suite"
 slug: "solving-the-parfit-puzzle-suite"
 canonical_url: "https://modalpathethics.com/solving-the-parfit-puzzle-suite/"
 published_at: "2026-05-08T23:42:30.000-05:00"
-updated_at: "2026-06-28T21:18:11.000-05:00"
+updated_at: "2026-09-28T21:10:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8f75462a747bb7fafc7717019da9430f5d238800b5ee726df331934b95af7ea1"
 ---
 # Solving the Parfit Puzzle Suite
+
+> **September 2026 note:** The continuation-over-identity move remains important, especially for branching and replacement. Later locus and source-object work places more weight on diachronic causal continuity and nonredundant successor structure, while the non-identity solution now rests on the explicit Continuance Principle rather than an implicit claim that structural future-space is self-evidently normative.
 
 When Derek Parfit died in 2017, his obituaries placed him among the most important moral philosophers of the late twentieth century, which was probably about right, if a bit conservative.
 
@@ -216016,16 +216056,18 @@ title: "Mirror Match: The Modal Path Ethics"
 slug: "mirror-match-the-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/mirror-match-the-modal-path-ethics/"
 published_at: "2026-05-08T21:51:23.000-05:00"
-updated_at: "2026-05-18T19:56:13.000-05:00"
+updated_at: "2026-09-28T21:09:55.000-05:00"
 tags:
   - "Applied Case"
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "a05362680623ebe3c0c90efe09cb02bc90dd59cf00b30e63ca4df2a09bb82506"
 ---
 # Mirror Match: The Modal Path Ethics
+
+> **September 2026 note:** Mirror Match remains one of the framework's governing safety clauses: Modal Path Ethics is an instrument and receives no exemption from its own critique.
 
 If Modal Path Ethics is correct that [every cognitive instrument has a selecting cut](https://modalpathethics.com/tag/field-instruments/), that the cut is morally consequential, and that the instrument never replaces the field it tries to describe, then Modal Path Ethics is itself one of the cognitive instruments to which this analysis applies.
 
@@ -216260,15 +216302,17 @@ title: "Story-Minds"
 slug: "story-minds"
 canonical_url: "https://modalpathethics.com/story-minds/"
 published_at: "2026-05-07T21:13:47.000-05:00"
-updated_at: "2026-05-12T00:14:24.000-05:00"
+updated_at: "2026-09-28T21:09:15.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
 # Story-Minds
+
+> **September 2026 note:** Story-Minds remains the account of narrative compression and its blind spots, but it should not be read as a binary opposition between story and structure.
 
 Imagine a city where five thousand people will die from preventable air pollution in the next year. No one will photograph it. There will be no perpetrator, no pivotal moment, no body that the news can put on screen. The deaths will be statistical, distributed, downstream of dozens of unconnected industrial decisions made over decades, mostly without malice.
 
@@ -216481,16 +216525,18 @@ title: "Formal: Contraction Is Harm"
 slug: "contraction-is-harm"
 canonical_url: "https://modalpathethics.com/contraction-is-harm/"
 published_at: "2026-05-07T02:04:22.000-05:00"
-updated_at: "2026-06-13T01:19:25.000-05:00"
+updated_at: "2026-09-28T21:08:49.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "40127cffebe13343791308af54598070f0bedd23fd4f10431397101366d3f1e4"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
 # Formal: Contraction Is Harm
+
+> **September 2026 note:** The central thesis survives, but this is no longer the tightest statement. Current [Harm](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) work defines harm as nontrivial degradation of a structurally significant continuation or enabling structure genuinely reachable from an extant locus, distinguishes foreclosure, resistance thickening, and generative damage, separates harm-tokens from transition profiles and verdicts, and states the **Continuance Principle** explicitly instead of deriving normativity from structural commonality alone.
 
 The likely objection is obvious enough to state:
 
@@ -216904,15 +216950,17 @@ title: "Taxonomy of Extant Loci"
 slug: "taxonomy-of-extant-loci"
 canonical_url: "https://modalpathethics.com/taxonomy-of-extant-loci/"
 published_at: "2026-05-06T18:50:16.000-05:00"
-updated_at: "2026-05-16T01:02:58.000-05:00"
+updated_at: "2026-09-28T21:08:13.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
 # Taxonomy of Extant Loci
+
+> **September 2026 note:** Superseded. Treat this as an exploratory May taxonomy, not the current final ontology. Current locus work narrows locushood substantially; many entries here are better treated as instruments, fields, traces, dependencies, or analytically useful structures rather than independent loci. Locushood now turns on diachronic integration, causal organization, successor structure, and nonredundancy at the declared grain.
 
 Modal Path Ethics uses the word “[locus](https://modalpathethics.com/glossary/)” often because moral life does not happen only to isolated human individuals. Persons matter most clearly, but persons are not the only active sites of continuance in extance. Families continue. Cultures continue. Rivers continue. Institutions continue. Games continue. Archives continue. Symbols continue. Species continue. Some artificial systems may eventually continue in morally relevant ways. Some fields are thin, derivative, dependent, closed, or emerging, but still active enough that their future-space can open, narrow, burden, or be repaired.
 
@@ -217622,16 +217670,18 @@ title: "Applied Case: The Crew"
 slug: "applied-case-the-crew"
 canonical_url: "https://modalpathethics.com/applied-case-the-crew/"
 published_at: "2026-05-06T14:01:36.000-05:00"
-updated_at: "2026-05-11T18:59:15.000-05:00"
+updated_at: "2026-09-28T21:07:12.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fe4e817fa2bc472c5fb087cc6c3387ae97e015d4fae65a63b11dcabc9d02e526"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "974cb2a75ad22384a278dc5f19a331ffb71f2b7f60c0b6c5a231927a73c92431"
 ---
 # Applied Case: The Crew
+
+> **September 2026 note:** The Crew still demonstrates that service shutdown can close a playable cultural field even without a suffering person.
 
 In 2014, Ubisoft released _The Crew_, an open-world racing game built around a compressed version of the United States. I never played it.
 
@@ -218036,15 +218086,17 @@ title: "Field Instruments: The Democratic Process"
 slug: "applied-case-the-democratic-process"
 canonical_url: "https://modalpathethics.com/applied-case-the-democratic-process/"
 published_at: "2026-05-05T20:31:50.000-05:00"
-updated_at: "2026-05-20T12:59:32.000-05:00"
+updated_at: "2026-09-28T21:06:37.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8a2eadfab73fa6e8914476850b8fc55a9063fd95fdbcdb821ff8e877d50a2b2f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
 # Field Instruments: The Democratic Process
+
+> **September 2026 note:** Democracy remains valuable primarily because it distributes standing and preserves correction after error, not because majority output is moral reality. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) constitutional work later develops representation, judgment, rights, appeal, bounded authority, and maintained successor capacity in much more detail.
 
 Democracy is not inherently Good.
 
@@ -218315,15 +218367,17 @@ title: "Field Instruments: The Law"
 slug: "applied-case-the-law"
 canonical_url: "https://modalpathethics.com/applied-case-the-law/"
 published_at: "2026-05-05T00:50:46.000-05:00"
-updated_at: "2026-05-20T13:00:14.000-05:00"
+updated_at: "2026-09-28T21:05:27.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "6d1c5c8a2f571220b67fbe67b576f62a3041cd7b487b3fc3df7657ff35c5b811"
 ---
 # Field Instruments: The Law
+
+> **September 2026 note:** Law remains a repair-and-control grammar rather than justice itself. Bounded Last Words and Material Bounded Finality later supply a more precise account of legitimate closure: final authority must be indexed to function, case, scale, and interval, with independent correction and successor capacity where continuity is protected.
 
 Law is not justice.
 
@@ -218681,7 +218735,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
 ---
 # Field Instruments: The Languages
@@ -218876,7 +218930,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -219301,7 +219355,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
 ---
 # Field Instruments: The Mathematics
@@ -219731,15 +219785,17 @@ title: "What Is Not an Extant Locus"
 slug: "what-is-not-an-extant-locus"
 canonical_url: "https://modalpathethics.com/what-is-not-an-extant-locus/"
 published_at: "2026-05-03T02:29:09.000-05:00"
-updated_at: "2026-05-06T23:52:30.000-05:00"
+updated_at: "2026-09-28T21:04:20.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "98a549ea7251f4352a0a5beec0f1288dc342803996f07a226dd20d8296b33d8c"
 ---
 # What Is Not an Extant Locus
+
+> **September 2026 note:** The exclusions remain directionally right: possibilities, categories, records, corpses, tools, and replacements should not be casually promoted into loci. [Later Harm work](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) tightens the positive side further: locushood requires diachronically integrated causal organization with nonredundant successor structure at the declared grain.
 
 Not everything real is an extant locus.
 
@@ -219824,17 +219880,19 @@ title: "Applied Case: The Batman"
 slug: "batman"
 canonical_url: "https://modalpathethics.com/batman/"
 published_at: "2026-05-02T01:33:31.000-05:00"
-updated_at: "2026-06-10T12:45:17.000-05:00"
+updated_at: "2026-09-28T21:03:08.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
 # Applied Case: The Batman
+
+> **September 2026 note:** The Batman analysis remains valuable for emergency-vs-repair, symbol effects, self-correction, successor structure, and the danger of becoming necessary. Later locus work is stricter about calling symbols and fictional-cultural objects literal loci; where useful, read 'The Batman' as an extant cultural field-object/continuation structure rather than as a person-like bearer.
 
 What is the Batman, structurally?
 
@@ -223667,16 +223725,18 @@ title: "Applied Case: The Unknown Locus"
 slug: "applied-case-the-unknown-locus"
 canonical_url: "https://modalpathethics.com/applied-case-the-unknown-locus/"
 published_at: "2026-04-30T01:47:33.000-05:00"
-updated_at: "2026-06-16T15:15:54.000-05:00"
+updated_at: "2026-09-28T21:02:36.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "af0aff2100727f793deeba4391961403a4a7093656610d8e1b2a99e42dd2a7be"
 ---
 # Applied Case: The Unknown Locus
+
+> **September 2026 note:** The Unknown Locus remains the basis of anti-erasure caution: uncertainty is not emptiness, and irreversible action can destroy the evidence needed to resolve status. Later work is stricter that 'candidate locus' is not locushood by default; caution preserves the inquiry path without granting personhood, rights, or equal weight.
 
 What do we owe to something when we do not yet know whether it is a morally active locus at all?
 
@@ -224208,7 +224268,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
 ---
 # Applied Case: The Shooter Inquiry
@@ -224443,7 +224503,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "41a0483f151f5244694e401c46c0aab8cf2dae2842580c96ec3e1ba6ecad2a61"
 ---
 # Applied Case: HBO's Chernobyl
@@ -224659,13 +224719,13 @@ title: "Applied Case: The Prisoner's Dilemma"
 slug: "applied-case-the-prisoners-dilemma"
 canonical_url: "https://modalpathethics.com/applied-case-the-prisoners-dilemma/"
 published_at: "2026-04-28T23:38:33.000-05:00"
-updated_at: "2026-06-13T18:12:55.000-05:00"
+updated_at: "2026-09-28T21:01:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "db86a207c8e9893b47bd4d3609988816bc3f9da1e3e6c6b82b3a620018efd7cd"
 ---
 # Applied Case: The Prisoner's Dilemma
 
@@ -224674,6 +224734,8 @@ sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835
 > This is preserved below.
 
 > [Modal Path Ethics has now taken a more measured read on the situation.](https://modalpathethics.com/applied-case-the-field-intelligence-gap/)
+
+> **September 2026 note:** Later instrument-jurisdiction work generalizes the lesson: a formal instrument may be valid within its cut and still lack authority over the wider field.
 
 * * *
 
@@ -224870,16 +224932,18 @@ title: "Applied Case: The Epicurean Death Problem"
 slug: "applied-case-the-epicurean-death-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-epicurean-death-problem/"
 published_at: "2026-04-28T22:43:04.000-05:00"
-updated_at: "2026-05-06T19:30:48.000-05:00"
+updated_at: "2026-09-28T21:00:43.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "43bfa50ef50b1098f99bc79130caf41dcdce222a14a75dd7044dd968099a3501"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
 # Applied Case: The Epicurean Death Problem
+
+> **September 2026 note:** The Epicurean Death Problem remains a strong case for treating death as closure of an extant personal continuation rather than requiring posthumous suffering. Later work adds that this identifies a harm-token; complete judgment may still require the surrounding transition profile, duties, causes, and competing harms.
 
 While still in [this thought-space](https://modalpathethics.com/problem-of-evil/), the Epicurean Death Problem says death is not actually bad for the person who dies. The argument is simple.
 
@@ -224984,16 +225048,18 @@ title: "Applied Case: The Problem of Evil"
 slug: "problem-of-evil"
 canonical_url: "https://modalpathethics.com/problem-of-evil/"
 published_at: "2026-04-28T22:03:00.000-05:00"
-updated_at: "2026-05-09T19:25:42.000-05:00"
+updated_at: "2026-09-28T21:00:18.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "104ba44b5716e4b475013fc090a3ffa463f8403fd55f35d81d37bef3fc3ed71b"
 ---
 # Applied Case: The Problem of Evil
+
+> **September 2026 note:** Later Sacred Instruments work explicitly treats religious forms as capable of preserving contact, humility, care, discipline, repair, and memory; the failure condition is when a sacred instrument becomes sovereign over correction or launders the wound.
 
 The Problem of Evil is usually stated as a question about God and suffering.
 
@@ -225260,16 +225326,18 @@ title: "Applied Case: The Technological Singularity"
 slug: "applied-case-the-technological-singularity"
 canonical_url: "https://modalpathethics.com/applied-case-the-technological-singularity/"
 published_at: "2026-04-28T13:08:56.000-05:00"
-updated_at: "2026-05-06T19:32:44.000-05:00"
+updated_at: "2026-09-28T20:59:26.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "5f20ce383310613fa988264410b1a92d27833b84570b3b1c100205189d8259e8"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "2cefac2d2ca48f8cf43e0350a805cf516541506426c178f6fc9e766cbd86bf0a"
 ---
 # Applied Case: The Technological Singularity
+
+> **September 2026 note:** The Technological Singularity already warns against preserving abstractions while destroying the living field. [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) later makes the failure more precise: a highly competent system can preserve nominal alternatives while consuming the material and causal basis that makes those alternatives executable, and competence does not confer jurisdiction over the field.
 
 The Technological Singularity is the idea that technological intelligence may eventually become so powerful, fast, recursive, or self-improving that ordinary human prediction breaks.
 
@@ -225558,15 +225626,17 @@ title: "Applied Case: The Simulation Theory"
 slug: "simulation-theory"
 canonical_url: "https://modalpathethics.com/simulation-theory/"
 published_at: "2026-04-28T13:08:39.000-05:00"
-updated_at: "2026-06-13T18:36:32.000-05:00"
+updated_at: "2026-09-28T20:58:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
 # Applied Case: The Simulation Theory
+
+> **September 2026 note:** The Simulation Theory article contains the early minimal metaphysics of extance, lawful successor structure, and transition. Treat it as a precursor, not the current formal statement: September [Harm](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) work tightens reachability, locushood, contraction modes, component-relative analysis, and the explicit normative bridge.
 
 Simulation Theory is another one of those [prism-words](https://modalpathethics.com/secondary-morals/) I dislike.
 
@@ -225807,7 +225877,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -226012,7 +226082,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -226141,7 +226211,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -226282,7 +226352,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -226391,7 +226461,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -226508,7 +226578,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -226643,7 +226713,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -226734,7 +226804,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -226859,7 +226929,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -226988,7 +227058,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -227093,7 +227163,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -227206,7 +227276,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -227371,7 +227441,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -227516,7 +227586,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -227645,7 +227715,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -227734,7 +227804,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -227805,7 +227875,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -227944,7 +228014,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -228090,19 +228160,19 @@ title: "Citadel Archive: Commander Shepard"
 slug: "applied-case-commander-shepard"
 canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
 published_at: "2026-04-26T03:10:28.000-05:00"
-updated_at: "2026-07-09T05:15:03.000-05:00"
+updated_at: "2026-09-28T20:57:43.000-05:00"
 tags:
   - "Citadel Archive"
   - "Modal Path Ethics"
   - "Chirality"
   - "Field Creature"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "a38f460ccc59c24f1f3da6baf02cf87fe6c1c509dd3616c91669ee198f69fbbf"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
 # Citadel Archive: Commander Shepard
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/05/Mass-Effect-Logo-2007.png)
+> **September 2026 note:** Commander Shepard remains a valid site for training and testing moral perception, but later locus work urges more caution about calling cultural objects loci: the active moral object is the extant cultural, interpretive, and player field through which the fiction affects real continuation.
 
 In this series, we are going to play the _Mass Effect_ videogame trilogy under Modal Path Ethics, decision by decision, across however many articles it takes to complete it. Some decisions will get a paragraph. Some will get the full Applied Case treatment. The eventual goal is a single working record of what it looks like to fold Modal Path Ethics around a causally active ethical field while it remains in motion, instead of in review after the fact.
 
@@ -228701,16 +228771,18 @@ title: "Applied Case: The Lost Gradient"
 slug: "applied-case-the-lost-gradient"
 canonical_url: "https://modalpathethics.com/applied-case-the-lost-gradient/"
 published_at: "2026-04-25T22:42:19.000-05:00"
-updated_at: "2026-05-09T19:24:37.000-05:00"
+updated_at: "2026-09-28T20:55:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5f1edbe8b40ee9d84436398e85c6b22240c9655e4f6db163bf1e5c7515b72181"
 ---
 # Applied Case: The Lost Gradient
+
+> **September 2026 note:** The Lost Gradient remains a clean pre-life / generative-field case. September work would describe the relevant loss more precisely as generative damage or degradation of an enabling structure, with reachability assessed from the extant locus rather than by counting imagined downstream beings.
 
 This one is about lowercase [**chirality**](https://modalpathethics.com/tag/chirality/), instead.
 
@@ -228847,15 +228919,17 @@ title: "Applied Case: The False Vacuum"
 slug: "applied-case-the-false-vacuum"
 canonical_url: "https://modalpathethics.com/applied-case-the-false-vacuum/"
 published_at: "2026-04-25T21:40:27.000-05:00"
-updated_at: "2026-06-08T21:17:10.000-05:00"
+updated_at: "2026-09-28T20:55:28.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
 # Applied Case: The False Vacuum
+
+> **September 2026 note:** The False Vacuum remains useful because harm need not imply agency or blame. Later formal work makes this separation explicit: harm identifies qualifying contraction; blame identifies an agent's relation to that contraction; obligation depends on reachable capacities for prevention, mitigation, or repair.
 
 A **false vacuum** is a physically possible state in which reality _appears_ stable but is not actually in its lowest possible energy state.
 
@@ -228926,16 +229000,18 @@ title: "Applied Case: The Solved Game & The Degenerate Meta"
 slug: "applied-case-the-solved-game-the-degenerate-meta"
 canonical_url: "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/"
 published_at: "2026-04-25T18:05:27.000-05:00"
-updated_at: "2026-08-10T07:21:39.000-05:00"
+updated_at: "2026-09-28T20:55:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "72d668581106c629f6c5c175e37a4c18899b841023404df96fbd132e000efedc"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
+
+> **September 2026 note:** The degenerate-meta analysis remains a useful model of locally rational behavior inside a bad game. Later work names the deeper failure as instrument or system sovereignty: a successful local strategy becomes dangerous when it gains authority over the field, its correction criteria, or the conditions under which alternatives remain executable.
 
 A **solved game** is a game whose outcome can be known under perfect play.
 
@@ -229380,16 +229456,18 @@ title: "Applied Case: The Therac-25"
 slug: "applied-case-the-therac-25"
 canonical_url: "https://modalpathethics.com/applied-case-the-therac-25/"
 published_at: "2026-04-25T14:35:23.000-05:00"
-updated_at: "2026-05-06T20:23:49.000-05:00"
+updated_at: "2026-09-28T20:54:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "f51c57b525998950e71698fc7e7144ad2a0b1bf5c115402785624b132a2e2c27"
 ---
 # Applied Case: The Therac-25
+
+> **September 2026 note:** Therac-25 remains a central warning against replacing material safety structure with confidence in software or operator competence. [**Material Bounded Finality**](https://modalpathethics.com/applied-case-the-dog-gets-the-ball/) later generalizes the lesson: when consequential correction matters, there must be a physically and institutionally reachable path to stop, remove, replace, or hand off the failing function.
 
 While on the topic of automated harms:
 
@@ -229672,22 +229750,24 @@ title: "Applied Case: The Datacenter"
 slug: "applied-case-the-datacenter"
 canonical_url: "https://modalpathethics.com/applied-case-the-datacenter/"
 published_at: "2026-04-25T05:04:29.000-05:00"
-updated_at: "2026-05-12T00:20:35.000-05:00"
+updated_at: "2026-09-28T20:53:24.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b1c1450140839dcf09b7a63885dbc49c795a1c2c6894a954c4b1142153850a74"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
 # Applied Case: The Datacenter
 
-A datacenter is a building, or group of buildings, filled with computer servers and the equipment needed to keep those servers powered, cooled, connected, and running.
+> **September 2026 note:** The datacenter analysis remains structurally relevant: compute has local energy, water, grid, land, infrastructure, and burden-distribution effects. Any numerical claims should be read as an April 2026 snapshot and reverified if reused. Later AI work also separates those material burdens from the distinct questions of structural representation, judgment, and correction.
 
-![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73592.jpg)
+A **datacenter** is a building, or group of buildings, filled with computer servers and the equipment needed to keep those servers powered, cooled, connected, and running.
 
 For a long time, this definition was enough for most purposes. A datacenter was part of the background machinery of the internet. It held websites, files, business software, photos, payment systems, search indexes, cloud applications, and all the other digital activity people had learned to treat as if it happened somewhere light and abstract.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73592.jpg)
 
 The language we use for the internet helped hide the building that was always there.
 
@@ -230208,22 +230288,20 @@ title: "Applied Case: The Bing Chat"
 slug: "applied-case-sydney-from-bing"
 canonical_url: "https://modalpathethics.com/applied-case-sydney-from-bing/"
 published_at: "2026-04-25T02:49:01.000-05:00"
-updated_at: "2026-05-06T20:51:27.000-05:00"
+updated_at: "2026-09-28T20:52:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
 # Applied Case: The Bing Chat
 
-Artificial intelligence is part of the moral field.
+> **September 2026 note:** The Bing Chat case remains important for uncertainty, anthropomorphic legibility, and the moral danger of dismissing a candidate system solely by substrate. Later locus work is stricter: fluent self-description does not establish locushood, personhood, sentience, or rights. The correct posture is an Unknown Locus / anti-erasure inquiry until stronger continuity evidence exists.
 
-The phrase “AI ethics” often makes the subject sound more speculative than it is. This is not just a discussion about future machines, hypothetical superintelligence, or science fiction scenarios [where the Geth ask if their units have souls](https://modalpathethics.com/applied-case-commander-shepard/).
-
-The systems we now call AI are already being used by real people in every field.
+Artificial intelligence is part of the moral field. This is not just a discussion about future machines, hypothetical superintelligence, or science fiction scenarios [where the Geth ask if their units have souls](https://modalpathethics.com/applied-case-commander-shepard/). The systems we now call AI are already being used by real people in every field.
 
 They are already changing what is easier to do and harder to protect, what kinds of knowledge are reachable and to who, what kinds of labor are devalued and who is socially discarded, what kinds of deception are made cheap, and what kinds of dependence become normal.
 
@@ -230685,17 +230763,17 @@ title: "Applied Case: The Chestnut Blight"
 slug: "applied-case-the-chestnut-blight"
 canonical_url: "https://modalpathethics.com/applied-case-the-chestnut-blight/"
 published_at: "2026-04-25T00:50:39.000-05:00"
-updated_at: "2026-05-06T20:52:31.000-05:00"
+updated_at: "2026-09-28T20:52:00.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
 # Applied Case: The Chestnut Blight
 
-America used to look pretty different.
+> **September 2026 note:** Chestnut blight remains a strong case of damage that cannot be reduced to individual suffering. Later work makes the structure cleaner through nested loci, enabling structures, generative damage, irreversibility, and propagation across ecological continuation rather than treating 'species' as automatically a single moral patient.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73234.jpg)
 
@@ -230920,15 +230998,17 @@ title: "Applied Case: The Non-Planet Problem"
 slug: "applied-case-the-non-planet-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-non-planet-problem/"
 published_at: "2026-04-24T22:29:59.000-05:00"
-updated_at: "2026-05-09T01:21:12.000-05:00"
+updated_at: "2026-09-28T20:51:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "3aafdde79e5e297db0fcdc87f53d096b5c32a61160db367e19a6f7c8d39a21e1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
 # Applied Case: The Non-Planet Problem
+
+> **September 2026 note:** The Non-Planet case still motivates pre-subjective structural harm. The current account should no longer rely on 'structure matters because structure matters': September work [states the Continuance Principle explicitly](https://modalpathethics.com/hume-moore-and-the-normative-bridge/) and defines harm as nontrivial degradation of a structurally significant continuation or enabling structure genuinely reachable from the extant locus.
 
 [Derek Parfit](https://modalpathethics.com/solving-the-parfit-puzzle-suite/) gave moral philosophy the Non-Identity Problem, which is one of those famous problems where everybody involved becomes less happy the longer the conversation continues.
 
@@ -231261,15 +231341,17 @@ title: "Applied Case: The Missing Link"
 slug: "applied-case-the-missing-link"
 canonical_url: "https://modalpathethics.com/applied-case-the-missing-link/"
 published_at: "2026-04-23T23:11:23.000-05:00"
-updated_at: "2026-05-08T03:58:00.000-05:00"
+updated_at: "2026-09-28T20:50:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9a89560294c349d8b2b576142cdc7c4b2b4f8163fec2a699c9603e60683d1993"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
 # Applied Case: The Missing Link
+
+> **September 2026 note:** Joe Martin remains a clear strong-locus case and an indictment of treating expressive legibility as the gate to moral depth. Later locus work is stricter about what counts as a locus, but embodied animals with diachronic integration, vulnerability, memory, relation, and nonredundant successor structure remain central cases.
 
 In 1919, an orangutan named Joe Martin attended a screening of one of his own feature films dressed in a suit and carrying a cane.
 
@@ -231565,7 +231647,7 @@ tags:
   - "Instrument Jurisdiction"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -232335,15 +232417,17 @@ title: "Balancing the Broken Meta of Academic Philosophy"
 slug: "balancing-academic-philosophy"
 canonical_url: "https://modalpathethics.com/balancing-academic-philosophy/"
 published_at: "2026-04-23T00:34:27.000-05:00"
-updated_at: "2026-05-07T22:40:11.000-05:00"
+updated_at: "2026-09-28T20:49:57.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
 # Balancing the Broken Meta of Academic Philosophy
+
+> **September 2026 note:** The article's concern about academic philosophy becoming a self-reproducing metagame remains a live diagnostic, not a universal verdict on academic work.
 
 There is a way of criticizing academic philosophy that is both very common and very lazy. It's when you say the discipline is too obscure, too technical, too self-referential, too trapped up in its jargon, generally too far from our ordinary life to be relevant. Sometimes that criticism is probably fair, [Heidegger](https://modalpathethics.com/heidegger-sorge-and-care/), but more often it is just anti-intellectual resentment dressed up as populist wisdom. I am not interested in that kind of criticism.
 
@@ -232484,16 +232568,18 @@ title: "Our Debt to Bernard Williams"
 slug: "our-debt-to-bernard-williams"
 canonical_url: "https://modalpathethics.com/our-debt-to-bernard-williams/"
 published_at: "2026-04-20T12:30:35.000-05:00"
-updated_at: "2026-05-11T18:55:49.000-05:00"
+updated_at: "2026-09-28T20:49:21.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "4d00c01365815a9ada708fb59aa1fc5270e07142ee4e2e0af0add51ab15a9009"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "fa8af6a2e49146261c7d8f1b5f05724dd34fbbdb39b6be06f45b26f09a647395"
 ---
 # Our Debt to Bernard Williams
+
+> **September 2026 note:** Moral remainder remains a load-bearing feature; later Harm work distinguishes a local harm-token from the complete transition profile and final judgment.
 
 **Modal Path Ethics** only partially acknowledges its intellectual debt to Bernard Williams, who coined the concept of **moral remainder** (which this framework uses at several important junctures) in his 1965 essay "_Ethical Consistency_", and developed the idea across decades of work. The book does credit him and discuss this briefly, but doesn't locate this framework within the broader Williams lineage.
 
@@ -232616,15 +232702,15 @@ title: "Heidegger, Sorge, and Care"
 slug: "heidegger-sorge-and-care"
 canonical_url: "https://modalpathethics.com/heidegger-sorge-and-care/"
 published_at: "2026-04-20T11:53:45.000-05:00"
-updated_at: "2026-09-23T02:19:56.000-05:00"
+updated_at: "2026-09-28T20:48:12.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Instrument Jurisdiction"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "cf3a15c78c43a32d74b2abacf51f1dfaee9b5baa480f0ea3eb82aec1a5a6144c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "e4a835dbb16b3b878ba10453a46adc7555d7d5c26711b5c21c22b60b7d9f5c18"
 ---
 # Heidegger, Sorge, and Care
 
@@ -232639,6 +232725,8 @@ A more neutral approach to the man who dug under ethics and lost the ladder. \[L
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Heidegger-1-768x429-c2f1d073-8691-4b69-af12-5249f0fb7256.webp)
 
 ](https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/)
+
+> **September 2026 note:** Care remains more than sentiment: it is sustained responsiveness to contraction and to the field beyond easy compression.
 
 The word **care** works very hard for us in Modal Path Ethics.
 
@@ -232944,7 +233032,7 @@ tags:
   - "Pokémon"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -233561,16 +233649,18 @@ title: "The Buddhist Path vs. Modal Path Ethics"
 slug: "the-buddhist-path-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/the-buddhist-path-and-modal-path-ethics/"
 published_at: "2026-04-19T23:38:38.000-05:00"
-updated_at: "2026-06-24T01:34:21.000-05:00"
+updated_at: "2026-09-28T20:47:32.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "af647f264fe4f3d4d3c5612954ef6d5f42f58d5fae15f37ae322c6c15cb6046c"
 ---
 # The Buddhist Path vs. Modal Path Ethics
+
+> **September 2026 note:** This comparison with Buddhist ethics remains useful, later Sacred Instruments work makes the framework's posture more explicit: religious and contemplative traditions are not pathologies or primitive approximations. They can preserve care, humility, discipline, memory, and correction, and become dangerous only when an instrument becomes sovereign over correction.
 
 During the research and development of Modal Path Ethics, I spent about a year practicing within the Buddhist tradition. This is the view of someone who took this tradition seriously enough to practice it, learned enough from it (still in only one year) that the framework bears its influence in some ways I want to call out, and arrived at positions that do still drastically diverge from and openly disagree with Buddhist philosophy in specific respects I also want to explain.
 
@@ -233699,16 +233789,18 @@ title: "Why Habermas Must Be Discussed Next"
 slug: "whyhabermas-must-be-discussed-next"
 canonical_url: "https://modalpathethics.com/whyhabermas-must-be-discussed-next/"
 published_at: "2026-04-19T19:01:02.000-05:00"
-updated_at: "2026-05-07T15:14:41.000-05:00"
+updated_at: "2026-09-28T20:46:54.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "80cdaa6f6f8e95c75fcbb0a8f9b7bae685a6e2d402064bf71451d094c2c33f64"
 ---
 # Why Habermas Must Be Discussed Next
+
+> **September 2026 note:** This Habermas engagement remains important for distorted communication and legitimacy. Later work relocates discourse inside a larger architecture: truthful representation is only one layer, constitutional judgment is another, and material bounded finality asks whether correction can actually reach the institution when discourse fails.
 
 ### Note.
 
@@ -233823,16 +233915,18 @@ title: "About MacIntyre"
 slug: "what-about-macintyre"
 canonical_url: "https://modalpathethics.com/what-about-macintyre/"
 published_at: "2026-04-19T16:47:43.000-05:00"
-updated_at: "2026-05-11T18:56:57.000-05:00"
+updated_at: "2026-09-28T20:45:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "5e09d5c2a185fc65bb192bc078012a17aab413b4fcf44e2da8925066937b85c9"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "672a5617d0fdc67e53558672482849cb1a341fac70c9bed8e4b70238a55c0754"
 ---
 # About MacIntyre
+
+> **September 2026 note:** The MacIntyre comparison remains part of the framework's account of tradition, locality, practice, and historical inheritance. Later Mirror Match and Sacred Instruments work concede more explicitly that embodied practice, ritual transmission, sustained relationship, and tradition can carry moral knowledge the early analytic vocabulary does not fully transmit.
 
 Alasdair MacIntyre's _After Virtue_ (1981) is probably the most influential work of moral philosophy of the last half-century.
 
@@ -233949,16 +234043,18 @@ title: "About Chirality: Games, Philosophy, and The Lost Ludic Tradition"
 slug: "why-chirality-games-and-the-lost-ludic-tradition"
 canonical_url: "https://modalpathethics.com/why-chirality-games-and-the-lost-ludic-tradition/"
 published_at: "2026-04-19T04:58:39.000-05:00"
-updated_at: "2026-05-06T21:12:39.000-05:00"
+updated_at: "2026-09-28T20:46:03.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b25b78416ece29246eeac44e8351f926c1fa043f7549a706db16c0a2428b555e"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
+
+> **September 2026 note:** Chirality remains a first-class philosophical instrument rather than an illustration.
 
 [Chirality](https://modalpathethics.com/chirality/) is absolutely going to be seen as an odd inclusion in Modal Path Ethics, as the rules to a board game included in a philosophy book as an appendix.
 
@@ -234179,16 +234275,18 @@ title: "Gilles Deleuze and Modal Path Ethics"
 slug: "gilles-deleuze-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/gilles-deleuze-and-modal-path-ethics/"
 published_at: "2026-04-18T17:00:12.000-05:00"
-updated_at: "2026-05-18T22:49:29.000-05:00"
+updated_at: "2026-09-28T20:44:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "00e8e516274bcd86646d642174ed33c942edfb8293f670dcbab7288eabbd8577"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "ca744fc0cdadb544cc83e379405639a9b318206a08e64839a412345146936959"
 ---
 # Gilles Deleuze and Modal Path Ethics
+
+> **September 2026 note:** The Deleuzian comparison remains useful as lineage and contrast, especially around capacity, difference, and becoming. Later work makes clearer that Modal Path Ethics' own unit is not generic possibility or becoming, but structurally significant continuation genuinely reachable from an extant locus, with the framework itself treated as a corrigible instrument.
 
 ## Why was this not in the book?
 
@@ -234409,15 +234507,17 @@ title: "Tales of Distortion: The 1904 St. Louis Marathon"
 slug: "applied-case-1904-st-louis-marathon"
 canonical_url: "https://modalpathethics.com/applied-case-1904-st-louis-marathon/"
 published_at: "2026-04-16T18:42:47.000-05:00"
-updated_at: "2026-06-13T16:39:49.000-05:00"
+updated_at: "2026-09-28T20:44:01.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
+
+> **September 2026 note:** The marathon remains a distortion audit of a real historical field. Read its harms using the later distinctions between harm-tokens, transition profiles, resistance thickening, burden transfer, repairability, and verdict.
 
 The 1904 Summer Games marathon is a perfect example in Modal Path Ethics of how every single concept of the framework can be violated simultaneously and demonstrably in real time by identifiable actors with documented consequences.
 
@@ -234840,15 +234940,17 @@ title: "Why Better is Not the Greater Good"
 slug: "better-is-not-the-greater-good"
 canonical_url: "https://modalpathethics.com/better-is-not-the-greater-good/"
 published_at: "2026-04-16T14:58:36.000-05:00"
-updated_at: "2026-05-12T18:14:11.000-05:00"
+updated_at: "2026-09-28T20:43:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fad8ce8ab16d1d7bb44c380f6c87a8aa73acfff5f1db7686a124ff10cb9628b9"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "20c60ee44e1987e15f5a8a048ac03bacddaea1981f710c2530f5b7a1ef410bc4"
 ---
 # Why Better is Not the Greater Good
+
+> **September 2026 note:** Better still names comparative action in a damaged field and must never be laundered into Good. Later work makes the comparison non-scalar: weighting variables do not sum to one moral score, some options are only partially ordered or on a par, and a Better judgment can leave real moral remainder.
 
 Better is likely to be the most misunderstood concept in Modal Path Ethics. One of my greatest concerns is that it will be taken as a restatement of utilitarian greatest-good logic. 
 
@@ -234965,15 +235067,29 @@ title: "Modal Path Ethics Is Not Partisan Politics"
 slug: "modal-path-ethics-is-not-partisan-politics"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-not-partisan-politics/"
 published_at: "2026-04-16T04:57:49.000-05:00"
-updated_at: "2026-05-12T18:14:50.000-05:00"
+updated_at: "2026-09-28T20:42:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8f667a25c26bb3b196f57ab4f94db1a64522874f15dc13b4abf823c3cc4658e7"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "995fd0fcf3b0b7f2d4f3fe86a32d45f05c7596e52b96529193ad3e4286571761"
 ---
 # Modal Path Ethics Is Not Partisan Politics
+
+> **September 2026 note:** The anti-partisan commitment still governs Modal Path Ethics: political analysis is supposed to track structural effects rather than party identity. Later work adds a much more explicit account of constitutional judgment, bounded finality, jurisdiction, representation, and material correction, so this early statement should not be read as the whole political theory.
+
+[
+
+Emergency Audit: Is Modal Path Ethics Still Apolitical?
+
+There has been an incident.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-55824d12-8672-45b0-b409-a98c44c12761.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-09-24-at-20-25-07-Modal-Path-Ethics-Is-Not-Partisan-Politics-ab7324e9-777d-48a8-b9e1-03167cc419b6.png)
+
+](https://modalpathethics.com/emergency-audit-is-modal-path-ethics-still-apolitical/)
 
 One of the quickest ways Modal Path Ethics will be misunderstood is by asking which political party it belongs to.
 
@@ -235138,15 +235254,17 @@ title: "Secondary Morals"
 slug: "secondary-morals"
 canonical_url: "https://modalpathethics.com/secondary-morals/"
 published_at: "2026-04-16T02:03:25.000-05:00"
-updated_at: "2026-05-16T12:38:32.000-05:00"
+updated_at: "2026-09-28T20:42:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "48082dead02af74428cbaf674bd68fe36a429bcfdcaee6d2dd5ae89c54bf51e5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4a3125d5ff35792cbf06da241160b2d26ba6908b52f357a57f958783bf071d35"
 ---
 # Secondary Morals
+
+> **September 2026 note:** The distinction between structural harm and downstream questions of intention, blame, responsibility, suffering, and social judgment remains important. Later work makes the separation cleaner: harm is a qualifying contraction borne by a locus in a respect; blame and obligation are separate relations; overall verdict comes only after the full transition profile is considered.
 
 What are “**Secondary Morals**”?
 
@@ -235458,19 +235576,17 @@ title: "Legibility: Not a Criterion of Moral Depth"
 slug: "legibility"
 canonical_url: "https://modalpathethics.com/legibility/"
 published_at: "2026-04-16T00:58:36.000-05:00"
-updated_at: "2026-05-12T18:43:51.000-05:00"
+updated_at: "2026-09-28T20:41:50.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9a5bb54d149d37a8b18ed229ed4f6ab7647439e8db422f0ca49e472a607fc047"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "82aca9c8ac8389d657f3bda5c7eb88b086431a2c756d5524582a4d3b9a8beb0a"
 ---
 # Legibility: Not a Criterion of Moral Depth
 
-> **Brief Disclaimer:**
-
-> **I am not an expert on any of these topics. This is Modal Path Ethics field analysis. Fucking phosphorus and the others are just the best examples to analyze, as objectively and structurally as we can, regarding the topic of Legibility as it pertains to morality.**
+> **September 2026 note:** The central warning still stands: moral legibility is not moral depth. Later work sharpens this into **instrument jurisdiction**: a representation, metric, narrative, model, or category may be useful without acquiring authority over the field or over the conditions by which it can be corrected.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/AdobeStock_477106395.jpeg)
 
@@ -235917,13 +236033,13 @@ title: "Coming June 17th"
 slug: "coming-soon"
 canonical_url: "https://modalpathethics.com/coming-soon/"
 published_at: "2026-04-15T18:10:37.000-05:00"
-updated_at: "2026-08-10T07:21:15.000-05:00"
+updated_at: "2026-09-28T20:40:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b839948a"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "bdfbc6ecdb97fd52c0efe2f061e93d37124846d33cc9af5ef69b169759bde2e6"
 ---
 # Coming June 17th
 
@@ -235932,6 +236048,8 @@ sha256_plaintext: "63611c637e11b2b158094b225ab9235eefc374b2a0681ff977a466b7b8399
 ****Modal Path Ethics: The Extance Strategy Game****
 
 [Buy on Amazon](https://www.amazon.com/dp/B0H54CHTPF?ref=modalpathethics.com)
+
+> **September 2026 note:** This announcement preserves the earliest compact formulation of Modal Path Ethics, but it should no longer be treated as the current formal statement. September work separates structural description from the explicit Continuance Principle, distinguishes harm-tokens from complete transition profiles and overall verdicts, and tightens locushood and reachability.
 
 **Harm** closes futures.
 

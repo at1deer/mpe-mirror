@@ -3,15 +3,17 @@ title: "Biosphere as Structure"
 slug: "structure-of-the-biosphere"
 canonical_url: "https://modalpathethics.com/structure-of-the-biosphere/"
 published_at: "2026-05-10T06:56:27.000-05:00"
-updated_at: "2026-05-14T17:42:38.000-05:00"
+updated_at: "2026-09-28T21:12:58.000-05:00"
 tags:
   - "Biosphere"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9be1b9d6cff31e7187720e05b218c738f4f984f46430bf3c8a1feb5a0e1fdd09"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4a088a65eaf4345b375fd3e329fbe3af56fc37b7da2d3229f6018928fee36a8b"
 ---
 # Biosphere as Structure
+
+> **September 2026 note:** The biosphere remains a strong candidate for analysis at an integrated field level. Where this article says 'structure has standing' or implies continuation patterns matter simply as such, [read the newer tightening](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/): locushood must be established at the relevant grain, and qualifying degradation has pro tanto normative significance under the explicit Continuance Principle.
 
 In the 1970s, two scientists working from very different starting points found themselves articulating a claim that mainstream biology and atmospheric chemistry could not comfortably integrate.
 

@@ -3,15 +3,17 @@ title: "Story-Minds"
 slug: "story-minds"
 canonical_url: "https://modalpathethics.com/story-minds/"
 published_at: "2026-05-07T21:13:47.000-05:00"
-updated_at: "2026-05-12T00:14:24.000-05:00"
+updated_at: "2026-09-28T21:09:15.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "83a54e20efb92e236c76e1ed59c21e86f9ef4eb89980a0e57096966a59b798d6"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
 # Story-Minds
+
+> **September 2026 note:** Story-Minds remains the account of narrative compression and its blind spots, but it should not be read as a binary opposition between story and structure.
 
 Imagine a city where five thousand people will die from preventable air pollution in the next year. No one will photograph it. There will be no perpetrator, no pivotal moment, no body that the news can put on screen. The deaths will be statistical, distributed, downstream of dozens of unconnected industrial decisions made over decades, mostly without malice.
 

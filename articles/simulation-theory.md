@@ -3,15 +3,17 @@ title: "Applied Case: The Simulation Theory"
 slug: "simulation-theory"
 canonical_url: "https://modalpathethics.com/simulation-theory/"
 published_at: "2026-04-28T13:08:39.000-05:00"
-updated_at: "2026-06-13T18:36:32.000-05:00"
+updated_at: "2026-09-28T20:58:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "d4f11d9a2b186dd4ed7feee366fe1275286052832d35342804a9808f9c95ee4f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
 # Applied Case: The Simulation Theory
+
+> **September 2026 note:** The Simulation Theory article contains the early minimal metaphysics of extance, lawful successor structure, and transition. Treat it as a precursor, not the current formal statement: September [Harm](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) work tightens reachability, locushood, contraction modes, component-relative analysis, and the explicit normative bridge.
 
 Simulation Theory is another one of those [prism-words](https://modalpathethics.com/secondary-morals/) I dislike.
 

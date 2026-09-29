@@ -3,15 +3,17 @@ title: "Field Instruments: The Law"
 slug: "applied-case-the-law"
 canonical_url: "https://modalpathethics.com/applied-case-the-law/"
 published_at: "2026-05-05T00:50:46.000-05:00"
-updated_at: "2026-05-20T13:00:14.000-05:00"
+updated_at: "2026-09-28T21:05:27.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "098243601b94668756ee9c5bb12ce312652b847b636f6a49fd0ec9ef77c5a971"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "6d1c5c8a2f571220b67fbe67b576f62a3041cd7b487b3fc3df7657ff35c5b811"
 ---
 # Field Instruments: The Law
+
+> **September 2026 note:** Law remains a repair-and-control grammar rather than justice itself. Bounded Last Words and Material Bounded Finality later supply a more precise account of legitimate closure: final authority must be indexed to function, case, scale, and interval, with independent correction and successor capacity where continuity is protected.
 
 Law is not justice.
 

@@ -3,16 +3,18 @@ title: "Applied Case: The Lost Gradient"
 slug: "applied-case-the-lost-gradient"
 canonical_url: "https://modalpathethics.com/applied-case-the-lost-gradient/"
 published_at: "2026-04-25T22:42:19.000-05:00"
-updated_at: "2026-05-09T19:24:37.000-05:00"
+updated_at: "2026-09-28T20:55:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "8caa6ede8c1b8cba65a4debe5033bf461cded1b871f73da668877acac51db769"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5f1edbe8b40ee9d84436398e85c6b22240c9655e4f6db163bf1e5c7515b72181"
 ---
 # Applied Case: The Lost Gradient
+
+> **September 2026 note:** The Lost Gradient remains a clean pre-life / generative-field case. September work would describe the relevant loss more precisely as generative damage or degradation of an enabling structure, with reachability assessed from the extant locus rather than by counting imagined downstream beings.
 
 This one is about lowercase [**chirality**](https://modalpathethics.com/tag/chirality/), instead.
 

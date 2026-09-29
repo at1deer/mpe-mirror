@@ -3,15 +3,17 @@ title: "Balancing the Broken Meta of Academic Philosophy"
 slug: "balancing-academic-philosophy"
 canonical_url: "https://modalpathethics.com/balancing-academic-philosophy/"
 published_at: "2026-04-23T00:34:27.000-05:00"
-updated_at: "2026-05-07T22:40:11.000-05:00"
+updated_at: "2026-09-28T20:49:57.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "c9633e0901724961e13c230681b06e46533066e83eeff4f915788f5e28658b56"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
 # Balancing the Broken Meta of Academic Philosophy
+
+> **September 2026 note:** The article's concern about academic philosophy becoming a self-reproducing metagame remains a live diagnostic, not a universal verdict on academic work.
 
 There is a way of criticizing academic philosophy that is both very common and very lazy. It's when you say the discipline is too obscure, too technical, too self-referential, too trapped up in its jargon, generally too far from our ordinary life to be relevant. Sometimes that criticism is probably fair, [Heidegger](https://modalpathethics.com/heidegger-sorge-and-care/), but more often it is just anti-intellectual resentment dressed up as populist wisdom. I am not interested in that kind of criticism.
 

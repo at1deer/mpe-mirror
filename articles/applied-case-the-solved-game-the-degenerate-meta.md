@@ -3,16 +3,18 @@ title: "Applied Case: The Solved Game & The Degenerate Meta"
 slug: "applied-case-the-solved-game-the-degenerate-meta"
 canonical_url: "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/"
 published_at: "2026-04-25T18:05:27.000-05:00"
-updated_at: "2026-08-10T07:21:39.000-05:00"
+updated_at: "2026-09-28T20:55:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "baa70883a640a64209359a15a4c29a9b8ee3c90d03e38bd865b0055270679ba4"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "72d668581106c629f6c5c175e37a4c18899b841023404df96fbd132e000efedc"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
+
+> **September 2026 note:** The degenerate-meta analysis remains a useful model of locally rational behavior inside a bad game. Later work names the deeper failure as instrument or system sovereignty: a successful local strategy becomes dangerous when it gains authority over the field, its correction criteria, or the conditions under which alternatives remain executable.
 
 A **solved game** is a game whose outcome can be known under perfect play.
 

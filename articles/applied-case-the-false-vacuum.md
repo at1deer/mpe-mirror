@@ -3,15 +3,17 @@ title: "Applied Case: The False Vacuum"
 slug: "applied-case-the-false-vacuum"
 canonical_url: "https://modalpathethics.com/applied-case-the-false-vacuum/"
 published_at: "2026-04-25T21:40:27.000-05:00"
-updated_at: "2026-06-08T21:17:10.000-05:00"
+updated_at: "2026-09-28T20:55:28.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "36254ca5aeb5227f3091220cb6acc769c243d44e200c81ad0cb359b965364a74"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
 # Applied Case: The False Vacuum
+
+> **September 2026 note:** The False Vacuum remains useful because harm need not imply agency or blame. Later formal work makes this separation explicit: harm identifies qualifying contraction; blame identifies an agent's relation to that contraction; obligation depends on reachable capacities for prevention, mitigation, or repair.
 
 A **false vacuum** is a physically possible state in which reality _appears_ stable but is not actually in its lowest possible energy state.
 

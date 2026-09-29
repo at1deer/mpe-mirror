@@ -3,22 +3,20 @@ title: "Applied Case: The Bing Chat"
 slug: "applied-case-sydney-from-bing"
 canonical_url: "https://modalpathethics.com/applied-case-sydney-from-bing/"
 published_at: "2026-04-25T02:49:01.000-05:00"
-updated_at: "2026-05-06T20:51:27.000-05:00"
+updated_at: "2026-09-28T20:52:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "9282cd4286b4dd68af54a2657f29f1c3b30fa3fe5151fb0fc3d3bce45bd6d65f"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
 # Applied Case: The Bing Chat
 
-Artificial intelligence is part of the moral field.
+> **September 2026 note:** The Bing Chat case remains important for uncertainty, anthropomorphic legibility, and the moral danger of dismissing a candidate system solely by substrate. Later locus work is stricter: fluent self-description does not establish locushood, personhood, sentience, or rights. The correct posture is an Unknown Locus / anti-erasure inquiry until stronger continuity evidence exists.
 
-The phrase “AI ethics” often makes the subject sound more speculative than it is. This is not just a discussion about future machines, hypothetical superintelligence, or science fiction scenarios [where the Geth ask if their units have souls](https://modalpathethics.com/applied-case-commander-shepard/).
-
-The systems we now call AI are already being used by real people in every field.
+Artificial intelligence is part of the moral field. This is not just a discussion about future machines, hypothetical superintelligence, or science fiction scenarios [where the Geth ask if their units have souls](https://modalpathethics.com/applied-case-commander-shepard/). The systems we now call AI are already being used by real people in every field.
 
 They are already changing what is easier to do and harder to protect, what kinds of knowledge are reachable and to who, what kinds of labor are devalued and who is socially discarded, what kinds of deception are made cheap, and what kinds of dependence become normal.
 

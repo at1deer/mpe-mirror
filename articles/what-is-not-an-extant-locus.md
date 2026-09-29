@@ -3,15 +3,17 @@ title: "What Is Not an Extant Locus"
 slug: "what-is-not-an-extant-locus"
 canonical_url: "https://modalpathethics.com/what-is-not-an-extant-locus/"
 published_at: "2026-05-03T02:29:09.000-05:00"
-updated_at: "2026-05-06T23:52:30.000-05:00"
+updated_at: "2026-09-28T21:04:20.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "6767ffde911006e7d05d27eacb3407c704a7af990a41be0773901c3a1bd53ca5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "98a549ea7251f4352a0a5beec0f1288dc342803996f07a226dd20d8296b33d8c"
 ---
 # What Is Not an Extant Locus
+
+> **September 2026 note:** The exclusions remain directionally right: possibilities, categories, records, corpses, tools, and replacements should not be casually promoted into loci. [Later Harm work](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) tightens the positive side further: locushood requires diachronically integrated causal organization with nonredundant successor structure at the declared grain.
 
 Not everything real is an extant locus.
 

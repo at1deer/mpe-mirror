@@ -3,15 +3,17 @@ title: "Taxonomy of Extant Loci"
 slug: "taxonomy-of-extant-loci"
 canonical_url: "https://modalpathethics.com/taxonomy-of-extant-loci/"
 published_at: "2026-05-06T18:50:16.000-05:00"
-updated_at: "2026-05-16T01:02:58.000-05:00"
+updated_at: "2026-09-28T21:08:13.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "0682beda6b58ac1499db64732c14964b46629cb0b8eaca837609dda2bda93bb2"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
 # Taxonomy of Extant Loci
+
+> **September 2026 note:** Superseded. Treat this as an exploratory May taxonomy, not the current final ontology. Current locus work narrows locushood substantially; many entries here are better treated as instruments, fields, traces, dependencies, or analytically useful structures rather than independent loci. Locushood now turns on diachronic integration, causal organization, successor structure, and nonredundancy at the declared grain.
 
 Modal Path Ethics uses the word “[locus](https://modalpathethics.com/glossary/)” often because moral life does not happen only to isolated human individuals. Persons matter most clearly, but persons are not the only active sites of continuance in extance. Families continue. Cultures continue. Rivers continue. Institutions continue. Games continue. Archives continue. Symbols continue. Species continue. Some artificial systems may eventually continue in morally relevant ways. Some fields are thin, derivative, dependent, closed, or emerging, but still active enough that their future-space can open, narrow, burden, or be repaired.
 

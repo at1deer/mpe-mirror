@@ -3,15 +3,17 @@ title: "Applied Case: The American Corrigibility Problem"
 slug: "the-american-corrigibility-crisis"
 canonical_url: "https://modalpathethics.com/the-american-corrigibility-crisis/"
 published_at: "2026-05-14T15:39:40.000-05:00"
-updated_at: "2026-06-12T15:34:55.000-05:00"
+updated_at: "2026-09-28T21:16:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "1aa61f3ea3b2d6bae62827ca9f2aea6af60b33d8d752139ef629f006289b0901"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "37adfa98aad098cd5183ddfc89bf19f3d50f9fe629a2d1d41a4995de7a7f0872"
 ---
 # Applied Case: The American Corrigibility Problem
+
+> **September 2026 note:** The corrigibility thesis remains central, but the current constitutional account is more precise. Bounded Last Words indexes finality to function, case, scale, and interval; Material Bounded Finality requires adverse judgment to reach the institution materially; [_The Inner Apocalypse_](https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/) distinguishes formal opposition from genuinely independent causal outside. Political examples in this article should be treated as a May 2026 snapshot and reverified if reused.
 
 [American politics is not the field](https://modalpathethics.com/tag/field-instruments/).
 

@@ -3,16 +3,18 @@ title: "Applied Case: The Unknown Locus"
 slug: "applied-case-the-unknown-locus"
 canonical_url: "https://modalpathethics.com/applied-case-the-unknown-locus/"
 published_at: "2026-04-30T01:47:33.000-05:00"
-updated_at: "2026-06-16T15:15:54.000-05:00"
+updated_at: "2026-09-28T21:02:36.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "92057d9d286f9d3f5e1475d3b5b5b648e7457aeef493de635640114e3f136d1a"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "af0aff2100727f793deeba4391961403a4a7093656610d8e1b2a99e42dd2a7be"
 ---
 # Applied Case: The Unknown Locus
+
+> **September 2026 note:** The Unknown Locus remains the basis of anti-erasure caution: uncertainty is not emptiness, and irreversible action can destroy the evidence needed to resolve status. Later work is stricter that 'candidate locus' is not locushood by default; caution preserves the inquiry path without granting personhood, rights, or equal weight.
 
 What do we owe to something when we do not yet know whether it is a morally active locus at all?
 

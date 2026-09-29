@@ -3,15 +3,17 @@ title: "Tales of Distortion: The 1904 St. Louis Marathon"
 slug: "applied-case-1904-st-louis-marathon"
 canonical_url: "https://modalpathethics.com/applied-case-1904-st-louis-marathon/"
 published_at: "2026-04-16T18:42:47.000-05:00"
-updated_at: "2026-06-13T16:39:49.000-05:00"
+updated_at: "2026-09-28T20:44:01.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fb46becac57164f5b6ea1579e3519c747197c84b8e7cc98373e583bc095e76ea"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
+
+> **September 2026 note:** The marathon remains a distortion audit of a real historical field. Read its harms using the later distinctions between harm-tokens, transition profiles, resistance thickening, burden transfer, repairability, and verdict.
 
 The 1904 Summer Games marathon is a perfect example in Modal Path Ethics of how every single concept of the framework can be violated simultaneously and demonstrably in real time by identifiable actors with documented consequences.
 

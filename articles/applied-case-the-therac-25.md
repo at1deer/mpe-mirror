@@ -3,16 +3,18 @@ title: "Applied Case: The Therac-25"
 slug: "applied-case-the-therac-25"
 canonical_url: "https://modalpathethics.com/applied-case-the-therac-25/"
 published_at: "2026-04-25T14:35:23.000-05:00"
-updated_at: "2026-05-06T20:23:49.000-05:00"
+updated_at: "2026-09-28T20:54:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f5755576ae800fb8f50d5950f794ac1fb734032c868518efdfda9a08cac9ffbe"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "f51c57b525998950e71698fc7e7144ad2a0b1bf5c115402785624b132a2e2c27"
 ---
 # Applied Case: The Therac-25
+
+> **September 2026 note:** Therac-25 remains a central warning against replacing material safety structure with confidence in software or operator competence. [**Material Bounded Finality**](https://modalpathethics.com/applied-case-the-dog-gets-the-ball/) later generalizes the lesson: when consequential correction matters, there must be a physically and institutionally reachable path to stop, remove, replace, or hand off the failing function.
 
 While on the topic of automated harms:
 

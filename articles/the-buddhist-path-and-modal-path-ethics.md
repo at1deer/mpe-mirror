@@ -3,16 +3,18 @@ title: "The Buddhist Path vs. Modal Path Ethics"
 slug: "the-buddhist-path-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/the-buddhist-path-and-modal-path-ethics/"
 published_at: "2026-04-19T23:38:38.000-05:00"
-updated_at: "2026-06-24T01:34:21.000-05:00"
+updated_at: "2026-09-28T20:47:32.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "cfc9428974289cbf80a2df6548a1b9302fbb539b2c069d6e4836a1bd09e5b2d5"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "af647f264fe4f3d4d3c5612954ef6d5f42f58d5fae15f37ae322c6c15cb6046c"
 ---
 # The Buddhist Path vs. Modal Path Ethics
+
+> **September 2026 note:** This comparison with Buddhist ethics remains useful, later Sacred Instruments work makes the framework's posture more explicit: religious and contemplative traditions are not pathologies or primitive approximations. They can preserve care, humility, discipline, memory, and correction, and become dangerous only when an instrument becomes sovereign over correction.
 
 During the research and development of Modal Path Ethics, I spent about a year practicing within the Buddhist tradition. This is the view of someone who took this tradition seriously enough to practice it, learned enough from it (still in only one year) that the framework bears its influence in some ways I want to call out, and arrived at positions that do still drastically diverge from and openly disagree with Buddhist philosophy in specific respects I also want to explain.
 

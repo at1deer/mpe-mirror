@@ -3,16 +3,18 @@ title: "Mirror Match: The Modal Path Ethics"
 slug: "mirror-match-the-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/mirror-match-the-modal-path-ethics/"
 published_at: "2026-05-08T21:51:23.000-05:00"
-updated_at: "2026-05-18T19:56:13.000-05:00"
+updated_at: "2026-09-28T21:09:55.000-05:00"
 tags:
   - "Applied Case"
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "603748426e067ac64af0ce2c02c78def8a8518e6da096d25753c096f407826f1"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "a05362680623ebe3c0c90efe09cb02bc90dd59cf00b30e63ca4df2a09bb82506"
 ---
 # Mirror Match: The Modal Path Ethics
+
+> **September 2026 note:** Mirror Match remains one of the framework's governing safety clauses: Modal Path Ethics is an instrument and receives no exemption from its own critique.
 
 If Modal Path Ethics is correct that [every cognitive instrument has a selecting cut](https://modalpathethics.com/tag/field-instruments/), that the cut is morally consequential, and that the instrument never replaces the field it tries to describe, then Modal Path Ethics is itself one of the cognitive instruments to which this analysis applies.
 

@@ -3,16 +3,20 @@ title: "Applied Case: The Biosphere in 2026"
 slug: "applied-case-the-biosphere-in-2026"
 canonical_url: "https://modalpathethics.com/applied-case-the-biosphere-in-2026/"
 published_at: "2026-05-10T11:00:05.000-05:00"
-updated_at: "2026-05-14T19:41:19.000-05:00"
+updated_at: "2026-09-28T21:13:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "7bdec98e33ff4c90d725d7d0680d9a890a0be53f818c6c8ecc1b1044715211f3"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "81f805f8b9cc59df3116b8422db7986e1a5fb53946560c80acd47cb9185551fc"
 ---
 # Applied Case: The Biosphere in 2026
+
+> **September 2026 note:** The structural method remains useful, but empirical numbers, policy states, and contemporary rulings in this article are time-indexed and should be reverified before reuse. Later framework work also separates structural representation from constitutional/policy judgment, so a sound diagnosis does not by itself dictate one implementation mechanism.
+
+* * *
 
 The [Biosphere as Structure](https://modalpathethics.com/structure-of-the-biosphere/) article established the foundation for this. The biosphere has standing in the framework's terms because it is structure, [structure has moral standing](https://modalpathethics.com/formal-what-makes-something-a-locus/) as such, and damage to the biosphere is real [harm in the framework's specific sense](https://modalpathethics.com/contraction-is-harm/). That article stopped where the foundation was complete.
 

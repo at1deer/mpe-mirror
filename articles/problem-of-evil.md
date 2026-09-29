@@ -3,16 +3,18 @@ title: "Applied Case: The Problem of Evil"
 slug: "problem-of-evil"
 canonical_url: "https://modalpathethics.com/problem-of-evil/"
 published_at: "2026-04-28T22:03:00.000-05:00"
-updated_at: "2026-05-09T19:25:42.000-05:00"
+updated_at: "2026-09-28T21:00:18.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "f9c25973e2b9c6ca3d686fc95b2da8efdec2dcadb7293eaee733500f67694365"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "104ba44b5716e4b475013fc090a3ffa463f8403fd55f35d81d37bef3fc3ed71b"
 ---
 # Applied Case: The Problem of Evil
+
+> **September 2026 note:** Later Sacred Instruments work explicitly treats religious forms as capable of preserving contact, humility, care, discipline, repair, and memory; the failure condition is when a sacred instrument becomes sovereign over correction or launders the wound.
 
 The Problem of Evil is usually stated as a question about God and suffering.
 

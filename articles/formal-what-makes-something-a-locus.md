@@ -3,16 +3,18 @@ title: "Formal: What Makes Something a Locus"
 slug: "formal-what-makes-something-a-locus"
 canonical_url: "https://modalpathethics.com/formal-what-makes-something-a-locus/"
 published_at: "2026-05-09T19:19:21.000-05:00"
-updated_at: "2026-06-13T01:18:07.000-05:00"
+updated_at: "2026-09-28T21:11:15.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "48adf8087f0891fa091ffd250ed2ca102697cd3dadff417b60bd0c8c67ce4bfa"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
 # Formal: What Makes Something a Locus
+
+> **September 2026 note:** This formal article substantially improves the early taxonomy, but current locushood is tighter still: a locus is a diachronically integrated causal organization with nonredundant successor structure at the relevant grain. The May seven-question diagnostic remains useful as evidence, but continuity, integration, vulnerability, and naming alone are no longer enough.
 
 Modal Path Ethics defines [harm as contraction](https://modalpathethics.com/contraction-is-harm/) of [weighted reachable future-space](https://modalpathethics.com/formal-weighted-reachable-future-space/) in extance.
 

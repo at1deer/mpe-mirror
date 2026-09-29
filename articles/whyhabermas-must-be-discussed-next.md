@@ -3,16 +3,18 @@ title: "Why Habermas Must Be Discussed Next"
 slug: "whyhabermas-must-be-discussed-next"
 canonical_url: "https://modalpathethics.com/whyhabermas-must-be-discussed-next/"
 published_at: "2026-04-19T19:01:02.000-05:00"
-updated_at: "2026-05-07T15:14:41.000-05:00"
+updated_at: "2026-09-28T20:46:54.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "71e1ee34a92d1941146af5eb13475ea6fb7ed2f48360c995fadf6d90b5834c1c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "80cdaa6f6f8e95c75fcbb0a8f9b7bae685a6e2d402064bf71451d094c2c33f64"
 ---
 # Why Habermas Must Be Discussed Next
+
+> **September 2026 note:** This Habermas engagement remains important for distorted communication and legitimacy. Later work relocates discourse inside a larger architecture: truthful representation is only one layer, constitutional judgment is another, and material bounded finality asks whether correction can actually reach the institution when discourse fails.
 
 ### Note.
 

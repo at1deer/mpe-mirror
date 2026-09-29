@@ -3,17 +3,17 @@ title: "Applied Case: The Chestnut Blight"
 slug: "applied-case-the-chestnut-blight"
 canonical_url: "https://modalpathethics.com/applied-case-the-chestnut-blight/"
 published_at: "2026-04-25T00:50:39.000-05:00"
-updated_at: "2026-05-06T20:52:31.000-05:00"
+updated_at: "2026-09-28T20:52:00.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "23d378528ebfce09fddfd76e712a84f522663471816029d032b73b711e432717"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
 # Applied Case: The Chestnut Blight
 
-America used to look pretty different.
+> **September 2026 note:** Chestnut blight remains a strong case of damage that cannot be reduced to individual suffering. Later work makes the structure cleaner through nested loci, enabling structures, generative damage, irreversibility, and propagation across ecological continuation rather than treating 'species' as automatically a single moral patient.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/04/73234.jpg)
 

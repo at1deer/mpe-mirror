@@ -3,13 +3,13 @@ title: "Applied Case: The Prisoner's Dilemma"
 slug: "applied-case-the-prisoners-dilemma"
 canonical_url: "https://modalpathethics.com/applied-case-the-prisoners-dilemma/"
 published_at: "2026-04-28T23:38:33.000-05:00"
-updated_at: "2026-06-13T18:12:55.000-05:00"
+updated_at: "2026-09-28T21:01:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835f4c"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "db86a207c8e9893b47bd4d3609988816bc3f9da1e3e6c6b82b3a620018efd7cd"
 ---
 # Applied Case: The Prisoner's Dilemma
 
@@ -18,6 +18,8 @@ sha256_plaintext: "b72818af8fcfa728b7579f44406a6f3fd239b331406f2f92adbfb029d0835
 > This is preserved below.
 
 > [Modal Path Ethics has now taken a more measured read on the situation.](https://modalpathethics.com/applied-case-the-field-intelligence-gap/)
+
+> **September 2026 note:** Later instrument-jurisdiction work generalizes the lesson: a formal instrument may be valid within its cut and still lack authority over the wider field.
 
 * * *
 

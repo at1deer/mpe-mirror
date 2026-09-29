@@ -3,15 +3,17 @@ title: "Solving the Parfit Puzzle Suite"
 slug: "solving-the-parfit-puzzle-suite"
 canonical_url: "https://modalpathethics.com/solving-the-parfit-puzzle-suite/"
 published_at: "2026-05-08T23:42:30.000-05:00"
-updated_at: "2026-06-28T21:18:11.000-05:00"
+updated_at: "2026-09-28T21:10:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "681641c62c47c08522265715159a0d3d979fc2f302af983d078ce8735c20925e"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8f75462a747bb7fafc7717019da9430f5d238800b5ee726df331934b95af7ea1"
 ---
 # Solving the Parfit Puzzle Suite
+
+> **September 2026 note:** The continuation-over-identity move remains important, especially for branching and replacement. Later locus and source-object work places more weight on diachronic causal continuity and nonredundant successor structure, while the non-identity solution now rests on the explicit Continuance Principle rather than an implicit claim that structural future-space is self-evidently normative.
 
 When Derek Parfit died in 2017, his obituaries placed him among the most important moral philosophers of the late twentieth century, which was probably about right, if a bit conservative.
 

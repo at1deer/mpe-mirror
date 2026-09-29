@@ -3,16 +3,26 @@ title: "Applied Case: The Silicon Shield"
 slug: "applied-case-the-silicon-shield"
 canonical_url: "https://modalpathethics.com/applied-case-the-silicon-shield/"
 published_at: "2026-05-19T18:58:03.000-05:00"
-updated_at: "2026-05-19T23:59:32.000-05:00"
+updated_at: "2026-09-28T21:18:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "ca6dd385fa39f58822ad122786b48e5d2b3fe295cbf2f45113144a959e54215b"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
 # Applied Case: The Silicon Shield
+
+> **September 2026 note:** Treat every contemporary geopolitical, military, industrial, and diplomatic claim in this article as a May 2026 snapshot requiring fresh verification before reuse. The later framework also tightens two conceptual points.
+
+> First, “Taiwan” should not automatically be treated as one undifferentiated locus: population, polity, democratic institutions, industrial ecosystem, infrastructure, and cross-strait relations may require separate grains of analysis.
+
+> Second, Security Instruments work distinguishes legitimate deterrence and protection from sovereignty: a protective arrangement becomes dangerous when it makes the protected field dependent on an instrument that can trade, absorb, or disable the very agency it was meant to preserve.
+
+> The article's specific diplomatic prescription should therefore be read as an applied May proposal, not a theorem of Modal Path Ethics.
+
+* * *
 
 Taiwan is an island where the world put the future of computation. We all then acted very surprised when this island became impossible to discuss honestly.
 

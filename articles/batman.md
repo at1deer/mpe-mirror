@@ -3,17 +3,19 @@ title: "Applied Case: The Batman"
 slug: "batman"
 canonical_url: "https://modalpathethics.com/batman/"
 published_at: "2026-05-02T01:33:31.000-05:00"
-updated_at: "2026-06-10T12:45:17.000-05:00"
+updated_at: "2026-09-28T21:03:08.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-28T23:27:56.826Z"
-sha256_plaintext: "fb74f298d7b539176c4a2ade18327c29d2da4bee54c9994e146618dcd733b337"
+mirror_generated_at: "2026-09-29T06:06:47.184Z"
+sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
 # Applied Case: The Batman
+
+> **September 2026 note:** The Batman analysis remains valuable for emergency-vs-repair, symbol effects, self-correction, successor structure, and the danger of becoming necessary. Later locus work is stricter about calling symbols and fictional-cultural objects literal loci; where useful, read 'The Batman' as an extant cultural field-object/continuation structure rather than as a person-like bearer.
 
 What is the Batman, structurally?
 
