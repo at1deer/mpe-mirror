@@ -7,7 +7,7 @@ updated_at: "2026-09-08T15:37:58.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T05:53:57.593Z"
+mirror_generated_at: "2026-09-30T12:56:59.789Z"
 sha256_plaintext: "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
 ---
 # Modal Path Ethics Apologizes to the College Newspapers

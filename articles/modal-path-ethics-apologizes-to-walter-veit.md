@@ -3,11 +3,11 @@ title: "Modal Path Ethics Apologizes to Walter Veit"
 slug: "modal-path-ethics-apologizes-to-walter-veit"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-walter-veit/"
 published_at: "2026-08-10T06:00:28.000-05:00"
-updated_at: "2026-08-10T07:48:53.000-05:00"
+updated_at: "2026-09-30T02:12:09.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T05:53:57.593Z"
+mirror_generated_at: "2026-09-30T12:56:59.789Z"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
 # Modal Path Ethics Apologizes to Walter Veit
