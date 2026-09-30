@@ -3,17 +3,19 @@ title: "Field Instruments: Post-Money"
 slug: "field-instruments-post-money"
 canonical_url: "https://modalpathethics.com/field-instruments-post-money/"
 published_at: "2026-06-06T23:17:30.000-05:00"
-updated_at: "2026-06-07T11:15:23.000-05:00"
+updated_at: "2026-09-29T20:47:25.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "2ce1aa6211251e5e1a990104e082aa35aaaa1878105f67861679cfdbea38a2ab"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "910ee96ed242601faf26e58cadc01db4088943ca3c127f0488c68d5cbb6266ec"
 ---
 # Field Instruments: Post-Money
 
-> [_A spectre is haunting my website…_](https://modalpathethics.com/applied-case-the-communist-manifesto/)
+> **September 2026 note:** Post-Money still does not mean abolishing money. The current _Inner Apocalypse_ formulation is cleaner: basic civic and bodily continuance requires a material floor that cannot depend entirely on winning the market's game, while markets can remain useful instruments above that floor. “Post-capital” therefore means the market loses its throne, not that exchange disappears. The named mechanisms in this article—continuity warrants, care-path authorization, legal access warrants, energy floors, community compute, shelter continuity rights, ecological caps, and priority queues—should be read as exploratory institutional designs rather than settled doctrine. Each replacement has to prove capacity, rights protection, bounded jurisdiction, resistance to capture, and a materially real route through its own correction or replacement. Current Harm work also requires transition-profile comparison rather than assuming that removing a money gate settles the whole verdict: scarcity, new bottlenecks, burden transfer, induced dependency, lost plurality, and generative damage all remain live. The article's decision to leave food “not yet” is a scope discipline worth preserving. Empirical program statistics and contemporary policy examples should be reverified before reuse.
+
+[_A spectre is haunting my website…_](https://modalpathethics.com/applied-case-the-communist-manifesto/)
 
 Post-Money does not mean abolishing money.
 

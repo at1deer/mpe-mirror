@@ -10,7 +10,7 @@ tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
 sha256_plaintext: "6942b6c244f6ae23fc50367143edd84131d6294b7d268d6f45b6bb53845fe92c"
 ---
 # Carl Schmitt and the Batman Who Leaves

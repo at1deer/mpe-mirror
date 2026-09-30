@@ -3,14 +3,14 @@ title: "The Inner Apocalypse Has Been Published (Free Download)"
 slug: "the-inner-apocalypse-has-been-published-free-download"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/"
 published_at: "2026-09-24T06:11:14.000-05:00"
-updated_at: "2026-09-24T06:11:13.000-05:00"
+updated_at: "2026-09-29T22:09:12.000-05:00"
 tags:
   - "Books"
   - "Inner Apocalypse"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "6337eb4dde70537d2620dc24785a3241f13b292aea111b878761f12e611d7a99"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "ce7b783fd95e1c026bbfbaa195b342ed0bb9842a7b39503dad5bf3d51fa1a4f4"
 ---
 # The Inner Apocalypse Has Been Published (Free Download)
 
@@ -880,7 +880,7 @@ For the first time, it may be able to build a machine that no longer needs the p
 
 Those are the two sides of the opening.
 
-**The future does not have to be like this.**
+**A Better future is possible.**
 
 [
 

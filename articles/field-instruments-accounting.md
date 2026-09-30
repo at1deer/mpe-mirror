@@ -3,14 +3,16 @@ title: "Field Instruments: Accounting"
 slug: "field-instruments-accounting"
 canonical_url: "https://modalpathethics.com/field-instruments-accounting/"
 published_at: "2026-05-26T20:51:18.000-05:00"
-updated_at: "2026-08-12T05:01:21.000-05:00"
+updated_at: "2026-09-29T20:41:03.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "e087cec65d065163534a86008f088904313f6e4f1bd5c4b8f8ab32b332f8cdf0"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "b55cf19f26d62b21d0fa45b3002d371eb7c6c284d344ffaf7bbb1a56c663bdd0"
 ---
 # Field Instruments: Accounting
+
+> **September 2026 note:** Accounting remains an institutional memory instrument: it selects a boundary, recognizes and classifies transitions, carries some facts forward, and can license forgetting outside the account. Later work sharpens the distinction between representation and authority. An account, audit, ledger, or provenance record belongs primarily to the structural-representation layer; accurate accounting can expose burden transfer but cannot by itself decide the moral verdict or supply material correction. September capital/constitutional work also deepens the warning that remembered claims can become governance when the accounting frame begins determining which futures count as actionable. The account must remain corrigible by what it omits, not sovereign over the field it compresses.
 
 Accounting is not [math](https://modalpathethics.com/applied-case-the-mathematics-problem/), or [money](https://modalpathethics.com/field-instruments-money/), or reducible to any kind of sum of the two.
 

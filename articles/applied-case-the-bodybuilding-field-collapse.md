@@ -3,15 +3,17 @@ title: "Applied Case: The Bodybuilding Field Collapse"
 slug: "applied-case-the-bodybuilding-field-collapse"
 canonical_url: "https://modalpathethics.com/applied-case-the-bodybuilding-field-collapse/"
 published_at: "2026-05-26T00:02:02.000-05:00"
-updated_at: "2026-05-26T17:05:48.000-05:00"
+updated_at: "2026-09-29T20:40:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "596ae8b5e068fc12d69714332161b11a401f80442ef44cd55c302f3a53a7a3bd"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "6be0eaa671dcff8859ad92e14cc23d7541785ad9a5d27d9c7b25b480701ab31a"
 ---
 # Applied Case: The Bodybuilding Field Collapse
+
+> **September 2026 note:** The central claim survives: consent and discipline do not by themselves cleanse a competitive field whose prestige structure makes severe bodily contraction a condition of seriousness. Later work would avoid treating “bodybuilding” as one undifferentiated bearer; the relevant loci may include athletes, coach-athlete relations, federations, medical-support structures, prestige hierarchies, and economic dependencies at explicit grains. Harm should now be separated into concrete foreclosure, resistance thickening, and generative damage rather than treated as one global field diagnosis. The later bounded-correction work also sharpens the proposed repair: health gates, medical review, and coach accountability matter only if adverse findings have real authority to stop or redirect the dangerous transition. Mortality figures, industry claims, and contemporary organizations in this May article should be reverified before reuse.
 
 In 2025, the _European Heart Journal_ published a mortality study on male bodybuilding athletes.
 

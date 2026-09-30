@@ -3,15 +3,17 @@ title: "Field Instruments: Property"
 slug: "field-instruments-property"
 canonical_url: "https://modalpathethics.com/field-instruments-property/"
 published_at: "2026-05-27T16:14:33.000-05:00"
-updated_at: "2026-05-27T16:15:21.000-05:00"
+updated_at: "2026-09-29T20:41:25.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "b9396f70f10c7e87171329785193bc4fcdf15a67cd2f7fcc39be6728039db140"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "897007932b7567ce83f5407e3589918fe8b17811d1086dd76d38ea08b23bfb4b"
 ---
 # Field Instruments: Property
+
+> **September 2026 note:** Property remains best understood as an enforceable control grammar over access, exclusion, use, transfer, and future flows rather than as a metaphysical property of the underlying thing. Later work sharpens the jurisdiction point: legal title or ownership does not by itself establish moral standing, unlimited authority, or the right to disable correction for affected loci. Current locushood is stricter than the broad May taxonomy, so the bearer of a property transition must be identified at an explicit grain rather than inferred from whatever object is owned. September provenance and source-object work also strengthens the article's intellectual-property and preservation examples: a copy, archive, license, or replacement may preserve information or function without preserving source-object identity or the original continuation. Property is an instrument of continuity only while its jurisdiction remains bounded by the field it structures.
 
 Property is not any thing.
 

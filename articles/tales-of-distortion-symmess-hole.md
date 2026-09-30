@@ -3,16 +3,18 @@ title: "Tales of Distortion: Symmes's Hole"
 slug: "tales-of-distortion-symmess-hole"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-symmess-hole/"
 published_at: "2026-05-16T22:30:10.000-05:00"
-updated_at: "2026-06-11T16:55:03.000-05:00"
+updated_at: "2026-09-29T20:38:00.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Slack"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "857fa1e5c2c14b6a2cc98481cc8a5a0fbce892d364bfe765e62951dcd3f182b9"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "242f889cc1f5d2233378c59313286481f5d68856d2f78cdcfd7c059b04528ce4"
 ---
 # Tales of Distortion: Symmes's Hole
+
+> **September 2026 note:** The case still stands as an audit of prestige transfer, citation-chain drift, certification displacement, and procedural output outrunning empirical truth. Later work sharpens the repair side: an effective outside is not just a socially external critic but a causally independent route through which reality can introduce a difference the incumbent account does not control.
 
 It is March 7, 1822. Senator Richard Mentor Johnson of Kentucky has the floor of the United States Senate. He has a petition he would like to share with everybody.
 

@@ -3,16 +3,18 @@ title: "Applied Case: The TempleOS"
 slug: "applied-case-the-templeos-and-the-oracle"
 canonical_url: "https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/"
 published_at: "2026-05-21T00:39:30.000-05:00"
-updated_at: "2026-08-12T14:02:43.000-05:00"
+updated_at: "2026-09-29T20:34:25.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "99998336ae9e69ae4dbf2142d5a110cf7cbcc331091b9842517f6480e460ad2c"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "1e218cdc3d4644ccfe66e714b85210fd23fa917a4b895a826b5bfd297df7f9c2"
 ---
 # Applied Case: The TempleOS
+
+> **September 2026 note:** The central distinction survives and is now part of the Sacred Instruments architecture: sacred practice can preserve contact, care, humility, discipline, repair, and memory; religion is not treated as pathology. The failure begins when a contact instrument becomes sovereign over correction. An oracle, sacred text, model, ritual, or other answer-channel may interrupt perception, but it cannot acquire final authority simply by being experienced as sacred. Later work generalizes the rule beyond TempleOS: any instrument that can reinterpret correction as disobedience has crossed from aid to sovereignty. Simplicity and transparency can improve contact, but neither is a substitute for corrigibility.
 
 And then, there was blue.
 

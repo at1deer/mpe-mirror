@@ -3,16 +3,18 @@ title: "The Problem of Time"
 slug: "the-problem-of-time"
 canonical_url: "https://modalpathethics.com/the-problem-of-time/"
 published_at: "2026-06-12T19:09:22.000-05:00"
-updated_at: "2026-06-12T21:33:14.000-05:00"
+updated_at: "2026-09-29T20:55:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "404c9eea9857f45dbab4c3bb298e934e8500a4fc7ef6f2ed5d558465ee1487f5"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "5bb0b78ea853589390b1770753db397b2e526a49ffc0d37fed881e7f3b95a275"
 ---
 # The Problem of Time
+
+> **September 2026 note:** The durable result is that Modal Path Ethics does not require a universal present, metaphysical presentism, an objectively open future, or a fundamental cosmic clock. [Later work states the requirement more minimally](https://modalpathethics.com/the-future-does-not-have-to-be-new/): ordered continuation is enough. Reachability is field-relative and bearer-relative viable access through conditions that actually obtain. The June term "field-time" remains a useful pedagogical way to describe closing repair windows, but it is not required as a separate metaphysical primitive; later writing explicitly says “the clock could go.” The article's sentence “harm contracts reachable continuation within a field” is also now too broad as a definition. The current harm thesis requires an extant locus, a structurally significant continuation or enabling structure, genuine reachability, and nontrivial degradation; specification and ordinary path selection are not automatically harm. Counterfactual comparison likewise does not require physically existing branch universes. It requires a disciplined comparison among continuations supported by the declared field model.
 
 Modal Path Ethics has been informed that physics may have some concerns.
 

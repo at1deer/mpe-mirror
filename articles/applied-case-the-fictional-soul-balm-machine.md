@@ -3,15 +3,17 @@ title: "Applied Case: The Fictional Soul-Balm Machine"
 slug: "applied-case-the-fictional-soul-balm-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-fictional-soul-balm-machine/"
 published_at: "2026-05-28T03:00:14.000-05:00"
-updated_at: "2026-05-30T02:02:36.000-05:00"
+updated_at: "2026-09-29T20:42:49.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "924fecb34de1909ff76c797af85cdb8adb092f7fba61ae3aaeec0c8d100598d0"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "5779db9970d2e9a27a7efe5e168aeb9e3c6a14653d0f6e0164740744aad5b1ad"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
+
+> **September 2026 note:** This article remains a large fictional stress test for irreversibility, replacement, loops, branching, sacrifice, and repair dependency, but its May ontology is broader than the current framework. Read claims about branches, simulations, clones, timelines, and regenerations inside the stipulated fictional ontology; September work no longer treats any described world, relation, artifact, or aggregate as a locus by default. Locushood now requires diachronically integrated causal organization with nonredundant successor structure at a declared grain. Later provenance and source-object work also separates copying, replacement, memory continuity, functional succession, and source identity, sharpening the article's central claim that continuity is not innocence. Current harm work distinguishes harm-tokens from whole transition verdicts.
 
 ## **Opening: The Metaphysics of Not Letting Go.**
 

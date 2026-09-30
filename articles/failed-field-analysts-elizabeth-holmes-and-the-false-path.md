@@ -3,15 +3,17 @@ title: "Failed Field Analysts: Elizabeth Holmes and the False Path"
 slug: "failed-field-analysts-elizabeth-holmes-and-the-false-path"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-elizabeth-holmes-and-the-false-path/"
 published_at: "2026-05-19T14:31:58.000-05:00"
-updated_at: "2026-05-21T00:55:04.000-05:00"
+updated_at: "2026-09-29T20:39:39.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "b9546783c4eb8881a8e1457a3a4baf31c79810e327937db3ef9c0b1ee4e1737e"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "ecac44569ad985afcf8f86beab904121372b76c39e2b7670559ef8cbbab6bf3b"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
+
+> **September 2026 note:** Promise-versus-path, prestige-versus-validation, and partnership-versus-proof remain strong distinctions. Later work makes the correction architecture stricter: internal dissent, external review, and accurate representation are separate from the material ability to halt, remove, replace, or hand off a failing system. A safety-critical institution is not corrigible because criticism exists somewhere; the criticism must have a causally effective route to the deployed function. Claims here about Holmes's current status, related companies, or ongoing activity are a May 2026 snapshot.
 
 This explosion did not look like an explosion at all.
 

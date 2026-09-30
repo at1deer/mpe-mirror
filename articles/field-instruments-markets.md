@@ -3,15 +3,17 @@ title: "Field Instruments: Markets"
 slug: "field-instruments-markets"
 canonical_url: "https://modalpathethics.com/field-instruments-markets/"
 published_at: "2026-06-02T19:18:33.000-05:00"
-updated_at: "2026-06-02T19:18:33.000-05:00"
+updated_at: "2026-09-29T20:44:06.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "aec78eed8b038dbbee9e97b63d5adfeb605d7a45ca6c9ecf3e56c901dbfec0ba"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "b9ce0d18b46741b44a10edb14add787c07c44f42ed0d9733caaeeeb10fe9be19"
 ---
 # Field Instruments: Markets
+
+> **September 2026 note:** The market analysis remains intact, especially demand versus need, supply versus abundance, formal exit versus reachable exit, and the idea of markets as bounded distributed-search instruments rather than moral judges. Later _Inner Apocalypse_ work makes the sovereignty point more exact: capital can acquire constitutional force when purchasing power, property, debt, employment, ownership, and access decide practical membership before formal law acts. The current post-capital formulation therefore does not require abolishing markets; it means the market loses its throne and remains one instrument inside a wider constitutional field with a material floor. Current harm language also encourages component-level diagnosis—foreclosure, resistance thickening, and generative damage—rather than treating “the market” as one undifferentiated harmful bearer or cause.
 
 A market is never the field. So much modern moral and political confusion begins by forgetting that. 
 

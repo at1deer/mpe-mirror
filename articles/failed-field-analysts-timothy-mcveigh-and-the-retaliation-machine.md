@@ -3,17 +3,21 @@ title: "Failed Field Analysts: Timothy McVeigh and the Retaliation Machine"
 slug: "failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/"
 published_at: "2026-06-14T04:19:19.000-05:00"
-updated_at: "2026-07-12T05:07:21.000-05:00"
+updated_at: "2026-09-29T20:58:42.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
   - "Applied Case"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "0cb3690d2e6b16b2a9f0c5747e5d99b137a45418ba7a48355ace821a367a41a1"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "ef17b56f7ab5058cb9124ddc67dc5774cdc0d81ab5d35313f1ce2477b4fce2bb"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
+
+> **September 2026 note:** The central structure survives: a genuine wound can be perceived accurately and then stolen as private authority over people who did not cause it. “No wound grants sovereignty over the field” remains a core Modal Path Ethics constraint. Later Security Instruments work sharpens the state-side half of the analysis: protection, arrest, tactical response, negotiation, and force are instruments with bounded jurisdictions; success at one local function does not grant them authority over every affected continuation. Material bounded finality adds a further institutional test: an operational system is not corrigible because a commander could theoretically change course; a consequential path must actually remain available through which the current tactic can be stopped, replaced, or handed off before the field closes.
+
+> The current harm framework also requires more careful responsibility language than some June passages use. Harm, causal contribution, institutional responsibility, blame, legal liability, and complete moral verdict are distinct. That matters especially in multicausal historical events such as Ruby Ridge and Waco. Specific factual and legal claims in this article—including disputed firing sequences, rules of engagement, constitutional findings, operational responsibility, and fire causation—should remain attached to their historical sources and be reverified before quotation or republication. The conceptual ruling does not depend on simplifying those disputes.
 
 Today, [another](https://modalpathethics.com/ffa-the-nashville-network-bombing/) [building](https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/) has been opened from the side.
 

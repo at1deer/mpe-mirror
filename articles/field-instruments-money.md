@@ -3,15 +3,17 @@ title: "Field Instruments: Money"
 slug: "field-instruments-money"
 canonical_url: "https://modalpathethics.com/field-instruments-money/"
 published_at: "2026-05-20T06:36:46.000-05:00"
-updated_at: "2026-05-20T20:30:11.000-05:00"
+updated_at: "2026-09-29T20:33:50.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "d7b97e163b73adc92ff546b9e571aeb63ed0b4a024ae0ae9c24b59f8eeeb50c3"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "f9e427140b94e1e7852195b02ce76e3fb2e5019bbc2d332175865eb7c231349f"
 ---
 # Field Instruments: Money
+
+> **September 2026 note:** Money remains best understood here as transferable claim-power that alters reachability rather than as moral value itself. September work deepens the analysis by treating capital as constitutional when accumulated claim-power begins deciding who can act, wait, exit, own, coordinate, or survive without meaningful external correction. Monetary gating now maps cleanly onto current harm language as foreclosure, resistance thickening, or generative damage depending on what the transition does. Price, payment, investment, and solvency remain evidence or instruments; none receives jurisdiction over the field merely by being numerically legible.
 
 Don't let money trick you. Money is not actually a field instrument like [mathematics](https://modalpathethics.com/applied-case-the-mathematics-problem/) or [science](https://modalpathethics.com/applied-case-the-scientific-method/).
 

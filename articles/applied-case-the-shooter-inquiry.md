@@ -3,15 +3,17 @@ title: "Applied Case: The Shooter Inquiry"
 slug: "applied-case-the-shooter-inquiry"
 canonical_url: "https://modalpathethics.com/applied-case-the-shooter-inquiry/"
 published_at: "2026-04-29T22:36:27.000-05:00"
-updated_at: "2026-05-06T19:27:49.000-05:00"
+updated_at: "2026-09-29T20:28:33.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "c7042bddd1fb7de8e71454aff28c38342e196fb94961c2ef5720700a69301466"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "fec18215217a17e0483023f934e5db43b09b4e6e3338accc9b399e22668dfb75"
 ---
 # Applied Case: The Shooter Inquiry
+
+> **September 2026 note:** The Shooter Inquiry remains a core false-repair case: official explanation can close inquiry without finding the real causal path. Later work on mechanistic provenance, bounded finality, and correction makes the repair standard stronger: preserve evidence, source-path identity, independent challenge, and the material ability to reopen or overturn the account.
 
 Janet Parker was the last person to die of [smallpox](https://modalpathethics.com/applied-case-the-smallpox/).
 

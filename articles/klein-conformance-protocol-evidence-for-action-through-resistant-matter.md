@@ -3,21 +3,23 @@ title: "Klein Conformance Protocol"
 slug: "klein-conformance-protocol-evidence-for-action-through-resistant-matter"
 canonical_url: "https://modalpathethics.com/klein-conformance-protocol-evidence-for-action-through-resistant-matter/"
 published_at: "2026-05-19T00:48:27.000-05:00"
-updated_at: "2026-06-08T23:47:23.000-05:00"
+updated_at: "2026-09-29T20:38:30.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "a99466c5a7407fc08fad9f96f280348f603c1a550a21e26ee3579bd3957214ed"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "40244f920586d44ce0b6c5ff4a2528267ce07e9087b0cafed4c592f18361af60"
 ---
 # Klein Conformance Protocol
+
+> **September 2026 note:** The core distinction remains essential: command, trace, observation, and physical transition are different claims and should never be collapsed. Later provenance work generalizes this beyond substrate execution, including cases where an explanation or representation becomes a causal input when written back into a system. Material Bounded Finality adds another boundary: trustworthy evidence can reveal failure, but evidence alone is not correction unless some materially effective route can act on it.
 
 [Klein Conformance Protocol is now public.](https://github.com/at1deer/Klein-Conformance-Protocol?ref=modalpathethics.com)
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/05/image-122.png)
 
-KCP was mostly developed already back in January, I just hadn't actually made it real yet. This was one of the first completed, material artifacts of the thoughts behind Modal Path Ethics. This began as a problem in structure.
+KCP was mostly developed already back in January. This was one of the first completed, material artifacts of the thoughts behind Modal Path Ethics. This began as a problem in structure.
 
 If action matters, then [the difference between intending a transition and causing a transition matters](https://modalpathethics.com/applied-case-the-double-effect/). If a system says that it did something, [that claim is not the same as the actual event](https://modalpathethics.com/applied-case-the-therac-25/). If a machine receives an instruction, [that instruction is not the same as substrate change](https://modalpathethics.com/applied-case-the-experience-machine/). If a backend reports success, [that report is not the same as physical truth](https://modalpathethics.com/applied-case-the-shooter-inquiry/).
 

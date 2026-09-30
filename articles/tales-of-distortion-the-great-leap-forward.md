@@ -3,16 +3,18 @@ title: "Tales of Distortion: The Great Leap Forward"
 slug: "tales-of-distortion-the-great-leap-forward"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/"
 published_at: "2026-06-04T03:43:02.000-05:00"
-updated_at: "2026-06-04T19:10:04.000-05:00"
+updated_at: "2026-09-29T20:45:41.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "c3bc40ec2bb7713a6c6afc1baa4be8a41cd6b2728f038597595bdb3c1da5897d"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "6b053ee7b572e348982b86a284e17a58ec48c5813fffa00028c1c3b9fcd48c60"
 ---
 # Tales of Distortion: The Great Leap Forward
+
+> **September 2026 note:** The Great Leap Forward remains one of the clearest full-field distortion audits in the corpus. Its recurring mechanism is now easier to state: instruments that had real value in one field—mass mobilization, central coordination, reporting, targets, political discipline—were promoted beyond their reliable jurisdiction into metallurgy, household survival, agriculture, ecology, and truth-production, then protected from correction when the field answered back. September work also sharpens the paper-harvest and Lushan sections. A report is a representation, not the crop; formal channels for criticism are not corrigibility if an adverse judgment cannot survive long enough to alter policy; and correction itself is a reachable continuation whose enabling structure can be destroyed. The article's phrase “No Better” should therefore be read at the relevant scale: local least-closing acts and witnesses still existed, but once the governing field punished correction there was no durable repair path materially reachable at the national scale through that structure. This is not a theorem against collectivism or public coordination as categories. The current framework asks which concrete bearers were harmed, which functions failed, where burden transferred, and which authority became sovereign. Contemporary post-Mao and Xi-era extensions are time-indexed [political claims](https://modalpathethics.com/modal-path-ethics-should-not-go-to-china/).
 
 China once tried to industrialize by asking peasants to transmute their own farm tools in backyard furnaces into steel.
 

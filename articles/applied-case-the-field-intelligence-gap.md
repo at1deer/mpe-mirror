@@ -3,17 +3,21 @@ title: "Applied Case: The Field Intelligence Gap"
 slug: "applied-case-the-field-intelligence-gap"
 canonical_url: "https://modalpathethics.com/applied-case-the-field-intelligence-gap/"
 published_at: "2026-06-13T15:59:58.000-05:00"
-updated_at: "2026-06-13T18:08:28.000-05:00"
+updated_at: "2026-09-29T20:58:00.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "1df5d6aa22721704efc30fa1b42ecbdb9d595fd4001d525f04d866a243ca0cbe"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "b4856fe23b0022922b171220552ec3fb33302821a992c90a538df74ff28c457a"
 ---
 # Applied Case: The Field Intelligence Gap
+
+> **September 2026 note:** The Field Intelligence Gap remains one of the clearest precursors to later formulations: strategic intelligence can predict an adversary's next move while failing to represent how one's own strategy changes what becomes rational, credible, or reachable for the other side. Later work sharpens this into instrument jurisdiction and structural representation. A protection instrument can succeed locally while altering the shared field in ways that make additional protection instruments appear necessary. The later _Inner Apocalypse_ analysis also makes causal plurality and independent outside routes more explicit: five nominally independent observers can still share one prior transformation of reality.
+
+> One tightening is important. “What kind of opponent is this strategy producing?” is a causal hypothesis to test, not a standing assumption that the other actor's behavior was authored by us. Field intelligence must preserve independent agency, pre-existing threat, third-party causes, and asymmetric causal contribution rather than converting every hostile response into our own reflection. The article's reciprocity / empathy / psychological-safety triad is therefore best treated as a set of information-preserving instruments, not a sufficient moral or security theory. Structural representation still requires constitutional judgment, legitimate authority, and correction paths capable of surviving failure.
 
 Modal Path Ethics has been sent back to see the Prisoner’s Dilemma.
 

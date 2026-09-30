@@ -1,19 +1,23 @@
 ---
-title: "Tales of Distortion: Morpheus"
+title: "Applied Case: Morpheus"
 slug: "tales-of-distortion-morpheus"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-morpheus/"
 published_at: "2026-06-13T13:46:50.000-05:00"
-updated_at: "2026-07-01T22:19:15.000-05:00"
+updated_at: "2026-09-29T20:56:52.000-05:00"
 tags:
-  - "Tales of Distortion"
+  - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "a76e3500ccc6cbee74df2937929e9766d9c824be69a0e1f30fa25f201b652324"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "45fbf66b9baa3767cb2a2d158666281cfff2717fe3485bcd47e93cdf0a04ad6b"
 ---
-# Tales of Distortion: Morpheus
+# Applied Case: Morpheus
+
+> **September 2026 note:** Current Modal Path Ethics reserves Tales of Distortion for real historical distortion audits. Morpheus is therefore better treated as a fictional Applied Case / philosophical stress test rather than as a Tale under the current genre rule; the title has been changed. Its central insight survives: the Matrix is morally interesting because a managed world can preserve vivid local experience while severing truthful contact with the wider conditions governing that experience; the red pill is best understood as restoration of contact rather than hatred of simulation.
+
+> Later locus work, however, blocks several automatic ontological promotions in the article. A simulation, franchise, program, cultural symbol-system, or reconstructed “Morpheus” is not made an extant locus by narrative salience, agency language, or cultural influence alone. Locushood requires diachronically integrated causal organization with nonredundant successor structure at the relevant grain. The later provenance work also strengthens the article's own warning that replacement is not repair: a successor, reconstruction, model, derivative, or emulation may carry functions or lineage without becoming the same source-object or the same locus. Finally, the Oracle analysis should be read through the later three-layer architecture. Successfully opening a better path does not by itself grant epistemic or constitutional authority to manipulate others; structural representation, moral judgment, jurisdiction, and materially available correction remain separate questions.
 
 Before reading this article, I suggest taking two pills:
 

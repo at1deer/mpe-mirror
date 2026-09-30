@@ -3,15 +3,17 @@ title: "Applied Case: The Finiteness Problem"
 slug: "applied-case-the-finiteness-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-finiteness-problem/"
 published_at: "2026-06-09T21:43:13.000-05:00"
-updated_at: "2026-06-09T21:43:13.000-05:00"
+updated_at: "2026-09-29T20:51:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "1be9ac9972e9d48b87c5a33bfebfe52fa0a128f9fa157af642a6c9ba178377f4"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "dd71f3ea0a184041acd7053f0ccbb3ce06a00ec1ccd9075d25e155212824dd41"
 ---
 # Applied Case: The Finiteness Problem
+
+> **September 2026 note:** “Not all futures fit,” “enough is not abundance,” hidden rationing, artificial scarcity before sacrifice, and real scarcity after de-gating all remain central. Later work adds an important distinction: not every closure is harm. Finite action always specifies some paths rather than others; harm occurs when a transition nontrivially degrades a structurally significant continuation or enabling structure genuinely reachable from an extant locus. A rationing rule may therefore contain real harm-tokens and still be justified, required, or Better once the complete transition profile and competing claims are considered. The Finiteness Test is best understood as a structural-representation and diagnosis tool, not a complete moral algorithm: constitutional judgment must still decide standing, priority, authority, and justified closure, and material bounded finality must preserve a real route to revise the rationing institution when its diagnosis fails. References to [hypothetical future persons](https://modalpathethics.com/the-first-gift/) should also not be read as granting them present locushood merely because they can be described; the current locus test requires extant, causally operative organization. Duties toward future generations need to be carried through present enabling structures, extant bearers, and separately stated normative commitments rather than by treating every possible person as an already extant locus.
 
 “Is there enough to go around?” is too flat.
 

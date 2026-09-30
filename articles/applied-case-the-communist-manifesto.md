@@ -3,7 +3,7 @@ title: "Applied Case: The Communist Manifesto"
 slug: "applied-case-the-communist-manifesto"
 canonical_url: "https://modalpathethics.com/applied-case-the-communist-manifesto/"
 published_at: "2026-06-02T19:31:42.000-05:00"
-updated_at: "2026-06-07T19:43:43.000-05:00"
+updated_at: "2026-09-29T20:44:49.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
@@ -12,10 +12,12 @@ tags:
   - "Instrument Jurisdiction"
   - "Business"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "b192cbf8340083e39497f0754ef990e62c99a0cafd9f2414c22503fc15cf3761"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "64af6a0d40d4347a36492d07c46015763914618b147584b12325e9784bc3eb06"
 ---
 # Applied Case: The Communist Manifesto
+
+> **September 2026 note:** This article should be read as an audit of the 1848 Manifesto's repair architecture, not as a total verdict on Marx's mature corpus, Marxism in all forms, capitalism in all forms, or any contemporary party. The later _Inner Apocalypse_ framework makes the central symmetry more precise: capital can acquire constitutional force, and replacing private ownership with public administration does not by itself remove the sovereignty problem; states, parties, unions, firms, markets, and other instruments can all govern beyond their legitimate jurisdiction. The current post-capital formulation is therefore not “abolish markets”: it means the market loses its throne, a material floor places basic continuance outside total market dependence, and multiple corrigible instruments remain in play. Under current Modal Path Ethics, political transitions are analyzed through explicit bearers, concrete harm-tokens, authority, local knowledge, correction paths, and materially real routes for institutions themselves to lose or be replaced.
 
 Karl Marx was not confused about the problem here. 
 

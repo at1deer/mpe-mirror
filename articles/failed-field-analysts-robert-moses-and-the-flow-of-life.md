@@ -3,15 +3,17 @@ title: "Failed Field Analysts: Robert Moses and the Flow of Life"
 slug: "failed-field-analysts-robert-moses-and-the-flow-of-life"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/"
 published_at: "2026-05-19T06:30:41.000-05:00"
-updated_at: "2026-06-15T06:05:45.000-05:00"
+updated_at: "2026-09-29T20:39:10.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "f15837593e95ce9efe035df6dea44c85ee638f9db99b60f8063b12a1c8277e7a"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "80156d69f1288c7c757ca69f311a8d407f9e9d1479a3e4a01ae805549262bcc4"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
+
+> **September 2026 note:** The core distortion remains: a real instrument of urban coordination became sovereign when metropolitan flow was allowed to spend local continuance and disable correction. The article's neighborhood-as-locus language should now be read at an explicit grain: a neighborhood counts as a locus only where diachronic integration, causal organization, and nonredundant successor structure are actually present; otherwise the relevant harms may be borne by residents, relationships, institutions, routes, and enabling structures. Later bounded-finality work also sharpens the warning about authorities designed to outlast objection: action-capacity must not include uncontrolled authority over the terms of its own correction.
 
 Today, another building is being torn open from the side. 
 

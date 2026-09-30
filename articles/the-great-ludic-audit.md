@@ -3,14 +3,16 @@ title: "The Great Ludic Audit"
 slug: "the-great-ludic-audit"
 canonical_url: "https://modalpathethics.com/the-great-ludic-audit/"
 published_at: "2026-06-17T07:30:33.000-05:00"
-updated_at: "2026-08-10T07:40:12.000-05:00"
+updated_at: "2026-09-29T21:03:05.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "7605948966c4ab0d7ad891f15cda8c3a47af63255ffb04cf45e9b8ad5770f6b5"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "cb746912aa4f674690f1d6ca61479ea8d057895d8a096c346bf70f4c84ede09c"
 ---
 # The Great Ludic Audit
+
+> **September 2026 note:** The audit's central lesson survives: a game can be formally elegant while hiding sequence, memory, asymmetry, burden, or the destruction of later moves, and a philosophical model should be judged partly by what its abstraction makes playable or invisible. The later framework makes several boundaries more exact. First, ludic contraction is not automatically moral harm. A game state, metagame, payoff matrix, or trapped piece can model foreclosure and resistance without itself becoming a harmed locus; moral harm still requires an extant bearer satisfying the locus test. Second, the audit's repeated discovery that time changes the game is better stated now in terms of ordered continuation and active history: repeated interaction matters because prior transitions alter information, expectation, capability, resistance, and what remains reachable, not because time is an additional moral substance. Third, agency and standing remain separate. _The Dictator Game_ correctly shows that a human recipient can bear the consequences of a transition they do not control, but the general lesson is not that every passive object is therefore a locus. Establish the bearer independently. Fourth, _the Ultimatum Game_'s veto insight is only a thin constitutional beginning. Later Bounded Last Words and Material Bounded Finality distinguish bounded final authority, review, replacement, protected continuity, and materially effective correction from a single power to say no. Fifth, “institutions are gameplay” later becomes a fuller constitutional claim: rules and mechanisms shape reachability, but a corrigible institution must preserve an independent route through which its own rules can lose.
 
 Game theory has spent roughly three quarters of the last century releasing some of the most influential games in intellectual history without **anyone** in the gaming press having the courage and integrity to review them.
 

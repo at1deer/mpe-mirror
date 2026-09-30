@@ -1,6 +1,6 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-29T22:32:55.675Z
+Generated: 2026-09-30T05:53:57.593Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
@@ -251,7 +251,7 @@ Canonical site: https://modal-path-ethics.ghost.io
 - 2026-06-15 — [Modal Path Ethics Is Doomed](/articles/modal-path-ethics-is-doomed.md) ([HTML](/articles/modal-path-ethics-is-doomed.html))
 - 2026-06-14 — [Failed Field Analysts: Timothy McVeigh and the Retaliation Machine](/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.md) ([HTML](/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.html))
 - 2026-06-13 — [Applied Case: The Field Intelligence Gap](/articles/applied-case-the-field-intelligence-gap.md) ([HTML](/articles/applied-case-the-field-intelligence-gap.html))
-- 2026-06-13 — [Tales of Distortion: Morpheus](/articles/tales-of-distortion-morpheus.md) ([HTML](/articles/tales-of-distortion-morpheus.html))
+- 2026-06-13 — [Applied Case: Morpheus](/articles/tales-of-distortion-morpheus.md) ([HTML](/articles/tales-of-distortion-morpheus.html))
 - 2026-06-13 — [The Extance Strategy Game](/articles/modal-path-ethics-the-extance-strategy-game.md) ([HTML](/articles/modal-path-ethics-the-extance-strategy-game.html))
 - 2026-06-12 — [The Problem of Time](/articles/the-problem-of-time.md) ([HTML](/articles/the-problem-of-time.html))
 - 2026-06-12 — [Applied Case: The Levant Leverage Field](/articles/applied-case-the-levant-leverage-field.md) ([HTML](/articles/applied-case-the-levant-leverage-field.html))

@@ -3,16 +3,18 @@ title: "Modal Path Ethics Is Doomed"
 slug: "modal-path-ethics-is-doomed"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-doomed/"
 published_at: "2026-06-15T01:44:32.000-05:00"
-updated_at: "2026-06-15T18:05:33.000-05:00"
+updated_at: "2026-09-29T20:59:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "edacfff35d6dd760e8ee3eade9465442e9aa9ddc14692e3afcba3bf7de31f6a4"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "2cba823abb38b967dc418d51d4272b69a7907c651c8be0c19e091ad9683d5367"
 ---
 # Modal Path Ethics Is Doomed
+
+> **September 2026 note:** This article's core rule has become more important, not less: Modal Path Ethics is an instrument and receives no exemption from instrument jurisdiction. Its authority remains conditional on service, correction, translation, replacement, and continued disappearability. Later work supplies two important refinements. Later provenance work distinguishes handoff from erasure. A useful capacity may become ordinary enough that the framework's vocabulary and authority become unnecessary, while the historical source, derivative lineage, and source-object identity remain worth preserving for attribution and later correction. Successful absorption does not authorize a derivative to impersonate its source or destroy the evidence needed to reconstruct how the capacity arrived. The best death remains loss of dependency, not loss of history.
 
 Modal Path Ethics is doomed.
 

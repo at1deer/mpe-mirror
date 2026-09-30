@@ -3,17 +3,19 @@ title: "Citadel Archive: Eden Prime"
 slug: "citadel-archive-eden-prime"
 canonical_url: "https://modalpathethics.com/citadel-archive-eden-prime/"
 published_at: "2026-06-10T07:30:23.000-05:00"
-updated_at: "2026-09-15T21:10:46.000-05:00"
+updated_at: "2026-09-29T20:52:47.000-05:00"
 tags:
   - "Citadel Archive"
   - "Failed Field Analysts"
   - "Field Creature"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "34460d73c81d61b567ba0d6a2e401e4f136ad485584356b1d240b72337961c29"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "6d77786bf0c0dd7f3a00113112e0ec8666df4a045365b7f7685c3039d6a67403"
 ---
 # Citadel Archive: Eden Prime
+
+> **September 2026 note:** This article already anticipates several later tightenings. Its refusal to treat every dialogue-wheel selection as a morally significant event points toward the later distinction between ordinary specification and qualifying contraction. Its strongest Saren analysis—the difference between a closed path and a high-resistance path—survives, but later reachability language makes the test stricter: a path is reachable only when the actual field supports a viable sequence of transitions for the bearer. A vanishingly imaginable route is not automatically live, and sufficiently severe resistance can make a nominal option effectively unreachable. Saren's error is therefore not that he ever acknowledges overwhelming resistance; it is that he treats apparent Reaper inevitability as established closure without adequate warrant, while indoctrination is simultaneously degrading his capacity to assess the field independently. Later Harm work also clarifies the responsibility discussion: Saren can be a locus harmed through contraction of agency and still be a causal vector of severe harm, while blame and responsibility require separate analysis. The article's “What X Closed / What X Opened” boxes are best read as partial transition profiles, not complete verdicts. Finally, the Powell/Manuel/beacon material foreshadows later provenance work: damaged, socially ugly, or poorly translated evidence can still preserve a real correction path, but preserving evidence does not mean inflating its certainty or confusing witness lineage with proof.
 
 The [previous Citadel Archive](https://modalpathethics.com/applied-case-commander-shepard/) somehow ended at the start of the game.
 

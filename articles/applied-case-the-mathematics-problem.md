@@ -3,15 +3,17 @@ title: "Field Instruments: The Mathematics"
 slug: "applied-case-the-mathematics-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematics-problem/"
 published_at: "2026-05-03T04:29:15.000-05:00"
-updated_at: "2026-05-20T13:01:57.000-05:00"
+updated_at: "2026-09-29T20:35:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "96abbb6ab84ff4ab1037d9dc8d0d4e100aa8e7408d41d9aae4dda9e80c58dd82"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "729ffba043ac2973fc9dcc205ccc512869531773b17a6372f9ffbd9efe36b7db"
 ---
 # Field Instruments: The Mathematics
+
+> **September 2026 note:** Mathematics remains an extraordinarily powerful instrument whose applied authority begins only after a field cut. Later work strengthens the anti-sovereignty rule: metrics and formal models must declare grain, assumptions, omitted loci, and correction conditions; no scalar should silently become the field's final authority.
 
 Mathematics does not literally describe extance.
 

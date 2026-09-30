@@ -3,14 +3,16 @@ title: "Chirality: The Úath Board"
 slug: "chirality-the-uath-board"
 canonical_url: "https://modalpathethics.com/chirality-the-uath-board/"
 published_at: "2026-06-09T17:49:57.000-05:00"
-updated_at: "2026-06-09T19:56:49.000-05:00"
+updated_at: "2026-09-29T20:50:57.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "23e1dec2d11c30cd9a002e4288359d30ea1d547f5c1df07254738cde24794117"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "a588ff2acfb702629340a5ce2e88effe723a1b1cc43600cce1d547f4dcb1909f"
 ---
 # Chirality: The Úath Board
+
+> **September 2026 note:** Úath remains a strong demonstration that unchanged rules can produce a substantially different practical field when topology changes reachability. Legal movement, durable position, mobility, central access, infrastructure conversion, and future usefulness come apart; a piece can remain on the board while its practical continuation has collapsed.
 
 [_Chirality, the Chiral Strategy Game_](https://modalpathethics.com/chirality/) now has authored boards.
 

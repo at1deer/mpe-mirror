@@ -3,17 +3,19 @@ title: "Field Instruments: The Languages"
 slug: "applied-case-the-languages"
 canonical_url: "https://modalpathethics.com/applied-case-the-languages/"
 published_at: "2026-05-04T20:52:07.000-05:00"
-updated_at: "2026-05-20T13:00:47.000-05:00"
+updated_at: "2026-09-29T20:35:43.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-29T22:32:55.675Z"
-sha256_plaintext: "a7e182a269025dd4b3348d81ee57b02f5033fb656dad0050cd2a151c68fbe39b"
+mirror_generated_at: "2026-09-30T05:53:57.593Z"
+sha256_plaintext: "393699f7c7cffb179abe3c6b7cdeab492f30c25ef8dac536cd3ec5686f33d35e"
 ---
 # Field Instruments: The Languages
 
-[Language](https://modalpathethics.com/glossary/) is not the field. That should be obvious by now.
+> **September 2026 note:** Language still reveals and launders by the cuts it makes. Later work applies this recursively to Modal Path Ethics itself: learning the vocabulary is not structural perception, and the framework's own terms must remain revisable by the field rather than become an in-group dialect or ontology.
+
+Language is not the field. That should be obvious by now.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/05/75256-2.jpg)
 
