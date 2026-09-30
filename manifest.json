@@ -1,9 +1,45 @@
 {
-  "generated_at": "2026-09-30T12:56:59.789Z",
+  "generated_at": "2026-09-30T22:32:21.530Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 358,
+  "article_count": 360,
   "articles": [
+    {
+      "title": "Henri Bergson and the Vault of Glass",
+      "slug": "henri-bergson-and-the-vault-of-glass",
+      "published_at": "2026-09-30T09:44:45.000-05:00",
+      "updated_at": "2026-09-30T09:44:45.000-05:00",
+      "canonical_url": "https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/",
+      "excerpt": "Guardians make their own fate.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Formal"
+      ],
+      "mirror_markdown_path": "/articles/henri-bergson-and-the-vault-of-glass.md",
+      "mirror_html_path": "/articles/henri-bergson-and-the-vault-of-glass.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/henri-bergson-and-the-vault-of-glass.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/henri-bergson-and-the-vault-of-glass.html",
+      "sha256_plaintext": "718c5a68f3dcc4e1a631fa992e3f8c4894c2da8948061147f9319c0294965cfa"
+    },
+    {
+      "title": "Applied Case: I Gave a Mathematician Homework",
+      "slug": "applied-case-i-gave-a-mathematician-homework",
+      "published_at": "2026-09-30T09:44:24.000-05:00",
+      "updated_at": "2026-09-30T09:44:24.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-i-gave-a-mathematician-homework/",
+      "excerpt": "Introducing Proof-to-Theory",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethical Software",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-i-gave-a-mathematician-homework.md",
+      "mirror_html_path": "/articles/applied-case-i-gave-a-mathematician-homework.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-i-gave-a-mathematician-homework.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-i-gave-a-mathematician-homework.html",
+      "sha256_plaintext": "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
+    },
     {
       "title": "Carl Schmitt and the Batman Who Leaves",
       "slug": "carl-schmitt-and-the-batman-who-leaves",

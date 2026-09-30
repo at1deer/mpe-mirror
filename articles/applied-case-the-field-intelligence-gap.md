@@ -10,7 +10,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T12:56:59.789Z"
+mirror_generated_at: "2026-09-30T22:32:21.530Z"
 sha256_plaintext: "b4856fe23b0022922b171220552ec3fb33302821a992c90a538df74ff28c457a"
 ---
 # Applied Case: The Field Intelligence Gap

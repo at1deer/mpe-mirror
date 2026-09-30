@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-09-30T12:56:59.789Z
+Generated: 2026-09-30T22:32:21.530Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-09-30 — [Henri Bergson and the Vault of Glass](/articles/henri-bergson-and-the-vault-of-glass.md) ([HTML](/articles/henri-bergson-and-the-vault-of-glass.html))
+- 2026-09-30 — [Applied Case: I Gave a Mathematician Homework](/articles/applied-case-i-gave-a-mathematician-homework.md) ([HTML](/articles/applied-case-i-gave-a-mathematician-homework.html))
 - 2026-09-29 — [Carl Schmitt and the Batman Who Leaves](/articles/carl-schmitt-and-the-batman-who-leaves.md) ([HTML](/articles/carl-schmitt-and-the-batman-who-leaves.html))
 - 2026-09-29 — [Christine Korsgaard, Sharon Street, and the Late Agent](/articles/christine-korsgaard-sharon-street-and-the-late-agent.md) ([HTML](/articles/christine-korsgaard-sharon-street-and-the-late-agent.html))
 - 2026-09-28 — [Rotation Battle: Habermas, Foucault, Luhmann](/articles/rotation-battle-habermas-foucault-luhmann.md) ([HTML](/articles/rotation-battle-habermas-foucault-luhmann.html))

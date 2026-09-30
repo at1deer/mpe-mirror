@@ -4,8 +4,24 @@
     <title>Modal Path Ethics Mirror</title>
     <link>https://modal-path-ethics.ghost.io</link>
     <description>Static mirror of published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 30 Sep 2026 12:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:32:21 GMT</lastBuildDate>
     
+    <item>
+      <title>Henri Bergson and the Vault of Glass</title>
+      <link>https://modal-path-ethics.ghost.io/articles/henri-bergson-and-the-vault-of-glass.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/henri-bergson-and-the-vault-of-glass.html</guid>
+      <pubDate>Wed, 30 Sep 2026 14:44:45 GMT</pubDate>
+      <description>Guardians make their own fate.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: I Gave a Mathematician Homework</title>
+      <link>https://modal-path-ethics.ghost.io/articles/applied-case-i-gave-a-mathematician-homework.html</link>
+      <guid>https://modal-path-ethics.ghost.io/articles/applied-case-i-gave-a-mathematician-homework.html</guid>
+      <pubDate>Wed, 30 Sep 2026 14:44:24 GMT</pubDate>
+      <description>Introducing Proof-to-Theory</description>
+    </item>
+
     <item>
       <title>Carl Schmitt and the Batman Who Leaves</title>
       <link>https://modal-path-ethics.ghost.io/articles/carl-schmitt-and-the-batman-who-leaves.html</link>
@@ -388,22 +404,6 @@
       <guid>https://modal-path-ethics.ghost.io/articles/transition-action-color-becomes-structure.html</guid>
       <pubDate>Mon, 14 Sep 2026 12:00:10 GMT</pubDate>
       <description>The pigment is losing jurisdiction.</description>
-    </item>
-
-    <item>
-      <title>A Tale of Three Headlines</title>
-      <link>https://modal-path-ethics.ghost.io/articles/a-tale-of-three-headlines.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/a-tale-of-three-headlines.html</guid>
-      <pubDate>Mon, 14 Sep 2026 11:30:33 GMT</pubDate>
-      <description>The artificial-intelligence company wants to slow down. The President wants to win. The King has a house.</description>
-    </item>
-
-    <item>
-      <title>The Last Safe Megawatt</title>
-      <link>https://modal-path-ethics.ghost.io/articles/the-last-safe-megawatt.html</link>
-      <guid>https://modal-path-ethics.ghost.io/articles/the-last-safe-megawatt.html</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:17 GMT</pubDate>
-      <description>No instrument gets the whole economy.</description>
     </item>
   </channel>
 </rss>
