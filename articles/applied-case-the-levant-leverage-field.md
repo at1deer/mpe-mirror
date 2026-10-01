@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "b15bc6b73390505ecb3dc0a19464228b3b67410ef05898d16172261c4a053793"
 ---
 # Applied Case: The Levant Leverage Field

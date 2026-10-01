@@ -7,7 +7,7 @@ updated_at: "2026-09-01T06:00:46.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
 ---
 # Inner Sovereignty: The Seven Badges

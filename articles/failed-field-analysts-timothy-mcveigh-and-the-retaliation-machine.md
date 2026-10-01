@@ -10,7 +10,7 @@ tags:
   - "Applied Case"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "ef17b56f7ab5058cb9124ddc67dc5774cdc0d81ab5d35313f1ce2477b4fce2bb"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine

@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
 # Story-Minds

@@ -8,7 +8,7 @@ tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "40244f920586d44ce0b6c5ff4a2528267ce07e9087b0cafed4c592f18361af60"
 ---
 # Klein Conformance Protocol

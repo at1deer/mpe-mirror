@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-10-01T06:27:26.150Z",
+  "generated_at": "2026-10-01T13:49:46.324Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 360,
+  "article_count": 362,
   "articles": [
+    {
+      "title": "J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)",
+      "slug": "j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm",
+      "published_at": "2026-10-01T05:45:52.000-05:00",
+      "updated_at": "2026-10-01T05:45:51.000-05:00",
+      "canonical_url": "https://modalpathethics.com/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm/",
+      "excerpt": "Post-Game: moral error theory, objective prescription, and the wound that refuses to disappear",
+      "tags": [
+        "Post-Game",
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md",
+      "mirror_html_path": "/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html",
+      "sha256_plaintext": "52b7eecfc160a35042eebb60af261a4d7177719d084dcaccb50481b2ecb8c903"
+    },
+    {
+      "title": "Applied Case: The Mathematician Still Has a Job",
+      "slug": "applied-case-the-mathematician-still-has-a-job",
+      "published_at": "2026-10-01T05:45:37.000-05:00",
+      "updated_at": "2026-10-01T05:45:36.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-mathematician-still-has-a-job/",
+      "excerpt": "Proof-to-Theory ran blind on Chair44. It found the engine. Meanwhile, Chaim Goodman-Strauss found the three colors.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethical Software"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-mathematician-still-has-a-job.md",
+      "mirror_html_path": "/articles/applied-case-the-mathematician-still-has-a-job.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematician-still-has-a-job.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/applied-case-the-mathematician-still-has-a-job.html",
+      "sha256_plaintext": "da27e52e256e082a5e0bdaca88b79ef71892abaa811f315e1ac973c7a24dffa0"
+    },
     {
       "title": "Henri Bergson and the Vault of Glass",
       "slug": "henri-bergson-and-the-vault-of-glass",

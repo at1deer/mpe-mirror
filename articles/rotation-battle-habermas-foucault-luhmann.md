@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Pokémon"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
 ---
 # Rotation Battle: Habermas, Foucault, Luhmann

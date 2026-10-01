@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-10-01T06:27:26.150Z
+Generated: 2026-10-01T13:49:46.324Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-10-01 — [J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)](/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md) ([HTML](/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html))
+- 2026-10-01 — [Applied Case: The Mathematician Still Has a Job](/articles/applied-case-the-mathematician-still-has-a-job.md) ([HTML](/articles/applied-case-the-mathematician-still-has-a-job.html))
 - 2026-09-30 — [Henri Bergson and the Vault of Glass](/articles/henri-bergson-and-the-vault-of-glass.md) ([HTML](/articles/henri-bergson-and-the-vault-of-glass.html))
 - 2026-09-30 — [Applied Case: I Gave a Mathematician Homework](/articles/applied-case-i-gave-a-mathematician-homework.md) ([HTML](/articles/applied-case-i-gave-a-mathematician-homework.html))
 - 2026-09-29 — [Carl Schmitt and the Batman Who Leaves](/articles/carl-schmitt-and-the-batman-who-leaves.md) ([HTML](/articles/carl-schmitt-and-the-batman-who-leaves.html))

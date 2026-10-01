@@ -7,7 +7,7 @@ updated_at: "2026-09-12T05:30:18.000-05:00"
 tags:
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
 ---
 # The Green Model

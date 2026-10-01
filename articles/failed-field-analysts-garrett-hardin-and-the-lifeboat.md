@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
 # Failed Field Analysts: Garrett Hardin and the Lifeboat

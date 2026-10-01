@@ -10,7 +10,7 @@ tags:
   - "Inner Apocalypse"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
 # Harm as Contraction and Structural Ethics

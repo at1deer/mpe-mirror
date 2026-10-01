@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon

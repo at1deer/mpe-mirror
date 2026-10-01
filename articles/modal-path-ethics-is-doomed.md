@@ -9,7 +9,7 @@ tags:
   - "Supplement"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "2cba823abb38b967dc418d51d4272b69a7907c651c8be0c19e091ad9683d5367"
 ---
 # Modal Path Ethics Is Doomed

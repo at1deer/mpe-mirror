@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human

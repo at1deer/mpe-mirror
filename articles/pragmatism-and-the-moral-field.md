@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T06:27:26.150Z"
+mirror_generated_at: "2026-10-01T13:49:46.324Z"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
