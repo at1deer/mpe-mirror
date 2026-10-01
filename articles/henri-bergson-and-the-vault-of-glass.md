@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T22:32:21.530Z"
+mirror_generated_at: "2026-10-01T06:27:26.150Z"
 sha256_plaintext: "718c5a68f3dcc4e1a631fa992e3f8c4894c2da8948061147f9319c0294965cfa"
 ---
 # Henri Bergson and the Vault of Glass

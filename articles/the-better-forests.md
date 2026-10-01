@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Transition Action"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T22:32:21.530Z"
+mirror_generated_at: "2026-10-01T06:27:26.150Z"
 sha256_plaintext: "968a7466d4196c44c9bbacc11845f49e2b9b35b891ef10bbaa4c7c0f7f356355"
 ---
 # The Better Forests

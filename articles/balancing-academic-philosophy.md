@@ -8,7 +8,7 @@ tags:
   - "Chirality"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T22:32:21.530Z"
+mirror_generated_at: "2026-10-01T06:27:26.150Z"
 sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
 # Balancing the Broken Meta of Academic Philosophy

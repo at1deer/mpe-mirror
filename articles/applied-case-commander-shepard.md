@@ -10,7 +10,7 @@ tags:
   - "Chirality"
   - "Field Creature"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T22:32:21.530Z"
+mirror_generated_at: "2026-10-01T06:27:26.150Z"
 sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
 # Citadel Archive: Commander Shepard

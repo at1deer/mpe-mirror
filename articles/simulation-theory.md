@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-09-30T22:32:21.530Z"
+mirror_generated_at: "2026-10-01T06:27:26.150Z"
 sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
 # Applied Case: The Simulation Theory
