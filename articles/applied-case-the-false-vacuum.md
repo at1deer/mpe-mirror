@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
 # Applied Case: The False Vacuum

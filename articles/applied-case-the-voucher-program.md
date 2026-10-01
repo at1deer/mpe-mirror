@@ -8,7 +8,7 @@ tags:
   - "Inner Apocalypse"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
 # Applied Case: The Housing Choice Voucher Program

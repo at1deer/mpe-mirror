@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "fec18215217a17e0483023f934e5db43b09b4e6e3338accc9b399e22668dfb75"
 ---
 # Applied Case: The Shooter Inquiry

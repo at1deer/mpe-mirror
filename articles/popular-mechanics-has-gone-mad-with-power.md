@@ -8,7 +8,7 @@ tags:
   - "Instrument Jurisdiction"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
 # Popular Mechanics Has Gone Mad With Power

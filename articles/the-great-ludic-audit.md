@@ -7,7 +7,7 @@ updated_at: "2026-09-29T21:03:05.000-05:00"
 tags:
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "cb746912aa4f674690f1d6ca61479ea8d057895d8a096c346bf70f4c84ede09c"
 ---
 # The Great Ludic Audit

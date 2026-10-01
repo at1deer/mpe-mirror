@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
 # Applied Case: The Non-Planet Problem

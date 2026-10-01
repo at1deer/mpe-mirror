@@ -3,13 +3,14 @@ title: "Applied Case: The Mathematician Still Has a Job"
 slug: "applied-case-the-mathematician-still-has-a-job"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematician-still-has-a-job/"
 published_at: "2026-10-01T05:45:37.000-05:00"
-updated_at: "2026-10-01T05:45:36.000-05:00"
+updated_at: "2026-10-01T10:12:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethical Software"
+  - "Proof-to-Theory"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
-sha256_plaintext: "da27e52e256e082a5e0bdaca88b79ef71892abaa811f315e1ac973c7a24dffa0"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
+sha256_plaintext: "fca470a11aa99ff095e20cfea236b396aeae7ba8ad1926c9073c12cf13f9b3c8"
 ---
 # Applied Case: The Mathematician Still Has a Job
 
@@ -251,18 +252,6 @@ The theory was still arriving.
 
 [
 
-chair44-ptt-041
-
-chair44-ptt-041.md
-
-16 KB
-
-download-circle
-
-](https://modalpathethics.com/content/files/2026/10/chair44-ptt-041.md "Download")
-
-[
-
 chair44-ptt-041-standalone
 
 chair44-ptt-041-standalone.html
@@ -272,6 +261,34 @@ chair44-ptt-041-standalone.html
 download-circle
 
 ](https://modalpathethics.com/content/files/2026/10/chair44-ptt-041-standalone.html "Download")
+
+**Download the exact frozen PTT-041 candidate.**
+
+[
+
+PTT041\_FROZEN\_CANDIDATE\_BUNDLE\_v1
+
+SHA-256: 8352e5b5c2ccd765e578302e31886dd0ca5ebe3ef0e18ae9fc811749def1f092
+
+PTT041\_FROZEN\_CANDIDATE\_BUNDLE\_v1.zip
+
+25 KB
+
+download-circle
+
+](https://modalpathethics.com/content/files/2026/10/PTT041_FROZEN_CANDIDATE_BUNDLE_v1.zip "Download")
+
+[
+
+PTT041\_CANDIDATE
+
+PTT041\_CANDIDATE.md
+
+31 KB
+
+download-circle
+
+](https://modalpathethics.com/content/files/2026/10/PTT041_CANDIDATE.md "Download")
 
 * * *
 

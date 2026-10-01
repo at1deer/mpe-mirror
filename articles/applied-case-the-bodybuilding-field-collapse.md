@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "6be0eaa671dcff8859ad92e14cc23d7541785ad9a5d27d9c7b25b480701ab31a"
 ---
 # Applied Case: The Bodybuilding Field Collapse

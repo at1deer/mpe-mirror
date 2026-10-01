@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
 # Tales of Distortion: The N-Rays

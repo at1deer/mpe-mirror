@@ -8,8 +8,9 @@ tags:
   - "Applied Case"
   - "Modal Path Ethical Software"
   - "Modal Systems"
+  - "Proof-to-Theory"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
 ---
 # Applied Case: I Gave a Mathematician Homework

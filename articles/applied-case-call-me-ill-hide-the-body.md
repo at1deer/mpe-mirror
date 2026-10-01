@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body

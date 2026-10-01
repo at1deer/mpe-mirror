@@ -8,7 +8,7 @@ tags:
   - "Field Instruments"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T13:49:46.324Z"
+mirror_generated_at: "2026-10-01T22:52:07.390Z"
 sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
 # Field Instruments: The Democratic Process
