@@ -9,7 +9,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T06:05:50.809Z"
+mirror_generated_at: "2026-10-02T13:05:05.013Z"
 sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
 # Formal: Contraction Is Harm

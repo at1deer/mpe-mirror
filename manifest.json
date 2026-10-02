@@ -1,9 +1,30 @@
 {
-  "generated_at": "2026-10-02T06:05:50.809Z",
+  "generated_at": "2026-10-02T13:05:05.013Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 362,
+  "article_count": 363,
   "articles": [
+    {
+      "title": "How I 6-0’d Nick Bostrom With Aurumoth",
+      "slug": "how-i-6-0d-nick-bostrom-with-aurumoth",
+      "published_at": "2026-10-02T06:00:32.000-05:00",
+      "updated_at": "2026-10-02T06:00:31.000-05:00",
+      "canonical_url": "https://modalpathethics.com/how-i-6-0d-nick-bostrom-with-aurumoth/",
+      "excerpt": "\"It was just a matter of time before we got burned by the power creep of Topic Leaders.\" - DougJustDoug",
+      "tags": [
+        "Multiplayer",
+        "Engagement",
+        "Inner Apocalypse",
+        "Pokémon",
+        "Post-Game",
+        "Chastening of the Controller"
+      ],
+      "mirror_markdown_path": "/articles/how-i-6-0d-nick-bostrom-with-aurumoth.md",
+      "mirror_html_path": "/articles/how-i-6-0d-nick-bostrom-with-aurumoth.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/how-i-6-0d-nick-bostrom-with-aurumoth.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/how-i-6-0d-nick-bostrom-with-aurumoth.html",
+      "sha256_plaintext": "b786cb70c7cd1317af05aa98c72d5884aa0dca403ccc65531694dc371420bdaa"
+    },
     {
       "title": "J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)",
       "slug": "j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm",

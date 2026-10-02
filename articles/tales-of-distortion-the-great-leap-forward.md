@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T06:05:50.809Z"
+mirror_generated_at: "2026-10-02T13:05:05.013Z"
 sha256_plaintext: "6b053ee7b572e348982b86a284e17a58ec48c5813fffa00028c1c3b9fcd48c60"
 ---
 # Tales of Distortion: The Great Leap Forward
