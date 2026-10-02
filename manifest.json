@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T22:52:07.390Z",
+  "generated_at": "2026-10-02T06:05:50.809Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
   "article_count": 362,
@@ -43,7 +43,7 @@
       "title": "Henri Bergson and the Vault of Glass",
       "slug": "henri-bergson-and-the-vault-of-glass",
       "published_at": "2026-09-30T09:44:45.000-05:00",
-      "updated_at": "2026-09-30T09:44:45.000-05:00",
+      "updated_at": "2026-10-01T23:07:57.000-05:00",
       "canonical_url": "https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/",
       "excerpt": "Guardians make their own fate.",
       "tags": [
@@ -61,7 +61,7 @@
       "title": "Applied Case: I Gave a Mathematician Homework",
       "slug": "applied-case-i-gave-a-mathematician-homework",
       "published_at": "2026-09-30T09:44:24.000-05:00",
-      "updated_at": "2026-09-30T09:44:24.000-05:00",
+      "updated_at": "2026-10-01T23:07:44.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-i-gave-a-mathematician-homework/",
       "excerpt": "Introducing Proof-to-Theory",
       "tags": [
@@ -226,13 +226,14 @@
       "title": "Modal Path Ethics Tries to Retire",
       "slug": "modal-path-ethics-tries-to-retire",
       "published_at": "2026-09-25T05:45:11.000-05:00",
-      "updated_at": "2026-09-26T15:44:45.000-05:00",
+      "updated_at": "2026-10-01T23:08:17.000-05:00",
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-tries-to-retire/",
       "excerpt": "Bloch, Whitehead, Spinoza, Canguilhem, Jonas, and an Attempt to Prove All This Was Already Invented So I Can Stop",
       "tags": [
         "Modal Path Ethics",
         "Engagement",
-        "Supplement"
+        "Supplement",
+        "Post-Game"
       ],
       "mirror_markdown_path": "/articles/modal-path-ethics-tries-to-retire.md",
       "mirror_html_path": "/articles/modal-path-ethics-tries-to-retire.html",
@@ -995,7 +996,7 @@
       "title": "Applied Case: Revenge of the Theorem Scoreboard",
       "slug": "applied-case-the-mathematicians-appeal-the-scoreboard",
       "published_at": "2026-09-12T06:30:24.000-05:00",
-      "updated_at": "2026-09-15T13:55:09.000-05:00",
+      "updated_at": "2026-10-01T23:07:29.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/",
       "excerpt": "Twenty-five Fields Medalists, Fermat, Navier–Stokes, and what happens when proof generation outruns mathematics.",
       "tags": [

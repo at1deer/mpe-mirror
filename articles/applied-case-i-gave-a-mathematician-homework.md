@@ -3,14 +3,14 @@ title: "Applied Case: I Gave a Mathematician Homework"
 slug: "applied-case-i-gave-a-mathematician-homework"
 canonical_url: "https://modalpathethics.com/applied-case-i-gave-a-mathematician-homework/"
 published_at: "2026-09-30T09:44:24.000-05:00"
-updated_at: "2026-09-30T09:44:24.000-05:00"
+updated_at: "2026-10-01T23:07:44.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethical Software"
   - "Modal Systems"
   - "Proof-to-Theory"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T22:52:07.390Z"
+mirror_generated_at: "2026-10-02T06:05:50.809Z"
 sha256_plaintext: "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
 ---
 # Applied Case: I Gave a Mathematician Homework

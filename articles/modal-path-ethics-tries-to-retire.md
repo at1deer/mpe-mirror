@@ -3,13 +3,14 @@ title: "Modal Path Ethics Tries to Retire"
 slug: "modal-path-ethics-tries-to-retire"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-tries-to-retire/"
 published_at: "2026-09-25T05:45:11.000-05:00"
-updated_at: "2026-09-26T15:44:45.000-05:00"
+updated_at: "2026-10-01T23:08:17.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
+  - "Post-Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T22:52:07.390Z"
+mirror_generated_at: "2026-10-02T06:05:50.809Z"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire

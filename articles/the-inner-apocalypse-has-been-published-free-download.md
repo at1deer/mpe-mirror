@@ -9,7 +9,7 @@ tags:
   - "Inner Apocalypse"
   - "News"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-01T22:52:07.390Z"
+mirror_generated_at: "2026-10-02T06:05:50.809Z"
 sha256_plaintext: "ce7b783fd95e1c026bbfbaa195b342ed0bb9842a7b39503dad5bf3d51fa1a4f4"
 ---
 # The Inner Apocalypse Has Been Published (Free Download)
