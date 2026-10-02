@@ -7,7 +7,7 @@ updated_at: "2026-09-29T20:41:03.000-05:00"
 tags:
   - "Field Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T13:05:05.013Z"
+mirror_generated_at: "2026-10-02T22:30:10.248Z"
 sha256_plaintext: "b55cf19f26d62b21d0fa45b3002d371eb7c6c284d344ffaf7bbb1a56c663bdd0"
 ---
 # Field Instruments: Accounting

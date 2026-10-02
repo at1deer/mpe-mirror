@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-10-02T13:05:05.013Z",
+  "generated_at": "2026-10-02T22:30:10.248Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 363,
+  "article_count": 364,
   "articles": [
+    {
+      "title": "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI",
+      "slug": "gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai",
+      "published_at": "2026-10-02T16:46:04.000-05:00",
+      "updated_at": "2026-10-02T16:46:04.000-05:00",
+      "canonical_url": "https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/",
+      "excerpt": "Modal Path Ethics downloaded the data. This matters.",
+      "tags": [],
+      "mirror_markdown_path": "/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md",
+      "mirror_html_path": "/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.html",
+      "sha256_plaintext": "bcc2809cc6abd2d93ccf845dd11c0a6eefadceb1ae56f36bb5ef8639360bfb91"
+    },
     {
       "title": "How I 6-0’d Nick Bostrom With Aurumoth",
       "slug": "how-i-6-0d-nick-bostrom-with-aurumoth",

@@ -9,7 +9,7 @@ tags:
   - "Supplement"
   - "Formal"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T13:05:05.013Z"
+mirror_generated_at: "2026-10-02T22:30:10.248Z"
 sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
 ---
 # Field Tense Logic

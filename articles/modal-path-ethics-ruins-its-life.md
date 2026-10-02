@@ -10,7 +10,7 @@ tags:
   - "Formal"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T13:05:05.013Z"
+mirror_generated_at: "2026-10-02T22:30:10.248Z"
 sha256_plaintext: "f6153fb444e482f7100b0ffad4331fc40b9cea40fe9a2e48c1dc32e0764d2a5e"
 ---
 # Modal Path Ethics Ruins Its Life

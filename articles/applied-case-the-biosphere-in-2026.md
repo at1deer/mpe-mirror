@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T13:05:05.013Z"
+mirror_generated_at: "2026-10-02T22:30:10.248Z"
 sha256_plaintext: "81f805f8b9cc59df3116b8422db7986e1a5fb53946560c80acd47cb9185551fc"
 ---
 # Applied Case: The Biosphere in 2026

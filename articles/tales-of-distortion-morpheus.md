@@ -10,7 +10,7 @@ tags:
   - "Failed Field Analysts"
   - "Sacred Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T13:05:05.013Z"
+mirror_generated_at: "2026-10-02T22:30:10.248Z"
 sha256_plaintext: "45fbf66b9baa3767cb2a2d158666281cfff2717fe3485bcd47e93cdf0a04ad6b"
 ---
 # Applied Case: Morpheus
