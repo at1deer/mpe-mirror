@@ -8,7 +8,7 @@ tags:
   - "Post-Game"
   - "Engagement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T16:38:48.503Z"
+mirror_generated_at: "2026-10-03T21:42:47.002Z"
 sha256_plaintext: "52b7eecfc160a35042eebb60af261a4d7177719d084dcaccb50481b2ecb8c903"
 ---
 # J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)
