@@ -9,7 +9,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine

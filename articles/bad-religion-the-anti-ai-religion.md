@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion

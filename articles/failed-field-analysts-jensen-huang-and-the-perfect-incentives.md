@@ -10,7 +10,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
 ---
 # Failed Field Analysts: Jensen Huang and the Perfect Incentives

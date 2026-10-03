@@ -7,7 +7,7 @@ updated_at: "2026-09-30T02:12:09.000-05:00"
 tags:
   - "Apologies Department"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
 # Modal Path Ethics Apologizes to Walter Veit

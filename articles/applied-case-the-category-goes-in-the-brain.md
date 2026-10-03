@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
 ---
 # Applied Case: The Category Goes In the Brain

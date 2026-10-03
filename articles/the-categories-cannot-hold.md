@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
 # The Categories Cannot Hold

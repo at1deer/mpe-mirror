@@ -7,7 +7,7 @@ updated_at: "2026-09-15T21:59:23.000-05:00"
 tags:
   - "Convergence Point"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
 # Convergence Point: Eduardo Blasco and the Engineer Who Found the Future

@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
 # Applied Case: The Chestnut Blight

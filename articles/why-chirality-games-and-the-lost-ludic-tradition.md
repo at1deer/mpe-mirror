@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition

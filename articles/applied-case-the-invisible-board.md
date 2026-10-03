@@ -7,7 +7,7 @@ updated_at: "2026-08-08T06:00:31.000-05:00"
 tags:
   []
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
 # Applied Case: The Invisible Board

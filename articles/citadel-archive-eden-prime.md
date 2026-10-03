@@ -10,7 +10,7 @@ tags:
   - "Field Creature"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "6d77786bf0c0dd7f3a00113112e0ec8666df4a045365b7f7685c3039d6a67403"
 ---
 # Citadel Archive: Eden Prime

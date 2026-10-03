@@ -9,7 +9,7 @@ tags:
   - "Modal Systems"
   - "Instrument Jurisdiction"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence

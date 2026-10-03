@@ -8,7 +8,7 @@ tags:
   - "Applied Case"
   - "Modal Systems"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "c2c0ee3ca8b0286eda4a278593b327fc3d135d99453c3baf9e50f7e64a8cc1f5"
 ---
 # Applied Case: The Planes Were in the Air

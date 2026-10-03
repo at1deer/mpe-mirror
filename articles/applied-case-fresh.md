@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
 # Applied Case: Fresh (1994)

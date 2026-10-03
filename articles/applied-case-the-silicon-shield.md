@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
 # Applied Case: The Silicon Shield

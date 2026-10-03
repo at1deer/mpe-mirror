@@ -8,7 +8,7 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
 # Applied Case: The Missing Link

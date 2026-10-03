@@ -7,7 +7,7 @@ updated_at: "2026-09-11T22:29:15.000-05:00"
 tags:
   - "Applied Case"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-02T22:30:10.248Z"
+mirror_generated_at: "2026-10-03T05:40:21.312Z"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide
