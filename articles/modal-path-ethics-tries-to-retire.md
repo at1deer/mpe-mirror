@@ -10,7 +10,7 @@ tags:
   - "Supplement"
   - "Post-Game"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T11:57:48.118Z"
+mirror_generated_at: "2026-10-03T16:38:48.503Z"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire

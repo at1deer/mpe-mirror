@@ -9,7 +9,7 @@ tags:
   - "Modal Path Ethics"
   - "Biosphere"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T11:57:48.118Z"
+mirror_generated_at: "2026-10-03T16:38:48.503Z"
 sha256_plaintext: "7ec7a9329b159660bb7dd7ad9f8a56affbd446b58e4efa5a1e93680d2bd283fd"
 ---
 # Applied Case: The Lorax and Repair Theater

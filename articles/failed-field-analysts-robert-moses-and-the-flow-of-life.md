@@ -8,7 +8,7 @@ tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T11:57:48.118Z"
+mirror_generated_at: "2026-10-03T16:38:48.503Z"
 sha256_plaintext: "80156d69f1288c7c757ca69f311a8d407f9e9d1479a3e4a01ae805549262bcc4"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
