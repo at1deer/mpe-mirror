@@ -1,9 +1,43 @@
 {
-  "generated_at": "2026-10-03T05:40:21.312Z",
+  "generated_at": "2026-10-03T11:57:48.118Z",
   "canonical_site": "https://modal-path-ethics.ghost.io",
   "mirror_base_url": "https://modal-path-ethics.ghost.io",
-  "article_count": 364,
+  "article_count": 366,
   "articles": [
+    {
+      "title": "MODAL KOMBAT: Catherine Malabou and the Transition Problem",
+      "slug": "multiplayer-catherine-malabou-and-the-transition-problem",
+      "published_at": "2026-10-03T06:00:03.000-05:00",
+      "updated_at": "2026-10-03T06:00:02.000-05:00",
+      "canonical_url": "https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/",
+      "excerpt": "\"I am no longer Bi-Han. I am Sub-Zero.\"",
+      "tags": [
+        "Multiplayer",
+        "Engagement"
+      ],
+      "mirror_markdown_path": "/articles/multiplayer-catherine-malabou-and-the-transition-problem.md",
+      "mirror_html_path": "/articles/multiplayer-catherine-malabou-and-the-transition-problem.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/multiplayer-catherine-malabou-and-the-transition-problem.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/multiplayer-catherine-malabou-and-the-transition-problem.html",
+      "sha256_plaintext": "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
+    },
+    {
+      "title": "This Is Not Worker Solidarity You Morons",
+      "slug": "this-is-not-worker-solidarity-you-morons",
+      "published_at": "2026-10-03T05:50:34.000-05:00",
+      "updated_at": "2026-10-03T05:50:33.000-05:00",
+      "canonical_url": "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/",
+      "excerpt": "The people are still piloting the robots. The gamers still make steam come out of my eyes.",
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "mirror_markdown_path": "/articles/this-is-not-worker-solidarity-you-morons.md",
+      "mirror_html_path": "/articles/this-is-not-worker-solidarity-you-morons.html",
+      "mirror_markdown_url": "https://modal-path-ethics.ghost.io/articles/this-is-not-worker-solidarity-you-morons.md",
+      "mirror_html_url": "https://modal-path-ethics.ghost.io/articles/this-is-not-worker-solidarity-you-morons.html",
+      "sha256_plaintext": "30bf63ad7e5dd92de934720a8dc7e05d9d1cd13b2864588a025f7bc8c17fb137"
+    },
     {
       "title": "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI",
       "slug": "gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai",

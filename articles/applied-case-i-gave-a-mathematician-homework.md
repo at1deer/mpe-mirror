@@ -10,7 +10,7 @@ tags:
   - "Modal Systems"
   - "Proof-to-Theory"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T05:40:21.312Z"
+mirror_generated_at: "2026-10-03T11:57:48.118Z"
 sha256_plaintext: "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
 ---
 # Applied Case: I Gave a Mathematician Homework

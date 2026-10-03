@@ -12,7 +12,7 @@ tags:
   - "Post-Game"
   - "Chastening of the Controller"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T05:40:21.312Z"
+mirror_generated_at: "2026-10-03T11:57:48.118Z"
 sha256_plaintext: "b786cb70c7cd1317af05aa98c72d5884aa0dca403ccc65531694dc371420bdaa"
 ---
 # How I 6-0’d Nick Bostrom With Aurumoth

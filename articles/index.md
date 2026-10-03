@@ -1,9 +1,11 @@
 # Modal Path Ethics Article Index
 
-Generated: 2026-10-03T05:40:21.312Z
+Generated: 2026-10-03T11:57:48.118Z
 
 Canonical site: https://modal-path-ethics.ghost.io
 
+- 2026-10-03 — [MODAL KOMBAT: Catherine Malabou and the Transition Problem](/articles/multiplayer-catherine-malabou-and-the-transition-problem.md) ([HTML](/articles/multiplayer-catherine-malabou-and-the-transition-problem.html))
+- 2026-10-03 — [This Is Not Worker Solidarity You Morons](/articles/this-is-not-worker-solidarity-you-morons.md) ([HTML](/articles/this-is-not-worker-solidarity-you-morons.html))
 - 2026-10-02 — [Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI](/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md) ([HTML](/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.html))
 - 2026-10-02 — [How I 6-0’d Nick Bostrom With Aurumoth](/articles/how-i-6-0d-nick-bostrom-with-aurumoth.md) ([HTML](/articles/how-i-6-0d-nick-bostrom-with-aurumoth.html))
 - 2026-10-01 — [J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)](/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md) ([HTML](/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html))

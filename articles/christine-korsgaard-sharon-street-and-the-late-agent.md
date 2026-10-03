@@ -9,7 +9,7 @@ tags:
   - "Engagement"
   - "Multiplayer"
 source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T05:40:21.312Z"
+mirror_generated_at: "2026-10-03T11:57:48.118Z"
 sha256_plaintext: "e995e43ffc84b2b6f85db066af635243ff633264fa65e4c938f8920cc86855bc"
 ---
 # Christine Korsgaard, Sharon Street, and the Late Agent
