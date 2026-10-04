@@ -1,13 +1,13 @@
 {
   "name": "mpe-static-mirror",
-  "version": "0.1.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "sync": "node scripts/sync-ghost.mjs"
   },
   "dependencies": {
-    "turndown": "^7.2.0"
+    "turndown": "7.2.0"
   },
   "engines": {
     "node": ">=20"

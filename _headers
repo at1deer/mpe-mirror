@@ -1,3 +1,10 @@
+/*
+  X-Robots-Tag: noindex, noarchive
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+
 /articles/*.md
   Content-Type: text/markdown; charset=utf-8
   Cache-Control: no-cache
@@ -10,14 +17,10 @@
   Content-Type: application/json; charset=utf-8
   Cache-Control: no-cache
 
+/meta/*.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+
 /llms.txt
   Content-Type: text/plain; charset=utf-8
-  Cache-Control: no-cache
-
-/tracks/*.md
-  Content-Type: text/markdown; charset=utf-8
-  Cache-Control: no-cache
-
-/canon/*.md
-  Content-Type: text/markdown; charset=utf-8
   Cache-Control: no-cache

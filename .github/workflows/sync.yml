@@ -2,15 +2,28 @@ name: Sync Ghost mirror
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "package.json"
+      - "_headers"
+      - "README.md"
+      - ".github/workflows/sync.yml"
   schedule:
     - cron: "37 */6 * * *"
 
 permissions:
   contents: write
 
+concurrency:
+  group: mpe-ghost-mirror-sync
+  cancel-in-progress: true
+
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Check out mirror repo
         uses: actions/checkout@v4
@@ -21,20 +34,24 @@ jobs:
           node-version: 20
 
       - name: Install dependencies
-        run: npm install
+        run: npm install --ignore-scripts
 
       - name: Sync published Ghost posts
         env:
+          # Keep the API endpoint configurable. The canonical publication and
+          # mirror hostname are deliberately pinned here so a stale repo variable
+          # cannot redirect generated links back to ghost.io.
           GHOST_API_URL: ${{ vars.GHOST_API_URL }}
           GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
-          MIRROR_BASE_URL: ${{ vars.MIRROR_BASE_URL }}
+          CANONICAL_SITE_URL: https://modalpathethics.com
+          MIRROR_BASE_URL: https://mirror.modalpathethics.com
         run: npm run sync
 
       - name: Commit mirror updates
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add articles manifest.json sitemap.xml rss.xml llms.txt index.html
+          git add -A articles meta manifest.json sitemap.xml rss.xml llms.txt index.html 404.html
           if git diff --cached --quiet; then
             echo "No mirror changes."
           else
