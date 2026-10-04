@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-04T12:48:52.515Z",
+  "generated_at": "2026-10-04T21:52:18.747Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -4427,7 +4427,7 @@
       "title": "Field Tense Logic",
       "slug": "field-tense-logic",
       "published_at": "2026-07-01T07:30:55.000-05:00",
-      "updated_at": "2026-09-26T16:37:21.000-05:00",
+      "updated_at": "2026-10-04T16:51:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-tense-logic/",
       "excerpt": "Prior, Branching Time, STIT, and field-tense logic; the new formal language of Modal Path Ethics.",
       "tags": [
@@ -4442,7 +4442,7 @@
       "mirror_html_path": "/articles/field-tense-logic.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/field-tense-logic.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/field-tense-logic.html",
-      "sha256_plaintext": "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
+      "sha256_plaintext": "e05015fbd9449afe2cad23920bc08a5b4753dac3474c11ce22d2ee9102651453"
     },
     {
       "title": "Applied Case: The SCP Foundation",
@@ -5973,7 +5973,7 @@
       "title": "Formal: Resistance and Harm",
       "slug": "formal-resistance-and-harm",
       "published_at": "2026-05-11T08:02:36.000-05:00",
-      "updated_at": "2026-06-11T05:21:14.000-05:00",
+      "updated_at": "2026-10-04T16:50:54.000-05:00",
       "canonical_url": "https://modalpathethics.com/formal-resistance-and-harm/",
       "excerpt": "Why is making a future harder to reach already moral damage?",
       "tags": [
@@ -5988,7 +5988,7 @@
       "mirror_html_path": "/articles/formal-resistance-and-harm.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/formal-resistance-and-harm.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/formal-resistance-and-harm.html",
-      "sha256_plaintext": "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
+      "sha256_plaintext": "c7feb09b74d82ebfafadd9e193cf951d815a5dd3d0624f0d843925a938655915"
     },
     {
       "title": "Capabilities & Obligations",

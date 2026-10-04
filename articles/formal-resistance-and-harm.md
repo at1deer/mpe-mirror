@@ -4,7 +4,7 @@ slug: "formal-resistance-and-harm"
 canonical_url: "https://modalpathethics.com/formal-resistance-and-harm/"
 mirror_url: "https://mirror.modalpathethics.com/articles/formal-resistance-and-harm.md"
 published_at: "2026-05-11T08:02:36.000-05:00"
-updated_at: "2026-06-11T05:21:14.000-05:00"
+updated_at: "2026-10-04T16:50:54.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
@@ -12,11 +12,13 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-04T12:48:52.515Z"
+mirror_generated_at: "2026-10-04T21:52:18.747Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
+sha256_plaintext: "c7feb09b74d82ebfafadd9e193cf951d815a5dd3d0624f0d843925a938655915"
 ---
 # Formal: Resistance and Harm
+
+> **September Note:** Resistance remains one of the framework's most important insights: a future can be harmed while still formally available. Current [_Harm_](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/) work treats **resistance thickening** as one of the principal modes of contraction alongside foreclosure and generative damage, rather than as a separate rival moral primitive.
 
 This objection is simple:
 

@@ -4,7 +4,7 @@ slug: "field-tense-logic"
 canonical_url: "https://modalpathethics.com/field-tense-logic/"
 mirror_url: "https://mirror.modalpathethics.com/articles/field-tense-logic.md"
 published_at: "2026-07-01T07:30:55.000-05:00"
-updated_at: "2026-09-26T16:37:21.000-05:00"
+updated_at: "2026-10-04T16:51:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-04T12:48:52.515Z"
+mirror_generated_at: "2026-10-04T21:52:18.747Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
+sha256_plaintext: "e05015fbd9449afe2cad23920bc08a5b4753dac3474c11ce22d2ee9102651453"
 ---
 # Field Tense Logic
 
@@ -22,7 +22,19 @@ sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3
 
 > The underlying distinctions concerning retained history, reachability, resistance, repair, and moral remainder remain useful, while later work has shifted toward **actual transitions**, **structurally significant continuation**, and **damage to continuation-generating structure** without requiring a pre-given inventory of future branches.
 
-> A forthcoming engagement with Henri Bergson will give the current account.
+> Read the engagement with Henri Bergson for the current account:
+
+[
+
+Henri Bergson and the Vault of Glass
+
+Guardians make their own fate.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-e90c2c32-c156-4d85-8d85-f25ae025b9ce.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/destiny-2-vex-sized-fa75ff38-057a-4cfe-b2a3-5b96869dc6d1.jpg)
+
+](https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/)
 
 **Modal Path Ethics field-tense logic** is the formal language behind the tail argument. [The earlier Buddhism-facing article](https://modalpathethics.com/samsara-repair/) used the language only where it was needed: to show why repair does not cancel history, why better does not mean innocent, and why a damaged extant field cannot path into literal zero resistance.
 
