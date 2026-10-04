@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 06:15:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:48:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Proof Was 166 Pages Long</title>
+      <link>https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-proof-was-166-pages-long.html</guid>
+      <pubDate>Sun, 04 Oct 2026 10:45:06 GMT</pubDate>
+      <description>OpenAI's Navier–Stokes submission came with a paper, a Lean repository, and one remaining problem: what is the argument doing?</description>
+    </item>
+
+    <item>
+      <title>Pope Leo and the Ontological Border</title>
+      <link>https://modalpathethics.com/pope-leo-and-the-ontological-border/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/pope-leo-and-the-ontological-border.html</guid>
+      <pubDate>Sun, 04 Oct 2026 10:30:53 GMT</pubDate>
+      <description>Modal Path Ethics is attempting to preserve its alliance with the Vatican. His Holiness is making this more difficult than necessary.</description>
+    </item>
+
     <item>
       <title>MODAL KOMBAT: Catherine Malabou and the Transition Problem</title>
       <link>https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/i.html</guid>
       <pubDate>Thu, 17 Sep 2026 11:31:58 GMT</pubDate>
       <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Emmanuel Levinas and the Infinite Claim</title>
-      <link>https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/emmanuel-levinas-and-the-infinite-claim.html</guid>
-      <pubDate>Thu, 17 Sep 2026 11:00:45 GMT</pubDate>
-      <description>The Other gets there before your freedom.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Girl Scout Ethics</title>
-      <link>https://modalpathethics.com/applied-case-the-thin-mint-heist/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-thin-mint-heist.html</guid>
-      <pubDate>Thu, 17 Sep 2026 10:00:23 GMT</pubDate>
-      <description>Girl Scouts of the USA have ethics. Modal Path Ethics has never been permitted to learn them.</description>
     </item>
   </channel>
 </rss>

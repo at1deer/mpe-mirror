@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-04T06:15:52.124Z
+Mirror generated: 2026-10-04T12:48:52.515Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 366
+Published article count: 368
 
+- 2026-10-04 — [Applied Case: The Proof Was 166 Pages Long](/articles/applied-case-the-proof-was-166-pages-long.md) ([HTML](/articles/applied-case-the-proof-was-166-pages-long.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/)
+- 2026-10-04 — [Pope Leo and the Ontological Border](/articles/pope-leo-and-the-ontological-border.md) ([HTML](/articles/pope-leo-and-the-ontological-border.html)) · [canonical](https://modalpathethics.com/pope-leo-and-the-ontological-border/)
 - 2026-10-03 — [MODAL KOMBAT: Catherine Malabou and the Transition Problem](/articles/multiplayer-catherine-malabou-and-the-transition-problem.md) ([HTML](/articles/multiplayer-catherine-malabou-and-the-transition-problem.html)) · [canonical](https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/)
 - 2026-10-03 — [This Is Not Worker Solidarity You Morons](/articles/this-is-not-worker-solidarity-you-morons.md) ([HTML](/articles/this-is-not-worker-solidarity-you-morons.html)) · [canonical](https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/)
 - 2026-10-02 — [Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI](/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md) ([HTML](/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.html)) · [canonical](https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/)

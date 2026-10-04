@@ -1,13 +1,50 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-04T06:15:52.124Z",
+  "generated_at": "2026-10-04T12:48:52.515Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 366,
+  "article_count": 368,
   "articles": [
+    {
+      "title": "Applied Case: The Proof Was 166 Pages Long",
+      "slug": "applied-case-the-proof-was-166-pages-long",
+      "published_at": "2026-10-04T05:45:06.000-05:00",
+      "updated_at": "2026-10-04T05:45:06.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/",
+      "excerpt": "OpenAI's Navier–Stokes submission came with a paper, a Lean repository, and one remaining problem: what is the argument doing?",
+      "tags": [
+        "Proof-to-Theory",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-proof-was-166-pages-long.md",
+      "mirror_html_path": "/articles/applied-case-the-proof-was-166-pages-long.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-proof-was-166-pages-long.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-proof-was-166-pages-long.html",
+      "sha256_plaintext": "2a859c1491dfc94f71385c5c90de6fdaae0bb6b658ad7e1e5b4507fc8ecb7beb"
+    },
+    {
+      "title": "Pope Leo and the Ontological Border",
+      "slug": "pope-leo-and-the-ontological-border",
+      "published_at": "2026-10-04T05:30:53.000-05:00",
+      "updated_at": "2026-10-04T05:30:52.000-05:00",
+      "canonical_url": "https://modalpathethics.com/pope-leo-and-the-ontological-border/",
+      "excerpt": "Modal Path Ethics is attempting to preserve its alliance with the Vatican. His Holiness is making this more difficult than necessary.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/pope-leo-and-the-ontological-border.md",
+      "mirror_html_path": "/articles/pope-leo-and-the-ontological-border.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/pope-leo-and-the-ontological-border.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/pope-leo-and-the-ontological-border.html",
+      "sha256_plaintext": "f77da301be6b7312e7ca5d7e37c42a941cb169bcb7a5747f8e57077c228cbf41"
+    },
     {
       "title": "MODAL KOMBAT: Catherine Malabou and the Transition Problem",
       "slug": "multiplayer-catherine-malabou-and-the-transition-problem",
