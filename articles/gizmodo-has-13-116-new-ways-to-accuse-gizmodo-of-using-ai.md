@@ -2,12 +2,16 @@
 title: "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI"
 slug: "gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai"
 canonical_url: "https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/"
+mirror_url: "https://mirror.modalpathethics.com/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md"
 published_at: "2026-10-02T16:46:04.000-05:00"
 updated_at: "2026-10-02T16:46:04.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bcc2809cc6abd2d93ccf845dd11c0a6eefadceb1ae56f36bb5ef8639360bfb91"
 ---
 # Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI

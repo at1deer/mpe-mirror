@@ -2,12 +2,16 @@
 title: "Three Lines Across One Body"
 slug: "three-lines-across-one-body"
 canonical_url: "https://modalpathethics.com/three-lines-across-one-body/"
+mirror_url: "https://mirror.modalpathethics.com/articles/three-lines-across-one-body.md"
 published_at: "2026-09-05T05:30:19.000-05:00"
 updated_at: "2026-09-05T05:30:19.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
 # Three Lines Across One Body

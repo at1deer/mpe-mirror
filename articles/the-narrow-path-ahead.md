@@ -2,13 +2,17 @@
 title: "The Narrow Path Ahead"
 slug: "the-narrow-path-ahead"
 canonical_url: "https://modalpathethics.com/the-narrow-path-ahead/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-narrow-path-ahead.md"
 published_at: "2026-05-12T17:50:06.000-05:00"
 updated_at: "2026-09-28T21:15:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1643cdefae066b57f04ba625705768024b3d179d508571135730057db99cbdf"
 ---
 # The Narrow Path Ahead

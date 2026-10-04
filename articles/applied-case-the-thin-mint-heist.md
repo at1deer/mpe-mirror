@@ -2,14 +2,18 @@
 title: "Applied Case: Girl Scout Ethics"
 slug: "applied-case-the-thin-mint-heist"
 canonical_url: "https://modalpathethics.com/applied-case-the-thin-mint-heist/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-thin-mint-heist.md"
 published_at: "2026-09-17T05:00:23.000-05:00"
 updated_at: "2026-09-20T21:34:54.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
 # Applied Case: Girl Scout Ethics

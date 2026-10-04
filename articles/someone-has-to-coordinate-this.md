@@ -2,12 +2,16 @@
 title: "Someone Has to Coordinate All This"
 slug: "someone-has-to-coordinate-this"
 canonical_url: "https://modalpathethics.com/someone-has-to-coordinate-this/"
+mirror_url: "https://mirror.modalpathethics.com/articles/someone-has-to-coordinate-this.md"
 published_at: "2026-08-15T06:00:22.000-05:00"
 updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This

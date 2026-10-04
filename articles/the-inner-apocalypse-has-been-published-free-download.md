@@ -2,14 +2,18 @@
 title: "The Inner Apocalypse Has Been Published (Free Download)"
 slug: "the-inner-apocalypse-has-been-published-free-download"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-inner-apocalypse-has-been-published-free-download.md"
 published_at: "2026-09-24T06:11:14.000-05:00"
 updated_at: "2026-09-29T22:09:12.000-05:00"
 tags:
   - "Books"
   - "Inner Apocalypse"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ce7b783fd95e1c026bbfbaa195b342ed0bb9842a7b39503dad5bf3d51fa1a4f4"
 ---
 # The Inner Apocalypse Has Been Published (Free Download)

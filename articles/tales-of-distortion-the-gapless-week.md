@@ -2,12 +2,16 @@
 title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-gapless-week.md"
 published_at: "2026-08-09T06:30:19.000-05:00"
 updated_at: "2026-08-31T19:39:56.000-05:00"
 tags:
   - "Tales of Distortion"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
 # Tales of Distortion: The Gapless Week

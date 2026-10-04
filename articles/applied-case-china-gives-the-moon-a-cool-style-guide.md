@@ -2,12 +2,16 @@
 title: "Applied Case: China Gives the Moon a Cool Style Guide"
 slug: "applied-case-china-gives-the-moon-a-cool-style-guide"
 canonical_url: "https://modalpathethics.com/applied-case-china-gives-the-moon-a-cool-style-guide/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md"
 published_at: "2026-09-06T06:30:48.000-05:00"
 updated_at: "2026-09-11T22:29:15.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide

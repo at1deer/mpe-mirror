@@ -2,13 +2,17 @@
 title: "The End of Moral Philosophy Has an Objective Function"
 slug: "the-end-of-moral-philosophy-has-an-objective-function"
 canonical_url: "https://modalpathethics.com/the-end-of-moral-philosophy-has-an-objective-function/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-end-of-moral-philosophy-has-an-objective-function.md"
 published_at: "2026-07-31T04:25:10.000-05:00"
 updated_at: "2026-07-31T04:25:10.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
 # The End of Moral Philosophy Has an Objective Function

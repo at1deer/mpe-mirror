@@ -2,13 +2,17 @@
 title: "Modal Path Ethics Apologizes to Bill Gates"
 slug: "modal-path-ethics-apologizes-to-bill-gates"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-bill-gates/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-bill-gates.md"
 published_at: "2026-09-18T05:45:01.000-05:00"
 updated_at: "2026-09-18T05:45:00.000-05:00"
 tags:
   - "Apologies Department"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
 ---
 # Modal Path Ethics Apologizes to Bill Gates

@@ -2,12 +2,16 @@
 title: "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future"
 slug: "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future"
 canonical_url: "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/"
+mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md"
 published_at: "2026-09-10T06:00:49.000-05:00"
 updated_at: "2026-09-15T21:59:23.000-05:00"
 tags:
   - "Convergence Point"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
 # Convergence Point: Eduardo Blasco and the Engineer Who Found the Future

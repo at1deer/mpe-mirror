@@ -2,13 +2,17 @@
 title: "What Is Not an Extant Locus"
 slug: "what-is-not-an-extant-locus"
 canonical_url: "https://modalpathethics.com/what-is-not-an-extant-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/what-is-not-an-extant-locus.md"
 published_at: "2026-05-03T02:29:09.000-05:00"
 updated_at: "2026-09-28T21:04:20.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "98a549ea7251f4352a0a5beec0f1288dc342803996f07a226dd20d8296b33d8c"
 ---
 # What Is Not an Extant Locus

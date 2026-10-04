@@ -2,13 +2,17 @@
 title: "Modal Path Ethics Is Speeding Back Up"
 slug: "modal-path-ethics-is-speeding-back-up"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-speeding-back-up/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-speeding-back-up.md"
 published_at: "2026-08-20T05:30:01.000-05:00"
 updated_at: "2026-08-20T09:20:02.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6565a15b91f7e9541cb843e7ca4765a2767d4de4b20a0eb97bf70ecfa2473cca"
 ---
 # Modal Path Ethics Is Speeding Back Up

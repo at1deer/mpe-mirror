@@ -2,14 +2,18 @@
 title: "Applied Case: Edge of Tomorrow (2014)"
 slug: "applied-case-edge-of-tomorrow-2014"
 canonical_url: "https://modalpathethics.com/applied-case-edge-of-tomorrow-2014/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-edge-of-tomorrow-2014.md"
 published_at: "2026-06-22T08:00:26.000-05:00"
 updated_at: "2026-06-24T03:25:59.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)

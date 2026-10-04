@@ -2,14 +2,18 @@
 title: "Field Instruments: Superintelligence"
 slug: "field-instruments-superintelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-superintelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-superintelligence.md"
 published_at: "2026-08-02T05:45:18.000-05:00"
 updated_at: "2026-08-02T05:45:17.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence

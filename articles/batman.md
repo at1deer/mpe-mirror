@@ -2,6 +2,7 @@
 title: "Applied Case: The Batman"
 slug: "batman"
 canonical_url: "https://modalpathethics.com/batman/"
+mirror_url: "https://mirror.modalpathethics.com/articles/batman.md"
 published_at: "2026-05-02T01:33:31.000-05:00"
 updated_at: "2026-09-28T21:03:08.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Sacred Slack"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
 # Applied Case: The Batman

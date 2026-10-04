@@ -2,12 +2,16 @@
 title: "Return to the Release Gradient"
 slug: "return-to-the-release-gradient"
 canonical_url: "https://modalpathethics.com/return-to-the-release-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/return-to-the-release-gradient.md"
 published_at: "2026-08-28T05:30:35.000-05:00"
 updated_at: "2026-08-28T05:30:34.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
 # Return to the Release Gradient

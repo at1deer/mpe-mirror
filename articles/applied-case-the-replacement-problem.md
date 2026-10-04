@@ -2,13 +2,17 @@
 title: "Thought Gauntlet IV: The Replacement Problem"
 slug: "applied-case-the-replacement-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-replacement-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-replacement-problem.md"
 published_at: "2026-04-26T18:18:46.000-05:00"
 updated_at: "2026-05-08T22:01:41.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem

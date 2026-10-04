@@ -2,12 +2,16 @@
 title: "Convergence Point: Sangmok Kim and the Other Path"
 slug: "convergence-point-sangmok-kim-and-the-other-path"
 canonical_url: "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/"
+mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-sangmok-kim-and-the-other-path.md"
 published_at: "2026-09-07T13:38:52.000-05:00"
 updated_at: "2026-09-15T16:13:34.000-05:00"
 tags:
   - "Convergence Point"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path

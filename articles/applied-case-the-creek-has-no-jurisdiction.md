@@ -2,13 +2,17 @@
 title: "Applied Case: The Creek Has No Jurisdiction"
 slug: "applied-case-the-creek-has-no-jurisdiction"
 canonical_url: "https://modalpathethics.com/applied-case-the-creek-has-no-jurisdiction/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-creek-has-no-jurisdiction.md"
 published_at: "2026-09-28T05:30:06.000-05:00"
 updated_at: "2026-09-28T05:30:05.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
 # Applied Case: The Creek Has No Jurisdiction

@@ -2,13 +2,17 @@
 title: "Field Instruments: Property"
 slug: "field-instruments-property"
 canonical_url: "https://modalpathethics.com/field-instruments-property/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-property.md"
 published_at: "2026-05-27T16:14:33.000-05:00"
 updated_at: "2026-09-29T20:41:25.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "897007932b7567ce83f5407e3589918fe8b17811d1086dd76d38ea08b23bfb4b"
 ---
 # Field Instruments: Property

@@ -2,14 +2,18 @@
 title: "Applied Case: Last Look"
 slug: "applied-case-last-look"
 canonical_url: "https://modalpathethics.com/applied-case-last-look/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-last-look.md"
 published_at: "2026-08-19T06:00:32.000-05:00"
 updated_at: "2026-08-19T10:03:49.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look

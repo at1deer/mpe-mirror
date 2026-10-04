@@ -2,14 +2,18 @@
 title: "Applied Case: The Endless Battle"
 slug: "applied-case-the-endless-battle"
 canonical_url: "https://modalpathethics.com/applied-case-the-endless-battle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-endless-battle.md"
 published_at: "2026-08-11T06:00:11.000-05:00"
 updated_at: "2026-08-11T12:20:39.000-05:00"
 tags:
   - "Pokémon"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle

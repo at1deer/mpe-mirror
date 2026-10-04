@@ -2,13 +2,17 @@
 title: "Kendrick Lamar and the Return"
 slug: "kendrick-lamar-and-the-return"
 canonical_url: "https://modalpathethics.com/kendrick-lamar-and-the-return/"
+mirror_url: "https://mirror.modalpathethics.com/articles/kendrick-lamar-and-the-return.md"
 published_at: "2026-08-25T06:30:49.000-05:00"
 updated_at: "2026-08-25T19:37:50.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return

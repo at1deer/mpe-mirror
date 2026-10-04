@@ -2,14 +2,18 @@
 title: "Transition Action: The Signal Never Becomes Data"
 slug: "transition-action-the-signal-never-becomes-data"
 canonical_url: "https://modalpathethics.com/transition-action-the-signal-never-becomes-data/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-signal-never-becomes-data.md"
 published_at: "2026-07-20T21:46:37.000-05:00"
 updated_at: "2026-07-21T01:17:31.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data

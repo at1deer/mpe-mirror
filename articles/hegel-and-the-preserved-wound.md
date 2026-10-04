@@ -2,12 +2,16 @@
 title: "Hegel and the Retained Wound"
 slug: "hegel-and-the-preserved-wound"
 canonical_url: "https://modalpathethics.com/hegel-and-the-preserved-wound/"
+mirror_url: "https://mirror.modalpathethics.com/articles/hegel-and-the-preserved-wound.md"
 published_at: "2026-09-24T05:05:47.000-05:00"
 updated_at: "2026-09-24T05:05:47.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5afe0a5c8775a717b9bfd82a30e55bd0e2246e2b463bd64f10512e810f0b5a42"
 ---
 # Hegel and the Retained Wound

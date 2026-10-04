@@ -2,12 +2,16 @@
 title: "From PvP to PvE"
 slug: "from-pvp-to-pve"
 canonical_url: "https://modalpathethics.com/from-pvp-to-pve/"
+mirror_url: "https://mirror.modalpathethics.com/articles/from-pvp-to-pve.md"
 published_at: "2026-09-21T05:45:38.000-05:00"
 updated_at: "2026-09-21T05:45:37.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c3657cb14bfb23f51b801f4a4522e4d80a617fcbe62a803dfc5cfee471aa9252"
 ---
 # From PvP to PvE

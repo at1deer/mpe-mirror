@@ -2,13 +2,17 @@
 title: "The Nerd Reich Is the Easy Case"
 slug: "the-nerd-reich-is-the-easy-case"
 canonical_url: "https://modalpathethics.com/the-nerd-reich-is-the-easy-case/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-nerd-reich-is-the-easy-case.md"
 published_at: "2026-08-14T06:00:02.000-05:00"
 updated_at: "2026-08-14T06:00:01.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
 # The Nerd Reich Is the Easy Case

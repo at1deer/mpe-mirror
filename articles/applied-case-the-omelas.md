@@ -2,13 +2,17 @@
 title: "Thought Gauntlet VI: The Omelas"
 slug: "applied-case-the-omelas"
 canonical_url: "https://modalpathethics.com/applied-case-the-omelas/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-omelas.md"
 published_at: "2026-04-26T19:04:49.000-05:00"
 updated_at: "2026-05-08T22:03:05.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas

@@ -2,14 +2,18 @@
 title: "Rotation Battle: Habermas, Foucault, Luhmann"
 slug: "rotation-battle-habermas-foucault-luhmann"
 canonical_url: "https://modalpathethics.com/rotation-battle-habermas-foucault-luhmann/"
+mirror_url: "https://mirror.modalpathethics.com/articles/rotation-battle-habermas-foucault-luhmann.md"
 published_at: "2026-09-28T06:00:36.000-05:00"
 updated_at: "2026-09-28T06:00:35.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Pokémon"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
 ---
 # Rotation Battle: Habermas, Foucault, Luhmann

@@ -2,14 +2,18 @@
 title: "Modal Path Ethics is Half-Stupid"
 slug: "modal-path-ethics-is-half-stupid"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-half-stupid/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-half-stupid.md"
 published_at: "2026-06-25T03:56:19.000-05:00"
 updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "News"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid

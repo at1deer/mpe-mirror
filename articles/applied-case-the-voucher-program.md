@@ -2,13 +2,17 @@
 title: "Applied Case: The Housing Choice Voucher Program"
 slug: "applied-case-the-voucher-program"
 canonical_url: "https://modalpathethics.com/applied-case-the-voucher-program/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-voucher-program.md"
 published_at: "2026-08-25T06:00:42.000-05:00"
 updated_at: "2026-08-25T06:00:42.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
 # Applied Case: The Housing Choice Voucher Program

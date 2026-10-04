@@ -2,13 +2,17 @@
 title: "VIII"
 slug: "viii"
 canonical_url: "https://modalpathethics.com/viii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/viii.md"
 published_at: "2026-09-24T06:08:29.000-05:00"
 updated_at: "2026-09-24T06:08:28.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b95881cdf96976bf52207e5c090ef158a157c7b5373c90bce102b15fd22ee7a"
 ---
 # VIII

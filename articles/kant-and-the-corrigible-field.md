@@ -2,14 +2,18 @@
 title: "Kant and the Corrigible Field"
 slug: "kant-and-the-corrigible-field"
 canonical_url: "https://modalpathethics.com/kant-and-the-corrigible-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/kant-and-the-corrigible-field.md"
 published_at: "2026-07-17T17:05:20.000-05:00"
 updated_at: "2026-08-10T07:34:56.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field

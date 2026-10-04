@@ -2,6 +2,7 @@
 title: "The Schizophrenia Firewall Has Been Published"
 slug: "the-schizophrenia-firewall-has-been-published"
 canonical_url: "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-schizophrenia-firewall-has-been-published.md"
 published_at: "2026-07-19T17:53:55.000-05:00"
 updated_at: "2026-08-15T17:10:44.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "News"
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published

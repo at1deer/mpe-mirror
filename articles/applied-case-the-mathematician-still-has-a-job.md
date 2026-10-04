@@ -2,14 +2,18 @@
 title: "Applied Case: The Mathematician Still Has a Job"
 slug: "applied-case-the-mathematician-still-has-a-job"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematician-still-has-a-job/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mathematician-still-has-a-job.md"
 published_at: "2026-10-01T05:45:37.000-05:00"
 updated_at: "2026-10-01T10:12:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethical Software"
   - "Proof-to-Theory"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fca470a11aa99ff095e20cfea236b396aeae7ba8ad1926c9073c12cf13f9b3c8"
 ---
 # Applied Case: The Mathematician Still Has a Job

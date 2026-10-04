@@ -2,13 +2,17 @@
 title: "Field Instruments: The Firm"
 slug: "field-instruments-the-firm"
 canonical_url: "https://modalpathethics.com/field-instruments-the-firm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-the-firm.md"
 published_at: "2026-09-08T06:05:51.000-05:00"
 updated_at: "2026-09-08T06:05:51.000-05:00"
 tags:
   - "Field Instruments"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm

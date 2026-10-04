@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XIV: The Utility Monster"
 slug: "applied-case-the-utility-monster"
 canonical_url: "https://modalpathethics.com/applied-case-the-utility-monster/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-utility-monster.md"
 published_at: "2026-04-26T23:06:06.000-05:00"
 updated_at: "2026-05-08T22:09:29.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster

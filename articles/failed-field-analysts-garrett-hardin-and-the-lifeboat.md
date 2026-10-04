@@ -2,13 +2,17 @@
 title: "Failed Field Analysts: Garrett Hardin and the Lifeboat"
 slug: "failed-field-analysts-garrett-hardin-and-the-lifeboat"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-garrett-hardin-and-the-lifeboat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.md"
 published_at: "2026-08-05T06:00:16.000-05:00"
 updated_at: "2026-08-05T06:00:15.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
 # Failed Field Analysts: Garrett Hardin and the Lifeboat

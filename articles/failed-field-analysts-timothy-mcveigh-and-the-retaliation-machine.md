@@ -2,6 +2,7 @@
 title: "Failed Field Analysts: Timothy McVeigh and the Retaliation Machine"
 slug: "failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.md"
 published_at: "2026-06-14T04:19:19.000-05:00"
 updated_at: "2026-09-29T20:58:42.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef17b56f7ab5058cb9124ddc67dc5774cdc0d81ab5d35313f1ce2477b4fce2bb"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine

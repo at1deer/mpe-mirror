@@ -2,13 +2,17 @@
 title: "Applied Case: The Copy Accuses the Source"
 slug: "applied-case-the-copy-accuses-the-source"
 canonical_url: "https://modalpathethics.com/applied-case-the-copy-accuses-the-source/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-copy-accuses-the-source.md"
 published_at: "2026-09-22T05:59:21.000-05:00"
 updated_at: "2026-09-22T05:59:20.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
 ---
 # Applied Case: The Copy Accuses the Source

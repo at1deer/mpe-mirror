@@ -2,6 +2,7 @@
 title: "Applied Case: The Field Intelligence Gap"
 slug: "applied-case-the-field-intelligence-gap"
 canonical_url: "https://modalpathethics.com/applied-case-the-field-intelligence-gap/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-field-intelligence-gap.md"
 published_at: "2026-06-13T15:59:58.000-05:00"
 updated_at: "2026-09-29T20:58:00.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b4856fe23b0022922b171220552ec3fb33302821a992c90a538df74ff28c457a"
 ---
 # Applied Case: The Field Intelligence Gap

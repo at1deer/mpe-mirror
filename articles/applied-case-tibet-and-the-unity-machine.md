@@ -2,13 +2,17 @@
 title: "Applied Case: Tibet and the Unity Machine"
 slug: "applied-case-tibet-and-the-unity-machine"
 canonical_url: "https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tibet-and-the-unity-machine.md"
 published_at: "2026-07-05T10:00:07.000-05:00"
 updated_at: "2026-07-07T00:24:47.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine

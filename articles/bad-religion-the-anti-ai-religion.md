@@ -2,14 +2,18 @@
 title: "Applied Case: The Anti-AI Religion"
 slug: "bad-religion-the-anti-ai-religion"
 canonical_url: "https://modalpathethics.com/bad-religion-the-anti-ai-religion/"
+mirror_url: "https://mirror.modalpathethics.com/articles/bad-religion-the-anti-ai-religion.md"
 published_at: "2026-06-27T08:03:00.000-05:00"
 updated_at: "2026-06-28T01:38:47.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion

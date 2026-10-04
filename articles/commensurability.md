@@ -2,13 +2,17 @@
 title: "Commensurability"
 slug: "commensurability"
 canonical_url: "https://modalpathethics.com/commensurability/"
+mirror_url: "https://mirror.modalpathethics.com/articles/commensurability.md"
 published_at: "2026-05-09T20:08:29.000-05:00"
 updated_at: "2026-09-28T21:11:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "00245aee845a2803f9ccea32a73b457c0fb2efc2c6e23f61637b863ffcc9370b"
 ---
 # Commensurability

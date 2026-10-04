@@ -2,13 +2,17 @@
 title: "Transition Action: Shape Is Already Code"
 slug: "transition-action-shape-is-already-code"
 canonical_url: "https://modalpathethics.com/transition-action-shape-is-already-code/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-shape-is-already-code.md"
 published_at: "2026-06-08T22:29:49.000-05:00"
 updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code

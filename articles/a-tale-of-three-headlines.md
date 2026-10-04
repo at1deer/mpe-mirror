@@ -2,12 +2,16 @@
 title: "A Tale of Three Headlines"
 slug: "a-tale-of-three-headlines"
 canonical_url: "https://modalpathethics.com/a-tale-of-three-headlines/"
+mirror_url: "https://mirror.modalpathethics.com/articles/a-tale-of-three-headlines.md"
 published_at: "2026-09-14T06:30:33.000-05:00"
 updated_at: "2026-09-14T06:30:32.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4442f9e4695aae1a804866ddc7aa112d5f7e0dbbd42ff9baa19845761f879a57"
 ---
 # A Tale of Three Headlines

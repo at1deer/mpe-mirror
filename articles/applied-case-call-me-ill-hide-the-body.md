@@ -2,14 +2,18 @@
 title: "Applied Case: Call Me, I'll Hide The Body"
 slug: "applied-case-call-me-ill-hide-the-body"
 canonical_url: "https://modalpathethics.com/applied-case-call-me-ill-hide-the-body/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-call-me-ill-hide-the-body.md"
 published_at: "2026-08-03T05:30:05.000-05:00"
 updated_at: "2026-08-03T05:30:04.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body

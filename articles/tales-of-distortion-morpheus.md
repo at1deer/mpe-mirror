@@ -2,6 +2,7 @@
 title: "Applied Case: Morpheus"
 slug: "tales-of-distortion-morpheus"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-morpheus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-morpheus.md"
 published_at: "2026-06-13T13:46:50.000-05:00"
 updated_at: "2026-09-29T20:56:52.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "45fbf66b9baa3767cb2a2d158666281cfff2717fe3485bcd47e93cdf0a04ad6b"
 ---
 # Applied Case: Morpheus

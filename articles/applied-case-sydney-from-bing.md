@@ -2,14 +2,18 @@
 title: "Applied Case: The Bing Chat"
 slug: "applied-case-sydney-from-bing"
 canonical_url: "https://modalpathethics.com/applied-case-sydney-from-bing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-sydney-from-bing.md"
 published_at: "2026-04-25T02:49:01.000-05:00"
 updated_at: "2026-09-28T20:52:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
 # Applied Case: The Bing Chat

@@ -2,12 +2,16 @@
 title: "Australia vs. The Biosphere: The Dingo Fence"
 slug: "australia-vs-the-biosphere-the-dingo-fence"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-dingo-fence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-the-dingo-fence.md"
 published_at: "2026-08-12T05:30:54.000-05:00"
 updated_at: "2026-08-12T05:30:54.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
 ---
 # Australia vs. The Biosphere: The Dingo Fence

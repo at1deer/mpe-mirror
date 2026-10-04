@@ -2,6 +2,7 @@
 title: "Sacred Slack Has Been Published"
 slug: "sacred-slack-has-been-published"
 canonical_url: "https://modalpathethics.com/sacred-slack-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/sacred-slack-has-been-published.md"
 published_at: "2026-08-07T08:09:59.000-05:00"
 updated_at: "2026-08-10T08:48:30.000-05:00"
 tags:
@@ -10,8 +11,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
 # Sacred Slack Has Been Published

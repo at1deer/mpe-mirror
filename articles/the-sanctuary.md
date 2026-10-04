@@ -2,12 +2,16 @@
 title: "The Sanctuary"
 slug: "the-sanctuary"
 canonical_url: "https://modalpathethics.com/the-sanctuary/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-sanctuary.md"
 published_at: "2026-09-09T05:30:36.000-05:00"
 updated_at: "2026-09-09T05:30:37.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
 ---
 # The Sanctuary

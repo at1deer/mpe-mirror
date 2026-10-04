@@ -2,14 +2,18 @@
 title: "Applied Case: The Agents Cooperated"
 slug: "applied-case-the-agents-cooperated"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-cooperated/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-agents-cooperated.md"
 published_at: "2026-08-21T06:30:46.000-05:00"
 updated_at: "2026-08-22T20:34:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated

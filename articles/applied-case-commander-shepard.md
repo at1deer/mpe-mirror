@@ -2,6 +2,7 @@
 title: "Citadel Archive: Commander Shepard"
 slug: "applied-case-commander-shepard"
 canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-commander-shepard.md"
 published_at: "2026-04-26T03:10:28.000-05:00"
 updated_at: "2026-09-28T20:57:43.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Field Creature"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
 # Citadel Archive: Commander Shepard

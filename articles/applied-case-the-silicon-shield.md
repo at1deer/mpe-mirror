@@ -2,14 +2,18 @@
 title: "Applied Case: The Silicon Shield"
 slug: "applied-case-the-silicon-shield"
 canonical_url: "https://modalpathethics.com/applied-case-the-silicon-shield/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-silicon-shield.md"
 published_at: "2026-05-19T18:58:03.000-05:00"
 updated_at: "2026-09-28T21:18:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
 # Applied Case: The Silicon Shield

@@ -2,13 +2,17 @@
 title: "Irreplaceable Has Already Decided What Its Democracy Will Discover"
 slug: "warning-irreplaceable-has-already-decided-what-its-democracy-will-discover"
 canonical_url: "https://modalpathethics.com/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover/"
+mirror_url: "https://mirror.modalpathethics.com/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md"
 published_at: "2026-08-29T06:36:25.000-05:00"
 updated_at: "2026-08-29T20:09:23.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover

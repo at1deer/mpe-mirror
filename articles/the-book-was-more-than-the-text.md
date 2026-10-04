@@ -2,6 +2,7 @@
 title: "Tales of Distortion: The Book Was More Than the Text"
 slug: "the-book-was-more-than-the-text"
 canonical_url: "https://modalpathethics.com/the-book-was-more-than-the-text/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-book-was-more-than-the-text.md"
 published_at: "2026-09-16T07:15:33.000-05:00"
 updated_at: "2026-09-16T07:15:32.000-05:00"
 tags:
@@ -10,8 +11,11 @@ tags:
   - "Modal Path Ethical Software"
   - "Instrument Jurisdiction"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
 # Tales of Distortion: The Book Was More Than the Text

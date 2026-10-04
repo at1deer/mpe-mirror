@@ -2,6 +2,7 @@
 title: "Applied Case: The Early AI Religions"
 slug: "applied-case-the-early-ai-religions"
 canonical_url: "https://modalpathethics.com/applied-case-the-early-ai-religions/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-early-ai-religions.md"
 published_at: "2026-07-18T06:00:21.000-05:00"
 updated_at: "2026-07-18T22:16:57.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions

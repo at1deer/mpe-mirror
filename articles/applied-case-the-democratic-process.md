@@ -2,13 +2,17 @@
 title: "Field Instruments: The Democratic Process"
 slug: "applied-case-the-democratic-process"
 canonical_url: "https://modalpathethics.com/applied-case-the-democratic-process/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-democratic-process.md"
 published_at: "2026-05-05T20:31:50.000-05:00"
 updated_at: "2026-09-28T21:06:37.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
 # Field Instruments: The Democratic Process

@@ -2,14 +2,18 @@
 title: "Tales of Distortion: Symmes's Hole"
 slug: "tales-of-distortion-symmess-hole"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-symmess-hole/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-symmess-hole.md"
 published_at: "2026-05-16T22:30:10.000-05:00"
 updated_at: "2026-09-29T20:38:00.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "242f889cc1f5d2233378c59313286481f5d68856d2f78cdcfd7c059b04528ce4"
 ---
 # Tales of Distortion: Symmes's Hole

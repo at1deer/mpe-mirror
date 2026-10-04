@@ -2,13 +2,17 @@
 title: "Applied Case: The Shooter Inquiry"
 slug: "applied-case-the-shooter-inquiry"
 canonical_url: "https://modalpathethics.com/applied-case-the-shooter-inquiry/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-shooter-inquiry.md"
 published_at: "2026-04-29T22:36:27.000-05:00"
 updated_at: "2026-09-29T20:28:33.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fec18215217a17e0483023f934e5db43b09b4e6e3338accc9b399e22668dfb75"
 ---
 # Applied Case: The Shooter Inquiry

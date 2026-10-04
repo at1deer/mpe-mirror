@@ -2,13 +2,17 @@
 title: "Fictional Earth: The Social Media Distortion Fields"
 slug: "fictional-earth-the-social-media-distortion-fields"
 canonical_url: "https://modalpathethics.com/fictional-earth-the-social-media-distortion-fields/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-the-social-media-distortion-fields.md"
 published_at: "2026-06-28T08:00:31.000-05:00"
 updated_at: "2026-06-28T08:00:30.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields

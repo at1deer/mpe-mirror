@@ -2,13 +2,17 @@
 title: "Speed Critical Scenarios"
 slug: "speed-critical-scenarios"
 canonical_url: "https://modalpathethics.com/speed-critical-scenarios/"
+mirror_url: "https://mirror.modalpathethics.com/articles/speed-critical-scenarios.md"
 published_at: "2026-05-11T01:12:33.000-05:00"
 updated_at: "2026-05-12T01:28:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios

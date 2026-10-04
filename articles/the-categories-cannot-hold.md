@@ -2,14 +2,18 @@
 title: "The Categories Cannot Hold"
 slug: "the-categories-cannot-hold"
 canonical_url: "https://modalpathethics.com/the-categories-cannot-hold/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-categories-cannot-hold.md"
 published_at: "2026-08-23T05:45:43.000-05:00"
 updated_at: "2026-08-23T05:45:42.000-05:00"
 tags:
   - "Engagement"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
 # The Categories Cannot Hold

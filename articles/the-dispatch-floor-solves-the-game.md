@@ -2,12 +2,16 @@
 title: "The Dispatch Floor Solves the Game"
 slug: "the-dispatch-floor-solves-the-game"
 canonical_url: "https://modalpathethics.com/the-dispatch-floor-solves-the-game/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-dispatch-floor-solves-the-game.md"
 published_at: "2026-09-03T06:00:07.000-05:00"
 updated_at: "2026-09-03T23:08:27.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
 # The Dispatch Floor Solves the Game

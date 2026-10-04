@@ -2,13 +2,17 @@
 title: "The Past Is Not in the Option Set"
 slug: "the-past-is-not-in-the-option-set"
 canonical_url: "https://modalpathethics.com/the-past-is-not-in-the-option-set/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-past-is-not-in-the-option-set.md"
 published_at: "2026-08-30T05:30:02.000-05:00"
 updated_at: "2026-08-30T05:30:01.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
 # The Past Is Not in the Option Set

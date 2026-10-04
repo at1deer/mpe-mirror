@@ -2,13 +2,17 @@
 title: "Field Instruments: Open Weights and the Release Gradient"
 slug: "field-instruments-open-weights-and-the-release-gradient"
 canonical_url: "https://modalpathethics.com/field-instruments-open-weights-and-the-release-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-open-weights-and-the-release-gradient.md"
 published_at: "2026-08-07T05:30:08.000-05:00"
 updated_at: "2026-08-07T05:30:08.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
 # Field Instruments: Open Weights and the Release Gradient

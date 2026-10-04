@@ -2,12 +2,16 @@
 title: "Applied Case: The Invisible Board"
 slug: "applied-case-the-invisible-board"
 canonical_url: "https://modalpathethics.com/applied-case-the-invisible-board/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-invisible-board.md"
 published_at: "2026-08-08T06:00:32.000-05:00"
 updated_at: "2026-08-08T06:00:31.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
 # Applied Case: The Invisible Board

@@ -2,14 +2,18 @@
 title: "Tales of Distortion: The Great Leap Forward"
 slug: "tales-of-distortion-the-great-leap-forward"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-great-leap-forward.md"
 published_at: "2026-06-04T03:43:02.000-05:00"
 updated_at: "2026-09-29T20:45:41.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6b053ee7b572e348982b86a284e17a58ec48c5813fffa00028c1c3b9fcd48c60"
 ---
 # Tales of Distortion: The Great Leap Forward

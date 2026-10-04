@@ -2,13 +2,17 @@
 title: "Transition Action: Color Becomes Structure"
 slug: "transition-action-color-becomes-structure"
 canonical_url: "https://modalpathethics.com/transition-action-color-becomes-structure/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-color-becomes-structure.md"
 published_at: "2026-09-14T07:00:10.000-05:00"
 updated_at: "2026-09-14T07:00:09.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
 # Transition Action: Color Becomes Structure
@@ -283,7 +287,7 @@ The hue can be selected through nanoparticle scale. Brightness can be strengthen
 
 The group has also demonstrated patterned multicolor deposition, and its earlier work showed that related silicon nanoparticle inks can be printed. The researchers now want to explore additional optical functions including sensing, photocatalysis, and energy management. Those multifunctional coatings remain a future direction.
 
-![https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908\_press\_sugimoto-03.jpg?utm\_source=chatgpt.com](https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com)
+![https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com](https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com)
 
 _J. Song et al., Small Structures (2026), CC BY_
 

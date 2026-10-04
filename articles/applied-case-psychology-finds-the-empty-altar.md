@@ -2,6 +2,7 @@
 title: "Applied Case: Psychology Finds the Empty Altar"
 slug: "applied-case-psychology-finds-the-empty-altar"
 canonical_url: "https://modalpathethics.com/applied-case-psychology-finds-the-empty-altar/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-psychology-finds-the-empty-altar.md"
 published_at: "2026-08-06T08:43:18.000-05:00"
 updated_at: "2026-08-06T08:43:18.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar

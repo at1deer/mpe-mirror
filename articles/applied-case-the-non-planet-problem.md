@@ -2,13 +2,17 @@
 title: "Applied Case: The Non-Planet Problem"
 slug: "applied-case-the-non-planet-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-non-planet-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-non-planet-problem.md"
 published_at: "2026-04-24T22:29:59.000-05:00"
 updated_at: "2026-09-28T20:51:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
 # Applied Case: The Non-Planet Problem

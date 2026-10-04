@@ -2,13 +2,17 @@
 title: "Applied Case: The American Corrigibility Problem"
 slug: "the-american-corrigibility-crisis"
 canonical_url: "https://modalpathethics.com/the-american-corrigibility-crisis/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-american-corrigibility-crisis.md"
 published_at: "2026-05-14T15:39:40.000-05:00"
 updated_at: "2026-09-28T21:16:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "37adfa98aad098cd5183ddfc89bf19f3d50f9fe629a2d1d41a4995de7a7f0872"
 ---
 # Applied Case: The American Corrigibility Problem

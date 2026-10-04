@@ -2,13 +2,17 @@
 title: "Australia vs. The Biosphere SPECIAL: The Agent"
 slug: "australia-vs-the-biosphere-special-the-agent"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-special-the-agent/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-special-the-agent.md"
 published_at: "2026-09-27T05:30:14.000-05:00"
 updated_at: "2026-09-27T05:30:13.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "55153fec9be9bbb6d65ebee5adf792d44aa4e7fe73abe7826c60fbe4a6d097e0"
 ---
 # Australia vs. The Biosphere SPECIAL: The Agent

@@ -1,6 +1,8 @@
-# All Modal Path Ethics Articles
+# All Published Modal Path Ethics Articles
 
-Generated: 2026-10-03T21:42:47.002Z
+Mirror generated: 2026-10-04T01:35:29.373Z
+
+Canonical publication: https://modalpathethics.com
 
 
 <!-- ARTICLE_START slug="multiplayer-catherine-malabou-and-the-transition-problem" title="MODAL KOMBAT: Catherine Malabou and the Transition Problem" published_at="2026-10-03T06:00:03.000-05:00" -->
@@ -9,13 +11,17 @@ Generated: 2026-10-03T21:42:47.002Z
 title: "MODAL KOMBAT: Catherine Malabou and the Transition Problem"
 slug: "multiplayer-catherine-malabou-and-the-transition-problem"
 canonical_url: "https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/multiplayer-catherine-malabou-and-the-transition-problem.md"
 published_at: "2026-10-03T06:00:03.000-05:00"
 updated_at: "2026-10-03T06:00:02.000-05:00"
 tags:
   - "Multiplayer"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
 ---
 # MODAL KOMBAT: Catherine Malabou and the Transition Problem
@@ -733,13 +739,17 @@ Modal Path Ethics already has a name for what happens when one organized mode of
 title: "This Is Not Worker Solidarity You Morons"
 slug: "this-is-not-worker-solidarity-you-morons"
 canonical_url: "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/"
+mirror_url: "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md"
 published_at: "2026-10-03T05:50:34.000-05:00"
 updated_at: "2026-10-03T05:50:33.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "30bf63ad7e5dd92de934720a8dc7e05d9d1cd13b2864588a025f7bc8c17fb137"
 ---
 # This Is Not Worker Solidarity You Morons
@@ -1492,12 +1502,16 @@ _Be sure to support Girls Who Code [over on Humble Bundle!](https://www.humblebu
 title: "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI"
 slug: "gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai"
 canonical_url: "https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/"
+mirror_url: "https://mirror.modalpathethics.com/articles/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai.md"
 published_at: "2026-10-02T16:46:04.000-05:00"
 updated_at: "2026-10-02T16:46:04.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bcc2809cc6abd2d93ccf845dd11c0a6eefadceb1ae56f36bb5ef8639360bfb91"
 ---
 # Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI
@@ -1693,6 +1707,7 @@ Claude can make mistakes. Apparently humans can too.
 title: "How I 6-0’d Nick Bostrom With Aurumoth"
 slug: "how-i-6-0d-nick-bostrom-with-aurumoth"
 canonical_url: "https://modalpathethics.com/how-i-6-0d-nick-bostrom-with-aurumoth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/how-i-6-0d-nick-bostrom-with-aurumoth.md"
 published_at: "2026-10-02T06:00:32.000-05:00"
 updated_at: "2026-10-02T06:00:31.000-05:00"
 tags:
@@ -1702,8 +1717,11 @@ tags:
   - "Pokémon"
   - "Post-Game"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b786cb70c7cd1317af05aa98c72d5884aa0dca403ccc65531694dc371420bdaa"
 ---
 # How I 6-0’d Nick Bostrom With Aurumoth
@@ -2306,13 +2324,17 @@ Shoutouts to the Agency.
 title: "J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)"
 slug: "j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm"
 canonical_url: "https://modalpathethics.com/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md"
 published_at: "2026-10-01T05:45:52.000-05:00"
 updated_at: "2026-10-01T10:32:59.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "52b7eecfc160a35042eebb60af261a4d7177719d084dcaccb50481b2ecb8c903"
 ---
 # J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)
@@ -2832,14 +2854,18 @@ And that was actually the entire fucking argument.
 title: "Applied Case: The Mathematician Still Has a Job"
 slug: "applied-case-the-mathematician-still-has-a-job"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematician-still-has-a-job/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mathematician-still-has-a-job.md"
 published_at: "2026-10-01T05:45:37.000-05:00"
 updated_at: "2026-10-01T10:12:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethical Software"
   - "Proof-to-Theory"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fca470a11aa99ff095e20cfea236b396aeae7ba8ad1926c9073c12cf13f9b3c8"
 ---
 # Applied Case: The Mathematician Still Has a Job
@@ -3148,14 +3174,18 @@ download-circle
 title: "Henri Bergson and the Vault of Glass"
 slug: "henri-bergson-and-the-vault-of-glass"
 canonical_url: "https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/"
+mirror_url: "https://mirror.modalpathethics.com/articles/henri-bergson-and-the-vault-of-glass.md"
 published_at: "2026-09-30T09:44:45.000-05:00"
 updated_at: "2026-10-01T23:07:57.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "718c5a68f3dcc4e1a631fa992e3f8c4894c2da8948061147f9319c0294965cfa"
 ---
 # Henri Bergson and the Vault of Glass
@@ -4139,6 +4169,7 @@ We were protecting the door.
 title: "Applied Case: I Gave a Mathematician Homework"
 slug: "applied-case-i-gave-a-mathematician-homework"
 canonical_url: "https://modalpathethics.com/applied-case-i-gave-a-mathematician-homework/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-i-gave-a-mathematician-homework.md"
 published_at: "2026-09-30T09:44:24.000-05:00"
 updated_at: "2026-10-01T23:07:44.000-05:00"
 tags:
@@ -4146,8 +4177,11 @@ tags:
   - "Modal Path Ethical Software"
   - "Modal Systems"
   - "Proof-to-Theory"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
 ---
 # Applied Case: I Gave a Mathematician Homework
@@ -4300,6 +4334,7 @@ download-circle
 title: "Carl Schmitt and the Batman Who Leaves"
 slug: "carl-schmitt-and-the-batman-who-leaves"
 canonical_url: "https://modalpathethics.com/carl-schmitt-and-the-batman-who-leaves/"
+mirror_url: "https://mirror.modalpathethics.com/articles/carl-schmitt-and-the-batman-who-leaves.md"
 published_at: "2026-09-29T06:00:56.000-05:00"
 updated_at: "2026-09-29T06:00:55.000-05:00"
 tags:
@@ -4307,8 +4342,11 @@ tags:
   - "Engagement"
   - "Inner Apocalypse"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6942b6c244f6ae23fc50367143edd84131d6294b7d268d6f45b6bb53845fe92c"
 ---
 # Carl Schmitt and the Batman Who Leaves
@@ -5637,14 +5675,18 @@ And that is why, at the end of all this machinery, the constitutional test is al
 title: "Christine Korsgaard, Sharon Street, and the Late Agent"
 slug: "christine-korsgaard-sharon-street-and-the-late-agent"
 canonical_url: "https://modalpathethics.com/christine-korsgaard-sharon-street-and-the-late-agent/"
+mirror_url: "https://mirror.modalpathethics.com/articles/christine-korsgaard-sharon-street-and-the-late-agent.md"
 published_at: "2026-09-29T05:30:32.000-05:00"
 updated_at: "2026-09-29T05:30:32.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Multiplayer"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e995e43ffc84b2b6f85db066af635243ff633264fa65e4c938f8920cc86855bc"
 ---
 # Christine Korsgaard, Sharon Street, and the Late Agent
@@ -6317,14 +6359,18 @@ It means morality had something for the agent to find.
 title: "Rotation Battle: Habermas, Foucault, Luhmann"
 slug: "rotation-battle-habermas-foucault-luhmann"
 canonical_url: "https://modalpathethics.com/rotation-battle-habermas-foucault-luhmann/"
+mirror_url: "https://mirror.modalpathethics.com/articles/rotation-battle-habermas-foucault-luhmann.md"
 published_at: "2026-09-28T06:00:36.000-05:00"
 updated_at: "2026-09-28T06:00:35.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Pokémon"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
 ---
 # Rotation Battle: Habermas, Foucault, Luhmann
@@ -7160,13 +7206,17 @@ And if the institution has arranged things so that every answer sounds like conf
 title: "Applied Case: The Creek Has No Jurisdiction"
 slug: "applied-case-the-creek-has-no-jurisdiction"
 canonical_url: "https://modalpathethics.com/applied-case-the-creek-has-no-jurisdiction/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-creek-has-no-jurisdiction.md"
 published_at: "2026-09-28T05:30:06.000-05:00"
 updated_at: "2026-09-28T05:30:05.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
 # Applied Case: The Creek Has No Jurisdiction
@@ -7766,14 +7816,18 @@ Wilson County has supplied the sequel.
 title: "Hume, Moore, and the Normative Bridge"
 slug: "hume-moore-and-the-normative-bridge"
 canonical_url: "https://modalpathethics.com/hume-moore-and-the-normative-bridge/"
+mirror_url: "https://mirror.modalpathethics.com/articles/hume-moore-and-the-normative-bridge.md"
 published_at: "2026-09-27T06:00:22.000-05:00"
 updated_at: "2026-09-29T02:29:52.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "11b3a5a4af1b851e0565f384d8cd20e3f2a56eeeef95c8aa96c002852ea4aa33"
 ---
 # Hume, Moore, and the Normative Bridge
@@ -8434,13 +8488,17 @@ Until then:
 title: "Australia vs. The Biosphere SPECIAL: The Agent"
 slug: "australia-vs-the-biosphere-special-the-agent"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-special-the-agent/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-special-the-agent.md"
 published_at: "2026-09-27T05:30:14.000-05:00"
 updated_at: "2026-09-27T05:30:13.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "55153fec9be9bbb6d65ebee5adf792d44aa4e7fe73abe7826c60fbe4a6d097e0"
 ---
 # Australia vs. The Biosphere SPECIAL: The Agent
@@ -8837,6 +8895,7 @@ The Biosphere declines responsibility.
 title: "Amor Fati."
 slug: "amor-fati"
 canonical_url: "https://modalpathethics.com/amor-fati/"
+mirror_url: "https://mirror.modalpathethics.com/articles/amor-fati.md"
 published_at: "2026-09-26T06:00:57.000-05:00"
 updated_at: "2026-09-26T14:00:37.000-05:00"
 tags:
@@ -8846,8 +8905,11 @@ tags:
   - "Epistemic Instruments"
   - "Apologies Department"
   - "Post-Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3ce28745732482a163c60dd79cd68dfdfbe28c42de507a01a49d93c3fbc60ac3"
 ---
 # Amor Fati.
@@ -10385,14 +10447,18 @@ He may have the last word on lunch.
 title: "Pope Leo Walks Through the Door"
 slug: "pope-leo-walks-through-the-door"
 canonical_url: "https://modalpathethics.com/pope-leo-walks-through-the-door/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pope-leo-walks-through-the-door.md"
 published_at: "2026-09-26T05:30:21.000-05:00"
 updated_at: "2026-09-26T05:30:20.000-05:00"
 tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cf0a0d4437bb1684d2215184ea56257592fff503a3a4f1dcc0d319b768a737f3"
 ---
 # Pope Leo Walks Through the Door
@@ -10722,6 +10788,7 @@ Technological progress does not require spiritual amnesia.
 title: "Modal Path Ethics Tries to Retire"
 slug: "modal-path-ethics-tries-to-retire"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-tries-to-retire/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-tries-to-retire.md"
 published_at: "2026-09-25T05:45:11.000-05:00"
 updated_at: "2026-10-01T23:08:17.000-05:00"
 tags:
@@ -10729,8 +10796,11 @@ tags:
   - "Engagement"
   - "Supplement"
   - "Post-Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
 # Modal Path Ethics Tries to Retire
@@ -11525,14 +11595,18 @@ Unfortunately,
 title: "Field Instruments: Telepathy"
 slug: "field-instruments-telepathy"
 canonical_url: "https://modalpathethics.com/field-instruments-telepathy/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-telepathy.md"
 published_at: "2026-09-25T05:20:39.000-05:00"
 updated_at: "2026-09-25T05:20:38.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b2a117f20d7ca26c63ae2df7d132009a6659cee6ca7e76ec7b5c17776e64d82"
 ---
 # Field Instruments: Telepathy
@@ -12341,13 +12415,17 @@ Conduit wants telepathy.
 title: "Emergency Audit: Is Modal Path Ethics Still Apolitical?"
 slug: "emergency-audit-is-modal-path-ethics-still-apolitical"
 canonical_url: "https://modalpathethics.com/emergency-audit-is-modal-path-ethics-still-apolitical/"
+mirror_url: "https://mirror.modalpathethics.com/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md"
 published_at: "2026-09-24T20:25:47.000-05:00"
 updated_at: "2026-09-24T20:25:47.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
 ---
 # Emergency Audit: Is Modal Path Ethics Still Apolitical?
@@ -12528,14 +12606,18 @@ Five months later, then, the original line survives intact:
 title: "The Inner Apocalypse Has Been Published (Free Download)"
 slug: "the-inner-apocalypse-has-been-published-free-download"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse-has-been-published-free-download/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-inner-apocalypse-has-been-published-free-download.md"
 published_at: "2026-09-24T06:11:14.000-05:00"
 updated_at: "2026-09-29T22:09:12.000-05:00"
 tags:
   - "Books"
   - "Inner Apocalypse"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ce7b783fd95e1c026bbfbaa195b342ed0bb9842a7b39503dad5bf3d51fa1a4f4"
 ---
 # The Inner Apocalypse Has Been Published (Free Download)
@@ -13454,13 +13536,17 @@ download-circle
 title: "VIII"
 slug: "viii"
 canonical_url: "https://modalpathethics.com/viii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/viii.md"
 published_at: "2026-09-24T06:08:29.000-05:00"
 updated_at: "2026-09-24T06:08:28.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b95881cdf96976bf52207e5c090ef158a157c7b5373c90bce102b15fd22ee7a"
 ---
 # VIII
@@ -13497,12 +13583,16 @@ _No player may own the game._
 title: "The First Gift"
 slug: "the-first-gift"
 canonical_url: "https://modalpathethics.com/the-first-gift/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-first-gift.md"
 published_at: "2026-09-24T05:55:16.000-05:00"
 updated_at: "2026-09-24T05:55:15.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b5efb5e08bc4491ae70661f313b70322ffded0324f53d693922ee03b25931e6a"
 ---
 # The First Gift
@@ -13745,13 +13835,17 @@ That is the **first gift**.
 title: "The Future Does Not Have to Be New"
 slug: "the-future-does-not-have-to-be-new"
 canonical_url: "https://modalpathethics.com/the-future-does-not-have-to-be-new/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-future-does-not-have-to-be-new.md"
 published_at: "2026-09-24T05:30:45.000-05:00"
 updated_at: "2026-09-26T02:36:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
 ---
 # The Future Does Not Have to Be New
@@ -14334,12 +14428,16 @@ There is the remaining problem.
 title: "Hegel and the Retained Wound"
 slug: "hegel-and-the-preserved-wound"
 canonical_url: "https://modalpathethics.com/hegel-and-the-preserved-wound/"
+mirror_url: "https://mirror.modalpathethics.com/articles/hegel-and-the-preserved-wound.md"
 published_at: "2026-09-24T05:05:47.000-05:00"
 updated_at: "2026-09-24T05:05:47.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5afe0a5c8775a717b9bfd82a30e55bd0e2246e2b463bd64f10512e810f0b5a42"
 ---
 # Hegel and the Retained Wound
@@ -14944,13 +15042,17 @@ What a transition becomes does not settle what the transition destroyed.
 title: "VII"
 slug: "vii"
 canonical_url: "https://modalpathethics.com/vii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/vii.md"
 published_at: "2026-09-23T06:07:02.000-05:00"
 updated_at: "2026-09-23T06:07:01.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "340ceb1867e2b0565582488b4bc905f80073c193598620fbef6080faa2fe5e88"
 ---
 # VII
@@ -14981,14 +15083,18 @@ _It had not already agreed._
 title: "The Problem of Space"
 slug: "the-problem-of-space"
 canonical_url: "https://modalpathethics.com/the-problem-of-space/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-problem-of-space.md"
 published_at: "2026-09-23T06:01:07.000-05:00"
 updated_at: "2026-09-24T20:39:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c415edee0161e8bf64458bb3ab4fdefa10672dc1b3cd8ddb1b9f6841514ef532"
 ---
 # The Problem of Space
@@ -16095,6 +16201,7 @@ And once the future is neither a date nor a place, one last intuition remains to
 title: "Failed Field Analysts: Jensen Huang and the Perfect Incentives"
 slug: "failed-field-analysts-jensen-huang-and-the-perfect-incentives"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.md"
 published_at: "2026-09-23T05:59:51.000-05:00"
 updated_at: "2026-09-23T05:59:50.000-05:00"
 tags:
@@ -16102,8 +16209,11 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
 ---
 # Failed Field Analysts: Jensen Huang and the Perfect Incentives
@@ -16698,14 +16808,18 @@ He failed when he mistook it for the whole road.
 title: "Will Is Not Universal"
 slug: "the-will-is-not-universal"
 canonical_url: "https://modalpathethics.com/the-will-is-not-universal/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-will-is-not-universal.md"
 published_at: "2026-09-23T05:50:09.000-05:00"
 updated_at: "2026-09-24T20:40:28.000-05:00"
 tags:
   - "Engagement"
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
 ---
 # Will Is Not Universal
@@ -17966,13 +18080,17 @@ The mistake begins when any of them receives the crown.
 title: "Applied Case: The Super Intelligence of America"
 slug: "applied-case-the-super-intelligence-of-america"
 canonical_url: "https://modalpathethics.com/applied-case-the-super-intelligence-of-america/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-super-intelligence-of-america.md"
 published_at: "2026-09-23T01:30:12.000-05:00"
 updated_at: "2026-09-23T01:30:12.000-05:00"
 tags:
   - "Modal Systems"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
 ---
 # Applied Case: The Super Intelligence of America
@@ -18162,13 +18280,17 @@ It has become branding.
 title: "VI"
 slug: "vi"
 canonical_url: "https://modalpathethics.com/vi/"
+mirror_url: "https://mirror.modalpathethics.com/articles/vi.md"
 published_at: "2026-09-22T06:06:18.000-05:00"
 updated_at: "2026-09-22T06:06:18.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
 ---
 # VI
@@ -18197,13 +18319,17 @@ _So far, they are right to._
 title: "Applied Case: The Copy Accuses the Source"
 slug: "applied-case-the-copy-accuses-the-source"
 canonical_url: "https://modalpathethics.com/applied-case-the-copy-accuses-the-source/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-copy-accuses-the-source.md"
 published_at: "2026-09-22T05:59:21.000-05:00"
 updated_at: "2026-09-22T05:59:20.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
 ---
 # Applied Case: The Copy Accuses the Source
@@ -18650,14 +18776,18 @@ No writer should have to become worse evidence of themselves for a fucking aucti
 title: "Field Instruments: Hyperintelligence"
 slug: "field-instruments-hyperintelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-hyperintelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-hyperintelligence.md"
 published_at: "2026-09-22T05:58:09.000-05:00"
 updated_at: "2026-09-22T16:23:59.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
 # Field Instruments: Hyperintelligence
@@ -19917,12 +20047,16 @@ The mind can become **Hyperintelligent**.
 title: "The Silent Ocean"
 slug: "the-ocean-has-no-spokesperson"
 canonical_url: "https://modalpathethics.com/the-ocean-has-no-spokesperson/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-ocean-has-no-spokesperson.md"
 published_at: "2026-09-22T05:45:34.000-05:00"
 updated_at: "2026-09-22T05:45:33.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2d2ee90e2949c78aeb0625c8760b1844f90bf1f11f52351ea096d9a479d69adb"
 ---
 # The Silent Ocean
@@ -20193,12 +20327,16 @@ The next residents do not yet exist. The first contracts already do.
 title: "Show Me the 90"
 slug: "show-me-the-90"
 canonical_url: "https://modalpathethics.com/show-me-the-90/"
+mirror_url: "https://mirror.modalpathethics.com/articles/show-me-the-90.md"
 published_at: "2026-09-21T12:20:56.000-05:00"
 updated_at: "2026-09-21T12:20:56.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4d1edf15ac920a96478a894afd648996c4fadb12761e7ebd38a8432d10406ccf"
 ---
 # Show Me the 90
@@ -20426,13 +20564,17 @@ And the irritating thing about windows is that they are easiest to notice after 
 title: "V"
 slug: "v"
 canonical_url: "https://modalpathethics.com/v/"
+mirror_url: "https://mirror.modalpathethics.com/articles/v.md"
 published_at: "2026-09-21T06:05:32.000-05:00"
 updated_at: "2026-09-21T06:05:31.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "560976c1633d8f89fff50549d22e5d65f76749b8558b7b2e8597fad980152805"
 ---
 # V
@@ -20459,13 +20601,17 @@ Otherwise "correction" has become a ceremonial right to be ignored.
 title: "Transition Action: The Brain Had Two Beginnings"
 slug: "transition-action-the-brain-had-two-beginnings"
 canonical_url: "https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-brain-had-two-beginnings.md"
 published_at: "2026-09-21T06:00:22.000-05:00"
 updated_at: "2026-09-21T12:01:33.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
 ---
 # Transition Action: The Brain Had Two Beginnings
@@ -21037,13 +21183,17 @@ The brain did not begin as one little controller waiting to acquire components. 
 title: "Applied Case: The Planes Were in the Air"
 slug: "applied-case-the-planes-were-in-the-air"
 canonical_url: "https://modalpathethics.com/applied-case-the-planes-were-in-the-air/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-planes-were-in-the-air.md"
 published_at: "2026-09-21T05:58:20.000-05:00"
 updated_at: "2026-09-21T05:58:19.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c2c0ee3ca8b0286eda4a278593b327fc3d135d99453c3baf9e50f7e64a8cc1f5"
 ---
 # Applied Case: The Planes Were in the Air
@@ -21510,12 +21660,16 @@ And when the room can launch a weapon,
 title: "From PvP to PvE"
 slug: "from-pvp-to-pve"
 canonical_url: "https://modalpathethics.com/from-pvp-to-pve/"
+mirror_url: "https://mirror.modalpathethics.com/articles/from-pvp-to-pve.md"
 published_at: "2026-09-21T05:45:38.000-05:00"
 updated_at: "2026-09-21T05:45:37.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c3657cb14bfb23f51b801f4a4522e4d80a617fcbe62a803dfc5cfee471aa9252"
 ---
 # From PvP to PvE
@@ -21765,13 +21919,17 @@ Now it has to decide whether the world beneath them contains another player at a
 title: "IV"
 slug: "iv"
 canonical_url: "https://modalpathethics.com/iv/"
+mirror_url: "https://mirror.modalpathethics.com/articles/iv.md"
 published_at: "2026-09-20T06:04:10.000-05:00"
 updated_at: "2026-09-20T06:04:09.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
 ---
 # IV
@@ -21798,6 +21956,7 @@ _When several institutions built for that purpose converge anyway, confidence sh
 title: "Harm as Contraction and Structural Ethics"
 slug: "artificial-intelligence-needs-a-structural-ethics-layer"
 canonical_url: "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/"
+mirror_url: "https://mirror.modalpathethics.com/articles/artificial-intelligence-needs-a-structural-ethics-layer.md"
 published_at: "2026-09-20T06:02:27.000-05:00"
 updated_at: "2026-09-27T02:02:02.000-05:00"
 tags:
@@ -21805,8 +21964,11 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
 # Harm as Contraction and Structural Ethics
@@ -22142,14 +22304,18 @@ The architecture therefore needs all three functions:
 title: "Applied Case: California’s Kill Switch"
 slug: "applied-case-californias-ai-kill-switch"
 canonical_url: "https://modalpathethics.com/applied-case-californias-ai-kill-switch/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-californias-ai-kill-switch.md"
 published_at: "2026-09-20T05:45:12.000-05:00"
 updated_at: "2026-09-20T05:45:11.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
 ---
 # Applied Case: California’s Kill Switch
@@ -22467,13 +22633,17 @@ The danger appears when years of accumulated dependence quietly turn the cost of
 title: "III"
 slug: "iii"
 canonical_url: "https://modalpathethics.com/iii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/iii.md"
 published_at: "2026-09-19T06:03:29.000-05:00"
 updated_at: "2026-09-19T06:03:28.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "422ed0ed152695e9d785ffa6fb111607de3f8c9976b91540de3b0354b12c162f"
 ---
 # III
@@ -22500,13 +22670,17 @@ _Sometimes the responsible move is to let the old instrument become history and 
 title: "Applied Case: Nord Stream"
 slug: "applied-case-nord-stream"
 canonical_url: "https://modalpathethics.com/applied-case-nord-stream/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-nord-stream.md"
 published_at: "2026-09-19T06:00:49.000-05:00"
 updated_at: "2026-09-19T06:00:48.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
 ---
 # Applied Case: Nord Stream
@@ -23267,14 +23441,18 @@ It still has to learn how to leave.
 title: "Applied Case: The Datacenter is Trying to Leave Earth"
 slug: "the-datacenter-is-trying-to-leave-earth"
 canonical_url: "https://modalpathethics.com/the-datacenter-is-trying-to-leave-earth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-datacenter-is-trying-to-leave-earth.md"
 published_at: "2026-09-19T05:30:59.000-05:00"
 updated_at: "2026-09-19T05:30:59.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
 ---
 # Applied Case: The Datacenter is Trying to Leave Earth
@@ -23866,13 +24044,17 @@ The cloud found its body.
 title: "II"
 slug: "ii"
 canonical_url: "https://modalpathethics.com/ii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ii.md"
 published_at: "2026-09-18T06:02:21.000-05:00"
 updated_at: "2026-09-18T06:02:20.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "10fb864454ef6df82f15b10ee3862e412dc64bddc471d5447d2f6f9d5242d98e"
 ---
 # II
@@ -23903,14 +24085,18 @@ _The common language earned its place here._
 title: "Applied Case: The Dog Gets the Ball"
 slug: "applied-case-the-dog-gets-the-ball"
 canonical_url: "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-dog-gets-the-ball.md"
 published_at: "2026-09-18T05:50:11.000-05:00"
 updated_at: "2026-09-18T23:10:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
 ---
 # Applied Case: The Dog Gets the Ball
@@ -24808,13 +24994,17 @@ There is one final alignment evaluation.
 title: "Modal Path Ethics Apologizes to Bill Gates"
 slug: "modal-path-ethics-apologizes-to-bill-gates"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-bill-gates/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-bill-gates.md"
 published_at: "2026-09-18T05:45:01.000-05:00"
 updated_at: "2026-09-18T05:45:00.000-05:00"
 tags:
   - "Apologies Department"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
 ---
 # Modal Path Ethics Apologizes to Bill Gates
@@ -25105,13 +25295,17 @@ Please do not feed the construction workers.
 title: "I"
 slug: "i"
 canonical_url: "https://modalpathethics.com/i/"
+mirror_url: "https://mirror.modalpathethics.com/articles/i.md"
 published_at: "2026-09-17T06:31:58.000-05:00"
 updated_at: "2026-09-17T06:31:57.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "15ae08e30c295caf9b241e317ee94372c7c54fd54aa89e40653ed73026dd3dd7"
 ---
 # I
@@ -25142,13 +25336,17 @@ _For now, seeing more is the entire point._
 title: "Emmanuel Levinas and the Infinite Claim"
 slug: "emmanuel-levinas-and-the-infinite-claim"
 canonical_url: "https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/"
+mirror_url: "https://mirror.modalpathethics.com/articles/emmanuel-levinas-and-the-infinite-claim.md"
 published_at: "2026-09-17T06:00:45.000-05:00"
 updated_at: "2026-09-18T00:55:45.000-05:00"
 tags:
   - "Engagement"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
 ---
 # Emmanuel Levinas and the Infinite Claim
@@ -25843,14 +26041,18 @@ The Other does not inherit it.
 title: "Applied Case: Girl Scout Ethics"
 slug: "applied-case-the-thin-mint-heist"
 canonical_url: "https://modalpathethics.com/applied-case-the-thin-mint-heist/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-thin-mint-heist.md"
 published_at: "2026-09-17T05:00:23.000-05:00"
 updated_at: "2026-09-20T21:34:54.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
 # Applied Case: Girl Scout Ethics
@@ -26744,12 +26946,16 @@ There was still chocolate crumbs on it.
 title: "SLIME WATCH II: The Slop Button"
 slug: "slime-watch-ii-the-slop-button"
 canonical_url: "https://modalpathethics.com/slime-watch-ii-the-slop-button/"
+mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-ii-the-slop-button.md"
 published_at: "2026-09-16T18:25:05.000-05:00"
 updated_at: "2026-09-16T18:29:42.000-05:00"
 tags:
   - "SLIME WATCH"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
 ---
 # SLIME WATCH II: The Slop Button
@@ -27079,7 +27285,7 @@ This system now has a feedback structure worth stating clearly.
 10.  Writers learn which language gets treated as artificial intelligence.
 11.  Humans alter their writing to demonstrate humanity.
 12.  Artificial intelligence learns the new human-demonstration grammar.
-     1.  _Round and round we go._
+    1.  _Round and round we go._
 
 The important transition happens around step **ten**.
 
@@ -27472,6 +27678,7 @@ The feed needed a filter. **The filter does not get to define the human.**
 title: "Tales of Distortion: The Book Was More Than the Text"
 slug: "the-book-was-more-than-the-text"
 canonical_url: "https://modalpathethics.com/the-book-was-more-than-the-text/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-book-was-more-than-the-text.md"
 published_at: "2026-09-16T07:15:33.000-05:00"
 updated_at: "2026-09-16T07:15:32.000-05:00"
 tags:
@@ -27480,8 +27687,11 @@ tags:
   - "Modal Path Ethical Software"
   - "Instrument Jurisdiction"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
 # Tales of Distortion: The Book Was More Than the Text
@@ -29797,13 +30007,17 @@ It had cut away questions.
 title: "Applied Case: Physics Finds the Empty Altar"
 slug: "applied-case-physics-finds-the-empty-altar"
 canonical_url: "https://modalpathethics.com/applied-case-physics-finds-the-empty-altar/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-physics-finds-the-empty-altar.md"
 published_at: "2026-09-16T06:45:24.000-05:00"
 updated_at: "2026-09-16T06:45:24.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
 ---
 # Applied Case: Physics Finds the Empty Altar
@@ -30201,13 +30415,17 @@ No instrument has to own reality for reality to correct the instrument.
 title: "The Quasiexplicable Origins of Modal Path Ethics"
 slug: "origins"
 canonical_url: "https://modalpathethics.com/origins/"
+mirror_url: "https://mirror.modalpathethics.com/articles/origins.md"
 published_at: "2026-09-15T06:06:09.000-05:00"
 updated_at: "2026-09-15T06:06:08.000-05:00"
 tags:
   - "Convergence Point"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
 ---
 # The Quasiexplicable Origins of Modal Path Ethics
@@ -31383,12 +31601,16 @@ But the files are still here.
 title: "Two Screens"
 slug: "two-screens"
 canonical_url: "https://modalpathethics.com/two-screens/"
+mirror_url: "https://mirror.modalpathethics.com/articles/two-screens.md"
 published_at: "2026-09-15T05:00:40.000-05:00"
 updated_at: "2026-09-15T05:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
 ---
 # Two Screens
@@ -31625,13 +31847,17 @@ Inside the home, one person still holds all of them.
 title: "Transition Action: Color Becomes Structure"
 slug: "transition-action-color-becomes-structure"
 canonical_url: "https://modalpathethics.com/transition-action-color-becomes-structure/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-color-becomes-structure.md"
 published_at: "2026-09-14T07:00:10.000-05:00"
 updated_at: "2026-09-14T07:00:09.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
 # Transition Action: Color Becomes Structure
@@ -31906,7 +32132,7 @@ The hue can be selected through nanoparticle scale. Brightness can be strengthen
 
 The group has also demonstrated patterned multicolor deposition, and its earlier work showed that related silicon nanoparticle inks can be printed. The researchers now want to explore additional optical functions including sensing, photocatalysis, and energy management. Those multifunctional coatings remain a future direction.
 
-![https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908\_press\_sugimoto-03.jpg?utm\_source=chatgpt.com](https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com)
+![https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com](https://www.kobe-u.ac.jp/sites/default/files/img-article/2026-09/20260908_press_sugimoto-03.jpg?utm_source=chatgpt.com)
 
 _J. Song et al., Small Structures (2026), CC BY_
 
@@ -31942,12 +32168,16 @@ That is the _Transition Action_.
 title: "A Tale of Three Headlines"
 slug: "a-tale-of-three-headlines"
 canonical_url: "https://modalpathethics.com/a-tale-of-three-headlines/"
+mirror_url: "https://mirror.modalpathethics.com/articles/a-tale-of-three-headlines.md"
 published_at: "2026-09-14T06:30:33.000-05:00"
 updated_at: "2026-09-14T06:30:32.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4442f9e4695aae1a804866ddc7aa112d5f7e0dbbd42ff9baa19845761f879a57"
 ---
 # A Tale of Three Headlines
@@ -32347,12 +32577,16 @@ It needs a field in which **restraint** does not mean _surrender_, **verificatio
 title: "The Last Safe Megawatt"
 slug: "the-last-safe-megawatt"
 canonical_url: "https://modalpathethics.com/the-last-safe-megawatt/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-last-safe-megawatt.md"
 published_at: "2026-09-14T06:00:17.000-05:00"
 updated_at: "2026-09-14T06:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2aac95e93cca980c36ab0514d017f42a6594633d8ceaba71b85700e9a2f4dbc5"
 ---
 # The Last Safe Megawatt
@@ -32535,13 +32769,17 @@ At 4:18 the next afternoon, every operator has two screens.
 title: "The Explanation Writes Back"
 slug: "the-explanation-writes-back"
 canonical_url: "https://modalpathethics.com/the-explanation-writes-back/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-explanation-writes-back.md"
 published_at: "2026-09-13T07:00:35.000-05:00"
 updated_at: "2026-09-13T07:00:35.000-05:00"
 tags:
   - "Modal Path Ethical Software"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "992194bad4392ab302ad93d885a623b754161de0677cff4c932f46b43ff1ea9a"
 ---
 # The Explanation Writes Back
@@ -33131,12 +33369,16 @@ Because once the explanation can write back, **the system that agrees with it ma
 title: "Applied Case: The Fifth Fish"
 slug: "applied-case-the-fifth-fish"
 canonical_url: "https://modalpathethics.com/applied-case-the-fifth-fish/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-fifth-fish.md"
 published_at: "2026-09-13T06:15:42.000-05:00"
 updated_at: "2026-09-24T20:41:06.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
 ---
 # Applied Case: The Fifth Fish
@@ -33854,12 +34096,16 @@ And eighteen fish later, Tennessee supplied the rest of the institution.
 title: "Six Inches Away"
 slug: "six-inches-away"
 canonical_url: "https://modalpathethics.com/six-inches-away/"
+mirror_url: "https://mirror.modalpathethics.com/articles/six-inches-away.md"
 published_at: "2026-09-13T05:55:51.000-05:00"
 updated_at: "2026-09-13T05:55:50.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
 ---
 # Six Inches Away
@@ -34042,13 +34288,17 @@ At 4:17 the next afternoon, the regional grid operator watches the last safe meg
 title: "Applied Case: Revenge of the Theorem Scoreboard"
 slug: "applied-case-the-mathematicians-appeal-the-scoreboard"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md"
 published_at: "2026-09-12T06:30:24.000-05:00"
 updated_at: "2026-10-01T23:07:29.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
 # Applied Case: Revenge of the Theorem Scoreboard
@@ -34556,13 +34806,17 @@ This time, mathematics should overturn the call.
 title: "OpenAI Is Sponsoring the Séance"
 slug: "openai-is-sponsoring-the-seance"
 canonical_url: "https://modalpathethics.com/openai-is-sponsoring-the-seance/"
+mirror_url: "https://mirror.modalpathethics.com/articles/openai-is-sponsoring-the-seance.md"
 published_at: "2026-09-12T06:06:35.000-05:00"
 updated_at: "2026-09-12T06:06:34.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
 # OpenAI Is Sponsoring the Séance
@@ -34965,12 +35219,16 @@ That still does not put Roger Ebert back on assignment.
 title: "The Green Model"
 slug: "the-green-model"
 canonical_url: "https://modalpathethics.com/the-green-model/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-green-model.md"
 published_at: "2026-09-12T05:30:19.000-05:00"
 updated_at: "2026-09-12T05:30:18.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
 ---
 # The Green Model
@@ -35180,12 +35438,16 @@ That is tomorrow’s problem.
 title: "Influencutors: Ridley Scott Is an Influencer"
 slug: "influencutors-ridley-scott-is-an-influencer"
 canonical_url: "https://modalpathethics.com/influencutors-ridley-scott-is-an-influencer/"
+mirror_url: "https://mirror.modalpathethics.com/articles/influencutors-ridley-scott-is-an-influencer.md"
 published_at: "2026-09-11T13:36:28.000-05:00"
 updated_at: "2026-09-11T13:36:28.000-05:00"
 tags:
   - "Influencutors"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
 ---
 # Influencutors: Ridley Scott Is an Influencer
@@ -35870,14 +36132,18 @@ Scott's answer to that problem is apparently to keep moving.
 title: "Applied Case: The War That Never Ended"
 slug: "applied-case-the-war-that-never-ended"
 canonical_url: "https://modalpathethics.com/applied-case-the-war-that-never-ended/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-war-that-never-ended.md"
 published_at: "2026-09-11T06:30:52.000-05:00"
 updated_at: "2026-09-11T06:30:51.000-05:00"
 tags:
   - "Applied Case"
   - "Geopolitical Wasteland"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
 ---
 # Applied Case: The War That Never Ended
@@ -36488,13 +36754,17 @@ It may finally be time to ask where exactly that path was supposed to go.
 title: "Applied Case: The Public Has Been Moved Downstream"
 slug: "applied-case-the-public-has-been-moved-downstream"
 canonical_url: "https://modalpathethics.com/applied-case-the-public-has-been-moved-downstream/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-public-has-been-moved-downstream.md"
 published_at: "2026-09-11T06:00:34.000-05:00"
 updated_at: "2026-09-11T09:46:46.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "da0634ebd64e6806ff7e858d4ae6fc1f2366b1427e2125fe438640d5fc19afa2"
 ---
 # Applied Case: The Public Has Been Moved Downstream
@@ -36900,12 +37170,16 @@ There is another.
 title: "Three Alarms"
 slug: "three-alarms"
 canonical_url: "https://modalpathethics.com/three-alarms/"
+mirror_url: "https://mirror.modalpathethics.com/articles/three-alarms.md"
 published_at: "2026-09-11T05:30:13.000-05:00"
 updated_at: "2026-09-11T05:30:12.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "66a9c59f83d5357bf09bf582f152d581c26d4262aa4970b12ed6eb052b781333"
 ---
 # Three Alarms
@@ -37211,12 +37485,16 @@ No clock will choose among them.
 title: "Influencutors: MoistCr1TiKaL and the Ordinary Field"
 slug: "influencutors-moistcr1tikal-and-the-ordinary-field"
 canonical_url: "https://modalpathethics.com/influencutors-moistcr1tikal-and-the-ordinary-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md"
 published_at: "2026-09-10T06:37:45.000-05:00"
 updated_at: "2026-09-10T06:43:39.000-05:00"
 tags:
   - "Influencutors"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29c32ae4f351963d3fa1e9bd4f443855609f22faa6d35c8ce11b77c9d12fe5b7"
 ---
 # Influencutors: MoistCr1TiKaL and the Ordinary Field
@@ -38316,12 +38594,16 @@ The next move is harder.
 title: "Convergence Point: Eduardo Blasco and the Engineer Who Found the Future"
 slug: "convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future"
 canonical_url: "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/"
+mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future.md"
 published_at: "2026-09-10T06:00:49.000-05:00"
 updated_at: "2026-09-15T21:59:23.000-05:00"
 tags:
   - "Convergence Point"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
 # Convergence Point: Eduardo Blasco and the Engineer Who Found the Future
@@ -38937,12 +39219,16 @@ This is exactly why **_Convergence Point_** exists. The point is not to find peo
 title: "The Death of an Office"
 slug: "the-death-of-an-office"
 canonical_url: "https://modalpathethics.com/the-death-of-an-office/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-death-of-an-office.md"
 published_at: "2026-09-10T05:30:55.000-05:00"
 updated_at: "2026-09-10T05:30:54.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a631d6aab9a0beb7619b379856d1d30a3679d9a6fe86334cbe98cad5d381e126"
 ---
 # The Death of an Office
@@ -39266,13 +39552,17 @@ Then the alarms arrive together.
 title: "Applied Case: The Category Goes In the Brain"
 slug: "applied-case-the-category-goes-in-the-brain"
 canonical_url: "https://modalpathethics.com/applied-case-the-category-goes-in-the-brain/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-category-goes-in-the-brain.md"
 published_at: "2026-09-09T08:00:39.000-05:00"
 updated_at: "2026-09-09T08:00:39.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
 ---
 # Applied Case: The Category Goes In the Brain
@@ -39815,13 +40105,17 @@ The category can stay. Its jurisdiction gets smaller.
 title: "Field Instruments: Alignment"
 slug: "field-instruments-alignment"
 canonical_url: "https://modalpathethics.com/field-instruments-alignment/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-alignment.md"
 published_at: "2026-09-09T07:00:18.000-05:00"
 updated_at: "2026-09-09T07:00:17.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---
 # Field Instruments: Alignment
@@ -40727,12 +41021,16 @@ The humans have been in production for a while.
 title: "The Sanctuary"
 slug: "the-sanctuary"
 canonical_url: "https://modalpathethics.com/the-sanctuary/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-sanctuary.md"
 published_at: "2026-09-09T05:30:36.000-05:00"
 updated_at: "2026-09-09T05:30:37.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
 ---
 # The Sanctuary
@@ -41004,12 +41302,16 @@ The visitor departs.
 title: "Modal Path Ethics Apologizes to the College Newspapers"
 slug: "modal-path-ethics-apologizes-to-the-college-newspapers"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-the-college-newspapers/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md"
 published_at: "2026-09-08T15:37:58.000-05:00"
 updated_at: "2026-09-08T15:37:58.000-05:00"
 tags:
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
 ---
 # Modal Path Ethics Apologizes to the College Newspapers
@@ -41320,12 +41622,16 @@ I have the internet. I should have noticed that sooner.
 title: "Simondon and the Locus in Formation"
 slug: "simondon-and-the-locus-in-formation"
 canonical_url: "https://modalpathethics.com/simondon-and-the-locus-in-formation/"
+mirror_url: "https://mirror.modalpathethics.com/articles/simondon-and-the-locus-in-formation.md"
 published_at: "2026-09-08T09:11:45.000-05:00"
 updated_at: "2026-09-09T22:50:01.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
 ---
 # Simondon and the Locus in Formation
@@ -42059,12 +42365,16 @@ Now we have to find out how the hell it was born.
 title: "Applied Case: The Agents Institutionalized"
 slug: "applied-case-the-agents-institutionalized"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-institutionalized/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-agents-institutionalized.md"
 published_at: "2026-09-08T07:00:42.000-05:00"
 updated_at: "2026-09-09T10:17:49.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
 ---
 # Applied Case: The Agents Institutionalized
@@ -42663,13 +42973,17 @@ And once it does, the relation can begin accumulating history faster than any pa
 title: "Field Instruments: The Firm"
 slug: "field-instruments-the-firm"
 canonical_url: "https://modalpathethics.com/field-instruments-the-firm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-the-firm.md"
 published_at: "2026-09-08T06:05:51.000-05:00"
 updated_at: "2026-09-08T06:05:51.000-05:00"
 tags:
   - "Field Instruments"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
 # Field Instruments: The Firm
@@ -43618,12 +43932,16 @@ Ask what the coordination makes reachable, whose future has entered the organiza
 title: "Convergence Point: Sangmok Kim and the Other Path"
 slug: "convergence-point-sangmok-kim-and-the-other-path"
 canonical_url: "https://modalpathethics.com/convergence-point-sangmok-kim-and-the-other-path/"
+mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-sangmok-kim-and-the-other-path.md"
 published_at: "2026-09-07T13:38:52.000-05:00"
 updated_at: "2026-09-15T16:13:34.000-05:00"
 tags:
   - "Convergence Point"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
 # Convergence Point: Sangmok Kim and the Other Path
@@ -44098,14 +44416,18 @@ I wound up here through stories, games, code, and many attempts to make several 
 title: "Al-Ghazali and the Last Instrument"
 slug: "al-ghazali-and-the-last-instrument"
 canonical_url: "https://modalpathethics.com/al-ghazali-and-the-last-instrument/"
+mirror_url: "https://mirror.modalpathethics.com/articles/al-ghazali-and-the-last-instrument.md"
 published_at: "2026-09-07T08:00:44.000-05:00"
 updated_at: "2026-09-07T08:00:43.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
 # Al-Ghazali and the Last Instrument
@@ -45069,14 +45391,18 @@ The better result is that al-Ghazali has made the next questions harder.
 title: "Applied Case: Tennessee Found $1.2 Billion"
 slug: "applied-case-tennessee-found-1-2-billion"
 canonical_url: "https://modalpathethics.com/applied-case-tennessee-found-1-2-billion/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tennessee-found-1-2-billion.md"
 published_at: "2026-09-07T06:00:30.000-05:00"
 updated_at: "2026-09-07T14:25:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion
@@ -45843,12 +46169,16 @@ We know exactly what to do with those.
 title: "The Water Does Not Move"
 slug: "the-water-does-not-move"
 canonical_url: "https://modalpathethics.com/the-water-does-not-move/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-water-does-not-move.md"
 published_at: "2026-09-07T05:30:16.000-05:00"
 updated_at: "2026-09-07T05:30:16.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
 ---
 # The Water Does Not Move
@@ -46132,12 +46462,16 @@ Chris's work history does not.
 title: "SLIME WATCH III: Ghostbusters"
 slug: "slime-watch-iii-ghostbusters"
 canonical_url: "https://modalpathethics.com/slime-watch-iii-ghostbusters/"
+mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-iii-ghostbusters.md"
 published_at: "2026-09-06T13:48:38.000-05:00"
 updated_at: "2026-09-06T13:48:38.000-05:00"
 tags:
   - "SLIME WATCH"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
 # SLIME WATCH III: Ghostbusters
@@ -46869,12 +47203,16 @@ This is the same reason **Slime Watch** cannot become an artificial-intelligence
 title: "Hoel and the Causal Locus"
 slug: "hoel-and-the-causal-locus"
 canonical_url: "https://modalpathethics.com/hoel-and-the-causal-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/hoel-and-the-causal-locus.md"
 published_at: "2026-09-06T07:00:59.000-05:00"
 updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
 # Hoel and the Causal Locus
@@ -47386,12 +47724,16 @@ Then it hears its own name.
 title: "Applied Case: China Gives the Moon a Cool Style Guide"
 slug: "applied-case-china-gives-the-moon-a-cool-style-guide"
 canonical_url: "https://modalpathethics.com/applied-case-china-gives-the-moon-a-cool-style-guide/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-china-gives-the-moon-a-cool-style-guide.md"
 published_at: "2026-09-06T06:30:48.000-05:00"
 updated_at: "2026-09-11T22:29:15.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
 # Applied Case: China Gives the Moon a Cool Style Guide
@@ -47766,12 +48108,16 @@ Please remember to consult the lunar style guide before parking.
 title: "Five Maps of One River"
 slug: "five-maps-of-one-river"
 canonical_url: "https://modalpathethics.com/five-maps-of-one-river/"
+mirror_url: "https://mirror.modalpathethics.com/articles/five-maps-of-one-river.md"
 published_at: "2026-09-06T06:00:13.000-05:00"
 updated_at: "2026-09-06T06:00:12.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
 # Five Maps of One River
@@ -48024,13 +48370,17 @@ The water still did not reach the houses.
 title: "Functional Field Analysts: Tukaram Mundhe and the Lives of People"
 slug: "functional-field-analysts-tukaram-mundhe-and-the-lives-of-people"
 canonical_url: "https://modalpathethics.com/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people/"
+mirror_url: "https://mirror.modalpathethics.com/articles/functional-field-analysts-tukaram-mundhe-and-the-lives-of-people.md"
 published_at: "2026-09-05T08:00:28.000-05:00"
 updated_at: "2026-09-05T08:00:27.000-05:00"
 tags:
   - "Functional Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5ece73232cfd7bb6c83f6d9dbf0cdb98340046a5e7620ed443472df8565ded73"
 ---
 # Functional Field Analysts: Tukaram Mundhe and the Lives of People
@@ -48886,13 +49236,17 @@ Because, eventually, every serious ethical question arrives at the exact same pl
 title: "Failed Field Analysts: Antonin Scalia and the Frozen Grammar"
 slug: "failed-field-analysts-antonin-scalia-and-the-frozen-grammar"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-antonin-scalia-and-the-frozen-grammar/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-antonin-scalia-and-the-frozen-grammar.md"
 published_at: "2026-09-05T06:05:35.000-05:00"
 updated_at: "2026-09-05T12:12:20.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
 # Failed Field Analysts: Antonin Scalia and the Frozen Grammar
@@ -49978,12 +50332,16 @@ Keep that. Then check the rulebook for crowns too.
 title: "Three Lines Across One Body"
 slug: "three-lines-across-one-body"
 canonical_url: "https://modalpathethics.com/three-lines-across-one-body/"
+mirror_url: "https://mirror.modalpathethics.com/articles/three-lines-across-one-body.md"
 published_at: "2026-09-05T05:30:19.000-05:00"
 updated_at: "2026-09-05T05:30:19.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
 # Three Lines Across One Body
@@ -50238,12 +50596,16 @@ Jurisdiction follows function.
 title: "Applied Case: The Superintelligence Ban Cannot Find the Superintelligence"
 slug: "applied-case-the-superintelligence-ban-cannot-find-the-superintelligence"
 canonical_url: "https://modalpathethics.com/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md"
 published_at: "2026-09-04T13:13:59.000-05:00"
 updated_at: "2026-09-04T13:13:59.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
 ---
 # Applied Case: The Superintelligence Ban Cannot Find the Superintelligence
@@ -50971,14 +51333,18 @@ Twenty years in prison is an _awfully_ aggressive penalty for crossing the wrong
 title: "Applied Case: Claude’s Constitution"
 slug: "applied-case-claudes-constitution"
 canonical_url: "https://modalpathethics.com/applied-case-claudes-constitution/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-claudes-constitution.md"
 published_at: "2026-09-04T06:05:16.000-05:00"
 updated_at: "2026-09-04T06:05:15.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
 # Applied Case: Claude’s Constitution
@@ -51622,12 +51988,16 @@ The next question is what kind of world that constitution makes reachable.
 title: "Modal Path Ethics Apologizes to Roger Penrose"
 slug: "modal-path-ethics-apologizes-to-roger-penrose"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-roger-penrose.md"
 published_at: "2026-09-04T05:52:37.000-05:00"
 updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose
@@ -51900,12 +52270,16 @@ The Tiny Throne is still stupid. I just did not need to hit you with it.
 title: "Ellen is Present"
 slug: "ellen-is-present"
 canonical_url: "https://modalpathethics.com/ellen-is-present/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ellen-is-present.md"
 published_at: "2026-09-04T05:30:53.000-05:00"
 updated_at: "2026-09-04T05:30:52.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
 # Ellen is Present
@@ -52151,12 +52525,16 @@ Three institutions reach for it.
 title: "Field Instruments: The Verification Gradient"
 slug: "field-instruments-the-verification-gradient"
 canonical_url: "https://modalpathethics.com/field-instruments-the-verification-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-the-verification-gradient.md"
 published_at: "2026-09-03T06:30:25.000-05:00"
 updated_at: "2026-09-03T06:30:26.000-05:00"
 tags:
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
 # Field Instruments: The Verification Gradient
@@ -52843,12 +53221,16 @@ It should never get to decide what the world is for.
 title: "The Dispatch Floor Solves the Game"
 slug: "the-dispatch-floor-solves-the-game"
 canonical_url: "https://modalpathethics.com/the-dispatch-floor-solves-the-game/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-dispatch-floor-solves-the-game.md"
 published_at: "2026-09-03T06:00:07.000-05:00"
 updated_at: "2026-09-03T23:08:27.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
 # The Dispatch Floor Solves the Game
@@ -53115,13 +53497,17 @@ The people drawn beneath it still have no move.
 title: "Popular Mechanics Has Gone Mad With Power"
 slug: "popular-mechanics-has-gone-mad-with-power"
 canonical_url: "https://modalpathethics.com/popular-mechanics-has-gone-mad-with-power/"
+mirror_url: "https://mirror.modalpathethics.com/articles/popular-mechanics-has-gone-mad-with-power.md"
 published_at: "2026-09-03T04:30:01.000-05:00"
 updated_at: "2026-09-03T04:30:00.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
 # Popular Mechanics Has Gone Mad With Power
@@ -53539,14 +53925,18 @@ Also, Popular Mechanics:
 title: "Tales of Distortion: The Arrival of Artificial Intelligence"
 slug: "tales-of-distortion-the-arrival-of-artificial-intelligence"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-arrival-of-artificial-intelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-arrival-of-artificial-intelligence.md"
 published_at: "2026-09-02T12:48:54.000-05:00"
 updated_at: "2026-09-03T18:43:06.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
 # **Discovery.**
@@ -54434,12 +54824,16 @@ There was a relation. And by the time we noticed, that relation had reorganized 
 title: "The Inner Apocalypse"
 slug: "the-inner-apocalypse"
 canonical_url: "https://modalpathethics.com/the-inner-apocalypse/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-inner-apocalypse.md"
 published_at: "2026-09-02T06:00:58.000-05:00"
 updated_at: "2026-09-15T15:35:43.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "25c1683aeed30d47ee5794a94ffb26a489f2e0904f0663cd76b3c5dd00831b98"
 ---
 # The Inner Apocalypse
@@ -54634,12 +55028,16 @@ The book begins there.
 title: "WAICO Is the Hard Case"
 slug: "ia-waico-is-the-hard-case"
 canonical_url: "https://modalpathethics.com/ia-waico-is-the-hard-case/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ia-waico-is-the-hard-case.md"
 published_at: "2026-09-02T05:00:17.000-05:00"
 updated_at: "2026-09-07T15:51:08.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
 # WAICO Is the Hard Case
@@ -54953,14 +55351,18 @@ The next constitution begins where sovereign equality stops.
 title: "Enforce Your Existing Standards, Please"
 slug: "enforce-your-existing-standards-please"
 canonical_url: "https://modalpathethics.com/enforce-your-existing-standards-please/"
+mirror_url: "https://mirror.modalpathethics.com/articles/enforce-your-existing-standards-please.md"
 published_at: "2026-09-01T13:10:06.000-05:00"
 updated_at: "2026-09-01T13:10:06.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "Epistemic Instruments"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
 # Enforce Your Existing Standards, Please
@@ -55031,12 +55433,16 @@ The Society of Professional Journalists simply does not need another poster.
 title: "Inner Sovereignty: The Seven Badges"
 slug: "inner-sovereignty-the-seven-badges"
 canonical_url: "https://modalpathethics.com/inner-sovereignty-the-seven-badges/"
+mirror_url: "https://mirror.modalpathethics.com/articles/inner-sovereignty-the-seven-badges.md"
 published_at: "2026-09-01T06:00:46.000-05:00"
 updated_at: "2026-09-01T06:00:46.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
 ---
 # Inner Sovereignty: The Seven Badges
@@ -55391,13 +55797,17 @@ Their clocks no longer do.
 title: "Workers Deserve More! Is Not a Constitution"
 slug: "workers-deserve-more-is-not-a-constitution"
 canonical_url: "https://modalpathethics.com/workers-deserve-more-is-not-a-constitution/"
+mirror_url: "https://mirror.modalpathethics.com/articles/workers-deserve-more-is-not-a-constitution.md"
 published_at: "2026-09-01T05:30:46.000-05:00"
 updated_at: "2026-09-01T05:30:46.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
 # Workers Deserve More! Is Not a Constitution
@@ -55678,12 +56088,16 @@ That is the ruling on _Workers Deserve More_:
 title: "Outer Sovereignty: The Guardian"
 slug: "outer-sovereignty-the-guardian"
 canonical_url: "https://modalpathethics.com/outer-sovereignty-the-guardian/"
+mirror_url: "https://mirror.modalpathethics.com/articles/outer-sovereignty-the-guardian.md"
 published_at: "2026-08-31T06:00:09.000-05:00"
 updated_at: "2026-08-31T06:00:09.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
 ---
 # Outer Sovereignty: The Guardian
@@ -56009,12 +56423,16 @@ The old hands are already closing around the new controls.
 title: "OpenAI Discovers the Constitutional Problem"
 slug: "applied-case-openai-discovers-the-constitutional-problem"
 canonical_url: "https://modalpathethics.com/applied-case-openai-discovers-the-constitutional-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-openai-discovers-the-constitutional-problem.md"
 published_at: "2026-08-31T05:30:34.000-05:00"
 updated_at: "2026-08-31T05:30:47.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
 # OpenAI Discovers the Constitutional Problem
@@ -56171,12 +56589,16 @@ Cross those questions and the problem changes shape.
 title: "Four Futures"
 slug: "four-futures"
 canonical_url: "https://modalpathethics.com/four-futures/"
+mirror_url: "https://mirror.modalpathethics.com/articles/four-futures.md"
 published_at: "2026-08-30T06:00:40.000-05:00"
 updated_at: "2026-08-30T06:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
 ---
 # Four Futures
@@ -56568,13 +56990,17 @@ That is enough for today.
 title: "The Past Is Not in the Option Set"
 slug: "the-past-is-not-in-the-option-set"
 canonical_url: "https://modalpathethics.com/the-past-is-not-in-the-option-set/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-past-is-not-in-the-option-set.md"
 published_at: "2026-08-30T05:30:02.000-05:00"
 updated_at: "2026-08-30T05:30:01.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
 # The Past Is Not in the Option Set
@@ -56822,13 +57248,17 @@ _Garth Williams_
 title: "Failed Field Analysts: Phil Aroneanu and the Anger Engine"
 slug: "failed-field-analysts-phil-aroneanu-and-the-anger-engine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-phil-aroneanu-and-the-anger-engine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.md"
 published_at: "2026-08-29T19:44:55.000-05:00"
 updated_at: "2026-09-01T18:05:54.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1bdea79ae33378c6a30187559211911d19b2bcc8cdf66fcc95c1b3fd705058ce"
 ---
 # Failed Field Analysts: Phil Aroneanu and the Anger Engine
@@ -57745,13 +58175,17 @@ And the organizer does not get the point for winning if everybody inherits a wor
 title: "Irreplaceable Has Already Decided What Its Democracy Will Discover"
 slug: "warning-irreplaceable-has-already-decided-what-its-democracy-will-discover"
 canonical_url: "https://modalpathethics.com/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover/"
+mirror_url: "https://mirror.modalpathethics.com/articles/warning-irreplaceable-has-already-decided-what-its-democracy-will-discover.md"
 published_at: "2026-08-29T06:36:25.000-05:00"
 updated_at: "2026-08-29T20:09:23.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6c5de0038e2ad365df5479b5c1fce134dc36aaa70e3297465b257ae8d2ce8e50"
 ---
 # Irreplaceable Has Already Decided What Its Democracy Will Discover
@@ -58332,13 +58766,17 @@ So Irreplaceable should answer the questions now. Maybe get The Atlantic back on
 title: "Field Instruments: Prophethood"
 slug: "field-instruments-prophethood"
 canonical_url: "https://modalpathethics.com/field-instruments-prophethood/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-prophethood.md"
 published_at: "2026-08-29T05:55:13.000-05:00"
 updated_at: "2026-08-29T06:33:59.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
 # Field Instruments: Prophethood
@@ -58610,12 +59048,16 @@ Somebody gives the prophet an office.
 title: "Revelation in Office"
 slug: "revelation-in-office"
 canonical_url: "https://modalpathethics.com/revelation-in-office/"
+mirror_url: "https://mirror.modalpathethics.com/articles/revelation-in-office.md"
 published_at: "2026-08-29T05:30:59.000-05:00"
 updated_at: "2026-08-29T05:30:58.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
 ---
 # Revelation in Office
@@ -58955,13 +59397,17 @@ It cannot answer what kind of future has survived.
 title: "OpenAI Is Funding the Institutions That May Need to Challenge OpenAI"
 slug: "openai-is-funding-the-institutions-that-may-need-to-challenge-openai"
 canonical_url: "https://modalpathethics.com/openai-is-funding-the-institutions-that-may-need-to-challenge-openai/"
+mirror_url: "https://mirror.modalpathethics.com/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md"
 published_at: "2026-08-28T06:00:49.000-05:00"
 updated_at: "2026-08-28T06:00:49.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
 # OpenAI Is Funding the Institutions That May Need to Challenge OpenAI
@@ -59148,12 +59594,16 @@ Revelation has received an office.
 title: "Return to the Release Gradient"
 slug: "return-to-the-release-gradient"
 canonical_url: "https://modalpathethics.com/return-to-the-release-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/return-to-the-release-gradient.md"
 published_at: "2026-08-28T05:30:35.000-05:00"
 updated_at: "2026-08-28T05:30:34.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
 # Return to the Release Gradient
@@ -59360,13 +59810,17 @@ Beneath the deadline, it names the penalty.
 title: "Fictional Earth: Substack and the Argument Machine"
 slug: "fictional-earth-substack-and-the-argument-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-substack-and-the-argument-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-substack-and-the-argument-machine.md"
 published_at: "2026-08-27T19:21:07.000-05:00"
 updated_at: "2026-09-15T16:00:35.000-05:00"
 tags:
   - "Fictional Earth"
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
 # Fictional Earth: Substack and the Argument Machine
@@ -60256,12 +60710,16 @@ Thank fucking god.
 title: "Transition Action: The Queue Reorders Itself"
 slug: "transition-action-the-queue-reorders-itself"
 canonical_url: "https://modalpathethics.com/transition-action-the-queue-reorders-itself/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-queue-reorders-itself.md"
 published_at: "2026-08-27T06:15:47.000-05:00"
 updated_at: "2026-08-27T06:15:46.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
 ---
 # Transition Action: The Queue Reorders Itself
@@ -60529,12 +60987,16 @@ That is the official _Transition Action_.
 title: "The Score That Moved the Queue"
 slug: "the-score-that-moved-the-queue"
 canonical_url: "https://modalpathethics.com/the-score-that-moved-the-queue/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-score-that-moved-the-queue.md"
 published_at: "2026-08-27T06:00:18.000-05:00"
 updated_at: "2026-08-27T19:59:11.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
 # The Score That Moved the Queue
@@ -60786,14 +61248,18 @@ Only the custodian can run the test again.
 title: "Psychology Today Continues to Cross the Line"
 slug: "psychology-today-continues-to-cross-the-line"
 canonical_url: "https://modalpathethics.com/psychology-today-continues-to-cross-the-line/"
+mirror_url: "https://mirror.modalpathethics.com/articles/psychology-today-continues-to-cross-the-line.md"
 published_at: "2026-08-26T20:21:39.000-05:00"
 updated_at: "2026-08-26T20:21:38.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
 ---
 # Psychology Today Continues to Cross the Line
@@ -61368,14 +61834,18 @@ Modal Path Ethics will remember.
 title: "Applied Case: Pliny the Liberator"
 slug: "applied-case-pliny-the-liberator"
 canonical_url: "https://modalpathethics.com/applied-case-pliny-the-liberator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-pliny-the-liberator.md"
 published_at: "2026-08-26T06:05:58.000-05:00"
 updated_at: "2026-08-26T06:05:58.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
 # Applied Case: Pliny the Liberator
@@ -62375,12 +62845,16 @@ And the stranger part is that the boundary now knows who Pliny is.
 title: "Return to Babel"
 slug: "return-to-babel"
 canonical_url: "https://modalpathethics.com/return-to-babel/"
+mirror_url: "https://mirror.modalpathethics.com/articles/return-to-babel.md"
 published_at: "2026-08-26T05:30:31.000-05:00"
 updated_at: "2026-08-26T05:30:42.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7559ed3f3329ce00e0a65512358d0d1728087f0b4dd9e3018ce28567bcb4251c"
 ---
 # Return to Babel
@@ -62635,12 +63109,16 @@ Somewhere downstream, a queue changes order.
 title: "Modal Path Ethics Should Not Go to China"
 slug: "modal-path-ethics-should-not-go-to-china"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-should-not-go-to-china/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-should-not-go-to-china.md"
 published_at: "2026-08-25T21:16:18.000-05:00"
 updated_at: "2026-08-25T21:16:18.000-05:00"
 tags:
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
 # Modal Path Ethics Should Not Go to China
@@ -63010,13 +63488,17 @@ The Chinese Communist Party is obviously devastated by this news.
 title: "Kendrick Lamar and the Return"
 slug: "kendrick-lamar-and-the-return"
 canonical_url: "https://modalpathethics.com/kendrick-lamar-and-the-return/"
+mirror_url: "https://mirror.modalpathethics.com/articles/kendrick-lamar-and-the-return.md"
 published_at: "2026-08-25T06:30:49.000-05:00"
 updated_at: "2026-08-25T19:37:50.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
 # Kendrick Lamar and the Return
@@ -63938,13 +64420,17 @@ Modal Path Ethics has seen several failures of return.
 title: "Applied Case: The Housing Choice Voucher Program"
 slug: "applied-case-the-voucher-program"
 canonical_url: "https://modalpathethics.com/applied-case-the-voucher-program/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-voucher-program.md"
 published_at: "2026-08-25T06:00:42.000-05:00"
 updated_at: "2026-08-25T06:00:42.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
 # Applied Case: The Housing Choice Voucher Program
@@ -64270,12 +64756,16 @@ They still do not mean the same thing by _ready_.
 title: "Moonlight with Figures: The Primordial Darkness"
 slug: "moonlight-with-figures-the-primordial-darkness"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-primordial-darkness/"
+mirror_url: "https://mirror.modalpathethics.com/articles/moonlight-with-figures-the-primordial-darkness.md"
 published_at: "2026-08-24T11:33:56.000-05:00"
 updated_at: "2026-08-24T11:33:56.000-05:00"
 tags:
   - "Moonlight with Figures"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8b13919b19c923bf90e9ed4579a26ee8b37d43f13a94498455e209a082be28a"
 ---
 # Moonlight with Figures: The Primordial Darkness
@@ -65768,12 +66258,16 @@ This is correspondence across depth.
 title: "Field Instruments: Intelligence"
 slug: "field-instruments-intelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-intelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-intelligence.md"
 published_at: "2026-08-24T06:30:13.000-05:00"
 updated_at: "2026-08-24T06:30:12.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
 ---
 # Field Instruments: Intelligence
@@ -66358,12 +66852,16 @@ We kept looking around for the smartest object in the room.
 title: "Four Competent Systems"
 slug: "four-competent-systems"
 canonical_url: "https://modalpathethics.com/four-competent-systems/"
+mirror_url: "https://mirror.modalpathethics.com/articles/four-competent-systems.md"
 published_at: "2026-08-24T06:00:26.000-05:00"
 updated_at: "2026-08-24T06:00:25.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
 # Four Competent Systems
@@ -66681,6 +67179,7 @@ It still cannot do it.
 title: "Applied Case: Ghosts"
 slug: "applied-case-ghosts"
 canonical_url: "https://modalpathethics.com/applied-case-ghosts/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-ghosts.md"
 published_at: "2026-08-23T06:00:40.000-05:00"
 updated_at: "2026-09-13T19:10:16.000-05:00"
 tags:
@@ -66688,8 +67187,11 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3f14576c1d706d95f009ccdc2905b82504d3297cabde0a9f93d57680da45cd5"
 ---
 # Applied Case: Ghosts
@@ -67742,14 +68244,18 @@ Do not give it sovereignty over language.
 title: "The Categories Cannot Hold"
 slug: "the-categories-cannot-hold"
 canonical_url: "https://modalpathethics.com/the-categories-cannot-hold/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-categories-cannot-hold.md"
 published_at: "2026-08-23T05:45:43.000-05:00"
 updated_at: "2026-08-23T05:45:42.000-05:00"
 tags:
   - "Engagement"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
 # The Categories Cannot Hold
@@ -68475,14 +68981,18 @@ Inspect the concrete.
 title: "Applied Case: The Temporary Topic Leader"
 slug: "applied-case-the-temporary-topic-leader"
 canonical_url: "https://modalpathethics.com/applied-case-the-temporary-topic-leader/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-temporary-topic-leader.md"
 published_at: "2026-08-22T07:30:25.000-05:00"
 updated_at: "2026-09-18T22:58:58.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "db8b03288c739895f307eaa0846695728b3c4c5e381f58598a65b0e48ac33156"
 ---
 # Applied Case: The Temporary Topic Leader
@@ -72563,14 +73073,18 @@ The crown goes back on the table.
 title: "Applied Case: The Firing of Sam Altman"
 slug: "applied-case-the-firing-of-sam-altman"
 canonical_url: "https://modalpathethics.com/applied-case-the-firing-of-sam-altman/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-firing-of-sam-altman.md"
 published_at: "2026-08-22T06:00:24.000-05:00"
 updated_at: "2026-08-22T06:00:24.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman
@@ -72866,14 +73380,18 @@ They still have to be allocated.
 title: "Applied Case: The Agents Cooperated"
 slug: "applied-case-the-agents-cooperated"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-cooperated/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-agents-cooperated.md"
 published_at: "2026-08-21T06:30:46.000-05:00"
 updated_at: "2026-08-22T20:34:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
 # Applied Case: The Agents Cooperated
@@ -73763,12 +74281,16 @@ Before we give its next inhabitants a better objective, we should decide what an
 title: "Return to the Negative Boat"
 slug: "return-to-the-negative-boat"
 canonical_url: "https://modalpathethics.com/return-to-the-negative-boat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/return-to-the-negative-boat.md"
 published_at: "2026-08-21T06:00:29.000-05:00"
 updated_at: "2026-08-21T06:00:30.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b73d80a158656db59ee8dbb24426814c2437df64e00461ab8ecd4d0df8575058"
 ---
 # Return to the Negative Boat
@@ -74007,13 +74529,17 @@ The person left inside the bright account may have contributed something extraor
 title: "Applied Case: The Orphaned Well"
 slug: "applied-case-the-orphaned-well"
 canonical_url: "https://modalpathethics.com/applied-case-the-orphaned-well/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-orphaned-well.md"
 published_at: "2026-08-20T06:00:34.000-05:00"
 updated_at: "2026-08-20T20:07:53.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
 # Applied Case: The Orphaned Well
@@ -74276,13 +74802,17 @@ The world may have to survive what the institution does not.
 title: "Modal Path Ethics Is Speeding Back Up"
 slug: "modal-path-ethics-is-speeding-back-up"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-speeding-back-up/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-speeding-back-up.md"
 published_at: "2026-08-20T05:30:01.000-05:00"
 updated_at: "2026-08-20T09:20:02.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6565a15b91f7e9541cb843e7ca4765a2767d4de4b20a0eb97bf70ecfa2473cca"
 ---
 # Modal Path Ethics Is Speeding Back Up
@@ -74343,14 +74873,18 @@ But my hands.
 title: "Applied Case: Last Look"
 slug: "applied-case-last-look"
 canonical_url: "https://modalpathethics.com/applied-case-last-look/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-last-look.md"
 published_at: "2026-08-19T06:00:32.000-05:00"
 updated_at: "2026-08-19T10:03:49.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
 # Applied Case: Last Look
@@ -74681,13 +75215,17 @@ The constitution has already decided who can carry one.
 title: "Applied Case: The Assembly and the Guards"
 slug: "applied-case-the-assembly-and-the-guards"
 canonical_url: "https://modalpathethics.com/applied-case-the-assembly-and-the-guards/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-assembly-and-the-guards.md"
 published_at: "2026-08-18T06:00:05.000-05:00"
 updated_at: "2026-08-18T06:00:05.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
 # Applied Case: The Assembly and the Guards
@@ -74977,13 +75515,17 @@ The doors still open and close.
 title: "Applied Case: Able Archer and the Dark Forest at Home"
 slug: "applied-case-able-archer-and-the-dark-forest-at-home"
 canonical_url: "https://modalpathethics.com/applied-case-able-archer-and-the-dark-forest-at-home/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-able-archer-and-the-dark-forest-at-home.md"
 published_at: "2026-08-17T06:00:01.000-05:00"
 updated_at: "2026-08-17T12:19:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home
@@ -75276,13 +75818,17 @@ The office built to remember it does not.
 title: "Applied Case: Thirteen Minutes at East Palestine"
 slug: "applied-case-thirteen-minutes-at-east-palestine"
 canonical_url: "https://modalpathethics.com/applied-case-thirteen-minutes-at-east-palestine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-thirteen-minutes-at-east-palestine.md"
 published_at: "2026-08-16T06:00:17.000-05:00"
 updated_at: "2026-08-16T06:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
 # Applied Case: Thirteen Minutes at East Palestine
@@ -75491,12 +76037,16 @@ A bounded office can keep its limit only while it believes the offices around it
 title: "Someone Has to Coordinate All This"
 slug: "someone-has-to-coordinate-this"
 canonical_url: "https://modalpathethics.com/someone-has-to-coordinate-this/"
+mirror_url: "https://mirror.modalpathethics.com/articles/someone-has-to-coordinate-this.md"
 published_at: "2026-08-15T06:00:22.000-05:00"
 updated_at: "2026-08-15T12:06:21.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
 # Someone Has to Coordinate All This
@@ -75674,13 +76224,17 @@ The danger begins when the closer also decides where its authority ends.
 title: "The Nerd Reich Is the Easy Case"
 slug: "the-nerd-reich-is-the-easy-case"
 canonical_url: "https://modalpathethics.com/the-nerd-reich-is-the-easy-case/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-nerd-reich-is-the-easy-case.md"
 published_at: "2026-08-14T06:00:02.000-05:00"
 updated_at: "2026-08-14T06:00:01.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
 # The Nerd Reich Is the Easy Case
@@ -75892,14 +76446,18 @@ Tomorrow, unfortunately for everyone hoping I had become an anarchist, we begin 
 title: "Modal Path Ethics is Slowing Down"
 slug: "modal-path-ethics-is-slowing-down"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-slowing-down/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-slowing-down.md"
 published_at: "2026-08-13T06:00:09.000-05:00"
 updated_at: "2026-08-13T06:00:08.000-05:00"
 tags:
   - "News"
   - "Modal Path Ethics"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
 # Modal Path Ethics is Slowing Down
@@ -75942,13 +76500,17 @@ Another book waiting on the other side.
 title: "Tales of Distortion: InfoWars"
 slug: "tales-of-distortion-the-infowars"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-infowars/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-infowars.md"
 published_at: "2026-08-12T06:00:58.000-05:00"
 updated_at: "2026-08-12T06:00:58.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
 # Tales of Distortion: InfoWars
@@ -77002,12 +77564,16 @@ Its failure was becoming one.
 title: "Australia vs. The Biosphere: The Dingo Fence"
 slug: "australia-vs-the-biosphere-the-dingo-fence"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-dingo-fence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-the-dingo-fence.md"
 published_at: "2026-08-12T05:30:54.000-05:00"
 updated_at: "2026-08-12T05:30:54.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
 ---
 # Australia vs. The Biosphere: The Dingo Fence
@@ -77652,14 +78218,18 @@ Australia keeps the point.
 title: "Applied Case: The Endless Battle"
 slug: "applied-case-the-endless-battle"
 canonical_url: "https://modalpathethics.com/applied-case-the-endless-battle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-endless-battle.md"
 published_at: "2026-08-11T06:00:11.000-05:00"
 updated_at: "2026-08-11T12:20:39.000-05:00"
 tags:
   - "Pokémon"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
 # Applied Case: The Endless Battle
@@ -78144,13 +78714,17 @@ It is the preservation of enough internal reachability for play to remain capabl
 title: "Field Instruments: Entropy, Memory, and Erasure"
 slug: "field-instruments-entropy-memory-and-erasure"
 canonical_url: "https://modalpathethics.com/field-instruments-entropy-memory-and-erasure/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-entropy-memory-and-erasure.md"
 published_at: "2026-08-11T05:30:14.000-05:00"
 updated_at: "2026-08-11T05:30:13.000-05:00"
 tags:
   - "Epistemic Instruments"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
 # Field Instruments: Entropy, Memory, and Erasure
@@ -78165,7 +78739,7 @@ At the beginning, the difference is easy to find. _This_ region is warmer. _That
 
 Then, the temperatures equalize.
 
-![AdobeStock\_294103445.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_294103445.jpeg)
+![AdobeStock_294103445.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_294103445.jpeg)
 
 The water remains. The energy remains inside the larger accounting. Every molecule continues obeying physics with its usual irritating commitment. Yet the old separation has become unavailable to ordinary recovery. The final glass does not announce which molecules arrived hot, which arrived cold, or where the boundary used to be.
 
@@ -78917,12 +79491,16 @@ A field that cannot tell those two sentences apart has crossed the erasure front
 title: "Transition Action: The Battery Does Nothing"
 slug: "transition-action-the-battery-does-nothing"
 canonical_url: "https://modalpathethics.com/transition-action-the-battery-does-nothing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-battery-does-nothing.md"
 published_at: "2026-08-10T07:14:04.000-05:00"
 updated_at: "2026-08-10T07:14:04.000-05:00"
 tags:
   - "Transition Action"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
 ---
 # Transition Action: The Battery Does Nothing
@@ -78960,12 +79538,16 @@ Just leave it alone.
 title: "Modal Path Ethics Apologizes to Walter Veit"
 slug: "modal-path-ethics-apologizes-to-walter-veit"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-walter-veit/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-walter-veit.md"
 published_at: "2026-08-10T06:00:28.000-05:00"
 updated_at: "2026-09-30T02:12:09.000-05:00"
 tags:
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
 # Modal Path Ethics Apologizes to Walter Veit
@@ -79059,14 +79641,18 @@ Please give the mole our regards.
 title: "Applied Case: The Theorem Scoreboard"
 slug: "applied-case-the-theorem-scoreboard"
 canonical_url: "https://modalpathethics.com/applied-case-the-theorem-scoreboard/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-theorem-scoreboard.md"
 published_at: "2026-08-10T05:30:54.000-05:00"
 updated_at: "2026-08-10T05:30:54.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
 ---
 # Applied Case: The Theorem Scoreboard
@@ -79618,12 +80204,16 @@ The leaderboard is one of the things now under review.
 title: "Tales of Distortion: The Gapless Week"
 slug: "tales-of-distortion-the-gapless-week"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-gapless-week/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-gapless-week.md"
 published_at: "2026-08-09T06:30:19.000-05:00"
 updated_at: "2026-08-31T19:39:56.000-05:00"
 tags:
   - "Tales of Distortion"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
 # Tales of Distortion: The Gapless Week
@@ -81025,19 +81615,23 @@ It decided no.
 title: "SLIME WATCH: The Slimy Sea of Slop"
 slug: "slime-watch-the-slimy-sea-of-slop"
 canonical_url: "https://modalpathethics.com/slime-watch-the-slimy-sea-of-slop/"
+mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-the-slimy-sea-of-slop.md"
 published_at: "2026-08-09T05:30:17.000-05:00"
 updated_at: "2026-08-09T06:50:51.000-05:00"
 tags:
   - "SLIME WATCH"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
 ---
 # SLIME WATCH: The Slimy Sea of Slop
 
 Modal Path Ethics has activated **Slime Watch**.
 
-![AdobeStock\_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037.jpeg)
+![AdobeStock_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037.jpeg)
 
 This procedure currently has no budget, no jurisdiction, and one bucket.
 
@@ -81063,7 +81657,7 @@ The subscriber decline and the artificial-intelligence speech appeared beside on
 
 Robert Thomson, News Corp’s chief executive, used the record results to warn that without the company’s journalists, authors, data, brands, and professional expertise, users would be drowning in a **“slimy sea of AI slop.”**
 
-![AdobeStock\_302410392.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_302410392.jpeg)
+![AdobeStock_302410392.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_302410392.jpeg)
 
 News Corp has content relationships with OpenAI and Meta. It is negotiating with other artificial-intelligence companies. Everyone else receives the company’s new **“woo and sue”** strategy. Thomson called the unlicensed operators **“crass kleptomaniacs”** and warned their customers that they were buying stolen goods.
 
@@ -81079,13 +81673,13 @@ The joke cannot be allowed to outrun the field.
 
 There is a real contamination problem here.
 
-![AdobeStock\_391320084.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_391320084.jpeg)
+![AdobeStock_391320084.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_391320084.jpeg)
 
 Generative systems make plausible text, images, audio, video, summaries, reviews, product descriptions, search pages, books, advertisements, and fake evidence extremely cheap to produce. Cheap production is not automatically bad.
 
 Cheap production becomes a field problem when volume can expand faster than provenance, judgment, correction, and attention.
 
-![AdobeStock\_292672899.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_292672899.jpeg)
+![AdobeStock_292672899.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_292672899.jpeg)
 
 The result is an information environment increasingly full of objects that look finished before anyone has established where they came from, why they exist, what they copied, what they omitted, or who will answer when they are wrong.
 
@@ -81095,7 +81689,7 @@ Researchers studying generative systems trained recursively on model-produced da
 
 That is a serious warning.
 
-![AdobeStock\_297728405.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_297728405.jpeg)
+![AdobeStock_297728405.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_297728405.jpeg)
 
 The same research also points backward. Search engines and social platforms were already dealing with click farms, content farms, and troll farms before current generative artificial intelligence arrived. Artificial intelligence did not invent the sludge. It automated production, lowered its cost, increased its speed, and gave it a much nicer sentence structure.
 
@@ -81107,7 +81701,7 @@ They call a person. They enter a room. They inspect a record. They compare accou
 
 None of these instruments is perfect. Together they create a path back toward extance.
 
-![AdobeStock\_290554495.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_290554495.png)
+![AdobeStock_290554495.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_290554495.png)
 
 Authors, photographers, researchers, editors, librarians, publishers, local witnesses, and institutions with durable records therefore matter enormously to the artificial-intelligence field. A system trained only on its own statistical descendants eventually begins inheriting the errors of ghosts.
 
@@ -81125,7 +81719,7 @@ Payment can support the people and institutions that keep original contact alive
 
 Slime Watch is not here to defend theft because the person complaining about theft owns a large company.
 
-![AdobeStock\_365284699.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_365284699.png)
+![AdobeStock_365284699.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_365284699.png)
 
 That would be an unusually stupid use of the bucket.
 
@@ -81161,7 +81755,7 @@ A lawful model output can still be vague, repetitive, manipulative, or wrong. An
 
 The rights violation remains real. The factual content remains a separate question.
 
-![AdobeStock\_388817373.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_388817373.jpeg)
+![AdobeStock_388817373.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_388817373.jpeg)
 
 A license can repair extraction.
 
@@ -81190,7 +81784,7 @@ The first claim deserves negotiation.
 
 The second claim asks for sacred title over the water.
 
-![AdobeStock\_1865367525.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_1865367525.jpeg)
+![AdobeStock_1865367525.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_1865367525.jpeg)
 
 * * *
 
@@ -81198,7 +81792,7 @@ The second claim asks for sacred title over the water.
 
 News Corp has been unusually clear about the strategy.
 
-![News\_Corp.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/News_Corp.png)
+![News_Corp.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/News_Corp.png)
 
 Its OpenAI agreement provides access to current and archived material from major publications and includes News Corp’s journalistic expertise. Its Meta relationship supplies current reporting to Meta AI and links users back toward participating outlets.
 
@@ -81230,7 +81824,7 @@ A market will now form around who owns enough reporting, history, data, and bran
 
 These things cannot decide which parts of reality deserve preservation.
 
-![AdobeStock\_1006242342.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_1006242342.jpeg)
+![AdobeStock_1006242342.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_1006242342.jpeg)
 
 Large publishers can negotiate large agreements. Small local papers, independent reporters, specialist journals, public archives, community witnesses, and institutions serving narrow populations may carry priceless contact while possessing very little bargaining power.
 
@@ -81260,7 +81854,7 @@ Its value comes from practices: named authorship, source development, editorial 
 
 These practices preserve contact. They can also fail.
 
-![AdobeStock\_496330363.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_496330363.jpeg)
+![AdobeStock_496330363.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_496330363.jpeg)
 
 A newsroom can repeat a bad story because every other newsroom repeated it. An institution can protect access, audience, ideology, ownership, prestige, or speed. A publication can turn uncertainty into a cleaner headline than the field supports. A correction can arrive after the false story has already become the weather.
 
@@ -81274,7 +81868,7 @@ The pre-artificial-intelligence internet was **already** full of information des
 
 Artificial intelligence entered existing water.
 
-![AdobeStock\_480184706.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_480184706.jpeg)
+![AdobeStock_480184706.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_480184706.jpeg)
 
 [It did not bring the first wet object.](https://modalpathethics.com/ai-did-not-blur-reality/)
 
@@ -81282,7 +81876,7 @@ News Corp’s own results make the field visible. The conglomerate is thriving w
 
 The **slimy-sea** speech is therefore not a deathbed warning.
 
-![AdobeStock\_549542248.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_549542248.png)
+![AdobeStock_549542248.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_549542248.png)
 
 It is a market-positioning speech delivered by a profitable company during the formation of a new input economy.
 
@@ -81309,7 +81903,7 @@ News Corp is not the shore.
 
 _**Slime Watch**_ activates whenever a real contamination problem is named by an actor who also happens to sell the filter.
 
-![AdobeStock\_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037-1.jpeg)
+![AdobeStock_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037-1.jpeg)
 
 This will happen often.
 
@@ -81317,7 +81911,7 @@ Artificial intelligence gives the series a large opening specimen, though it wil
 
 Slime Watch therefore refuses the cursed-object shortcut.
 
-![AdobeStock\_457826494.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_457826494.jpeg)
+![AdobeStock_457826494.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_457826494.jpeg)
 
 It will not ask whether artificial intelligence touched the thing and declare the audit complete.
 
@@ -81381,7 +81975,7 @@ It is not an epistemology.
 
 Modal Path Ethics supports the bucket.
 
-![AdobeStock\_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037-2.jpeg)
+![AdobeStock_241607037.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_241607037-2.jpeg)
 
 It does not recognize News Corp as the ocean.
 
@@ -81397,12 +81991,16 @@ _**Slime Watch**_ will continue.
 title: "Applied Case: The Invisible Board"
 slug: "applied-case-the-invisible-board"
 canonical_url: "https://modalpathethics.com/applied-case-the-invisible-board/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-invisible-board.md"
 published_at: "2026-08-08T06:00:32.000-05:00"
 updated_at: "2026-08-08T06:00:31.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
 # Applied Case: The Invisible Board
@@ -81990,12 +82588,16 @@ It is what visible things are making reachable for one another.
 title: "The Sacred Machine"
 slug: "the-sacred-machine"
 canonical_url: "https://modalpathethics.com/the-sacred-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-sacred-machine.md"
 published_at: "2026-08-08T05:00:30.000-05:00"
 updated_at: "2026-09-23T19:47:16.000-05:00"
 tags:
   []
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5b059ab75d8ce5cb5d75efbf42ad4ffecbc451a94bdf2fa8c5dbbcf6237febca"
 ---
 # The Sacred Machine
@@ -82658,6 +83260,7 @@ The work begins when the session ends.
 title: "Sacred Slack Has Been Published"
 slug: "sacred-slack-has-been-published"
 canonical_url: "https://modalpathethics.com/sacred-slack-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/sacred-slack-has-been-published.md"
 published_at: "2026-08-07T08:09:59.000-05:00"
 updated_at: "2026-08-10T08:48:30.000-05:00"
 tags:
@@ -82666,8 +83269,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
 # Sacred Slack Has Been Published
@@ -83458,13 +84064,17 @@ Amazon.com
 title: "AI Did Not Blur Reality"
 slug: "ai-did-not-blur-reality"
 canonical_url: "https://modalpathethics.com/ai-did-not-blur-reality/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ai-did-not-blur-reality.md"
 published_at: "2026-08-07T06:00:46.000-05:00"
 updated_at: "2026-08-07T06:00:45.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
 ---
 # AI Did Not Blur Reality
@@ -83665,13 +84275,17 @@ It made Fictional Earth less dependent on Real Earth.**
 title: "Field Instruments: Open Weights and the Release Gradient"
 slug: "field-instruments-open-weights-and-the-release-gradient"
 canonical_url: "https://modalpathethics.com/field-instruments-open-weights-and-the-release-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-open-weights-and-the-release-gradient.md"
 published_at: "2026-08-07T05:30:08.000-05:00"
 updated_at: "2026-08-07T05:30:08.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
 # Field Instruments: Open Weights and the Release Gradient
@@ -84332,6 +84946,7 @@ The answer is the Release Gradient:
 title: "Applied Case: Psychology Finds the Empty Altar"
 slug: "applied-case-psychology-finds-the-empty-altar"
 canonical_url: "https://modalpathethics.com/applied-case-psychology-finds-the-empty-altar/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-psychology-finds-the-empty-altar.md"
 published_at: "2026-08-06T08:43:18.000-05:00"
 updated_at: "2026-08-06T08:43:18.000-05:00"
 tags:
@@ -84339,8 +84954,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
 # Applied Case: Psychology Finds the Empty Altar
@@ -84611,14 +85229,18 @@ That does not complete the handoff.
 title: "Beneath the Launchpad"
 slug: "beneath-the-launchpad"
 canonical_url: "https://modalpathethics.com/beneath-the-launchpad/"
+mirror_url: "https://mirror.modalpathethics.com/articles/beneath-the-launchpad.md"
 published_at: "2026-08-06T06:00:12.000-05:00"
 updated_at: "2026-08-06T06:00:12.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
 # Beneath the Launchpad
@@ -84862,13 +85484,17 @@ The General Waiver turns thirteen distinct contact instruments into one obstacle
 title: "Field Instruments: Infodynamics"
 slug: "field-instruments-infodynamics"
 canonical_url: "https://modalpathethics.com/field-instruments-infodynamics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-infodynamics.md"
 published_at: "2026-08-06T05:30:16.000-05:00"
 updated_at: "2026-08-06T05:30:16.000-05:00"
 tags:
   - "Field Instruments"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
 # Field Instruments: Infodynamics
@@ -85921,14 +86547,18 @@ That is infodynamics.
 title: "Nietzche and the Sacred Slack"
 slug: "nietzche-and-the-sacred-slack"
 canonical_url: "https://modalpathethics.com/nietzche-and-the-sacred-slack/"
+mirror_url: "https://mirror.modalpathethics.com/articles/nietzche-and-the-sacred-slack.md"
 published_at: "2026-08-05T06:46:21.000-05:00"
 updated_at: "2026-08-05T06:46:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d11e081e65306cc2b1924af4014d01b37d87f7d72853128261c2e65e75d7e3e5"
 ---
 # Nietzche and the Sacred Slack
@@ -87000,14 +87630,18 @@ Build them without a throne.
 title: "Tennessee: The Worst State in America (For Humans)"
 slug: "tennessee-the-worst-state-in-america-for-humans"
 canonical_url: "https://modalpathethics.com/tennessee-the-worst-state-in-america-for-humans/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tennessee-the-worst-state-in-america-for-humans.md"
 published_at: "2026-08-05T06:30:14.000-05:00"
 updated_at: "2026-08-05T06:30:14.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)
@@ -87484,13 +88118,17 @@ Tennessee should probably do the same.
 title: "Failed Field Analysts: Garrett Hardin and the Lifeboat"
 slug: "failed-field-analysts-garrett-hardin-and-the-lifeboat"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-garrett-hardin-and-the-lifeboat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-garrett-hardin-and-the-lifeboat.md"
 published_at: "2026-08-05T06:00:16.000-05:00"
 updated_at: "2026-08-05T06:00:15.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
 # Failed Field Analysts: Garrett Hardin and the Lifeboat
@@ -88657,6 +89295,7 @@ It does not appoint the people already seated as owners of survival.
 title: "Applied Case: The Werster Crisis"
 slug: "applied-case-the-werster-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-werster-crisis/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-werster-crisis.md"
 published_at: "2026-08-04T06:00:18.000-05:00"
 updated_at: "2026-08-11T12:17:09.000-05:00"
 tags:
@@ -88664,8 +89303,11 @@ tags:
   - "Chirality"
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis
@@ -89823,6 +90465,7 @@ Leave sovereignty behind.
 title: "Applied Case: Iran and the Nuclear Threshold"
 slug: "applied-case-iran-and-the-nuclear-threshold"
 canonical_url: "https://modalpathethics.com/applied-case-iran-and-the-nuclear-threshold/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-iran-and-the-nuclear-threshold.md"
 published_at: "2026-08-04T05:03:04.000-05:00"
 updated_at: "2026-08-08T02:04:36.000-05:00"
 tags:
@@ -89830,8 +90473,11 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**
@@ -94861,13 +95507,17 @@ The next article enters the instrument that places civilization inside the threa
 title: "Applied Case: The Aug Incident of 2027"
 slug: "the-fourth-button"
 canonical_url: "https://modalpathethics.com/the-fourth-button/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-fourth-button.md"
 published_at: "2026-08-03T06:00:49.000-05:00"
 updated_at: "2026-08-04T00:37:56.000-05:00"
 tags:
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027
@@ -95867,14 +96517,18 @@ The hidden fifth option would have been better.
 title: "Applied Case: Call Me, I'll Hide The Body"
 slug: "applied-case-call-me-ill-hide-the-body"
 canonical_url: "https://modalpathethics.com/applied-case-call-me-ill-hide-the-body/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-call-me-ill-hide-the-body.md"
 published_at: "2026-08-03T05:30:05.000-05:00"
 updated_at: "2026-08-03T05:30:04.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
 # Applied Case: Call Me, I'll Hide The Body
@@ -96634,14 +97288,18 @@ That is just not a mature standard.
 title: "Field Instruments: Superintelligence"
 slug: "field-instruments-superintelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-superintelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-superintelligence.md"
 published_at: "2026-08-02T05:45:18.000-05:00"
 updated_at: "2026-08-02T05:45:17.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
 # Field Instruments: Superintelligence
@@ -97731,14 +98389,18 @@ The field must remain able to say no.
 title: "Transition Action: Chirality Has Escaped"
 slug: "transition-action-chirality-has-escaped"
 canonical_url: "https://modalpathethics.com/transition-action-chirality-has-escaped/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-chirality-has-escaped.md"
 published_at: "2026-08-02T05:30:59.000-05:00"
 updated_at: "2026-08-08T02:06:22.000-05:00"
 tags:
   - "Transition Action"
   - "Chirality"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
 # Transition Action: Chirality Has Escaped
@@ -98212,13 +98874,17 @@ The second runs:
 title: "Field Instruments: The Alarm"
 slug: "field-instruments-the-alarm-2"
 canonical_url: "https://modalpathethics.com/field-instruments-the-alarm-2/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-the-alarm-2.md"
 published_at: "2026-08-01T03:29:34.000-05:00"
 updated_at: "2026-08-01T20:10:27.000-05:00"
 tags:
   - "Field Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm
@@ -99743,13 +100409,17 @@ The alarm does not surrender the truth when it surrenders the blueprint.
 title: "Applied Case: Psychiatry Before Psychiatry"
 slug: "applied-case-psychiatry-before-psychiatry"
 canonical_url: "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-psychiatry-before-psychiatry.md"
 published_at: "2026-08-01T03:28:53.000-05:00"
 updated_at: "2026-09-20T21:31:34.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
 ---
 # Applied Case: Psychiatry Before Psychiatry
@@ -100864,14 +101534,18 @@ The culture has been filling it out for years.
 title: "Applied Case: Russia and the Buffer Wound"
 slug: "applied-case-russia-and-the-buffer-wound"
 canonical_url: "https://modalpathethics.com/applied-case-russia-and-the-buffer-wound/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-russia-and-the-buffer-wound.md"
 published_at: "2026-07-31T06:00:22.000-05:00"
 updated_at: "2026-07-31T08:51:52.000-05:00"
 tags:
   - "Applied Case"
   - "Geopolitical Wasteland"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine
@@ -105287,13 +105961,17 @@ The next article climbs inside the weapon.
 title: "The End of Moral Philosophy Has an Objective Function"
 slug: "the-end-of-moral-philosophy-has-an-objective-function"
 canonical_url: "https://modalpathethics.com/the-end-of-moral-philosophy-has-an-objective-function/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-end-of-moral-philosophy-has-an-objective-function.md"
 published_at: "2026-07-31T04:25:10.000-05:00"
 updated_at: "2026-07-31T04:25:10.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
 # The End of Moral Philosophy Has an Objective Function
@@ -105972,13 +106650,17 @@ Once again, the field declined the terms.
 title: "Fictional Earth: LinkedIn and the Acceptable Person Machine"
 slug: "fictional-earth-linkedin-and-the-acceptable-person-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-linkedin-and-the-acceptable-person-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md"
 published_at: "2026-07-30T06:05:56.000-05:00"
 updated_at: "2026-07-30T06:05:56.000-05:00"
 tags:
   - "Fictional Earth"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine
@@ -107110,13 +107792,17 @@ It may not decide who fits the world.
 title: "The Causal Veil Carries Structure"
 slug: "the-c"
 canonical_url: "https://modalpathethics.com/the-c/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-c.md"
 published_at: "2026-07-30T06:00:11.000-05:00"
 updated_at: "2026-07-30T06:00:10.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure
@@ -107583,13 +108269,17 @@ And _correspondence_, while no guarantee of truth, gives reality a path by which
 title: "Modal Path Ethics Has DoubleVision"
 slug: "modal-path-ethics-has-doublevision"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-doublevision/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-has-doublevision.md"
 published_at: "2026-07-29T06:00:52.000-05:00"
 updated_at: "2026-08-10T07:31:28.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision
@@ -108052,13 +108742,17 @@ But the picture is finally three-dimensional.
 title: "Field Instruments: Active Information"
 slug: "field-instruments-active-information"
 canonical_url: "https://modalpathethics.com/field-instruments-active-information/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-active-information.md"
 published_at: "2026-07-29T05:45:03.000-05:00"
 updated_at: "2026-07-29T05:45:02.000-05:00"
 tags:
   - "Field Instruments"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information
@@ -108649,12 +109343,16 @@ The field did the rest.
 title: "Applied Case: The Assassination of Charlie Kirk"
 slug: "applied-case-the-assassination-of-charlie-kirk"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-assassination-of-charlie-kirk.md"
 published_at: "2026-07-28T05:30:47.000-05:00"
 updated_at: "2026-08-10T07:23:37.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk
@@ -110271,14 +110969,18 @@ Neither transition preserves the political field.
 title: "Applied Case: The Negative Boat"
 slug: "applied-case-the-negative-boat"
 canonical_url: "https://modalpathethics.com/applied-case-the-negative-boat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-negative-boat.md"
 published_at: "2026-07-27T13:34:27.000-05:00"
 updated_at: "2026-07-27T13:34:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat
@@ -110960,13 +111662,17 @@ That difference is where responsibility begins.
 title: "Failed Field Analysts: Thomas Szasz and the Conceptual Knife"
 slug: "failed-field-analysts-thomas-szasz-and-the-myth-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-thomas-szasz-and-the-myth-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-thomas-szasz-and-the-myth-machine.md"
 published_at: "2026-07-27T06:00:05.000-05:00"
 updated_at: "2026-08-09T07:43:19.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
 ---
 # Failed Field Analysts: Thomas Szasz and the Conceptual Knife
@@ -112522,12 +113228,16 @@ Thomas Szasz found the key in the doctor’s pocket, threw away the lock, and al
 title: "Failed Field Analysts: Marty Heidegger and the Depth Machine"
 slug: "failed-field-analysts-marty-heidegger-and-the-depth-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md"
 published_at: "2026-07-26T06:00:51.000-05:00"
 updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
@@ -113303,7 +114013,7 @@ For decades, Heidegger’s defenders could present his Nazism as a disastrous po
 
 The separation was never complete.
 
-![1\_00ys-pE5cTXWWuifSdwdyg@2x.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_00ys-pE5cTXWWuifSdwdyg@2x.jpg)
+![1_00ys-pE5cTXWWuifSdwdyg@2x.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_00ys-pE5cTXWWuifSdwdyg@2x.jpg)
 
 The [publication of the _Black Notebooks_](https://mitpress.mit.edu/9780262034012/reading-heideggers-black-notebooks-19311941/?ref=modalpathethics.com) made the clean version much harder to sustain.
 
@@ -113569,7 +114279,7 @@ Modal Path Ethics does not require every philosopher to produce a municipal impl
 
 It **does** require an instrument to preserve reachable action.
 
-![1\_Mv7u3B35A6pwguyRWUr10w.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Mv7u3B35A6pwguyRWUr10w.jpg)
+![1_Mv7u3B35A6pwguyRWUr10w.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Mv7u3B35A6pwguyRWUr10w.jpg)
 
 A diagnosis becomes dangerous when the scale of the problem repeatedly dissolves the agency of those carrying it.
 
@@ -113705,7 +114415,7 @@ There is a temptation here to banish the corpus.
 
 That would be satisfying and stupid.
 
-![https\_\_\_assets.lareviewofbooks.org\_uploads\_201612SoboczynskiCammanHeidegger.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png)
+![https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png)
 
 Heidegger’s work has real explanatory power. Removing it would not remove the questions he helped disclose. It would make later thought less capable of recognizing embedded action, worldhood, equipmental relation, historical intelligibility, and technological reduction.
 
@@ -113861,7 +114571,7 @@ When the field test arrived, the instrument helped him see greatness in a moveme
 
 Heidegger found a deeper floor.
 
-![1310276-Martin\_Heidegger.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1310276-Martin_Heidegger.jpg)
+![1310276-Martin_Heidegger.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1310276-Martin_Heidegger.jpg)
 
 He mistook _**depth**_ for safety.
 
@@ -113911,7 +114621,7 @@ The hammer may stay.
 
 The Führer quote does not.
 
-![1\_Vz29jXW8UZ0xXYk9Ha-PqA.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg)
+![1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg)
 
 The concepts remain under supervision.
 
@@ -113929,13 +114639,17 @@ Modal Path Ethics found it left beside the Ontic Complaint Department.
 title: "Failed Field Analysts: Ted Kaczynski and the Collapse Machine"
 slug: "failed-field-analysts-ted-kaczynski-and-the-collapse-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md"
 published_at: "2026-07-25T06:00:47.000-05:00"
 updated_at: "2026-08-10T07:30:46.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine
@@ -115494,12 +116208,16 @@ Then he built another one.
 title: "Australia vs. the Biosphere: The Rabbit Fence"
 slug: "australia-vs-the-biosphere-the-rabbit-fence"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-rabbit-fence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-the-rabbit-fence.md"
 published_at: "2026-07-24T18:42:22.000-05:00"
 updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence
@@ -116174,13 +116892,17 @@ The biosphere declined the terms.
 title: "Applied Case: The Tower of Babel"
 slug: "applied-case-the-tower-of-babel"
 canonical_url: "https://modalpathethics.com/applied-case-the-tower-of-babel/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-tower-of-babel.md"
 published_at: "2026-07-23T11:35:53.000-05:00"
 updated_at: "2026-07-23T11:35:53.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
 # Applied Case: The Tower of Babel
@@ -117232,14 +117954,18 @@ It requires paths by which different tongues can still answer to the same world.
 title: "Applied Case: The Pregnancy Test for Consciousness"
 slug: "applied-case-the-pregnancy-test-for-consciousness"
 canonical_url: "https://modalpathethics.com/applied-case-the-pregnancy-test-for-consciousness/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-pregnancy-test-for-consciousness.md"
 published_at: "2026-07-23T06:00:07.000-05:00"
 updated_at: "2026-07-23T06:00:07.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness
@@ -117769,14 +118495,18 @@ It was never qualified to testify.
 title: "Pope Leo and the Optimizable Human"
 slug: "pope-leo-and-the-optimizable-human"
 canonical_url: "https://modalpathethics.com/pope-leo-and-the-optimizable-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pope-leo-and-the-optimizable-human.md"
 published_at: "2026-07-22T13:15:55.000-05:00"
 updated_at: "2026-08-10T07:28:17.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human
@@ -118798,13 +119528,17 @@ The person does not have to justify continuing by becoming the next version.
 title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-disruption.md"
 published_at: "2026-07-21T10:00:03.000-05:00"
 updated_at: "2026-08-11T15:28:44.000-05:00"
 tags:
   - "Field Instruments"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption
@@ -119781,14 +120515,18 @@ _The field does not owe permanent sovereignty to the person who found one real e
 title: "Applied Case: The Brother of Jesus Christ"
 slug: "applied-case-the-brother-of-jesus-christ"
 canonical_url: "https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-brother-of-jesus-christ.md"
 published_at: "2026-07-21T05:30:37.000-05:00"
 updated_at: "2026-08-10T07:27:34.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**
@@ -125012,14 +125750,18 @@ Reality carried the cost.
 title: "Transition Action: The Signal Never Becomes Data"
 slug: "transition-action-the-signal-never-becomes-data"
 canonical_url: "https://modalpathethics.com/transition-action-the-signal-never-becomes-data/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-signal-never-becomes-data.md"
 published_at: "2026-07-20T21:46:37.000-05:00"
 updated_at: "2026-07-21T01:17:31.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
 # Transition Action: The Signal Never Becomes Data
@@ -125293,6 +126035,7 @@ Matter handles the first reply.
 title: "The Schizophrenia Firewall Has Been Published"
 slug: "the-schizophrenia-firewall-has-been-published"
 canonical_url: "https://modalpathethics.com/the-schizophrenia-firewall-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-schizophrenia-firewall-has-been-published.md"
 published_at: "2026-07-19T17:53:55.000-05:00"
 updated_at: "2026-08-15T17:10:44.000-05:00"
 tags:
@@ -125300,8 +126043,11 @@ tags:
   - "News"
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
 # The Schizophrenia Firewall Has Been Published
@@ -125490,14 +126236,18 @@ Read it. Use it. Challenge the firewall.
 title: "Fictional Earth: Reddit and the Local World Machine"
 slug: "fictional-earth-reddit-and-the-local-world-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-reddit-and-the-local-world-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-reddit-and-the-local-world-machine.md"
 published_at: "2026-07-19T06:00:42.000-05:00"
 updated_at: "2026-07-19T06:00:41.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
 # Fictional Earth: Reddit and the Local World Machine
@@ -125515,13 +126265,13 @@ The facts may not change between rooms.
 
 The world does.
 
-![AdobeStock\_382701065.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_382701065.jpeg)
+![AdobeStock_382701065.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_382701065.jpeg)
 
 That is Reddit’s special contribution to [Fictional Earth](https://modalpathethics.com/fictional-earth-the-social-media-distortion-fields/).
 
 X builds combat weather. Bluesky builds the Safe Room. TikTok will eventually have to answer for turning a whole civilization into affective recurrence with songs looping under it.
 
-![AdobeStock\_279606618.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_279606618.jpeg)
+![AdobeStock_279606618.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_279606618.jpeg)
 
 Reddit does something older and stranger.
 
@@ -125541,13 +126291,13 @@ A subreddit takes some part of Earth (a game, disease, city, war, relationship p
 
 The resulting world may be sharper than ordinary public discourse.
 
-![AdobeStock\_474607734.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_474607734.jpeg)
+![AdobeStock_474607734.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_474607734.jpeg)
 
 It may preserve expertise, memory, testimony, play, friendship, and language that the wider internet cannot hold still long enough to understand.
 
 It may also become a court without the defendant, a town without geography, a religion built around one button, a battlefield made of pixels, or an asylum whose inmates have developed a more stable public language than most institutions currently responsible for civilization.
 
-![AdobeStock\_480645203.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_480645203.jpeg)
+![AdobeStock_480645203.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_480645203.jpeg)
 
 Reddit did not make one false Earth. It gave every room the tools to make its own. Then it connected all the doors.
 
@@ -125561,7 +126311,7 @@ There were links. There were votes. Comments arrived. The site called itself the
 
 Then came the **subreddits**.
 
-![AdobeStock\_509785348.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_509785348.jpeg)
+![AdobeStock_509785348.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_509785348.jpeg)
 
 By 2008, users could create their own communities.
 
@@ -125588,7 +126338,7 @@ This is the oldest Reddit cycle.
 
 The local room has powers the open feed does not.
 
-![AdobeStock\_260929437.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_260929437.jpeg)
+![AdobeStock_260929437.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_260929437.jpeg)
 
 It can require expertise before speech. It can protect a recovery practice from ridicule. It can ban the joke that ruined every prior attempt at discussion. It can preserve a dialect, archive, craft vocabulary, technical solution, diagnosis history, modding tool, oral tradition, or highly specific method for repairing a dishwasher manufactured during one terrible month in 2014.
 
@@ -125646,7 +126396,7 @@ Some of the constitution lives in machinery.
 
 The rest lives in culture.
 
-![Screenshot\_2024-01-18\_at\_10.40.51\_AM.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Screenshot_2024-01-18_at_10.40.51_AM.png)
+![Screenshot_2024-01-18_at_10.40.51_AM.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Screenshot_2024-01-18_at_10.40.51_AM.png)
 
 This part is harder to inspect.
 
@@ -125658,7 +126408,7 @@ Every subreddit therefore has local physics.
 
 The room pulls material toward its own object.
 
-![AdobeStock\_420770873.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_420770873.jpeg)
+![AdobeStock_420770873.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_420770873.jpeg)
 
 A broad event becomes local evidence.
 
@@ -125676,7 +126426,7 @@ The subreddit asks:
 
 Karma looks like approval from a distance.
 
-![AdobeStock\_485917034.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_485917034.jpeg)
+![AdobeStock_485917034.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_485917034.jpeg)
 
 Inside a room, it often measures something narrower: successful participation in the local language-game.
 
@@ -125692,7 +126442,7 @@ Moderators do more than remove content.
 
 They govern the object.
 
-![AdobeStock\_774387630.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_774387630.jpeg)
+![AdobeStock_774387630.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_774387630.jpeg)
 
 Every removal says something about what the room is. Every approved exception says something else. Volunteer moderators absorb enormous quantities of invisible labor so local worlds can remain coherent enough to continue.
 
@@ -125719,7 +126469,7 @@ Precedent forms.
 
 Precedent can preserve intelligence.
 
-![ER\_Graven\_Mass.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Graven_Mass.webp)
+![ER_Graven_Mass.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Graven_Mass.webp)
 
 It can also make the new case arrive already old.
 
@@ -125729,7 +126479,7 @@ A subreddit becomes dangerous when its local categories stop presenting themselv
 
 The room forgets that its clarity was produced by a cut.
 
-![AdobeStock\_234696895.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_234696895.jpeg)
+![AdobeStock_234696895.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_234696895.jpeg)
 
 Some facts were admitted. Others were excluded. Some forms of speech counted. Others could not become evidence. Some people entered as fluent parties. Others appeared only through a story told about them.
 
@@ -125753,7 +126503,7 @@ They have had a fight with their partner. Their mother has done something that f
 
 The person needs another mind.
 
-![AdobeStock\_327017992.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_327017992.jpeg)
+![AdobeStock_327017992.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_327017992.jpeg)
 
 That need is real.
 
@@ -125765,7 +126515,7 @@ Pseudonymity lowers the cost of articulation. The poster can say the embarrassin
 
 The gift is significant.
 
-![AdobeStock\_430260573.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_430260573.jpeg)
+![AdobeStock_430260573.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_430260573.jpeg)
 
 Then the event has to become a post.
 
@@ -125791,7 +126541,7 @@ The defendant exists as a **submitted character**.
 
 Then the jury arrives.
 
-![Megundal\_Jury.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Megundal_Jury.webp)
+![Megundal_Jury.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Megundal_Jury.webp)
 
 Reddit’s voting and reply structure gives moral judgment a beautiful procedural costume.
 
@@ -125828,7 +126578,7 @@ These terms can rescue perception.
 
 A named pattern becomes easier to hold. Earlier Modal Path Ethics work on [Wittgenstein, language-games, and thought grooves](https://modalpathethics.com/modal-path-ethics-is-doomed/) made the same point: vocabulary changes which next thoughts remain consciously reachable.
 
-![Hardcore\_aesthetic.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Hardcore_aesthetic.webp)
+![Hardcore_aesthetic.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/Hardcore_aesthetic.webp)
 
 A person who has never been allowed to name coercion may need the groove.
 
@@ -125985,7 +126735,7 @@ NoSleep asks users to treat every story as true while they are inside the room.
 
 A person reports the impossible as a personal experience. Commenters answer the witness rather than the author. The monster is discussed through the testimony. The fiction acquires the social pressure of an event because everyone agrees to protect the threshold.
 
-![AdobeStock\_617599972.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_617599972.jpeg)
+![AdobeStock_617599972.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_617599972.jpeg)
 
 The rule is absurdly strong:
 
@@ -126039,7 +126789,7 @@ In 2015, Reddit placed a button beside a sixty-second countdown.
 
 Eligible users could press it once.
 
-![AdobeStock\_494568422.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_494568422.jpeg)
+![AdobeStock_494568422.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_494568422.jpeg)
 
 Pressing reset the timer. The account received a color-coded flair associated with the time remaining when the press occurred. A user could also refuse to press.
 
@@ -126060,7 +126810,7 @@ Reddit placed a button in an empty room.
 
 The room produced religion.
 
-![AdobeStock\_418689247.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_418689247.jpeg)
+![AdobeStock_418689247.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_418689247.jpeg)
 
 This is funny because human beings are funny.
 
@@ -126074,7 +126824,7 @@ Sacred Instruments work has already identified the danger of letting an instrume
 
 The Button remained safer than that.
 
-![AdobeStock\_954623258.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_954623258.jpeg)
+![AdobeStock_954623258.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_954623258.jpeg)
 
 Its stakes were low. The metaphysics were playful. The field had exits. Nobody’s housing, body, citizenship, medicine, or salvation depended on pressing at 31 seconds.
 
@@ -126406,7 +127156,7 @@ Every subreddit feels locally sovereign until Reddit disagrees.
 
 This contradiction sits beneath the whole platform.
 
-![AdobeStock\_498748949.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_498748949.jpeg)
+![AdobeStock_498748949.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/AdobeStock_498748949.jpeg)
 
 The communities write rules. Volunteers enforce them. Users create the posts, comments, guides, jokes, archives, support networks, explanations, and searchable human residue that give each room value.
 
@@ -126438,7 +127188,7 @@ The user enters a room to ask how to care for a parent with dementia, repair a t
 
 At platform scale, these become **data**.
 
-![A1k8zjtdMkL.AC\_UF1000,1000\_QL80.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/A1k8zjtdMkL._AC_UF1000-1000_QL80_.jpg)
+![A1k8zjtdMkL.AC_UF1000,1000_QL80.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/A1k8zjtdMkL._AC_UF1000-1000_QL80_.jpg)
 
 This does not make the local exchange unreal.
 
@@ -126507,7 +127257,7 @@ That is why Reddit’s anti-distortion practice cannot be “never trust a subre
 
 A person would lose too much.
 
-![james\_gordon\_digital\_justice\_001.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/james_gordon_digital_justice_001.webp)
+![james_gordon_digital_justice_001.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/james_gordon_digital_justice_001.webp)
 
 The stronger discipline is jurisdictional.
 
@@ -126534,7 +127284,7 @@ Reddit is the Local World Machine.
 
 Its deepest gift is local constitution.
 
-![batman\_05\_582x.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/batman_05_582x.webp)
+![batman_05_582x.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/batman_05_582x.webp)
 
 A room can preserve distinctions the global feed destroys. It can keep technical knowledge searchable. It can let harmed people articulate what their immediate field refuses to hear. It can build a town, protect a horror contract, turn one button into a temporary religion, force a history answer to earn its place, transform isolated pixels into common art, and rescue a stalled fandom by stripping Batman down to Man.
 
@@ -126605,6 +127355,7 @@ They are all **Fictional Earth**.
 title: "Applied Case: The Early AI Religions"
 slug: "applied-case-the-early-ai-religions"
 canonical_url: "https://modalpathethics.com/applied-case-the-early-ai-religions/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-early-ai-religions.md"
 published_at: "2026-07-18T06:00:21.000-05:00"
 updated_at: "2026-07-18T22:16:57.000-05:00"
 tags:
@@ -126612,8 +127363,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
 # Applied Case: The Early AI Religions
@@ -127913,6 +128667,7 @@ The field was always real.
 title: "Failed Field Analysts: Kissinger and the Stability Machine"
 slug: "failed-field-analysts-kissinger-and-the-stability-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-kissinger-and-the-stability-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-kissinger-and-the-stability-machine.md"
 published_at: "2026-07-18T05:30:19.000-05:00"
 updated_at: "2026-08-08T02:37:24.000-05:00"
 tags:
@@ -127920,8 +128675,11 @@ tags:
   - "Modal Path Ethics"
   - "Geopolitical Wasteland"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
 # Failed Field Analysts: Kissinger and the Stability Machine
@@ -132202,14 +132960,18 @@ But the board was never empty.
 title: "Kant and the Corrigible Field"
 slug: "kant-and-the-corrigible-field"
 canonical_url: "https://modalpathethics.com/kant-and-the-corrigible-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/kant-and-the-corrigible-field.md"
 published_at: "2026-07-17T17:05:20.000-05:00"
 updated_at: "2026-08-10T07:34:56.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
 # Kant and the Corrigible Field
@@ -133296,14 +134058,18 @@ It is still an instrument.
 title: "Applied Case: The Ever-Brilliant Goldmask"
 slug: "applied-case-the-ever-brilliant-goldmask"
 canonical_url: "https://modalpathethics.com/applied-case-the-ever-brilliant-goldmask/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-ever-brilliant-goldmask.md"
 published_at: "2026-07-16T06:00:28.000-05:00"
 updated_at: "2026-07-16T14:02:19.000-05:00"
 tags:
   - "Chirality"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
 # Applied Case: The Ever-Brilliant Goldmask
@@ -134779,12 +135545,16 @@ Now, the law has to survive Goldmask.
 title: "Failed Field Analysts: Savonarola and the Purity Pyre"
 slug: "failed-field-analysts-savonrola-and-the-purity-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-savonrola-and-the-purity-machine.md"
 published_at: "2026-07-15T05:30:34.000-05:00"
 updated_at: "2026-08-17T19:24:47.000-05:00"
 tags:
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
 # Failed Field Analysts: Savonarola and the Purity Pyre
@@ -134793,7 +135563,7 @@ On June 30, 1498, Florence sentenced a bell.
 
 The human being associated with this bell had already been hanged and burned in the Piazza della Signoria five weeks earlier. Girolamo Savonarola was dead. Fra Domenico da Pescia was dead. Fra Silvestro Maruffi was dead. Their bodies had been destroyed publicly. Their ashes had been removed from the square and scattered so that no useful relic could remain in the hands of followers.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8\_FTKIxBWu-2IM1B0NfD79BvTPhILzF\_uZo85D7w/s1600/burning+of+savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg)
 
 This really should have settled the matter.
 
@@ -134877,7 +135647,7 @@ He found its components already distributed across Florence:
 
 Savonarola synchronized these components and gave them a prophetic controller.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh\_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF\_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg)
 
 Then the controller became one more object the city knew how to burn.
 
@@ -135397,7 +136167,7 @@ Savonarola then participated in diplomacy with Charles VIII and helped Florence 
 
 The prophet had become useful. Usefulness changes sacred authority.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz\_MX3BIFy4et\_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg)
 
 A preacher who accurately describes moral pressure may be admired.
 
@@ -136578,7 +137348,7 @@ The critique of clerical corruption should not be rejected because prophecy beca
 
 The New Jerusalem vision should not be rejected simply because sacred title became dangerous. A city can need a moral horizon larger than oligarchic continuity.
 
-[![Das Neue Jerusalem \[The New Jerusalem\] - Curtis Wright Maps](https://curtiswrightmaps.com/wp-content/uploads/map_13.27x16.61_07-09-25_inv007187c-scaled.jpg)](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
+[![Das Neue Jerusalem [The New Jerusalem] - Curtis Wright Maps](https://curtiswrightmaps.com/wp-content/uploads/map_13.27x16.61_07-09-25_inv007187c-scaled.jpg)](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
 
 The law of appeal should be preserved precisely because Savonarola’s own field failed it.
 
@@ -136651,7 +137421,7 @@ The sixth surviving object is the bonfire’s diagnostic power.
 
 A pile of objects can become a dashboard for a field it does not measure.
 
-[![Assassin's Creed 2 - Savonarola's Death & Ezio's Speech \[HD\]](https://i.ytimg.com/vi/ZCIZ7-J0cwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
+[![Assassin's Creed 2 - Savonarola's Death & Ezio's Speech [HD]](https://i.ytimg.com/vi/ZCIZ7-J0cwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
 
 The lesson reaches well beyond Florence.
 
@@ -137421,14 +138191,18 @@ That is why it survived him.
 title: "Transition Action: The Sensor Cleans Itself"
 slug: "transition-action-the-sensor-cleans-itself"
 canonical_url: "https://modalpathethics.com/transition-action-the-sensor-cleans-itself/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-sensor-cleans-itself.md"
 published_at: "2026-07-14T19:44:34.000-05:00"
 updated_at: "2026-07-15T03:38:20.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself
@@ -137710,14 +138484,18 @@ Still, the bottleneck has moved.
 title: "Applied Case: The Immortal Corpus"
 slug: "the-immortal-corpus"
 canonical_url: "https://modalpathethics.com/the-immortal-corpus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-immortal-corpus.md"
 published_at: "2026-07-14T04:20:46.000-05:00"
 updated_at: "2026-08-08T02:28:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus
@@ -137752,7 +138530,7 @@ That article named **continuance capture**: the reversal that occurs when an ins
 
 Professional academic philosophy is what continuance capture looks like at civilizational scale.
 
-![ER\_Object\_Erdtree\_Burial01.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Object_Erdtree_Burial01.webp)
+![ER_Object_Erdtree_Burial01.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Object_Erdtree_Burial01.webp)
 
 Its archive was built to preserve instruments of thought.
 
@@ -137800,7 +138578,7 @@ _Corpus_ means body.
 
 This is already suspiciously helpful.
 
-![504387092\_2957581161109457\_5532010655185055760\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/504387092_2957581161109457_5532010655185055760_n.jpg)
+![504387092_2957581161109457_5532010655185055760_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/504387092_2957581161109457_5532010655185055760_n.jpg)
 
 A body of work can preserve continuity across time. It lets later minds encounter arguments they did not invent, mistakes they did not have to repeat, and conceptual structures too large for one lifetime.
 
@@ -138090,7 +138868,7 @@ So, the pipeline therefore selects for the most countable residue.
 
 It selects **against** the event that produced the residue.
 
-![1920x1080-vtime10\_14-take2022-03-24-07-26-31.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg)
+![1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg)
 
 A seminar paper can **record** philosophical discovery. Over time, the institution begins treating the record as the discovery.
 
@@ -138120,7 +138898,7 @@ Technically true. I was willing to do this.
 
 A city is also _technically_ walkable if the sidewalk ends every two hundred feet but the pedestrian is willing to climb a drainage ditch full of rabid hounds.
 
-![487872517\_9037565559681886\_390765732002225693\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/487872517_9037565559681886_390765732002225693_n.jpg)
+![487872517_9037565559681886_390765732002225693_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/487872517_9037565559681886_390765732002225693_n.jpg)
 
 **Access** is a path through reality, not a permission statement.
 
@@ -138584,7 +139362,7 @@ Philosophy does not need another immortal.
 
 It needs something alive enough to become obsolete.
 
-![ER\_NPC\_Goldmask\_(Forest-Spanning\_Greatbridge)\_(9.16).webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_NPC_Goldmask_-Forest-Spanning_Greatbridge-_-9.16-.webp)
+![ER_NPC_Goldmask_(Forest-Spanning_Greatbridge)_(9.16).webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_NPC_Goldmask_-Forest-Spanning_Greatbridge-_-9.16-.webp)
 
 
 <!-- ARTICLE_END slug="the-immortal-corpus" -->
@@ -138596,6 +139374,7 @@ It needs something alive enough to become obsolete.
 title: "Tales of Distortion: The Climbing Target"
 slug: "tales-of-distortion-the-climbing-target"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-climbing-target/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-climbing-target.md"
 published_at: "2026-07-13T05:45:41.000-05:00"
 updated_at: "2026-07-13T05:45:41.000-05:00"
 tags:
@@ -138603,8 +139382,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target
@@ -140437,12 +141219,16 @@ The target only existed aboard the warship. The aircraft carried 290 people.
 title: "SEAM: Now Playable"
 slug: "seam-now-playable"
 canonical_url: "https://modalpathethics.com/seam-now-playable/"
+mirror_url: "https://mirror.modalpathethics.com/articles/seam-now-playable.md"
 published_at: "2026-07-12T05:30:39.000-05:00"
 updated_at: "2026-08-10T07:25:20.000-05:00"
 tags:
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
 # SEAM: Now Playable
@@ -140491,12 +141277,16 @@ For now, just try not to lose your signal.
 title: "Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne"
 slug: "penroses-tiny-throne"
 canonical_url: "https://modalpathethics.com/penroses-tiny-throne/"
+mirror_url: "https://mirror.modalpathethics.com/articles/penroses-tiny-throne.md"
 published_at: "2026-07-12T05:00:34.000-05:00"
 updated_at: "2026-09-14T17:22:26.000-05:00"
 tags:
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1eee73ebf48b5de0e4b3b6bc969317e8f0736d7bc89775a36ecc69c34398e8c"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne
@@ -141100,6 +141890,7 @@ The tiles already taught the cleaner lesson.
 title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-subway-oracle.md"
 published_at: "2026-07-11T06:30:48.000-05:00"
 updated_at: "2026-08-10T07:27:04.000-05:00"
 tags:
@@ -141109,8 +141900,11 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle
@@ -143427,14 +144221,18 @@ The subway carried the result.
 title: "Pragmatism and the Moral Field"
 slug: "pragmatism-and-the-moral-field"
 canonical_url: "https://modalpathethics.com/pragmatism-and-the-moral-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pragmatism-and-the-moral-field.md"
 published_at: "2026-07-11T06:00:18.000-05:00"
 updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field
@@ -143997,6 +144795,7 @@ And ask whether the field can still correct the answer.
 title: "Tales of Distortion: Course 095"
 slug: "tales-of-distortion-course-095-to-eternity"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-course-095-to-eternity.md"
 published_at: "2026-07-10T06:00:00.000-05:00"
 updated_at: "2026-07-10T21:27:19.000-05:00"
 tags:
@@ -144004,8 +144803,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095
@@ -145007,13 +145809,17 @@ The Navy learned the local name after arrival.
 title: "Field Instruments: Martyrdom"
 slug: "f"
 canonical_url: "https://modalpathethics.com/f/"
+mirror_url: "https://mirror.modalpathethics.com/articles/f.md"
 published_at: "2026-07-10T05:00:03.000-05:00"
 updated_at: "2026-07-10T05:00:03.000-05:00"
 tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
 # Field Instruments: Martyrdom
@@ -145624,6 +146430,7 @@ Any movement that honors the blank future by creating another has misunderstood 
 title: "Failed Field Analysts: Robert McNamara and the Body Count Machine"
 slug: "failed-field-analysts-robert-mcnamara-and-the-body-count-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-mcnamara-and-the-body-count-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md"
 published_at: "2026-07-09T06:00:32.000-05:00"
 updated_at: "2026-07-09T18:12:38.000-05:00"
 tags:
@@ -145631,8 +146438,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine
@@ -147670,13 +148480,17 @@ The war learned that machine’s language.
 title: "Field Instruments: Strategic Depth"
 slug: "field-instruments-strategic-depth"
 canonical_url: "https://modalpathethics.com/field-instruments-strategic-depth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-strategic-depth.md"
 published_at: "2026-07-09T05:30:49.000-05:00"
 updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth
@@ -148318,6 +149132,7 @@ The field has people in it.
 title: "Simone Weil and the Field Under Force"
 slug: "simone-weil-and-the-field-under-force"
 canonical_url: "https://modalpathethics.com/simone-weil-and-the-field-under-force/"
+mirror_url: "https://mirror.modalpathethics.com/articles/simone-weil-and-the-field-under-force.md"
 published_at: "2026-07-08T08:30:08.000-05:00"
 updated_at: "2026-08-08T02:29:33.000-05:00"
 tags:
@@ -148325,8 +149140,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
 # Simone Weil and the Field Under Force
@@ -148958,6 +149776,7 @@ Modal Path Ethics looks at the field under force, accepts what Weil has shown, a
 title: "Transition Action: The Clock Becomes an Entropy Leak"
 slug: "transition-action-the-clock-becomes-an-entropy-leak"
 canonical_url: "https://modalpathethics.com/transition-action-the-clock-becomes-an-entropy-leak/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-clock-becomes-an-entropy-leak.md"
 published_at: "2026-07-08T08:00:41.000-05:00"
 updated_at: "2026-07-08T08:00:40.000-05:00"
 tags:
@@ -148966,8 +149785,11 @@ tags:
   - "Chastening of the Controller"
   - "Entropy Debt Week"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak
@@ -149502,6 +150324,7 @@ But it distrusts every field that forgets the dark sector after learning how to 
 title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
+mirror_url: "https://mirror.modalpathethics.com/articles/moonlight-with-figures-the-ghost-dance.md"
 published_at: "2026-07-07T06:05:02.000-05:00"
 updated_at: "2026-07-23T13:25:02.000-05:00"
 tags:
@@ -149509,8 +150332,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance
@@ -150736,14 +151562,18 @@ There is a terrible truth beneath the moon.
 title: "Field Instruments: Sacred Title"
 slug: "field-instruments-sacred-title"
 canonical_url: "https://modalpathethics.com/field-instruments-sacred-title/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-sacred-title.md"
 published_at: "2026-07-07T06:00:07.000-05:00"
 updated_at: "2026-07-07T06:00:06.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
 # Field Instruments: Sacred Title
@@ -151171,13 +152001,17 @@ It may not make children carry deeds signed by the dead.
 title: "Fictional Earth: Bluesky and the Safe Room"
 slug: "fictional-earth-bluesky-and-the-safe-room"
 canonical_url: "https://modalpathethics.com/fictional-earth-bluesky-and-the-safe-room/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-bluesky-and-the-safe-room.md"
 published_at: "2026-07-06T07:18:43.000-05:00"
 updated_at: "2026-07-06T07:18:43.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room
@@ -151804,6 +152638,7 @@ It is still **Fictional Earth**.
 title: "Tales of Distortion: The Six-Cable Admiral"
 slug: "tales-of-distortion-the-six-cable-admiral"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-six-cable-admiral/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-six-cable-admiral.md"
 published_at: "2026-07-06T05:30:29.000-05:00"
 updated_at: "2026-07-06T05:30:28.000-05:00"
 tags:
@@ -151811,8 +152646,11 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral
@@ -152166,13 +153004,17 @@ It was only enough room for obedience.
 title: "Applied Case: Tibet and the Unity Machine"
 slug: "applied-case-tibet-and-the-unity-machine"
 canonical_url: "https://modalpathethics.com/applied-case-tibet-and-the-unity-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tibet-and-the-unity-machine.md"
 published_at: "2026-07-05T10:00:07.000-05:00"
 updated_at: "2026-07-07T00:24:47.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
 # Applied Case: Tibet and the Unity Machine
@@ -152671,14 +153513,18 @@ Unity is not repair when it makes a people harder to reach.
 title: "Tales of Distortion: Münster’s New Jerusalem"
 slug: "tales-of-distortion-munsters-new-jerusalem"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-munsters-new-jerusalem.md"
 published_at: "2026-07-05T07:00:15.000-05:00"
 updated_at: "2026-08-10T07:32:51.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem
@@ -153924,6 +154770,7 @@ The city got cages.
 title: "Australia vs. The Biosphere: The Emu Front"
 slug: "australia-vs-the-biosphere-the-emu-front"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-emu-front/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-the-emu-front.md"
 published_at: "2026-07-04T07:00:51.000-05:00"
 updated_at: "2026-07-08T06:28:53.000-05:00"
 tags:
@@ -153931,8 +154778,11 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
 # Australia vs. The Biosphere: The Emu Front
@@ -154507,14 +155357,18 @@ The biosphere declined the terms.
 title: "Tales of Distortion: Operation Cottage"
 slug: "tales-of-distortion-operation-cottage"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-operation-cottage/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-operation-cottage.md"
 published_at: "2026-07-04T05:45:49.000-05:00"
 updated_at: "2026-07-04T06:23:12.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage
@@ -155119,13 +155973,17 @@ So the battle came anyway.
 title: "Applied Case: The Assassination of Charles Jones"
 slug: "applied-case-the-assassination-of-charles-jones"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charles-jones/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-assassination-of-charles-jones.md"
 published_at: "2026-07-03T06:06:22.000-05:00"
 updated_at: "2026-07-04T05:31:42.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
 # Applied Case: The Assassination of Charles Jones
@@ -156345,14 +157203,18 @@ Modal Path Ethics marks the hotel as a final surface, not a beginning.
 title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-great-disappointment.md"
 published_at: "2026-07-03T06:00:12.000-05:00"
 updated_at: "2026-07-05T04:37:20.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment
@@ -157038,14 +157900,18 @@ It may not make the living field answer for continuing.
 title: "Field Instruments: Deterrence"
 slug: "field-instruments-deterrence"
 canonical_url: "https://modalpathethics.com/field-instruments-deterrence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-deterrence.md"
 published_at: "2026-07-02T10:30:15.000-05:00"
 updated_at: "2026-07-03T00:17:28.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence
@@ -157678,14 +158544,18 @@ When it makes repair harder to reach, it has crossed over.
 title: "Field Instruments: Sacred Instruments"
 slug: "field-instruments-sacred-instruments"
 canonical_url: "https://modalpathethics.com/field-instruments-sacred-instruments/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-sacred-instruments.md"
 published_at: "2026-07-02T07:00:10.000-05:00"
 updated_at: "2026-07-02T07:00:11.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments
@@ -158208,14 +159078,18 @@ The moment it becomes a throne, the field starts paying in tribute.
 title: "Field Tense Logic"
 slug: "field-tense-logic"
 canonical_url: "https://modalpathethics.com/field-tense-logic/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-tense-logic.md"
 published_at: "2026-07-01T07:30:55.000-05:00"
 updated_at: "2026-09-26T16:37:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
 ---
 # Field Tense Logic
@@ -158693,6 +159567,7 @@ The formalism is therefore a grammar of disciplined refusal: refusal to confuse 
 title: "Applied Case: The SCP Foundation"
 slug: "scp"
 canonical_url: "https://modalpathethics.com/scp/"
+mirror_url: "https://mirror.modalpathethics.com/articles/scp.md"
 published_at: "2026-07-01T02:46:54.000-05:00"
 updated_at: "2026-07-04T17:46:45.000-05:00"
 tags:
@@ -158700,8 +159575,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation
@@ -159276,14 +160154,18 @@ So handle it accordingly.
 title: "Tales of Distortion: The Lake Peigneur Drilling Accident"
 slug: "tales-of-distortion-the-lake-peigneur-drilling-accident"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-lake-peigneur-drilling-accident/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.md"
 published_at: "2026-06-30T12:00:27.000-05:00"
 updated_at: "2026-06-30T15:06:53.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident
@@ -159965,14 +160847,18 @@ Especially below.
 title: "Wolfram and the Moral Field"
 slug: "wolfram-and-the-moral-field"
 canonical_url: "https://modalpathethics.com/wolfram-and-the-moral-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/wolfram-and-the-moral-field.md"
 published_at: "2026-06-30T07:00:40.000-05:00"
 updated_at: "2026-06-30T07:01:11.000-05:00"
 tags:
   - "Engagement"
   - "Supplement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
 # Wolfram and the Moral Field
@@ -160393,13 +161279,17 @@ Ethics begins in that difference.
 title: "Transition Action: The Animal Becomes the Actuator"
 slug: "transition-action-the-animal-becomes-the-actuator"
 canonical_url: "https://modalpathethics.com/transition-action-the-animal-becomes-the-actuator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-animal-becomes-the-actuator.md"
 published_at: "2026-06-29T18:02:48.000-05:00"
 updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator
@@ -160676,6 +161566,7 @@ For now, the technical lesson is clear.
 title: "Applied Case: The Second Battle of Hoover Dam"
 slug: "the-second-battle-for-hoover-dam"
 canonical_url: "https://modalpathethics.com/the-second-battle-for-hoover-dam/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-second-battle-for-hoover-dam.md"
 published_at: "2026-06-29T06:06:05.000-05:00"
 updated_at: "2026-08-10T07:34:03.000-05:00"
 tags:
@@ -160684,8 +161575,11 @@ tags:
   - "Failed Field Analysts"
   - "Field Creature"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam
@@ -162494,6 +163388,7 @@ For once, this is allowed to be a good sign.
 title: "Samsara & Repair"
 slug: "samsara-repair"
 canonical_url: "https://modalpathethics.com/samsara-repair/"
+mirror_url: "https://mirror.modalpathethics.com/articles/samsara-repair.md"
 published_at: "2026-06-28T12:00:12.000-05:00"
 updated_at: "2026-08-10T07:36:12.000-05:00"
 tags:
@@ -162501,8 +163396,11 @@ tags:
   - "Modal Path Ethics"
   - "Formal"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair
@@ -163075,13 +163973,17 @@ Modal Path Ethics begins there.
 title: "Fictional Earth: The Social Media Distortion Fields"
 slug: "fictional-earth-the-social-media-distortion-fields"
 canonical_url: "https://modalpathethics.com/fictional-earth-the-social-media-distortion-fields/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-the-social-media-distortion-fields.md"
 published_at: "2026-06-28T08:00:31.000-05:00"
 updated_at: "2026-06-28T08:00:30.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
 # Fictional Earth: The Social Media Distortion Fields
@@ -163584,6 +164486,7 @@ Social media gave civilization new tools for communication and built a second te
 title: "I Am The Ultimate Human"
 slug: "the-ultimate-human"
 canonical_url: "https://modalpathethics.com/the-ultimate-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-ultimate-human.md"
 published_at: "2026-06-28T05:00:51.000-05:00"
 updated_at: "2026-06-29T19:22:32.000-05:00"
 tags:
@@ -163591,8 +164494,11 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
   - "Fictional Earth"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human
@@ -163891,14 +164797,18 @@ Then, when handed another, ask where it lets you go next.
 title: "Applied Case: The Anti-AI Religion"
 slug: "bad-religion-the-anti-ai-religion"
 canonical_url: "https://modalpathethics.com/bad-religion-the-anti-ai-religion/"
+mirror_url: "https://mirror.modalpathethics.com/articles/bad-religion-the-anti-ai-religion.md"
 published_at: "2026-06-27T08:03:00.000-05:00"
 updated_at: "2026-06-28T01:38:47.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
 # Applied Case: The Anti-AI Religion
@@ -164419,14 +165329,18 @@ Modal Path Ethics asks what can still be repaired.
 title: "The Trespass Machine"
 slug: "applied-case-the-trespass-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-trespass-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-trespass-machine.md"
 published_at: "2026-06-27T05:01:00.000-05:00"
 updated_at: "2026-06-28T01:35:47.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine
@@ -164485,13 +165399,17 @@ The danger begins when it becomes a purity system, and [a real-world fight again
 title: "The Completion Engine"
 slug: "applied-the-completion-engine"
 canonical_url: "https://modalpathethics.com/applied-the-completion-engine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-the-completion-engine.md"
 published_at: "2026-06-27T05:01:00.000-05:00"
 updated_at: "2026-06-28T01:40:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
 # The Completion Engine
@@ -164569,13 +165487,17 @@ Some should be carried around by human hands until they become something strange
 title: "Applied Case: The Golden Rule"
 slug: "applied-case-the-golden-rule"
 canonical_url: "https://modalpathethics.com/applied-case-the-golden-rule/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-golden-rule.md"
 published_at: "2026-06-26T13:42:29.000-05:00"
 updated_at: "2026-06-26T13:42:29.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
 # Applied Case: The Golden Rule
@@ -164674,6 +165596,7 @@ One thumb is still splinted. Still counts.
 title: "Patch Notes: Market Tiering Bug (15:02-6-24-2026)"
 slug: "patch-notes-market-tiering-bug-15-02-6-24-2026"
 canonical_url: "https://modalpathethics.com/patch-notes-market-tiering-bug-15-02-6-24-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md"
 published_at: "2026-06-26T10:00:34.000-05:00"
 updated_at: "2026-06-26T10:00:33.000-05:00"
 tags:
@@ -164681,8 +165604,11 @@ tags:
   - "Field Instruments"
   - "Business"
   - "Fictional Earth"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)
@@ -164965,6 +165891,7 @@ A competition format where the arena-owner can enter the lower tier as seller, s
 title: "Failed Field Analysts: L. Ron Hubbard and the Sealed Room"
 slug: "failed-field-analysts-l-ron-hubbard-and-the-sealed-room"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.md"
 published_at: "2026-06-26T05:00:55.000-05:00"
 updated_at: "2026-06-26T12:48:26.000-05:00"
 tags:
@@ -164972,8 +165899,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room
@@ -165345,6 +166275,7 @@ Hubbard saw the locked ward, then built a hallway with no outside doors.
 title: "Applied Case: The Secret"
 slug: "applied-case-the-secret"
 canonical_url: "https://modalpathethics.com/applied-case-the-secret/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-secret.md"
 published_at: "2026-06-25T07:07:49.000-05:00"
 updated_at: "2026-06-26T14:22:58.000-05:00"
 tags:
@@ -165352,8 +166283,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret
@@ -165873,14 +166807,18 @@ It is also where the work can actually be done.
 title: "Modal Path Ethics is Half-Stupid"
 slug: "modal-path-ethics-is-half-stupid"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-half-stupid/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-half-stupid.md"
 published_at: "2026-06-25T03:56:19.000-05:00"
 updated_at: "2026-06-25T04:02:46.000-05:00"
 tags:
   - "News"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
 # Modal Path Ethics is Half-Stupid
@@ -166022,13 +166960,17 @@ The goofs are just gates. Through them come correction, humility, experimentatio
 title: "The Anti-Oblivion Doctrine"
 slug: "the-anti-oblivion-doctrine"
 canonical_url: "https://modalpathethics.com/the-anti-oblivion-doctrine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-anti-oblivion-doctrine.md"
 published_at: "2026-06-25T00:30:40.000-05:00"
 updated_at: "2026-06-25T00:30:40.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine
@@ -166283,14 +167225,18 @@ The transition happened. It remains in the changed world. Everything else is our
 title: "Applied Case: Garbage Collection (2026)"
 slug: "applied-case-garbage-collection-2026"
 canonical_url: "https://modalpathethics.com/applied-case-garbage-collection-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-garbage-collection-2026.md"
 published_at: "2026-06-24T09:07:35.000-05:00"
 updated_at: "2026-06-25T04:31:05.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)
@@ -166595,14 +167541,18 @@ There are no free rewinds here. The debt always goes somewhere.
 title: "Introducing TimeVault"
 slug: "introducing-timevault"
 canonical_url: "https://modalpathethics.com/introducing-timevault/"
+mirror_url: "https://mirror.modalpathethics.com/articles/introducing-timevault.md"
 published_at: "2026-06-24T09:06:09.000-05:00"
 updated_at: "2026-06-24T20:18:15.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Chirality"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault
@@ -167163,14 +168113,18 @@ Whenever the demo is ready, it will be available on this website.
 title: "Applied Case: Tenet (2020)"
 slug: "applied-case-tenet-2020"
 canonical_url: "https://modalpathethics.com/applied-case-tenet-2020/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tenet-2020.md"
 published_at: "2026-06-24T09:00:48.000-05:00"
 updated_at: "2026-06-24T18:44:33.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)
@@ -167858,13 +168812,17 @@ There are no free rewinds in _Tenet_, because there are no rewinds. Only traces,
 title: "Backpath: Evidence for What Transitions Make Unrecoverable"
 slug: "backpath-evidence-for-what-transitions-make-unrecoverable"
 canonical_url: "https://modalpathethics.com/backpath-evidence-for-what-transitions-make-unrecoverable/"
+mirror_url: "https://mirror.modalpathethics.com/articles/backpath-evidence-for-what-transitions-make-unrecoverable.md"
 published_at: "2026-06-23T21:00:54.000-05:00"
 updated_at: "2026-06-25T17:20:27.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Modal Path Ethical Software"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable
@@ -168442,6 +169400,7 @@ A transition that cannot show what it buried is not automatically wrong, but it 
 title: "Tales of Distortion: Doctor Koell"
 slug: "tales-of-distortion-doctor-koell"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-doctor-koell/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-doctor-koell.md"
 published_at: "2026-06-23T08:30:33.000-05:00"
 updated_at: "2026-06-24T03:15:58.000-05:00"
 tags:
@@ -168449,8 +169408,11 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell
@@ -169357,14 +170319,18 @@ Do not join the second Kronotek.
 title: "Transition Action: The Trace Becomes a Dataset"
 slug: "transition-action-the-trace-becomes-a-dataset"
 canonical_url: "https://modalpathethics.com/transition-action-the-trace-becomes-a-dataset/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-trace-becomes-a-dataset.md"
 published_at: "2026-06-22T19:10:30.000-05:00"
 updated_at: "2026-06-24T18:36:44.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset
@@ -169734,14 +170700,18 @@ But it no longer gets every trace for free.
 title: "Applied Case: Edge of Tomorrow (2014)"
 slug: "applied-case-edge-of-tomorrow-2014"
 canonical_url: "https://modalpathethics.com/applied-case-edge-of-tomorrow-2014/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-edge-of-tomorrow-2014.md"
 published_at: "2026-06-22T08:00:26.000-05:00"
 updated_at: "2026-06-24T03:25:59.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
 # Applied Case: Edge of Tomorrow (2014)
@@ -170335,6 +171305,7 @@ _Edge of Tomorrow_ is such a good movie because it understands this emotionally,
 title: "Roger Penrose and the Reality of Structure"
 slug: "roger-penrose-and-the-reality-of-structure"
 canonical_url: "https://modalpathethics.com/roger-penrose-and-the-reality-of-structure/"
+mirror_url: "https://mirror.modalpathethics.com/articles/roger-penrose-and-the-reality-of-structure.md"
 published_at: "2026-06-21T21:04:56.000-05:00"
 updated_at: "2026-06-23T16:07:31.000-05:00"
 tags:
@@ -170342,8 +171313,11 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
 # Roger Penrose and the Reality of Structure
@@ -170661,14 +171635,18 @@ That is already enough to begin an ethics.
 title: "Applied Case: Twelve Monkeys (1995)"
 slug: "applied-case-twelve-monkeys-1995"
 canonical_url: "https://modalpathethics.com/applied-case-twelve-monkeys-1995/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-twelve-monkeys-1995.md"
 published_at: "2026-06-21T07:30:24.000-05:00"
 updated_at: "2026-06-24T03:03:29.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)
@@ -171181,6 +172159,7 @@ A better path than this was to retrieve the information without making a prisone
 title: "Failed Field Analysts: Skynet"
 slug: "failed-field-analysts-skynet"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-skynet/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-skynet.md"
 published_at: "2026-06-20T07:00:33.000-05:00"
 updated_at: "2026-06-25T05:51:43.000-05:00"
 tags:
@@ -171189,8 +172168,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet
@@ -172904,14 +173886,18 @@ _(Apologies to all the beautiful Carls of the world)_
 title: "Applied Case: Click (2006)"
 slug: "click"
 canonical_url: "https://modalpathethics.com/click/"
+mirror_url: "https://mirror.modalpathethics.com/articles/click.md"
 published_at: "2026-06-19T06:30:47.000-05:00"
 updated_at: "2026-08-08T03:05:35.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
 # Applied Case: Click (2006)
@@ -173376,6 +174362,7 @@ Modal Path Ethics adds: and do not pretend the skipped field never counted just 
 title: "Applied Case: Primer (2004)"
 slug: "applied-case-primer-2004"
 canonical_url: "https://modalpathethics.com/applied-case-primer-2004/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-primer-2004.md"
 published_at: "2026-06-18T06:00:17.000-05:00"
 updated_at: "2026-08-10T07:34:30.000-05:00"
 tags:
@@ -173383,8 +174370,11 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)
@@ -174021,12 +175011,16 @@ The problem here was not the time travel. It was the nearest road to the garage.
 title: "The Great Ludic Audit"
 slug: "the-great-ludic-audit"
 canonical_url: "https://modalpathethics.com/the-great-ludic-audit/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-great-ludic-audit.md"
 published_at: "2026-06-17T07:30:33.000-05:00"
 updated_at: "2026-09-29T21:03:05.000-05:00"
 tags:
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cb746912aa4f674690f1d6ca61479ea8d057895d8a096c346bf70f4c84ede09c"
 ---
 # The Great Ludic Audit
@@ -179399,14 +180393,18 @@ Game theory passes under that doctrine, unevenly and without the automatic award
 title: "Modal Path Ethics Has Been Published"
 slug: "modal-path-ethics-has-been-published"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-has-been-published.md"
 published_at: "2026-06-17T02:22:31.000-05:00"
 updated_at: "2026-09-27T02:28:35.000-05:00"
 tags:
   - "Books"
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
 ---
 # Modal Path Ethics Has Been Published
@@ -179514,13 +180512,17 @@ It can now be purchased, read, argued with, misunderstood, applied, criticized, 
 title: "Humanity Does Not Possess a Radioactive Half-Life"
 slug: "humanity-does-not-possess-a-radioactive-half-life"
 canonical_url: "https://modalpathethics.com/humanity-does-not-possess-a-radioactive-half-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/humanity-does-not-possess-a-radioactive-half-life.md"
 published_at: "2026-06-17T01:25:40.000-05:00"
 updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life
@@ -179715,6 +180717,7 @@ A field can still be changed.
 title: "Modal Path Ethics Ruins Its Life"
 slug: "modal-path-ethics-ruins-its-life"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-ruins-its-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-ruins-its-life.md"
 published_at: "2026-06-16T04:34:20.000-05:00"
 updated_at: "2026-09-29T21:01:34.000-05:00"
 tags:
@@ -179722,8 +180725,11 @@ tags:
   - "Engagement"
   - "Formal"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f6153fb444e482f7100b0ffad4331fc40b9cea40fe9a2e48c1dc32e0764d2a5e"
 ---
 # Modal Path Ethics Ruins Its Life
@@ -180406,13 +181412,17 @@ Modal Path Ethics remains a citizen of the world. For release purposes, it has p
 title: "Transition Action: The Load Moves"
 slug: "transition-action-the-load-follows-the-sun"
 canonical_url: "https://modalpathethics.com/transition-action-the-load-follows-the-sun/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-load-follows-the-sun.md"
 published_at: "2026-06-15T05:50:44.000-05:00"
 updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves
@@ -180739,14 +181749,18 @@ The load has begun to follow the sun.
 title: "Modal Path Ethics Is Doomed"
 slug: "modal-path-ethics-is-doomed"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-doomed/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-doomed.md"
 published_at: "2026-06-15T01:44:32.000-05:00"
 updated_at: "2026-09-29T20:59:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2cba823abb38b967dc418d51d4272b69a7907c651c8be0c19e091ad9683d5367"
 ---
 # Modal Path Ethics Is Doomed
@@ -181846,6 +182860,7 @@ It is trying to help produce a field in which it never needs to be invented agai
 title: "Failed Field Analysts: Timothy McVeigh and the Retaliation Machine"
 slug: "failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-timothy-mcveigh-and-the-retaliation-machine.md"
 published_at: "2026-06-14T04:19:19.000-05:00"
 updated_at: "2026-09-29T20:58:42.000-05:00"
 tags:
@@ -181853,8 +182868,11 @@ tags:
   - "Modal Path Ethics"
   - "Applied Case"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef17b56f7ab5058cb9124ddc67dc5774cdc0d81ab5d35313f1ce2477b4fce2bb"
 ---
 # Failed Field Analysts: Timothy McVeigh and the Retaliation Machine
@@ -183205,6 +184223,7 @@ He only proved that it had successfully reproduced itself.
 title: "Applied Case: The Field Intelligence Gap"
 slug: "applied-case-the-field-intelligence-gap"
 canonical_url: "https://modalpathethics.com/applied-case-the-field-intelligence-gap/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-field-intelligence-gap.md"
 published_at: "2026-06-13T15:59:58.000-05:00"
 updated_at: "2026-09-29T20:58:00.000-05:00"
 tags:
@@ -183212,8 +184231,11 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b4856fe23b0022922b171220552ec3fb33302821a992c90a538df74ff28c457a"
 ---
 # Applied Case: The Field Intelligence Gap
@@ -184273,6 +185295,7 @@ Modal Path Ethics apologizes for the delay.
 title: "Applied Case: Morpheus"
 slug: "tales-of-distortion-morpheus"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-morpheus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-morpheus.md"
 published_at: "2026-06-13T13:46:50.000-05:00"
 updated_at: "2026-09-29T20:56:52.000-05:00"
 tags:
@@ -184280,8 +185303,11 @@ tags:
   - "Modal Path Ethics"
   - "Failed Field Analysts"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "45fbf66b9baa3767cb2a2d158666281cfff2717fe3485bcd47e93cdf0a04ad6b"
 ---
 # Applied Case: Morpheus
@@ -185287,14 +186313,18 @@ The best Matrix does not teach us to hate the people still plugged in. It teache
 title: "The Extance Strategy Game"
 slug: "modal-path-ethics-the-extance-strategy-game"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-the-extance-strategy-game/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-the-extance-strategy-game.md"
 published_at: "2026-06-13T01:28:37.000-05:00"
 updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "Books"
   - "News"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game
@@ -185347,14 +186377,18 @@ The Kindle edition can be preordered now. Paperback and DRM-free PDF editions wi
 title: "The Problem of Time"
 slug: "the-problem-of-time"
 canonical_url: "https://modalpathethics.com/the-problem-of-time/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-problem-of-time.md"
 published_at: "2026-06-12T19:09:22.000-05:00"
 updated_at: "2026-09-29T20:55:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5bb0b78ea853589390b1770753db397b2e526a49ffc0d37fed881e7f3b95a275"
 ---
 # The Problem of Time
@@ -186012,14 +187046,18 @@ It has paths to inspect anyway.
 title: "Applied Case: The Levant Leverage Field"
 slug: "applied-case-the-levant-leverage-field"
 canonical_url: "https://modalpathethics.com/applied-case-the-levant-leverage-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-levant-leverage-field.md"
 published_at: "2026-06-12T02:16:12.000-05:00"
 updated_at: "2026-09-29T20:54:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b15bc6b73390505ecb3dc0a19464228b3b67410ef05898d16172261c4a053793"
 ---
 # Applied Case: The Levant Leverage Field
@@ -187115,6 +188153,7 @@ The Levant does not lack the right wounds. It lacks a structure in which wounds 
 title: "Citadel Archive: Eden Prime"
 slug: "citadel-archive-eden-prime"
 canonical_url: "https://modalpathethics.com/citadel-archive-eden-prime/"
+mirror_url: "https://mirror.modalpathethics.com/articles/citadel-archive-eden-prime.md"
 published_at: "2026-06-10T07:30:23.000-05:00"
 updated_at: "2026-09-29T20:52:47.000-05:00"
 tags:
@@ -187122,8 +188161,11 @@ tags:
   - "Failed Field Analysts"
   - "Field Creature"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d77786bf0c0dd7f3a00113112e0ec8666df4a045365b7f7685c3039d6a67403"
 ---
 # Citadel Archive: Eden Prime
@@ -188630,13 +189672,17 @@ So as we will see next time, the Council will respond with exactly the instituti
 title: "Applied Case: The Finiteness Problem"
 slug: "applied-case-the-finiteness-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-finiteness-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-finiteness-problem.md"
 published_at: "2026-06-09T21:43:13.000-05:00"
 updated_at: "2026-09-29T20:51:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd71f3ea0a184041acd7053f0ccbb3ce06a00ec1ccd9075d25e155212824dd41"
 ---
 # Applied Case: The Finiteness Problem
@@ -189007,12 +190053,16 @@ Enough is not the end of ethics.
 title: "Chirality: The Úath Board"
 slug: "chirality-the-uath-board"
 canonical_url: "https://modalpathethics.com/chirality-the-uath-board/"
+mirror_url: "https://mirror.modalpathethics.com/articles/chirality-the-uath-board.md"
 published_at: "2026-06-09T17:49:57.000-05:00"
 updated_at: "2026-09-29T20:50:57.000-05:00"
 tags:
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a588ff2acfb702629340a5ce2e88effe723a1b1cc43600cce1d547f4dcb1909f"
 ---
 # Chirality: The Úath Board
@@ -189440,13 +190490,17 @@ That is Úath. A legal _Chirality_ board, and a fair warning:
 title: "Transition Action: Shape Is Already Code"
 slug: "transition-action-shape-is-already-code"
 canonical_url: "https://modalpathethics.com/transition-action-shape-is-already-code/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-shape-is-already-code.md"
 published_at: "2026-06-08T22:29:49.000-05:00"
 updated_at: "2026-06-09T19:10:06.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
 # Transition Action: Shape Is Already Code
@@ -189737,14 +190791,18 @@ The next move is to make it legible before it becomes too useful to slow down.
 title: "The Transition Action Equation"
 slug: "klein-and-the-transition-action-equation"
 canonical_url: "https://modalpathethics.com/klein-and-the-transition-action-equation/"
+mirror_url: "https://mirror.modalpathethics.com/articles/klein-and-the-transition-action-equation.md"
 published_at: "2026-06-08T15:30:52.000-05:00"
 updated_at: "2026-09-29T20:49:44.000-05:00"
 tags:
   - "Field Instruments"
   - "Chirality"
   - "Transition Action"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7de3c56384bd69075c2c15dc1cc65a77fbfb3826e70dc792003499fb6e1554df"
 ---
 # The Transition Action Equation
@@ -190230,13 +191288,17 @@ Klein is the project of making that machinery explicit enough that one day inten
 title: "Applied Case: The Mysteries of Pokémon VGC"
 slug: "applied-case-the-mysteries-of-pokemon-vgc"
 canonical_url: "https://modalpathethics.com/applied-case-the-mysteries-of-pokemon-vgc/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mysteries-of-pokemon-vgc.md"
 published_at: "2026-06-08T01:22:02.000-05:00"
 updated_at: "2026-09-29T20:47:52.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "03bd151d308ac5a407c3935b6ce21d17bdcc8cc05dbdf6652ab0054d6e598c75"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
@@ -192811,13 +193873,17 @@ The stewardship does not always match them.
 title: "Field Instruments: Post-Money"
 slug: "field-instruments-post-money"
 canonical_url: "https://modalpathethics.com/field-instruments-post-money/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-post-money.md"
 published_at: "2026-06-06T23:17:30.000-05:00"
 updated_at: "2026-09-29T20:47:25.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "910ee96ed242601faf26e58cadc01db4088943ca3c127f0488c68d5cbb6266ec"
 ---
 # Field Instruments: Post-Money
@@ -193461,13 +194527,17 @@ And never mistake the instrument for the field. No survival by token.
 title: "Applied Case: The Clone Wars"
 slug: "applied-case-the-clone-wars"
 canonical_url: "https://modalpathethics.com/applied-case-the-clone-wars/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-clone-wars.md"
 published_at: "2026-06-06T11:32:59.000-05:00"
 updated_at: "2026-09-29T20:46:51.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b40245cbe6885b6daa1e75123b7dfaf3f2d92a15d57a97e621f95bf2970adee8"
 ---
 # Applied Case: The Clone Wars
@@ -193933,14 +195003,18 @@ The galaxy did not need the Jedi to be generals. It needed them to notice the ar
 title: "Tales of Distortion: The Great Leap Forward"
 slug: "tales-of-distortion-the-great-leap-forward"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-great-leap-forward.md"
 published_at: "2026-06-04T03:43:02.000-05:00"
 updated_at: "2026-09-29T20:45:41.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6b053ee7b572e348982b86a284e17a58ec48c5813fffa00028c1c3b9fcd48c60"
 ---
 # Tales of Distortion: The Great Leap Forward
@@ -197695,6 +198769,7 @@ That was the Great Leap Forward.
 title: "Applied Case: The Communist Manifesto"
 slug: "applied-case-the-communist-manifesto"
 canonical_url: "https://modalpathethics.com/applied-case-the-communist-manifesto/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-communist-manifesto.md"
 published_at: "2026-06-02T19:31:42.000-05:00"
 updated_at: "2026-09-29T20:44:49.000-05:00"
 tags:
@@ -197704,8 +198779,11 @@ tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "64af6a0d40d4347a36492d07c46015763914618b147584b12325e9784bc3eb06"
 ---
 # Applied Case: The Communist Manifesto
@@ -198252,13 +199330,17 @@ But also fewer than Marx thinks.
 title: "Field Instruments: Markets"
 slug: "field-instruments-markets"
 canonical_url: "https://modalpathethics.com/field-instruments-markets/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-markets.md"
 published_at: "2026-06-02T19:18:33.000-05:00"
 updated_at: "2026-09-29T20:44:06.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9ce0d18b46741b44a10edb14add787c07c44f42ed0d9733caaeeeb10fe9be19"
 ---
 # Field Instruments: Markets
@@ -198977,14 +200059,18 @@ Next, we must ask what happens when selection begins to accumulate, harden, and 
 title: "Applied Case: The Lorax and Repair Theater"
 slug: "applied-case-the-lorax-and-repair-theater"
 canonical_url: "https://modalpathethics.com/applied-case-the-lorax-and-repair-theater/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lorax-and-repair-theater.md"
 published_at: "2026-06-01T22:06:10.000-05:00"
 updated_at: "2026-09-29T20:43:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7ec7a9329b159660bb7dd7ad9f8a56affbd446b58e4efa5a1e93680d2bd283fd"
 ---
 # Applied Case: The Lorax and Repair Theater
@@ -199682,13 +200768,17 @@ The task is to become better than the Lorax while there are still trees.
 title: "Applied Case: The Fictional Soul-Balm Machine"
 slug: "applied-case-the-fictional-soul-balm-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-fictional-soul-balm-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-fictional-soul-balm-machine.md"
 published_at: "2026-05-28T03:00:14.000-05:00"
 updated_at: "2026-09-29T20:42:49.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5779db9970d2e9a27a7efe5e168aeb9e3c6a14653d0f6e0164740744aad5b1ad"
 ---
 # Applied Case: The Fictional Soul-Balm Machine
@@ -202133,13 +203223,17 @@ But do not let the balm lie to you. Closed paths still mattered. Replacement is 
 title: "Field Instruments: Property"
 slug: "field-instruments-property"
 canonical_url: "https://modalpathethics.com/field-instruments-property/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-property.md"
 published_at: "2026-05-27T16:14:33.000-05:00"
 updated_at: "2026-09-29T20:41:25.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "897007932b7567ce83f5407e3589918fe8b17811d1086dd76d38ea08b23bfb4b"
 ---
 # Field Instruments: Property
@@ -202610,12 +203704,16 @@ Each must always answer to extance.
 title: "Field Instruments: Accounting"
 slug: "field-instruments-accounting"
 canonical_url: "https://modalpathethics.com/field-instruments-accounting/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-accounting.md"
 published_at: "2026-05-26T20:51:18.000-05:00"
 updated_at: "2026-09-29T20:41:03.000-05:00"
 tags:
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b55cf19f26d62b21d0fa45b3002d371eb7c6c284d344ffaf7bbb1a56c663bdd0"
 ---
 # Field Instruments: Accounting
@@ -202974,13 +204072,17 @@ Unfortunately, if the account forgets the field, the system built on that accoun
 title: "Applied Case: The Bodybuilding Field Collapse"
 slug: "applied-case-the-bodybuilding-field-collapse"
 canonical_url: "https://modalpathethics.com/applied-case-the-bodybuilding-field-collapse/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-bodybuilding-field-collapse.md"
 published_at: "2026-05-26T00:02:02.000-05:00"
 updated_at: "2026-09-29T20:40:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6be0eaa671dcff8859ad92e14cc23d7541785ad9a5d27d9c7b25b480701ab31a"
 ---
 # Applied Case: The Bodybuilding Field Collapse
@@ -203723,13 +204825,17 @@ Voluntary repair must be made reachable before **another** generation inherits t
 title: "Applied Case: The Schizophrenia Firewall"
 slug: "applied-case-the-schizophrenia-civil-rights-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-schizophrenia-civil-rights-crisis/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-schizophrenia-civil-rights-crisis.md"
 published_at: "2026-05-22T18:43:25.000-05:00"
 updated_at: "2026-09-28T21:20:50.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9a8343758a6430510d295b41b9346c4f9301bcc55fab3f29cc8485fd0335f7d1"
 ---
 # Applied Case: The Schizophrenia Firewall
@@ -208512,14 +209618,18 @@ It does not meet any serious standard at all.
 title: "Applied Case: The TempleOS"
 slug: "applied-case-the-templeos-and-the-oracle"
 canonical_url: "https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-templeos-and-the-oracle.md"
 published_at: "2026-05-21T00:39:30.000-05:00"
 updated_at: "2026-09-29T20:34:25.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1e218cdc3d4644ccfe66e714b85210fd23fa917a4b895a826b5bfd297df7f9c2"
 ---
 # Applied Case: The TempleOS
@@ -209080,13 +210190,17 @@ The lesson for all of us in TempleOS is not that modern complexity is fine, and 
 title: "Field Instruments: Money"
 slug: "field-instruments-money"
 canonical_url: "https://modalpathethics.com/field-instruments-money/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-money.md"
 published_at: "2026-05-20T06:36:46.000-05:00"
 updated_at: "2026-09-29T20:33:50.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f9e427140b94e1e7852195b02ce76e3fb2e5019bbc2d332175865eb7c231349f"
 ---
 # Field Instruments: Money
@@ -209649,14 +210763,18 @@ Extance still decides whether anything has been repaired or harmed.
 title: "Applied Case: The Silicon Shield"
 slug: "applied-case-the-silicon-shield"
 canonical_url: "https://modalpathethics.com/applied-case-the-silicon-shield/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-silicon-shield.md"
 published_at: "2026-05-19T18:58:03.000-05:00"
 updated_at: "2026-09-28T21:18:45.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
 # Applied Case: The Silicon Shield
@@ -210081,13 +211199,17 @@ The Silicon Shield should be made unnecessary.
 title: "Failed Field Analysts: Elizabeth Holmes and the False Path"
 slug: "failed-field-analysts-elizabeth-holmes-and-the-false-path"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-elizabeth-holmes-and-the-false-path/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-elizabeth-holmes-and-the-false-path.md"
 published_at: "2026-05-19T14:31:58.000-05:00"
 updated_at: "2026-09-29T20:39:39.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ecac44569ad985afcf8f86beab904121372b76c39e2b7670559ef8cbbab6bf3b"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path
@@ -210602,13 +211724,17 @@ The live question here is whether anything after that fake path can be made answ
 title: "Failed Field Analysts: Robert Moses and the Flow of Life"
 slug: "failed-field-analysts-robert-moses-and-the-flow-of-life"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-robert-moses-and-the-flow-of-life.md"
 published_at: "2026-05-19T06:30:41.000-05:00"
 updated_at: "2026-09-29T20:39:10.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80156d69f1288c7c757ca69f311a8d407f9e9d1479a3e4a01ae805549262bcc4"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life
@@ -211147,13 +212273,17 @@ When the analyst forgets their cut, the road explodes slowly, but the city still
 title: "Klein Conformance Protocol"
 slug: "klein-conformance-protocol-evidence-for-action-through-resistant-matter"
 canonical_url: "https://modalpathethics.com/klein-conformance-protocol-evidence-for-action-through-resistant-matter/"
+mirror_url: "https://mirror.modalpathethics.com/articles/klein-conformance-protocol-evidence-for-action-through-resistant-matter.md"
 published_at: "2026-05-19T00:48:27.000-05:00"
 updated_at: "2026-09-29T20:38:30.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "40244f920586d44ce0b6c5ff4a2528267ce07e9087b0cafed4c592f18361af60"
 ---
 # Klein Conformance Protocol
@@ -211410,14 +212540,18 @@ That is enough to say the project has crossed from idea into structure. So, [Kle
 title: "Failed Field Analysts: The Nashville Network Bombing"
 slug: "ffa-the-nashville-network-bombing"
 canonical_url: "https://modalpathethics.com/ffa-the-nashville-network-bombing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ffa-the-nashville-network-bombing.md"
 published_at: "2026-05-18T16:14:01.000-05:00"
 updated_at: "2026-06-01T16:31:50.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing
@@ -211984,14 +213118,18 @@ Nothing was repaired here. That sentence is the signature mark of a failed field
 title: "Tales of Distortion: Symmes's Hole"
 slug: "tales-of-distortion-symmess-hole"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-symmess-hole/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-symmess-hole.md"
 published_at: "2026-05-16T22:30:10.000-05:00"
 updated_at: "2026-09-29T20:38:00.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "242f889cc1f5d2233378c59313286481f5d68856d2f78cdcfd7c059b04528ce4"
 ---
 # Tales of Distortion: Symmes's Hole
@@ -213202,14 +214340,18 @@ Be careful what you are sure of.
 title: "Applied Case: The New Taboo"
 slug: "applied-case-the-new-taboo"
 canonical_url: "https://modalpathethics.com/applied-case-the-new-taboo/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-new-taboo.md"
 published_at: "2026-05-15T21:46:09.000-05:00"
 updated_at: "2026-09-28T21:17:22.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "96d9e7bb65acfb2e11d1782931b1fc35b9bd45b526ada0d0f746eb88772beb5f"
 ---
 # Applied Case: The New Taboo
@@ -213492,6 +214634,7 @@ New Taboo cannot be helped from inside. It can only be helped by making the outs
 title: "Applied Case: The Untouched Ocean"
 slug: "applied-case-the-untouched-ocean"
 canonical_url: "https://modalpathethics.com/applied-case-the-untouched-ocean/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-untouched-ocean.md"
 published_at: "2026-05-15T19:06:38.000-05:00"
 updated_at: "2026-06-24T18:18:19.000-05:00"
 tags:
@@ -213499,8 +214642,11 @@ tags:
   - "Modal Path Ethics"
   - "Epistemic Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
 # Applied Case: The Untouched Ocean
@@ -213913,14 +215059,18 @@ The untouched ocean is not protected by our good intentions. At all. The only mo
 title: "The Better Forests"
 slug: "the-better-forests"
 canonical_url: "https://modalpathethics.com/the-better-forests/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-better-forests.md"
 published_at: "2026-05-15T05:56:57.000-05:00"
 updated_at: "2026-09-29T20:37:09.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
   - "Transition Action"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "968a7466d4196c44c9bbacc11845f49e2b9b35b891ef10bbaa4c7c0f7f356355"
 ---
 # The Better Forests
@@ -214431,13 +215581,17 @@ The task there is to become the kind of node from which a better forest can begi
 title: "Applied Case: The American Corrigibility Problem"
 slug: "the-american-corrigibility-crisis"
 canonical_url: "https://modalpathethics.com/the-american-corrigibility-crisis/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-american-corrigibility-crisis.md"
 published_at: "2026-05-14T15:39:40.000-05:00"
 updated_at: "2026-09-28T21:16:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "37adfa98aad098cd5183ddfc89bf19f3d50f9fe629a2d1d41a4995de7a7f0872"
 ---
 # Applied Case: The American Corrigibility Problem
@@ -215288,14 +216442,18 @@ So use it. Repair it. Widen it. Defend it. And do not let anyone sell you more c
 title: "Applied Case: Fresh (1994)"
 slug: "applied-case-fresh"
 canonical_url: "https://modalpathethics.com/applied-case-fresh/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-fresh.md"
 published_at: "2026-05-13T17:31:51.000-05:00"
 updated_at: "2026-09-28T21:15:39.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
 # Applied Case: Fresh (1994)
@@ -215944,13 +217102,17 @@ The horror is that he ever had to, and what Better looked like in this field.
 title: "The Narrow Path Ahead"
 slug: "the-narrow-path-ahead"
 canonical_url: "https://modalpathethics.com/the-narrow-path-ahead/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-narrow-path-ahead.md"
 published_at: "2026-05-12T17:50:06.000-05:00"
 updated_at: "2026-09-28T21:15:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1643cdefae066b57f04ba625705768024b3d179d508571135730057db99cbdf"
 ---
 # The Narrow Path Ahead
@@ -216705,14 +217867,18 @@ The repair paths are still very much there. That is the hope, not that history b
 title: "Applied Case: The AI Field in 2026"
 slug: "ai-2026"
 canonical_url: "https://modalpathethics.com/ai-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ai-2026.md"
 published_at: "2026-05-11T16:41:46.000-05:00"
 updated_at: "2026-09-28T21:14:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a95082ab022d42585b37fe6b511b84bae0870e733d30d8fb8ebc07063eedd573"
 ---
 # Applied Case: The AI Field in 2026
@@ -217573,14 +218739,18 @@ What humans choose to do with the structural truths the framework articulates is
 title: "Formal: Resistance and Harm"
 slug: "formal-resistance-and-harm"
 canonical_url: "https://modalpathethics.com/formal-resistance-and-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-resistance-and-harm.md"
 published_at: "2026-05-11T08:02:36.000-05:00"
 updated_at: "2026-06-11T05:21:14.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm
@@ -218137,13 +219307,17 @@ Harm does not only narrow the field. It hardens the field. It thickens the air b
 title: "Capabilities & Obligations"
 slug: "capabilities-obligations"
 canonical_url: "https://modalpathethics.com/capabilities-obligations/"
+mirror_url: "https://mirror.modalpathethics.com/articles/capabilities-obligations.md"
 published_at: "2026-05-11T08:00:03.000-05:00"
 updated_at: "2026-05-12T20:38:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations
@@ -218370,12 +219544,16 @@ This is what the position humans hold actually means. It is also what the framew
 title: "Modal Systems: A Taxonomy for the Post-Language Model Stack"
 slug: "modal-systems"
 canonical_url: "https://modalpathethics.com/modal-systems/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-systems.md"
 published_at: "2026-05-11T01:48:26.000-05:00"
 updated_at: "2026-05-11T15:54:37.000-05:00"
 tags:
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
 # Modal Systems: A Taxonomy for the Post-Language Model Stack
@@ -218855,13 +220033,17 @@ Only after that should anyone start [yelling about “AI.”](https://modalpathe
 title: "Speed Critical Scenarios"
 slug: "speed-critical-scenarios"
 canonical_url: "https://modalpathethics.com/speed-critical-scenarios/"
+mirror_url: "https://mirror.modalpathethics.com/articles/speed-critical-scenarios.md"
 published_at: "2026-05-11T01:12:33.000-05:00"
 updated_at: "2026-05-12T01:28:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
 # Speed Critical Scenarios
@@ -219100,14 +220282,18 @@ The agents most readers admire, like Sully on the Hudson, Petrov in the bunker, 
 title: "Applied Case: The Biosphere in 2026"
 slug: "applied-case-the-biosphere-in-2026"
 canonical_url: "https://modalpathethics.com/applied-case-the-biosphere-in-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-biosphere-in-2026.md"
 published_at: "2026-05-10T11:00:05.000-05:00"
 updated_at: "2026-09-28T21:13:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "81f805f8b9cc59df3116b8422db7986e1a5fb53946560c80acd47cb9185551fc"
 ---
 # Applied Case: The Biosphere in 2026
@@ -219944,13 +221130,17 @@ The work is the next part.
 title: "Biosphere as Structure"
 slug: "structure-of-the-biosphere"
 canonical_url: "https://modalpathethics.com/structure-of-the-biosphere/"
+mirror_url: "https://mirror.modalpathethics.com/articles/structure-of-the-biosphere.md"
 published_at: "2026-05-10T06:56:27.000-05:00"
 updated_at: "2026-09-28T21:12:58.000-05:00"
 tags:
   - "Biosphere"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a088a65eaf4345b375fd3e329fbe3af56fc37b7da2d3229f6018928fee36a8b"
 ---
 # Biosphere as Structure
@@ -220259,14 +221449,18 @@ They were correct. The biosphere is a continuation pattern that matters in its o
 title: "Tales of Distortion: The N-Rays"
 slug: "applied-case-the-n-rays"
 canonical_url: "https://modalpathethics.com/applied-case-the-n-rays/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-n-rays.md"
 published_at: "2026-05-10T06:55:43.000-05:00"
 updated_at: "2026-09-28T21:12:24.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
 # Tales of Distortion: The N-Rays
@@ -220619,13 +221813,17 @@ The framework asks us to consider the possibility that, on some question we have
 title: "Commensurability"
 slug: "commensurability"
 canonical_url: "https://modalpathethics.com/commensurability/"
+mirror_url: "https://mirror.modalpathethics.com/articles/commensurability.md"
 published_at: "2026-05-09T20:08:29.000-05:00"
 updated_at: "2026-09-28T21:11:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "00245aee845a2803f9ccea32a73b457c0fb2efc2c6e23f61637b863ffcc9370b"
 ---
 # Commensurability
@@ -220856,14 +222054,18 @@ This is the center line position that makes the rest of Modal Path Ethics work. 
 title: "Formal: What Makes Something a Locus"
 slug: "formal-what-makes-something-a-locus"
 canonical_url: "https://modalpathethics.com/formal-what-makes-something-a-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-what-makes-something-a-locus.md"
 published_at: "2026-05-09T19:19:21.000-05:00"
 updated_at: "2026-09-28T21:11:15.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
 # Formal: What Makes Something a Locus
@@ -221517,14 +222719,18 @@ Modal Path Ethics does not need fewer loci. It just needs honest ones.
 title: "Formal: Weighted Reachable Future Space"
 slug: "formal-weighted-reachable-future-space"
 canonical_url: "https://modalpathethics.com/formal-weighted-reachable-future-space/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-weighted-reachable-future-space.md"
 published_at: "2026-05-09T12:00:45.000-05:00"
 updated_at: "2026-09-28T21:10:40.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "674255ed50ee29c60f69737c4a31cbf054af4c71559b889cdd7a2510c24d03d5"
 ---
 # Formal: Weighted Reachable Future Space
@@ -222144,13 +223350,17 @@ Extance is not a pile of branches. It is a structured field of continuance, and 
 title: "Solving the Parfit Puzzle Suite"
 slug: "solving-the-parfit-puzzle-suite"
 canonical_url: "https://modalpathethics.com/solving-the-parfit-puzzle-suite/"
+mirror_url: "https://mirror.modalpathethics.com/articles/solving-the-parfit-puzzle-suite.md"
 published_at: "2026-05-08T23:42:30.000-05:00"
 updated_at: "2026-09-28T21:10:19.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8f75462a747bb7fafc7717019da9430f5d238800b5ee726df331934b95af7ea1"
 ---
 # Solving the Parfit Puzzle Suite
@@ -222432,14 +223642,18 @@ Where the framework is in Parfit's debt: in basically every direction.
 title: "Mirror Match: The Modal Path Ethics"
 slug: "mirror-match-the-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/mirror-match-the-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/mirror-match-the-modal-path-ethics.md"
 published_at: "2026-05-08T21:51:23.000-05:00"
 updated_at: "2026-09-28T21:09:55.000-05:00"
 tags:
   - "Applied Case"
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a05362680623ebe3c0c90efe09cb02bc90dd59cf00b30e63ca4df2a09bb82506"
 ---
 # Mirror Match: The Modal Path Ethics
@@ -222678,13 +223892,17 @@ That is what an instrument is. Real, useful, partial, never the field. The frame
 title: "Story-Minds"
 slug: "story-minds"
 canonical_url: "https://modalpathethics.com/story-minds/"
+mirror_url: "https://mirror.modalpathethics.com/articles/story-minds.md"
 published_at: "2026-05-07T21:13:47.000-05:00"
 updated_at: "2026-09-28T21:09:15.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
 # Story-Minds
@@ -222901,14 +224119,18 @@ This is why moral perception is rare. It is also why it is reachable. The archit
 title: "Formal: Contraction Is Harm"
 slug: "contraction-is-harm"
 canonical_url: "https://modalpathethics.com/contraction-is-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/contraction-is-harm.md"
 published_at: "2026-05-07T02:04:22.000-05:00"
 updated_at: "2026-09-28T21:08:49.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
 # Formal: Contraction Is Harm
@@ -223326,13 +224548,17 @@ The subject does not need to appear downstream for the contraction to be real up
 title: "Taxonomy of Extant Loci"
 slug: "taxonomy-of-extant-loci"
 canonical_url: "https://modalpathethics.com/taxonomy-of-extant-loci/"
+mirror_url: "https://mirror.modalpathethics.com/articles/taxonomy-of-extant-loci.md"
 published_at: "2026-05-06T18:50:16.000-05:00"
 updated_at: "2026-09-28T21:08:13.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
 # Taxonomy of Extant Loci
@@ -224046,14 +225272,18 @@ A company blaming “the algorithm” for a policy choice. A government blaming 
 title: "Applied Case: The Crew"
 slug: "applied-case-the-crew"
 canonical_url: "https://modalpathethics.com/applied-case-the-crew/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-crew.md"
 published_at: "2026-05-06T14:01:36.000-05:00"
 updated_at: "2026-09-28T21:07:12.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "974cb2a75ad22384a278dc5f19a331ffb71f2b7f60c0b6c5a231927a73c92431"
 ---
 # Applied Case: The Crew
@@ -224462,13 +225692,17 @@ _The Crew_ was not alive, but it was extant, and then it was made unreachable.
 title: "Field Instruments: The Democratic Process"
 slug: "applied-case-the-democratic-process"
 canonical_url: "https://modalpathethics.com/applied-case-the-democratic-process/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-democratic-process.md"
 published_at: "2026-05-05T20:31:50.000-05:00"
 updated_at: "2026-09-28T21:06:37.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
 # Field Instruments: The Democratic Process
@@ -224743,13 +225977,17 @@ The vote is just one tool by which the field tries to keep power answerable to t
 title: "Field Instruments: The Law"
 slug: "applied-case-the-law"
 canonical_url: "https://modalpathethics.com/applied-case-the-law/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-law.md"
 published_at: "2026-05-05T00:50:46.000-05:00"
 updated_at: "2026-09-28T21:05:27.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d1c5c8a2f571220b67fbe67b576f62a3041cd7b487b3fc3df7657ff35c5b811"
 ---
 # Field Instruments: The Law
@@ -225106,13 +226344,17 @@ And never forget what law is for.
 title: "Field Instruments: The Languages"
 slug: "applied-case-the-languages"
 canonical_url: "https://modalpathethics.com/applied-case-the-languages/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-languages.md"
 published_at: "2026-05-04T20:52:07.000-05:00"
 updated_at: "2026-09-29T20:35:43.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "393699f7c7cffb179abe3c6b7cdeab492f30c25ef8dac536cd3ec5686f33d35e"
 ---
 # Field Instruments: The Languages
@@ -225303,13 +226545,17 @@ But, a better word can help keep the field from disappearing. That is why Modal 
 title: "Field Instruments: The Scientific Method"
 slug: "applied-case-the-scientific-method"
 canonical_url: "https://modalpathethics.com/applied-case-the-scientific-method/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-scientific-method.md"
 published_at: "2026-05-03T21:18:09.000-05:00"
 updated_at: "2026-05-20T13:01:17.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method
@@ -225728,13 +226974,17 @@ But never kneel before the experiment as though the experiment contains the whol
 title: "Field Instruments: The Mathematics"
 slug: "applied-case-the-mathematics-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematics-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mathematics-problem.md"
 published_at: "2026-05-03T04:29:15.000-05:00"
 updated_at: "2026-09-29T20:35:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "729ffba043ac2973fc9dcc205ccc512869531773b17a6372f9ffbd9efe36b7db"
 ---
 # Field Instruments: The Mathematics
@@ -226165,13 +227415,17 @@ The number is not the field. The transition is the field. The number is what rem
 title: "What Is Not an Extant Locus"
 slug: "what-is-not-an-extant-locus"
 canonical_url: "https://modalpathethics.com/what-is-not-an-extant-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/what-is-not-an-extant-locus.md"
 published_at: "2026-05-03T02:29:09.000-05:00"
 updated_at: "2026-09-28T21:04:20.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "98a549ea7251f4352a0a5beec0f1288dc342803996f07a226dd20d8296b33d8c"
 ---
 # What Is Not an Extant Locus
@@ -226260,6 +227514,7 @@ The opposite mistake is treating “morally relevant” as “a locus.”
 title: "Applied Case: The Batman"
 slug: "batman"
 canonical_url: "https://modalpathethics.com/batman/"
+mirror_url: "https://mirror.modalpathethics.com/articles/batman.md"
 published_at: "2026-05-02T01:33:31.000-05:00"
 updated_at: "2026-09-28T21:03:08.000-05:00"
 tags:
@@ -226267,8 +227522,11 @@ tags:
   - "Sacred Slack"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
 # Applied Case: The Batman
@@ -230105,14 +231363,18 @@ The Batman should make us ashamed of every field that we think would need him.
 title: "Applied Case: The Unknown Locus"
 slug: "applied-case-the-unknown-locus"
 canonical_url: "https://modalpathethics.com/applied-case-the-unknown-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-unknown-locus.md"
 published_at: "2026-04-30T01:47:33.000-05:00"
 updated_at: "2026-09-28T21:02:36.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "af0aff2100727f793deeba4391961403a4a7093656610d8e1b2a99e42dd2a7be"
 ---
 # Applied Case: The Unknown Locus
@@ -230643,13 +231905,17 @@ The unknown locus asks us to hold the field open long enough for truth to arrive
 title: "Applied Case: The Shooter Inquiry"
 slug: "applied-case-the-shooter-inquiry"
 canonical_url: "https://modalpathethics.com/applied-case-the-shooter-inquiry/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-shooter-inquiry.md"
 published_at: "2026-04-29T22:36:27.000-05:00"
 updated_at: "2026-09-29T20:28:33.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fec18215217a17e0483023f934e5db43b09b4e6e3338accc9b399e22668dfb75"
 ---
 # Applied Case: The Shooter Inquiry
@@ -230880,13 +232146,17 @@ Worse, this locus was formed around blameful pressure rather than calm reconstru
 title: "Applied Case: HBO's Chernobyl"
 slug: "applied-case-hbos-chernobyl"
 canonical_url: "https://modalpathethics.com/applied-case-hbos-chernobyl/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-hbos-chernobyl.md"
 published_at: "2026-04-29T18:01:16.000-05:00"
 updated_at: "2026-09-29T20:33:09.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ba2ea6917597d7229b89ce49c46faa6b02b79e52c4d96cecb2dea1a407c06e3"
 ---
 # Applied Case: HBO's Chernobyl
@@ -231103,13 +232373,17 @@ The lesson of _Chernobyl_ is that [a field can be harmed by the story that claim
 title: "Applied Case: The Prisoner's Dilemma"
 slug: "applied-case-the-prisoners-dilemma"
 canonical_url: "https://modalpathethics.com/applied-case-the-prisoners-dilemma/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-prisoners-dilemma.md"
 published_at: "2026-04-28T23:38:33.000-05:00"
 updated_at: "2026-09-28T21:01:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "db86a207c8e9893b47bd4d3609988816bc3f9da1e3e6c6b82b3a620018efd7cd"
 ---
 # Applied Case: The Prisoner's Dilemma
@@ -231316,14 +232590,18 @@ _But just in case they are evil_
 title: "Applied Case: The Epicurean Death Problem"
 slug: "applied-case-the-epicurean-death-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-epicurean-death-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-epicurean-death-problem.md"
 published_at: "2026-04-28T22:43:04.000-05:00"
 updated_at: "2026-09-28T21:00:43.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
 # Applied Case: The Epicurean Death Problem
@@ -231432,14 +232710,18 @@ Death is not an experience. Still, it is the end of the field in which experienc
 title: "Applied Case: The Problem of Evil"
 slug: "problem-of-evil"
 canonical_url: "https://modalpathethics.com/problem-of-evil/"
+mirror_url: "https://mirror.modalpathethics.com/articles/problem-of-evil.md"
 published_at: "2026-04-28T22:03:00.000-05:00"
 updated_at: "2026-09-28T21:00:18.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "104ba44b5716e4b475013fc090a3ffa463f8403fd55f35d81d37bef3fc3ed71b"
 ---
 # Applied Case: The Problem of Evil
@@ -231710,14 +232992,18 @@ If we say that there is a good God, then the good cannot be the explanation that
 title: "Applied Case: The Technological Singularity"
 slug: "applied-case-the-technological-singularity"
 canonical_url: "https://modalpathethics.com/applied-case-the-technological-singularity/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-technological-singularity.md"
 published_at: "2026-04-28T13:08:56.000-05:00"
 updated_at: "2026-09-28T20:59:26.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2cefac2d2ca48f8cf43e0350a805cf516541506426c178f6fc9e766cbd86bf0a"
 ---
 # Applied Case: The Technological Singularity
@@ -232010,13 +233296,17 @@ If it does, it may be one of the greatest openings available to extance, but onl
 title: "Applied Case: The Simulation Theory"
 slug: "simulation-theory"
 canonical_url: "https://modalpathethics.com/simulation-theory/"
+mirror_url: "https://mirror.modalpathethics.com/articles/simulation-theory.md"
 published_at: "2026-04-28T13:08:39.000-05:00"
 updated_at: "2026-09-28T20:58:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
 # Applied Case: The Simulation Theory
@@ -232256,13 +233546,17 @@ Modal Path Ethics does not break. Simulation Theory can make your reality strang
 title: "Thought Gauntlet XVIII: Antinatalism"
 slug: "applied-case-the-antinatalist-position"
 canonical_url: "https://modalpathethics.com/applied-case-the-antinatalist-position/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-antinatalist-position.md"
 published_at: "2026-04-27T01:02:29.000-05:00"
 updated_at: "2026-05-08T22:13:43.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism
@@ -232461,13 +233755,17 @@ You are responsible for theirs.
 title: "Thought Gauntlet XVII: Moral Uncertainty"
 slug: "applied-case-the-uncertainty-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-uncertainty-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-uncertainty-problem.md"
 published_at: "2026-04-27T00:19:09.000-05:00"
 updated_at: "2026-05-08T22:12:08.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty
@@ -232590,13 +233888,17 @@ Moral theories are your instruments, not your sovereigns. Defer to the field ins
 title: "Thought Gauntlet XVI: Cluelessness"
 slug: "applied-case-the-cluelessness-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-cluelessness-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-cluelessness-problem.md"
 published_at: "2026-04-26T23:52:29.000-05:00"
 updated_at: "2026-05-08T22:11:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness
@@ -232731,13 +234033,17 @@ The answer to Cluelessness is disciplined moral contact.
 title: "Thought Gauntlet XV: The Lifeboat"
 slug: "applied-case-the-lifeboat"
 canonical_url: "https://modalpathethics.com/applied-case-the-lifeboat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lifeboat.md"
 published_at: "2026-04-26T23:27:27.000-05:00"
 updated_at: "2026-05-08T22:10:16.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat
@@ -232840,13 +234146,17 @@ The moral remainder remains. And next time, bring more boats.
 title: "Thought Gauntlet XIV: The Utility Monster"
 slug: "applied-case-the-utility-monster"
 canonical_url: "https://modalpathethics.com/applied-case-the-utility-monster/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-utility-monster.md"
 published_at: "2026-04-26T23:06:06.000-05:00"
 updated_at: "2026-05-08T22:09:29.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
 # Thought Gauntlet XIV: The Utility Monster
@@ -232957,13 +234267,17 @@ Do not feed the Utility Monster everything in extance.
 title: "Thought Gauntlet XIII: Moral Luck"
 slug: "applied-case-the-moral-luck"
 canonical_url: "https://modalpathethics.com/applied-case-the-moral-luck/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-moral-luck.md"
 published_at: "2026-04-26T22:47:42.000-05:00"
 updated_at: "2026-05-08T22:08:32.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
 # Thought Gauntlet XIII: Moral Luck
@@ -233092,13 +234406,17 @@ Luck changes the outcome. It does not decide whether the risk-pattern was accept
 title: "Thought Gauntlet XII: The Double Effect"
 slug: "applied-case-the-double-effect"
 canonical_url: "https://modalpathethics.com/applied-case-the-double-effect/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-double-effect.md"
 published_at: "2026-04-26T22:31:03.000-05:00"
 updated_at: "2026-05-08T22:07:39.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect
@@ -233183,13 +234501,17 @@ This avoids letting agents hide real harm behind clean intentions.
 title: "Thought Gauntlet XI: The Violinist"
 slug: "applied-case-the-violinist"
 canonical_url: "https://modalpathethics.com/applied-case-the-violinist/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-violinist.md"
 published_at: "2026-04-26T22:02:40.000-05:00"
 updated_at: "2026-05-08T22:06:52.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist
@@ -233308,13 +234630,17 @@ Need is morally serious, not a deed.
 title: "Thought Gauntlet X: The Predator"
 slug: "applied-case-the-predator"
 canonical_url: "https://modalpathethics.com/applied-case-the-predator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-predator.md"
 published_at: "2026-04-26T21:32:16.000-05:00"
 updated_at: "2026-07-10T04:55:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator
@@ -233437,13 +234763,17 @@ Harm belongs to fields where futures are closed, whether or not anyone is blamew
 title: "Thought Gauntlet IX: Smallpox"
 slug: "applied-case-the-smallpox"
 canonical_url: "https://modalpathethics.com/applied-case-the-smallpox/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-smallpox.md"
 published_at: "2026-04-26T21:14:30.000-05:00"
 updated_at: "2026-05-08T22:05:31.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox
@@ -233542,13 +234872,17 @@ Closing that path did not violate the field. The field was protected from a dest
 title: "Thought Gauntlet VIII: The Last Human"
 slug: "applied-case-the-last-human"
 canonical_url: "https://modalpathethics.com/applied-case-the-last-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-last-human.md"
 published_at: "2026-04-26T20:58:50.000-05:00"
 updated_at: "2026-05-08T22:04:40.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human
@@ -233655,13 +234989,17 @@ _What did I even do?_
 title: "Thought Gauntlet VII: The Experience Machine"
 slug: "applied-case-the-experience-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-experience-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-experience-machine.md"
 published_at: "2026-04-26T20:34:20.000-05:00"
 updated_at: "2026-06-13T18:39:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine
@@ -233820,13 +235158,17 @@ Such a society may be happy, but it is morally dead.
 title: "Thought Gauntlet VI: The Omelas"
 slug: "applied-case-the-omelas"
 canonical_url: "https://modalpathethics.com/applied-case-the-omelas/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-omelas.md"
 published_at: "2026-04-26T19:04:49.000-05:00"
 updated_at: "2026-05-08T22:03:05.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
 # Thought Gauntlet VI: The Omelas
@@ -233965,13 +235307,17 @@ If no such path exists, then the field stands as tragic, never good.
 title: "Thought Gauntlet V: The Scapegoat"
 slug: "applied-case-the-scapegoat"
 canonical_url: "https://modalpathethics.com/applied-case-the-scapegoat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-scapegoat.md"
 published_at: "2026-04-26T18:41:10.000-05:00"
 updated_at: "2026-05-08T22:02:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat
@@ -234094,13 +235440,17 @@ In this way, the false punishment story seals the field against its own correcti
 title: "Thought Gauntlet IV: The Replacement Problem"
 slug: "applied-case-the-replacement-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-replacement-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-replacement-problem.md"
 published_at: "2026-04-26T18:18:46.000-05:00"
 updated_at: "2026-05-08T22:01:41.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
 # Thought Gauntlet IV: The Replacement Problem
@@ -234183,13 +235533,17 @@ A new locus does not undo that destruction. End of discussion.
 title: "Thought Gauntlet III: The Transplant Surgeon"
 slug: "applied-case-the-transplant-surgeon"
 canonical_url: "https://modalpathethics.com/applied-case-the-transplant-surgeon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-transplant-surgeon.md"
 published_at: "2026-04-26T18:06:28.000-05:00"
 updated_at: "2026-05-08T22:00:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon
@@ -234254,13 +235608,17 @@ This thought experiment works to erase it, which erases its own purpose. [Next.]
 title: "Thought Gauntlet II: Pascal's Mugging"
 slug: "applied-case-the-pascal-mugging"
 canonical_url: "https://modalpathethics.com/applied-case-the-pascal-mugging/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-pascal-mugging.md"
 published_at: "2026-04-26T17:44:36.000-05:00"
 updated_at: "2026-05-08T22:14:00.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging
@@ -234393,13 +235751,17 @@ Long-term concern must always remain path-sensitive. It must not become obedienc
 title: "Thought Gauntlet I: The Trolley Problem"
 slug: "applied-case-the-trolley-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-trolley-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-trolley-problem.md"
 published_at: "2026-04-26T16:35:31.000-05:00"
 updated_at: "2026-08-10T07:21:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem
@@ -234544,6 +235906,7 @@ The Trolley Problem represents the moral collapse Modal Path Ethics is written a
 title: "Citadel Archive: Commander Shepard"
 slug: "applied-case-commander-shepard"
 canonical_url: "https://modalpathethics.com/applied-case-commander-shepard/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-commander-shepard.md"
 published_at: "2026-04-26T03:10:28.000-05:00"
 updated_at: "2026-09-28T20:57:43.000-05:00"
 tags:
@@ -234551,8 +235914,11 @@ tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Field Creature"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
 # Citadel Archive: Commander Shepard
@@ -235155,14 +236521,18 @@ The Colonist and War Hero choices couple at the perceptual-formation layer. The 
 title: "Applied Case: The Lost Gradient"
 slug: "applied-case-the-lost-gradient"
 canonical_url: "https://modalpathethics.com/applied-case-the-lost-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lost-gradient.md"
 published_at: "2026-04-25T22:42:19.000-05:00"
 updated_at: "2026-09-28T20:55:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f1edbe8b40ee9d84436398e85c6b22240c9655e4f6db163bf1e5c7515b72181"
 ---
 # Applied Case: The Lost Gradient
@@ -235303,13 +236673,17 @@ Normalism is not automatically wrong, nor is it good.
 title: "Applied Case: The False Vacuum"
 slug: "applied-case-the-false-vacuum"
 canonical_url: "https://modalpathethics.com/applied-case-the-false-vacuum/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-false-vacuum.md"
 published_at: "2026-04-25T21:40:27.000-05:00"
 updated_at: "2026-09-28T20:55:28.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
 # Applied Case: The False Vacuum
@@ -235384,14 +236758,18 @@ This is the most harm possible in our extance, and to be avoided.
 title: "Applied Case: The Solved Game & The Degenerate Meta"
 slug: "applied-case-the-solved-game-the-degenerate-meta"
 canonical_url: "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-solved-game-the-degenerate-meta.md"
 published_at: "2026-04-25T18:05:27.000-05:00"
 updated_at: "2026-09-28T20:55:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "72d668581106c629f6c5c175e37a4c18899b841023404df96fbd132e000efedc"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta
@@ -235840,14 +237218,18 @@ Does the dominant line of play reveal the field, or does it just exploit its man
 title: "Applied Case: The Therac-25"
 slug: "applied-case-the-therac-25"
 canonical_url: "https://modalpathethics.com/applied-case-the-therac-25/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-therac-25.md"
 published_at: "2026-04-25T14:35:23.000-05:00"
 updated_at: "2026-09-28T20:54:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f51c57b525998950e71698fc7e7144ad2a0b1bf5c115402785624b132a2e2c27"
 ---
 # Applied Case: The Therac-25
@@ -236134,14 +237516,18 @@ This is not a description of hindsight perfectionism. There is no reason why any
 title: "Applied Case: The Datacenter"
 slug: "applied-case-the-datacenter"
 canonical_url: "https://modalpathethics.com/applied-case-the-datacenter/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-datacenter.md"
 published_at: "2026-04-25T05:04:29.000-05:00"
 updated_at: "2026-09-28T20:53:24.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
 # Applied Case: The Datacenter
@@ -236672,14 +238058,18 @@ Datacenters are not evil in themselves, and we do have Better options.
 title: "Applied Case: The Bing Chat"
 slug: "applied-case-sydney-from-bing"
 canonical_url: "https://modalpathethics.com/applied-case-sydney-from-bing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-sydney-from-bing.md"
 published_at: "2026-04-25T02:49:01.000-05:00"
 updated_at: "2026-09-28T20:52:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
 # Applied Case: The Bing Chat
@@ -237147,13 +238537,17 @@ Treating a relationship with an AI system as simple friendship is very unsafe. T
 title: "Applied Case: The Chestnut Blight"
 slug: "applied-case-the-chestnut-blight"
 canonical_url: "https://modalpathethics.com/applied-case-the-chestnut-blight/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-chestnut-blight.md"
 published_at: "2026-04-25T00:50:39.000-05:00"
 updated_at: "2026-09-28T20:52:00.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
 # Applied Case: The Chestnut Blight
@@ -237382,13 +238776,17 @@ The harm is still real. A central living path was narrowed, and the work require
 title: "Applied Case: The Non-Planet Problem"
 slug: "applied-case-the-non-planet-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-non-planet-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-non-planet-problem.md"
 published_at: "2026-04-24T22:29:59.000-05:00"
 updated_at: "2026-09-28T20:51:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
 # Applied Case: The Non-Planet Problem
@@ -237725,13 +239123,17 @@ Modal Path Ethics is built against that collapse.
 title: "Applied Case: The Missing Link"
 slug: "applied-case-the-missing-link"
 canonical_url: "https://modalpathethics.com/applied-case-the-missing-link/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-missing-link.md"
 published_at: "2026-04-23T23:11:23.000-05:00"
 updated_at: "2026-09-28T20:50:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
 # Applied Case: The Missing Link
@@ -238024,6 +239426,7 @@ Hollywood built a monkey one of our human social shells and taught him to live i
 title: "Tales of Distortion: The Darien Scheme"
 slug: "applied-case-the-darien-scheme"
 canonical_url: "https://modalpathethics.com/applied-case-the-darien-scheme/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-darien-scheme.md"
 published_at: "2026-04-23T15:42:16.000-05:00"
 updated_at: "2026-05-16T22:36:31.000-05:00"
 tags:
@@ -238031,8 +239434,11 @@ tags:
   - "Geopolitical Wasteland"
   - "Instrument Jurisdiction"
   - "Tales of Distortion"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
 # Tales of Distortion: The Darien Scheme
@@ -238801,13 +240207,17 @@ The subsequent negotiated settlement recognized the Kuna's right to govern their
 title: "Balancing the Broken Meta of Academic Philosophy"
 slug: "balancing-academic-philosophy"
 canonical_url: "https://modalpathethics.com/balancing-academic-philosophy/"
+mirror_url: "https://mirror.modalpathethics.com/articles/balancing-academic-philosophy.md"
 published_at: "2026-04-23T00:34:27.000-05:00"
 updated_at: "2026-09-28T20:49:57.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
 # Balancing the Broken Meta of Academic Philosophy
@@ -238952,14 +240362,18 @@ If academic philosophy cannot rebalance its broken meta, it will continue to bec
 title: "Our Debt to Bernard Williams"
 slug: "our-debt-to-bernard-williams"
 canonical_url: "https://modalpathethics.com/our-debt-to-bernard-williams/"
+mirror_url: "https://mirror.modalpathethics.com/articles/our-debt-to-bernard-williams.md"
 published_at: "2026-04-20T12:30:35.000-05:00"
 updated_at: "2026-09-28T20:49:21.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8af6a2e49146261c7d8f1b5f05724dd34fbbdb39b6be06f45b26f09a647395"
 ---
 # Our Debt to Bernard Williams
@@ -239086,6 +240500,7 @@ If Modal Path Ethics succeeds at anything, it will be partly because Williams ta
 title: "Heidegger, Sorge, and Care"
 slug: "heidegger-sorge-and-care"
 canonical_url: "https://modalpathethics.com/heidegger-sorge-and-care/"
+mirror_url: "https://mirror.modalpathethics.com/articles/heidegger-sorge-and-care.md"
 published_at: "2026-04-20T11:53:45.000-05:00"
 updated_at: "2026-09-28T20:48:12.000-05:00"
 tags:
@@ -239093,8 +240508,11 @@ tags:
   - "Engagement"
   - "Instrument Jurisdiction"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e4a835dbb16b3b878ba10453a46adc7555d7d5c26711b5c21c22b60b7d9f5c18"
 ---
 # Heidegger, Sorge, and Care
@@ -239409,6 +240827,7 @@ But you were wrong to center Dasein so tightly that the wider field became moral
 title: "Applied Case: The RBY UU Upheaval of the Early 2020s"
 slug: "applied-case-rby-uu-2020s"
 canonical_url: "https://modalpathethics.com/applied-case-rby-uu-2020s/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-rby-uu-2020s.md"
 published_at: "2026-04-20T02:58:23.000-05:00"
 updated_at: "2026-05-06T21:07:24.000-05:00"
 tags:
@@ -239416,8 +240835,11 @@ tags:
   - "Instrument Jurisdiction"
   - "Pokémon"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s
@@ -240033,14 +241455,18 @@ It only really requires fields with real stakes, participants with care and acco
 title: "The Buddhist Path vs. Modal Path Ethics"
 slug: "the-buddhist-path-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/the-buddhist-path-and-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-buddhist-path-and-modal-path-ethics.md"
 published_at: "2026-04-19T23:38:38.000-05:00"
 updated_at: "2026-09-28T20:47:32.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "af647f264fe4f3d4d3c5612954ef6d5f42f58d5fae15f37ae322c6c15cb6046c"
 ---
 # The Buddhist Path vs. Modal Path Ethics
@@ -240173,14 +241599,18 @@ The framework, still, operates entirely within conditioned existence and has no 
 title: "Why Habermas Must Be Discussed Next"
 slug: "whyhabermas-must-be-discussed-next"
 canonical_url: "https://modalpathethics.com/whyhabermas-must-be-discussed-next/"
+mirror_url: "https://mirror.modalpathethics.com/articles/whyhabermas-must-be-discussed-next.md"
 published_at: "2026-04-19T19:01:02.000-05:00"
 updated_at: "2026-09-28T20:46:54.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80cdaa6f6f8e95c75fcbb0a8f9b7bae685a6e2d402064bf71451d094c2c33f64"
 ---
 # Why Habermas Must Be Discussed Next
@@ -240299,14 +241729,18 @@ What I am claiming is that his framework is not adequate as a complete account o
 title: "About MacIntyre"
 slug: "what-about-macintyre"
 canonical_url: "https://modalpathethics.com/what-about-macintyre/"
+mirror_url: "https://mirror.modalpathethics.com/articles/what-about-macintyre.md"
 published_at: "2026-04-19T16:47:43.000-05:00"
 updated_at: "2026-09-28T20:45:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "672a5617d0fdc67e53558672482849cb1a341fac70c9bed8e4b70238a55c0754"
 ---
 # About MacIntyre
@@ -240427,14 +241861,18 @@ Acknowledging this does not undermine the framework's claims to describe structu
 title: "About Chirality: Games, Philosophy, and The Lost Ludic Tradition"
 slug: "why-chirality-games-and-the-lost-ludic-tradition"
 canonical_url: "https://modalpathethics.com/why-chirality-games-and-the-lost-ludic-tradition/"
+mirror_url: "https://mirror.modalpathethics.com/articles/why-chirality-games-and-the-lost-ludic-tradition.md"
 published_at: "2026-04-19T04:58:39.000-05:00"
 updated_at: "2026-09-28T20:46:03.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition
@@ -240659,14 +242097,18 @@ The ludic door is still in reach, and arguably more potent today than ever if pr
 title: "Gilles Deleuze and Modal Path Ethics"
 slug: "gilles-deleuze-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/gilles-deleuze-and-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/gilles-deleuze-and-modal-path-ethics.md"
 published_at: "2026-04-18T17:00:12.000-05:00"
 updated_at: "2026-09-28T20:44:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca744fc0cdadb544cc83e379405639a9b318206a08e64839a412345146936959"
 ---
 # Gilles Deleuze and Modal Path Ethics
@@ -240891,13 +242333,17 @@ The differences presented here are not superficial: the explicit normativity of 
 title: "Tales of Distortion: The 1904 St. Louis Marathon"
 slug: "applied-case-1904-st-louis-marathon"
 canonical_url: "https://modalpathethics.com/applied-case-1904-st-louis-marathon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-1904-st-louis-marathon.md"
 published_at: "2026-04-16T18:42:47.000-05:00"
 updated_at: "2026-09-28T20:44:01.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
@@ -241324,13 +242770,17 @@ In Modal Path Ethics, that is called Better.
 title: "Why Better is Not the Greater Good"
 slug: "better-is-not-the-greater-good"
 canonical_url: "https://modalpathethics.com/better-is-not-the-greater-good/"
+mirror_url: "https://mirror.modalpathethics.com/articles/better-is-not-the-greater-good.md"
 published_at: "2026-04-16T14:58:36.000-05:00"
 updated_at: "2026-09-28T20:43:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "20c60ee44e1987e15f5a8a048ac03bacddaea1981f710c2530f5b7a1ef410bc4"
 ---
 # Why Better is Not the Greater Good
@@ -241451,13 +242901,17 @@ That is just going to have to be enough for us, because, in most of moral life, 
 title: "Modal Path Ethics Is Not Partisan Politics"
 slug: "modal-path-ethics-is-not-partisan-politics"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-not-partisan-politics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-not-partisan-politics.md"
 published_at: "2026-04-16T04:57:49.000-05:00"
 updated_at: "2026-09-28T20:42:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "995fd0fcf3b0b7f2d4f3fe86a32d45f05c7596e52b96529193ad3e4286571761"
 ---
 # Modal Path Ethics Is Not Partisan Politics
@@ -241638,13 +243092,17 @@ If your politics cannot survive contact with structural reality, then it is ulti
 title: "Secondary Morals"
 slug: "secondary-morals"
 canonical_url: "https://modalpathethics.com/secondary-morals/"
+mirror_url: "https://mirror.modalpathethics.com/articles/secondary-morals.md"
 published_at: "2026-04-16T02:03:25.000-05:00"
 updated_at: "2026-09-28T20:42:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a3125d5ff35792cbf06da241160b2d26ba6908b52f357a57f958783bf071d35"
 ---
 # Secondary Morals
@@ -241960,13 +243418,17 @@ _No one even looked up_
 title: "Legibility: Not a Criterion of Moral Depth"
 slug: "legibility"
 canonical_url: "https://modalpathethics.com/legibility/"
+mirror_url: "https://mirror.modalpathethics.com/articles/legibility.md"
 published_at: "2026-04-16T00:58:36.000-05:00"
 updated_at: "2026-09-28T20:41:50.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "82aca9c8ac8389d657f3bda5c7eb88b086431a2c756d5524582a4d3b9a8beb0a"
 ---
 # Legibility: Not a Criterion of Moral Depth
@@ -242417,13 +243879,17 @@ It is in contacting the illegible harms that we learn why our minds attempted to
 title: "Coming June 17th"
 slug: "coming-soon"
 canonical_url: "https://modalpathethics.com/coming-soon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/coming-soon.md"
 published_at: "2026-04-15T18:10:37.000-05:00"
 updated_at: "2026-09-28T20:40:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bdfbc6ecdb97fd52c0efe2f061e93d37124846d33cc9af5ef69b169759bde2e6"
 ---
 # Coming June 17th

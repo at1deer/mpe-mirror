@@ -2,6 +2,7 @@
 title: "Tales of Distortion: The Six-Cable Admiral"
 slug: "tales-of-distortion-the-six-cable-admiral"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-six-cable-admiral/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-six-cable-admiral.md"
 published_at: "2026-07-06T05:30:29.000-05:00"
 updated_at: "2026-07-06T05:30:28.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Security Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
 # Tales of Distortion: The Six-Cable Admiral

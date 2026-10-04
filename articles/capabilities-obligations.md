@@ -2,13 +2,17 @@
 title: "Capabilities & Obligations"
 slug: "capabilities-obligations"
 canonical_url: "https://modalpathethics.com/capabilities-obligations/"
+mirror_url: "https://mirror.modalpathethics.com/articles/capabilities-obligations.md"
 published_at: "2026-05-11T08:00:03.000-05:00"
 updated_at: "2026-05-12T20:38:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
 # Capabilities & Obligations

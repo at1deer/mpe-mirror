@@ -2,13 +2,17 @@
 title: "Field Instruments: Entropy, Memory, and Erasure"
 slug: "field-instruments-entropy-memory-and-erasure"
 canonical_url: "https://modalpathethics.com/field-instruments-entropy-memory-and-erasure/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-entropy-memory-and-erasure.md"
 published_at: "2026-08-11T05:30:14.000-05:00"
 updated_at: "2026-08-11T05:30:13.000-05:00"
 tags:
   - "Epistemic Instruments"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
 # Field Instruments: Entropy, Memory, and Erasure
@@ -23,7 +27,7 @@ At the beginning, the difference is easy to find. _This_ region is warmer. _That
 
 Then, the temperatures equalize.
 
-![AdobeStock\_294103445.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_294103445.jpeg)
+![AdobeStock_294103445.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/08/AdobeStock_294103445.jpeg)
 
 The water remains. The energy remains inside the larger accounting. Every molecule continues obeying physics with its usual irritating commitment. Yet the old separation has become unavailable to ordinary recovery. The final glass does not announce which molecules arrived hot, which arrived cold, or where the boundary used to be.
 

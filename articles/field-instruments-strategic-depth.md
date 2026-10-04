@@ -2,13 +2,17 @@
 title: "Field Instruments: Strategic Depth"
 slug: "field-instruments-strategic-depth"
 canonical_url: "https://modalpathethics.com/field-instruments-strategic-depth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-strategic-depth.md"
 published_at: "2026-07-09T05:30:49.000-05:00"
 updated_at: "2026-07-09T23:54:54.000-05:00"
 tags:
   - "Field Instruments"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
 # Field Instruments: Strategic Depth

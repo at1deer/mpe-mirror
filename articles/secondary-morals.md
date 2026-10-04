@@ -2,13 +2,17 @@
 title: "Secondary Morals"
 slug: "secondary-morals"
 canonical_url: "https://modalpathethics.com/secondary-morals/"
+mirror_url: "https://mirror.modalpathethics.com/articles/secondary-morals.md"
 published_at: "2026-04-16T02:03:25.000-05:00"
 updated_at: "2026-09-28T20:42:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a3125d5ff35792cbf06da241160b2d26ba6908b52f357a57f958783bf071d35"
 ---
 # Secondary Morals

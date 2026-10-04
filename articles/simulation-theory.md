@@ -2,13 +2,17 @@
 title: "Applied Case: The Simulation Theory"
 slug: "simulation-theory"
 canonical_url: "https://modalpathethics.com/simulation-theory/"
+mirror_url: "https://mirror.modalpathethics.com/articles/simulation-theory.md"
 published_at: "2026-04-28T13:08:39.000-05:00"
 updated_at: "2026-09-28T20:58:57.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
 # Applied Case: The Simulation Theory

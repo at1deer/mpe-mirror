@@ -2,13 +2,17 @@
 title: "Workers Deserve More! Is Not a Constitution"
 slug: "workers-deserve-more-is-not-a-constitution"
 canonical_url: "https://modalpathethics.com/workers-deserve-more-is-not-a-constitution/"
+mirror_url: "https://mirror.modalpathethics.com/articles/workers-deserve-more-is-not-a-constitution.md"
 published_at: "2026-09-01T05:30:46.000-05:00"
 updated_at: "2026-09-01T05:30:46.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
 # Workers Deserve More! Is Not a Constitution

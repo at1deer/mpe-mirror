@@ -2,14 +2,18 @@
 title: "Applied Case: Tenet (2020)"
 slug: "applied-case-tenet-2020"
 canonical_url: "https://modalpathethics.com/applied-case-tenet-2020/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tenet-2020.md"
 published_at: "2026-06-24T09:00:48.000-05:00"
 updated_at: "2026-06-24T18:44:33.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
 # Applied Case: Tenet (2020)

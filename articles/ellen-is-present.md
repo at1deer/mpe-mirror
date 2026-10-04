@@ -2,12 +2,16 @@
 title: "Ellen is Present"
 slug: "ellen-is-present"
 canonical_url: "https://modalpathethics.com/ellen-is-present/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ellen-is-present.md"
 published_at: "2026-09-04T05:30:53.000-05:00"
 updated_at: "2026-09-04T05:30:52.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
 # Ellen is Present

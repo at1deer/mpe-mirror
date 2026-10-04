@@ -2,14 +2,18 @@
 title: "Beneath the Launchpad"
 slug: "beneath-the-launchpad"
 canonical_url: "https://modalpathethics.com/beneath-the-launchpad/"
+mirror_url: "https://mirror.modalpathethics.com/articles/beneath-the-launchpad.md"
 published_at: "2026-08-06T06:00:12.000-05:00"
 updated_at: "2026-08-06T06:00:12.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
 # Beneath the Launchpad

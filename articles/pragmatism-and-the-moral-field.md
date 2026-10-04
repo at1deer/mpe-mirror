@@ -2,14 +2,18 @@
 title: "Pragmatism and the Moral Field"
 slug: "pragmatism-and-the-moral-field"
 canonical_url: "https://modalpathethics.com/pragmatism-and-the-moral-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pragmatism-and-the-moral-field.md"
 published_at: "2026-07-11T06:00:18.000-05:00"
 updated_at: "2026-07-11T14:49:17.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
 # Pragmatism and the Moral Field

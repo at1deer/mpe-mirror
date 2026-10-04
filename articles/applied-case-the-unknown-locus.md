@@ -2,14 +2,18 @@
 title: "Applied Case: The Unknown Locus"
 slug: "applied-case-the-unknown-locus"
 canonical_url: "https://modalpathethics.com/applied-case-the-unknown-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-unknown-locus.md"
 published_at: "2026-04-30T01:47:33.000-05:00"
 updated_at: "2026-09-28T21:02:36.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "af0aff2100727f793deeba4391961403a4a7093656610d8e1b2a99e42dd2a7be"
 ---
 # Applied Case: The Unknown Locus

@@ -2,13 +2,17 @@
 title: "Applied Case: Able Archer and the Dark Forest at Home"
 slug: "applied-case-able-archer-and-the-dark-forest-at-home"
 canonical_url: "https://modalpathethics.com/applied-case-able-archer-and-the-dark-forest-at-home/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-able-archer-and-the-dark-forest-at-home.md"
 published_at: "2026-08-17T06:00:01.000-05:00"
 updated_at: "2026-08-17T12:19:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
 # Applied Case: Able Archer and the Dark Forest at Home

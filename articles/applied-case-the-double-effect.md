@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XII: The Double Effect"
 slug: "applied-case-the-double-effect"
 canonical_url: "https://modalpathethics.com/applied-case-the-double-effect/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-double-effect.md"
 published_at: "2026-04-26T22:31:03.000-05:00"
 updated_at: "2026-05-08T22:07:39.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
 # Thought Gauntlet XII: The Double Effect

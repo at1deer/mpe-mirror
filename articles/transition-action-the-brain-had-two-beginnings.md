@@ -2,13 +2,17 @@
 title: "Transition Action: The Brain Had Two Beginnings"
 slug: "transition-action-the-brain-had-two-beginnings"
 canonical_url: "https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-brain-had-two-beginnings.md"
 published_at: "2026-09-21T06:00:22.000-05:00"
 updated_at: "2026-09-21T12:01:33.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
 ---
 # Transition Action: The Brain Had Two Beginnings

@@ -2,14 +2,18 @@
 title: "Applied Case: The Technological Singularity"
 slug: "applied-case-the-technological-singularity"
 canonical_url: "https://modalpathethics.com/applied-case-the-technological-singularity/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-technological-singularity.md"
 published_at: "2026-04-28T13:08:56.000-05:00"
 updated_at: "2026-09-28T20:59:26.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2cefac2d2ca48f8cf43e0350a805cf516541506426c178f6fc9e766cbd86bf0a"
 ---
 # Applied Case: The Technological Singularity

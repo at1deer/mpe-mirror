@@ -2,13 +2,17 @@
 title: "Field Instruments: The Alarm"
 slug: "field-instruments-the-alarm-2"
 canonical_url: "https://modalpathethics.com/field-instruments-the-alarm-2/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-the-alarm-2.md"
 published_at: "2026-08-01T03:29:34.000-05:00"
 updated_at: "2026-08-01T20:10:27.000-05:00"
 tags:
   - "Field Instruments"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
 # Field Instruments: The Alarm

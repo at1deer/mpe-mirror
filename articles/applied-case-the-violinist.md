@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XI: The Violinist"
 slug: "applied-case-the-violinist"
 canonical_url: "https://modalpathethics.com/applied-case-the-violinist/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-violinist.md"
 published_at: "2026-04-26T22:02:40.000-05:00"
 updated_at: "2026-05-08T22:06:52.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
 # Thought Gauntlet XI: The Violinist

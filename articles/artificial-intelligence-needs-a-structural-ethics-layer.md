@@ -2,6 +2,7 @@
 title: "Harm as Contraction and Structural Ethics"
 slug: "artificial-intelligence-needs-a-structural-ethics-layer"
 canonical_url: "https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/"
+mirror_url: "https://mirror.modalpathethics.com/articles/artificial-intelligence-needs-a-structural-ethics-layer.md"
 published_at: "2026-09-20T06:02:27.000-05:00"
 updated_at: "2026-09-27T02:02:02.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Systems"
   - "Inner Apocalypse"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
 # Harm as Contraction and Structural Ethics

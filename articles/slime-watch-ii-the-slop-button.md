@@ -2,12 +2,16 @@
 title: "SLIME WATCH II: The Slop Button"
 slug: "slime-watch-ii-the-slop-button"
 canonical_url: "https://modalpathethics.com/slime-watch-ii-the-slop-button/"
+mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-ii-the-slop-button.md"
 published_at: "2026-09-16T18:25:05.000-05:00"
 updated_at: "2026-09-16T18:29:42.000-05:00"
 tags:
   - "SLIME WATCH"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
 ---
 # SLIME WATCH II: The Slop Button
@@ -337,7 +341,7 @@ This system now has a feedback structure worth stating clearly.
 10.  Writers learn which language gets treated as artificial intelligence.
 11.  Humans alter their writing to demonstrate humanity.
 12.  Artificial intelligence learns the new human-demonstration grammar.
-     1.  _Round and round we go._
+    1.  _Round and round we go._
 
 The important transition happens around step **ten**.
 

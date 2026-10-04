@@ -2,14 +2,18 @@
 title: "Applied Case: Russia and the Buffer Wound"
 slug: "applied-case-russia-and-the-buffer-wound"
 canonical_url: "https://modalpathethics.com/applied-case-russia-and-the-buffer-wound/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-russia-and-the-buffer-wound.md"
 published_at: "2026-07-31T06:00:22.000-05:00"
 updated_at: "2026-07-31T08:51:52.000-05:00"
 tags:
   - "Applied Case"
   - "Geopolitical Wasteland"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
 # I. The Treaty Already Contained Ukraine

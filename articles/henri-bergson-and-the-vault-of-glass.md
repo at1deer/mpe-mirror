@@ -2,14 +2,18 @@
 title: "Henri Bergson and the Vault of Glass"
 slug: "henri-bergson-and-the-vault-of-glass"
 canonical_url: "https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/"
+mirror_url: "https://mirror.modalpathethics.com/articles/henri-bergson-and-the-vault-of-glass.md"
 published_at: "2026-09-30T09:44:45.000-05:00"
 updated_at: "2026-10-01T23:07:57.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "718c5a68f3dcc4e1a631fa992e3f8c4894c2da8948061147f9319c0294965cfa"
 ---
 # Henri Bergson and the Vault of Glass

@@ -2,12 +2,16 @@
 title: "OpenAI Discovers the Constitutional Problem"
 slug: "applied-case-openai-discovers-the-constitutional-problem"
 canonical_url: "https://modalpathethics.com/applied-case-openai-discovers-the-constitutional-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-openai-discovers-the-constitutional-problem.md"
 published_at: "2026-08-31T05:30:34.000-05:00"
 updated_at: "2026-08-31T05:30:47.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
 # OpenAI Discovers the Constitutional Problem

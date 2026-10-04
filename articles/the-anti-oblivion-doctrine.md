@@ -2,13 +2,17 @@
 title: "The Anti-Oblivion Doctrine"
 slug: "the-anti-oblivion-doctrine"
 canonical_url: "https://modalpathethics.com/the-anti-oblivion-doctrine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-anti-oblivion-doctrine.md"
 published_at: "2026-06-25T00:30:40.000-05:00"
 updated_at: "2026-06-25T00:30:40.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
 # The Anti-Oblivion Doctrine

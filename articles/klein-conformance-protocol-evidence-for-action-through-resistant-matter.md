@@ -2,13 +2,17 @@
 title: "Klein Conformance Protocol"
 slug: "klein-conformance-protocol-evidence-for-action-through-resistant-matter"
 canonical_url: "https://modalpathethics.com/klein-conformance-protocol-evidence-for-action-through-resistant-matter/"
+mirror_url: "https://mirror.modalpathethics.com/articles/klein-conformance-protocol-evidence-for-action-through-resistant-matter.md"
 published_at: "2026-05-19T00:48:27.000-05:00"
 updated_at: "2026-09-29T20:38:30.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethical Software"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "40244f920586d44ce0b6c5ff4a2528267ce07e9087b0cafed4c592f18361af60"
 ---
 # Klein Conformance Protocol

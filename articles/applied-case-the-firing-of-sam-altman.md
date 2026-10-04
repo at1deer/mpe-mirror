@@ -2,14 +2,18 @@
 title: "Applied Case: The Firing of Sam Altman"
 slug: "applied-case-the-firing-of-sam-altman"
 canonical_url: "https://modalpathethics.com/applied-case-the-firing-of-sam-altman/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-firing-of-sam-altman.md"
 published_at: "2026-08-22T06:00:24.000-05:00"
 updated_at: "2026-08-22T06:00:24.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
 # Applied Case: The Firing of Sam Altman

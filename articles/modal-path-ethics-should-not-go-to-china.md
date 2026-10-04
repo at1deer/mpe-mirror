@@ -2,12 +2,16 @@
 title: "Modal Path Ethics Should Not Go to China"
 slug: "modal-path-ethics-should-not-go-to-china"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-should-not-go-to-china/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-should-not-go-to-china.md"
 published_at: "2026-08-25T21:16:18.000-05:00"
 updated_at: "2026-08-25T21:16:18.000-05:00"
 tags:
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
 # Modal Path Ethics Should Not Go to China

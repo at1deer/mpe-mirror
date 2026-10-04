@@ -2,6 +2,7 @@
 title: "Samsara & Repair"
 slug: "samsara-repair"
 canonical_url: "https://modalpathethics.com/samsara-repair/"
+mirror_url: "https://mirror.modalpathethics.com/articles/samsara-repair.md"
 published_at: "2026-06-28T12:00:12.000-05:00"
 updated_at: "2026-08-10T07:36:12.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Formal"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
 # Samsara & Repair

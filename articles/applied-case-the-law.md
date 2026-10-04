@@ -2,13 +2,17 @@
 title: "Field Instruments: The Law"
 slug: "applied-case-the-law"
 canonical_url: "https://modalpathethics.com/applied-case-the-law/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-law.md"
 published_at: "2026-05-05T00:50:46.000-05:00"
 updated_at: "2026-09-28T21:05:27.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d1c5c8a2f571220b67fbe67b576f62a3041cd7b487b3fc3df7657ff35c5b811"
 ---
 # Field Instruments: The Law

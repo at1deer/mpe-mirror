@@ -2,12 +2,16 @@
 title: "Influencutors: MoistCr1TiKaL and the Ordinary Field"
 slug: "influencutors-moistcr1tikal-and-the-ordinary-field"
 canonical_url: "https://modalpathethics.com/influencutors-moistcr1tikal-and-the-ordinary-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/influencutors-moistcr1tikal-and-the-ordinary-field.md"
 published_at: "2026-09-10T06:37:45.000-05:00"
 updated_at: "2026-09-10T06:43:39.000-05:00"
 tags:
   - "Influencutors"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "29c32ae4f351963d3fa1e9bd4f443855609f22faa6d35c8ce11b77c9d12fe5b7"
 ---
 # Influencutors: MoistCr1TiKaL and the Ordinary Field

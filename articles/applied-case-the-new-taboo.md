@@ -2,14 +2,18 @@
 title: "Applied Case: The New Taboo"
 slug: "applied-case-the-new-taboo"
 canonical_url: "https://modalpathethics.com/applied-case-the-new-taboo/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-new-taboo.md"
 published_at: "2026-05-15T21:46:09.000-05:00"
 updated_at: "2026-09-28T21:17:22.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "96d9e7bb65acfb2e11d1782931b1fc35b9bd45b526ada0d0f746eb88772beb5f"
 ---
 # Applied Case: The New Taboo

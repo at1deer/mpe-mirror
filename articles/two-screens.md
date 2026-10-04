@@ -2,12 +2,16 @@
 title: "Two Screens"
 slug: "two-screens"
 canonical_url: "https://modalpathethics.com/two-screens/"
+mirror_url: "https://mirror.modalpathethics.com/articles/two-screens.md"
 published_at: "2026-09-15T05:00:40.000-05:00"
 updated_at: "2026-09-15T05:00:39.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
 ---
 # Two Screens

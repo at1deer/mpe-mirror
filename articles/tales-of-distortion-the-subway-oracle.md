@@ -2,6 +2,7 @@
 title: "Tales of Distortion: The Subway Oracle"
 slug: "tales-of-distortion-the-subway-oracle"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-subway-oracle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-subway-oracle.md"
 published_at: "2026-07-11T06:30:48.000-05:00"
 updated_at: "2026-08-10T07:27:04.000-05:00"
 tags:
@@ -11,8 +12,11 @@ tags:
   - "Sacred Slack"
   - "Sacred Instruments"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
 # Tales of Distortion: The Subway Oracle

@@ -2,14 +2,18 @@
 title: "Applied Case: The Datacenter"
 slug: "applied-case-the-datacenter"
 canonical_url: "https://modalpathethics.com/applied-case-the-datacenter/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-datacenter.md"
 published_at: "2026-04-25T05:04:29.000-05:00"
 updated_at: "2026-09-28T20:53:24.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
 # Applied Case: The Datacenter

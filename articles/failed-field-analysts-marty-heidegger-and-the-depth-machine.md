@@ -2,12 +2,16 @@
 title: "Failed Field Analysts: Marty Heidegger and the Depth Machine"
 slug: "failed-field-analysts-marty-heidegger-and-the-depth-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-marty-heidegger-and-the-depth-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-marty-heidegger-and-the-depth-machine.md"
 published_at: "2026-07-26T06:00:51.000-05:00"
 updated_at: "2026-07-26T22:57:56.000-05:00"
 tags:
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
 # Failed Field Analysts: Marty Heidegger and the Depth Machine
@@ -783,7 +787,7 @@ For decades, Heidegger’s defenders could present his Nazism as a disastrous po
 
 The separation was never complete.
 
-![1\_00ys-pE5cTXWWuifSdwdyg@2x.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_00ys-pE5cTXWWuifSdwdyg@2x.jpg)
+![1_00ys-pE5cTXWWuifSdwdyg@2x.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_00ys-pE5cTXWWuifSdwdyg@2x.jpg)
 
 The [publication of the _Black Notebooks_](https://mitpress.mit.edu/9780262034012/reading-heideggers-black-notebooks-19311941/?ref=modalpathethics.com) made the clean version much harder to sustain.
 
@@ -1049,7 +1053,7 @@ Modal Path Ethics does not require every philosopher to produce a municipal impl
 
 It **does** require an instrument to preserve reachable action.
 
-![1\_Mv7u3B35A6pwguyRWUr10w.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Mv7u3B35A6pwguyRWUr10w.jpg)
+![1_Mv7u3B35A6pwguyRWUr10w.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Mv7u3B35A6pwguyRWUr10w.jpg)
 
 A diagnosis becomes dangerous when the scale of the problem repeatedly dissolves the agency of those carrying it.
 
@@ -1185,7 +1189,7 @@ There is a temptation here to banish the corpus.
 
 That would be satisfying and stupid.
 
-![https\_\_\_assets.lareviewofbooks.org\_uploads\_201612SoboczynskiCammanHeidegger.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png)
+![https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/https___assets.lareviewofbooks.org_uploads_201612SoboczynskiCammanHeidegger.png)
 
 Heidegger’s work has real explanatory power. Removing it would not remove the questions he helped disclose. It would make later thought less capable of recognizing embedded action, worldhood, equipmental relation, historical intelligibility, and technological reduction.
 
@@ -1341,7 +1345,7 @@ When the field test arrived, the instrument helped him see greatness in a moveme
 
 Heidegger found a deeper floor.
 
-![1310276-Martin\_Heidegger.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1310276-Martin_Heidegger.jpg)
+![1310276-Martin_Heidegger.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1310276-Martin_Heidegger.jpg)
 
 He mistook _**depth**_ for safety.
 
@@ -1391,7 +1395,7 @@ The hammer may stay.
 
 The Führer quote does not.
 
-![1\_Vz29jXW8UZ0xXYk9Ha-PqA.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg)
+![1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1_Vz29jXW8UZ0xXYk9Ha-PqA.jpg)
 
 The concepts remain under supervision.
 

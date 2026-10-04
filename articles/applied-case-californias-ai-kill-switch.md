@@ -2,14 +2,18 @@
 title: "Applied Case: California’s Kill Switch"
 slug: "applied-case-californias-ai-kill-switch"
 canonical_url: "https://modalpathethics.com/applied-case-californias-ai-kill-switch/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-californias-ai-kill-switch.md"
 published_at: "2026-09-20T05:45:12.000-05:00"
 updated_at: "2026-09-20T05:45:11.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
 ---
 # Applied Case: California’s Kill Switch

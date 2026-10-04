@@ -2,13 +2,17 @@
 title: "Applied Case: Revenge of the Theorem Scoreboard"
 slug: "applied-case-the-mathematicians-appeal-the-scoreboard"
 canonical_url: "https://modalpathethics.com/applied-case-the-mathematicians-appeal-the-scoreboard/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-appeal-the-scoreboard.md"
 published_at: "2026-09-12T06:30:24.000-05:00"
 updated_at: "2026-10-01T23:07:29.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
 # Applied Case: Revenge of the Theorem Scoreboard

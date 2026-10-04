@@ -2,13 +2,17 @@
 title: "Field Instruments: Prophethood"
 slug: "field-instruments-prophethood"
 canonical_url: "https://modalpathethics.com/field-instruments-prophethood/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-prophethood.md"
 published_at: "2026-08-29T05:55:13.000-05:00"
 updated_at: "2026-08-29T06:33:59.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
 # Field Instruments: Prophethood

@@ -2,6 +2,7 @@
 title: "Failed Field Analysts: Jensen Huang and the Perfect Incentives"
 slug: "failed-field-analysts-jensen-huang-and-the-perfect-incentives"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.md"
 published_at: "2026-09-23T05:59:51.000-05:00"
 updated_at: "2026-09-23T05:59:50.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
 ---
 # Failed Field Analysts: Jensen Huang and the Perfect Incentives

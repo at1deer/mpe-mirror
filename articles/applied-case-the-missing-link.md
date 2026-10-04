@@ -2,13 +2,17 @@
 title: "Applied Case: The Missing Link"
 slug: "applied-case-the-missing-link"
 canonical_url: "https://modalpathethics.com/applied-case-the-missing-link/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-missing-link.md"
 published_at: "2026-04-23T23:11:23.000-05:00"
 updated_at: "2026-09-28T20:50:55.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
 # Applied Case: The Missing Link

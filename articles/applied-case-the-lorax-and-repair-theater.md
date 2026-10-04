@@ -2,14 +2,18 @@
 title: "Applied Case: The Lorax and Repair Theater"
 slug: "applied-case-the-lorax-and-repair-theater"
 canonical_url: "https://modalpathethics.com/applied-case-the-lorax-and-repair-theater/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lorax-and-repair-theater.md"
 published_at: "2026-06-01T22:06:10.000-05:00"
 updated_at: "2026-09-29T20:43:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7ec7a9329b159660bb7dd7ad9f8a56affbd446b58e4efa5a1e93680d2bd283fd"
 ---
 # Applied Case: The Lorax and Repair Theater

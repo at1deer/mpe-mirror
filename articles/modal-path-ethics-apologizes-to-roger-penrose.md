@@ -2,12 +2,16 @@
 title: "Modal Path Ethics Apologizes to Roger Penrose"
 slug: "modal-path-ethics-apologizes-to-roger-penrose"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-roger-penrose/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-roger-penrose.md"
 published_at: "2026-09-04T05:52:37.000-05:00"
 updated_at: "2026-09-04T06:03:42.000-05:00"
 tags:
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
 # Modal Path Ethics Apologizes to Roger Penrose

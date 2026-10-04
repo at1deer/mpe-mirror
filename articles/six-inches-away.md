@@ -2,12 +2,16 @@
 title: "Six Inches Away"
 slug: "six-inches-away"
 canonical_url: "https://modalpathethics.com/six-inches-away/"
+mirror_url: "https://mirror.modalpathethics.com/articles/six-inches-away.md"
 published_at: "2026-09-13T05:55:51.000-05:00"
 updated_at: "2026-09-13T05:55:50.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
 ---
 # Six Inches Away

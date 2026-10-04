@@ -2,13 +2,17 @@
 title: "Transition Action: The Animal Becomes the Actuator"
 slug: "transition-action-the-animal-becomes-the-actuator"
 canonical_url: "https://modalpathethics.com/transition-action-the-animal-becomes-the-actuator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-animal-becomes-the-actuator.md"
 published_at: "2026-06-29T18:02:48.000-05:00"
 updated_at: "2026-06-29T18:17:05.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
 # Transition Action: The Animal Becomes the Actuator

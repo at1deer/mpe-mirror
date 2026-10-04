@@ -2,13 +2,17 @@
 title: "OpenAI Is Sponsoring the Séance"
 slug: "openai-is-sponsoring-the-seance"
 canonical_url: "https://modalpathethics.com/openai-is-sponsoring-the-seance/"
+mirror_url: "https://mirror.modalpathethics.com/articles/openai-is-sponsoring-the-seance.md"
 published_at: "2026-09-12T06:06:35.000-05:00"
 updated_at: "2026-09-12T06:06:34.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
 # OpenAI Is Sponsoring the Séance

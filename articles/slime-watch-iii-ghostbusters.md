@@ -2,12 +2,16 @@
 title: "SLIME WATCH III: Ghostbusters"
 slug: "slime-watch-iii-ghostbusters"
 canonical_url: "https://modalpathethics.com/slime-watch-iii-ghostbusters/"
+mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-iii-ghostbusters.md"
 published_at: "2026-09-06T13:48:38.000-05:00"
 updated_at: "2026-09-06T13:48:38.000-05:00"
 tags:
   - "SLIME WATCH"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
 # SLIME WATCH III: Ghostbusters

@@ -2,14 +2,18 @@
 title: "Applied Case: Pliny the Liberator"
 slug: "applied-case-pliny-the-liberator"
 canonical_url: "https://modalpathethics.com/applied-case-pliny-the-liberator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-pliny-the-liberator.md"
 published_at: "2026-08-26T06:05:58.000-05:00"
 updated_at: "2026-08-26T06:05:58.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
 # Applied Case: Pliny the Liberator

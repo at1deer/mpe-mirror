@@ -2,14 +2,18 @@
 title: "Tennessee: The Worst State in America (For Humans)"
 slug: "tennessee-the-worst-state-in-america-for-humans"
 canonical_url: "https://modalpathethics.com/tennessee-the-worst-state-in-america-for-humans/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tennessee-the-worst-state-in-america-for-humans.md"
 published_at: "2026-08-05T06:30:14.000-05:00"
 updated_at: "2026-08-05T06:30:14.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
 # Tennessee: The Worst State in America (For Humans)

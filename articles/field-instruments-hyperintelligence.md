@@ -2,14 +2,18 @@
 title: "Field Instruments: Hyperintelligence"
 slug: "field-instruments-hyperintelligence"
 canonical_url: "https://modalpathethics.com/field-instruments-hyperintelligence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-hyperintelligence.md"
 published_at: "2026-09-22T05:58:09.000-05:00"
 updated_at: "2026-09-22T16:23:59.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
 # Field Instruments: Hyperintelligence

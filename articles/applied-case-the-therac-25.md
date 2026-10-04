@@ -2,14 +2,18 @@
 title: "Applied Case: The Therac-25"
 slug: "applied-case-the-therac-25"
 canonical_url: "https://modalpathethics.com/applied-case-the-therac-25/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-therac-25.md"
 published_at: "2026-04-25T14:35:23.000-05:00"
 updated_at: "2026-09-28T20:54:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f51c57b525998950e71698fc7e7144ad2a0b1bf5c115402785624b132a2e2c27"
 ---
 # Applied Case: The Therac-25

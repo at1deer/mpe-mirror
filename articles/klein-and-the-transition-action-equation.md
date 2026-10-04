@@ -2,14 +2,18 @@
 title: "The Transition Action Equation"
 slug: "klein-and-the-transition-action-equation"
 canonical_url: "https://modalpathethics.com/klein-and-the-transition-action-equation/"
+mirror_url: "https://mirror.modalpathethics.com/articles/klein-and-the-transition-action-equation.md"
 published_at: "2026-06-08T15:30:52.000-05:00"
 updated_at: "2026-09-29T20:49:44.000-05:00"
 tags:
   - "Field Instruments"
   - "Chirality"
   - "Transition Action"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7de3c56384bd69075c2c15dc1cc65a77fbfb3826e70dc792003499fb6e1554df"
 ---
 # The Transition Action Equation

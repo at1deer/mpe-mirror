@@ -2,14 +2,18 @@
 title: "Field Instruments: Sacred Instruments"
 slug: "field-instruments-sacred-instruments"
 canonical_url: "https://modalpathethics.com/field-instruments-sacred-instruments/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-sacred-instruments.md"
 published_at: "2026-07-02T07:00:10.000-05:00"
 updated_at: "2026-07-02T07:00:11.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
 # Field Instruments: Sacred Instruments

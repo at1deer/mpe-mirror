@@ -2,13 +2,17 @@
 title: "Humanity Does Not Possess a Radioactive Half-Life"
 slug: "humanity-does-not-possess-a-radioactive-half-life"
 canonical_url: "https://modalpathethics.com/humanity-does-not-possess-a-radioactive-half-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/humanity-does-not-possess-a-radioactive-half-life.md"
 published_at: "2026-06-17T01:25:40.000-05:00"
 updated_at: "2026-06-17T13:46:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
 # Humanity Does Not Possess a Radioactive Half-Life

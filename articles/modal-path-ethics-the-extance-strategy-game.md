@@ -2,14 +2,18 @@
 title: "The Extance Strategy Game"
 slug: "modal-path-ethics-the-extance-strategy-game"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-the-extance-strategy-game/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-the-extance-strategy-game.md"
 published_at: "2026-06-13T01:28:37.000-05:00"
 updated_at: "2026-06-25T03:01:02.000-05:00"
 tags:
   - "Books"
   - "News"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
 # The Extance Strategy Game

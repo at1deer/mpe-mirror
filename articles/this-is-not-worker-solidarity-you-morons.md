@@ -2,13 +2,17 @@
 title: "This Is Not Worker Solidarity You Morons"
 slug: "this-is-not-worker-solidarity-you-morons"
 canonical_url: "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/"
+mirror_url: "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md"
 published_at: "2026-10-03T05:50:34.000-05:00"
 updated_at: "2026-10-03T05:50:33.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "30bf63ad7e5dd92de934720a8dc7e05d9d1cd13b2864588a025f7bc8c17fb137"
 ---
 # This Is Not Worker Solidarity You Morons

@@ -2,14 +2,18 @@
 title: "Gilles Deleuze and Modal Path Ethics"
 slug: "gilles-deleuze-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/gilles-deleuze-and-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/gilles-deleuze-and-modal-path-ethics.md"
 published_at: "2026-04-18T17:00:12.000-05:00"
 updated_at: "2026-09-28T20:44:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca744fc0cdadb544cc83e379405639a9b318206a08e64839a412345146936959"
 ---
 # Gilles Deleuze and Modal Path Ethics

@@ -2,14 +2,18 @@
 title: "Formal: Weighted Reachable Future Space"
 slug: "formal-weighted-reachable-future-space"
 canonical_url: "https://modalpathethics.com/formal-weighted-reachable-future-space/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-weighted-reachable-future-space.md"
 published_at: "2026-05-09T12:00:45.000-05:00"
 updated_at: "2026-09-28T21:10:40.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "674255ed50ee29c60f69737c4a31cbf054af4c71559b889cdd7a2510c24d03d5"
 ---
 # Formal: Weighted Reachable Future Space

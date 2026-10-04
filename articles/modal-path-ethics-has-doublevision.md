@@ -2,13 +2,17 @@
 title: "Modal Path Ethics Has DoubleVision"
 slug: "modal-path-ethics-has-doublevision"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-doublevision/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-has-doublevision.md"
 published_at: "2026-07-29T06:00:52.000-05:00"
 updated_at: "2026-08-10T07:31:28.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
 # Modal Path Ethics Has DoubleVision

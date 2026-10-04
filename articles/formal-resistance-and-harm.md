@@ -2,14 +2,18 @@
 title: "Formal: Resistance and Harm"
 slug: "formal-resistance-and-harm"
 canonical_url: "https://modalpathethics.com/formal-resistance-and-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-resistance-and-harm.md"
 published_at: "2026-05-11T08:02:36.000-05:00"
 updated_at: "2026-06-11T05:21:14.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca9d1c8ef5d06dc0077ac637a9913bd0c00c6df49a31b1adba8425c15bb6d410"
 ---
 # Formal: Resistance and Harm

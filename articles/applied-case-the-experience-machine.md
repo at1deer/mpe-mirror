@@ -2,13 +2,17 @@
 title: "Thought Gauntlet VII: The Experience Machine"
 slug: "applied-case-the-experience-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-experience-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-experience-machine.md"
 published_at: "2026-04-26T20:34:20.000-05:00"
 updated_at: "2026-06-13T18:39:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
 # Thought Gauntlet VII: The Experience Machine

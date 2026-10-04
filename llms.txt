@@ -1,29 +1,37 @@
-# Modal Path Ethics Mirror
+# Modal Path Ethics — Static Mirror
 
-Generated: 2026-10-03T21:42:47.002Z
+Purpose: retrieval and archival fallback for PUBLISHED Modal Path Ethics articles.
 
-This is a static mirror of published Modal Path Ethics articles.
+Canonical publication:
+https://modalpathethics.com/
 
-Canonical public site:
-https://modal-path-ethics.ghost.io/
+Mirror base:
+https://mirror.modalpathethics.com/
 
-Primary article index:
-https://modal-path-ethics.ghost.io/articles/index.md
+Mirror generated:
+2026-10-04T01:35:29.373Z
 
-Machine-readable article index:
-https://modal-path-ethics.ghost.io/articles/index.json
+Published article count:
+366
 
-All articles in one fallback file:
-https://modal-path-ethics.ghost.io/articles/all-articles.md
+Primary article index (Markdown):
+https://mirror.modalpathethics.com/articles/index.md
 
-Current track context:
-https://modal-path-ethics.ghost.io/tracks/current-track-status.md
+Machine-readable article index (JSON):
+https://mirror.modalpathethics.com/articles/index.json
 
-Religion/warfare carryover:
-https://modal-path-ethics.ghost.io/tracks/religion-warfare-carryover.md
+Full published corpus (Markdown):
+https://mirror.modalpathethics.com/articles/all-articles.md
 
-Project instructions:
-https://modal-path-ethics.ghost.io/canon/chatgpt-project-instructions.md
+Manifest:
+https://mirror.modalpathethics.com/manifest.json
 
-Do not use draft files as substitutes for published article text unless Aidan Lawson explicitly instructs you to do so.
-If an article page cannot be opened, list the exact failed URL and stop. Do not guess from memory or stale drafts.
+Provenance metadata:
+https://mirror.modalpathethics.com/meta/provenance.json
+
+Retrieval rules:
+- This mirror contains published posts only.
+- The canonical article URL in each record is authoritative for publication identity.
+- Use mirror Markdown as a fallback when the canonical article cannot be retrieved.
+- Do not infer draft, scheduled, preview, or deleted content from this mirror.
+- Do not treat absence from the mirror as evidence that a draft does not exist.

@@ -2,13 +2,17 @@
 title: "Fictional Earth: Substack and the Argument Machine"
 slug: "fictional-earth-substack-and-the-argument-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-substack-and-the-argument-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-substack-and-the-argument-machine.md"
 published_at: "2026-08-27T19:21:07.000-05:00"
 updated_at: "2026-09-15T16:00:35.000-05:00"
 tags:
   - "Fictional Earth"
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
 # Fictional Earth: Substack and the Argument Machine

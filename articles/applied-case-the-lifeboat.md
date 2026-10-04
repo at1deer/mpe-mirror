@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XV: The Lifeboat"
 slug: "applied-case-the-lifeboat"
 canonical_url: "https://modalpathethics.com/applied-case-the-lifeboat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lifeboat.md"
 published_at: "2026-04-26T23:27:27.000-05:00"
 updated_at: "2026-05-08T22:10:16.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
 # Thought Gauntlet XV: The Lifeboat

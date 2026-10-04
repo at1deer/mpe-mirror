@@ -2,13 +2,17 @@
 title: "Legibility: Not a Criterion of Moral Depth"
 slug: "legibility"
 canonical_url: "https://modalpathethics.com/legibility/"
+mirror_url: "https://mirror.modalpathethics.com/articles/legibility.md"
 published_at: "2026-04-16T00:58:36.000-05:00"
 updated_at: "2026-09-28T20:41:50.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "82aca9c8ac8389d657f3bda5c7eb88b086431a2c756d5524582a4d3b9a8beb0a"
 ---
 # Legibility: Not a Criterion of Moral Depth

@@ -2,12 +2,16 @@
 title: "Australia vs. the Biosphere: The Rabbit Fence"
 slug: "australia-vs-the-biosphere-the-rabbit-fence"
 canonical_url: "https://modalpathethics.com/australia-vs-the-biosphere-the-rabbit-fence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-the-rabbit-fence.md"
 published_at: "2026-07-24T18:42:22.000-05:00"
 updated_at: "2026-07-24T18:42:22.000-05:00"
 tags:
   - "Australia vs. The Biosphere"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
 # Australia vs. the Biosphere: The Rabbit Fence

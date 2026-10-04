@@ -2,14 +2,18 @@
 title: "Applied Case: The Solved Game & The Degenerate Meta"
 slug: "applied-case-the-solved-game-the-degenerate-meta"
 canonical_url: "https://modalpathethics.com/applied-case-the-solved-game-the-degenerate-meta/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-solved-game-the-degenerate-meta.md"
 published_at: "2026-04-25T18:05:27.000-05:00"
 updated_at: "2026-09-28T20:55:04.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "72d668581106c629f6c5c175e37a4c18899b841023404df96fbd132e000efedc"
 ---
 # Applied Case: The Solved Game & The Degenerate Meta

@@ -2,14 +2,18 @@
 title: "Applied Case: The Pregnancy Test for Consciousness"
 slug: "applied-case-the-pregnancy-test-for-consciousness"
 canonical_url: "https://modalpathethics.com/applied-case-the-pregnancy-test-for-consciousness/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-pregnancy-test-for-consciousness.md"
 published_at: "2026-07-23T06:00:07.000-05:00"
 updated_at: "2026-07-23T06:00:07.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
 # Applied Case: The Pregnancy Test for Consciousness

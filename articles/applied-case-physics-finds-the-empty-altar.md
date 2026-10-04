@@ -2,13 +2,17 @@
 title: "Applied Case: Physics Finds the Empty Altar"
 slug: "applied-case-physics-finds-the-empty-altar"
 canonical_url: "https://modalpathethics.com/applied-case-physics-finds-the-empty-altar/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-physics-finds-the-empty-altar.md"
 published_at: "2026-09-16T06:45:24.000-05:00"
 updated_at: "2026-09-16T06:45:24.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
 ---
 # Applied Case: Physics Finds the Empty Altar

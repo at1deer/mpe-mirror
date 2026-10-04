@@ -2,14 +2,18 @@
 title: "Formal: Contraction Is Harm"
 slug: "contraction-is-harm"
 canonical_url: "https://modalpathethics.com/contraction-is-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/contraction-is-harm.md"
 published_at: "2026-05-07T02:04:22.000-05:00"
 updated_at: "2026-09-28T21:08:49.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
 # Formal: Contraction Is Harm

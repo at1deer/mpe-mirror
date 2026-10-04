@@ -2,6 +2,7 @@
 title: "Heidegger, Sorge, and Care"
 slug: "heidegger-sorge-and-care"
 canonical_url: "https://modalpathethics.com/heidegger-sorge-and-care/"
+mirror_url: "https://mirror.modalpathethics.com/articles/heidegger-sorge-and-care.md"
 published_at: "2026-04-20T11:53:45.000-05:00"
 updated_at: "2026-09-28T20:48:12.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Engagement"
   - "Instrument Jurisdiction"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e4a835dbb16b3b878ba10453a46adc7555d7d5c26711b5c21c22b60b7d9f5c18"
 ---
 # Heidegger, Sorge, and Care

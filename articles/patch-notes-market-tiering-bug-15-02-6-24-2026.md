@@ -2,6 +2,7 @@
 title: "Patch Notes: Market Tiering Bug (15:02-6-24-2026)"
 slug: "patch-notes-market-tiering-bug-15-02-6-24-2026"
 canonical_url: "https://modalpathethics.com/patch-notes-market-tiering-bug-15-02-6-24-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/patch-notes-market-tiering-bug-15-02-6-24-2026.md"
 published_at: "2026-06-26T10:00:34.000-05:00"
 updated_at: "2026-06-26T10:00:33.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Field Instruments"
   - "Business"
   - "Fictional Earth"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
 # Patch Notes: Market Tiering Bug (15:02-6-24-2026)

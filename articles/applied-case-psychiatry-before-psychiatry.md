@@ -2,13 +2,17 @@
 title: "Applied Case: Psychiatry Before Psychiatry"
 slug: "applied-case-psychiatry-before-psychiatry"
 canonical_url: "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-psychiatry-before-psychiatry.md"
 published_at: "2026-08-01T03:28:53.000-05:00"
 updated_at: "2026-09-20T21:31:34.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
 ---
 # Applied Case: Psychiatry Before Psychiatry

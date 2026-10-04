@@ -2,13 +2,17 @@
 title: "Failed Field Analysts: Ted Kaczynski and the Collapse Machine"
 slug: "failed-field-analysts-ted-kaczynski-and-the-collapse-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-ted-kaczynski-and-the-collapse-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-ted-kaczynski-and-the-collapse-machine.md"
 published_at: "2026-07-25T06:00:47.000-05:00"
 updated_at: "2026-08-10T07:30:46.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
 ---
 # Failed Field Analysts: Ted Kaczynski and the Collapse Machine

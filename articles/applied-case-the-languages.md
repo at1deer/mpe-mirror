@@ -2,13 +2,17 @@
 title: "Field Instruments: The Languages"
 slug: "applied-case-the-languages"
 canonical_url: "https://modalpathethics.com/applied-case-the-languages/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-languages.md"
 published_at: "2026-05-04T20:52:07.000-05:00"
 updated_at: "2026-09-29T20:35:43.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "393699f7c7cffb179abe3c6b7cdeab492f30c25ef8dac536cd3ec5686f33d35e"
 ---
 # Field Instruments: The Languages

@@ -2,6 +2,7 @@
 title: "Tales of Distortion: Doctor Koell"
 slug: "tales-of-distortion-doctor-koell"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-doctor-koell/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-doctor-koell.md"
 published_at: "2026-06-23T08:30:33.000-05:00"
 updated_at: "2026-06-24T03:15:58.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
 # Tales of Distortion: Doctor Koell

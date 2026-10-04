@@ -2,13 +2,17 @@
 title: "Thought Gauntlet II: Pascal's Mugging"
 slug: "applied-case-the-pascal-mugging"
 canonical_url: "https://modalpathethics.com/applied-case-the-pascal-mugging/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-pascal-mugging.md"
 published_at: "2026-04-26T17:44:36.000-05:00"
 updated_at: "2026-05-08T22:14:00.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
 # Thought Gauntlet II: Pascal's Mugging

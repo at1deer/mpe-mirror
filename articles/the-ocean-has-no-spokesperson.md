@@ -2,12 +2,16 @@
 title: "The Silent Ocean"
 slug: "the-ocean-has-no-spokesperson"
 canonical_url: "https://modalpathethics.com/the-ocean-has-no-spokesperson/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-ocean-has-no-spokesperson.md"
 published_at: "2026-09-22T05:45:34.000-05:00"
 updated_at: "2026-09-22T05:45:33.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2d2ee90e2949c78aeb0625c8760b1844f90bf1f11f52351ea096d9a479d69adb"
 ---
 # The Silent Ocean

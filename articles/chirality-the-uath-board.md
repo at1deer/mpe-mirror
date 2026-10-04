@@ -2,12 +2,16 @@
 title: "Chirality: The Úath Board"
 slug: "chirality-the-uath-board"
 canonical_url: "https://modalpathethics.com/chirality-the-uath-board/"
+mirror_url: "https://mirror.modalpathethics.com/articles/chirality-the-uath-board.md"
 published_at: "2026-06-09T17:49:57.000-05:00"
 updated_at: "2026-09-29T20:50:57.000-05:00"
 tags:
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a588ff2acfb702629340a5ce2e88effe723a1b1cc43600cce1d547f4dcb1909f"
 ---
 # Chirality: The Úath Board

@@ -2,14 +2,18 @@
 title: "Why Habermas Must Be Discussed Next"
 slug: "whyhabermas-must-be-discussed-next"
 canonical_url: "https://modalpathethics.com/whyhabermas-must-be-discussed-next/"
+mirror_url: "https://mirror.modalpathethics.com/articles/whyhabermas-must-be-discussed-next.md"
 published_at: "2026-04-19T19:01:02.000-05:00"
 updated_at: "2026-09-28T20:46:54.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80cdaa6f6f8e95c75fcbb0a8f9b7bae685a6e2d402064bf71451d094c2c33f64"
 ---
 # Why Habermas Must Be Discussed Next

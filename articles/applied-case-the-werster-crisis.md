@@ -2,6 +2,7 @@
 title: "Applied Case: The Werster Crisis"
 slug: "applied-case-the-werster-crisis"
 canonical_url: "https://modalpathethics.com/applied-case-the-werster-crisis/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-werster-crisis.md"
 published_at: "2026-08-04T06:00:18.000-05:00"
 updated_at: "2026-08-11T12:17:09.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Chirality"
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
 # Applied Case: The Werster Crisis

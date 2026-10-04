@@ -2,14 +2,18 @@
 title: "Tales of Distortion: The Lake Peigneur Drilling Accident"
 slug: "tales-of-distortion-the-lake-peigneur-drilling-accident"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-lake-peigneur-drilling-accident/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-lake-peigneur-drilling-accident.md"
 published_at: "2026-06-30T12:00:27.000-05:00"
 updated_at: "2026-06-30T15:06:53.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
 # Tales of Distortion: The Lake Peigneur Drilling Accident

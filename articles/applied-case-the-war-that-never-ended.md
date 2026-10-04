@@ -2,14 +2,18 @@
 title: "Applied Case: The War That Never Ended"
 slug: "applied-case-the-war-that-never-ended"
 canonical_url: "https://modalpathethics.com/applied-case-the-war-that-never-ended/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-war-that-never-ended.md"
 published_at: "2026-09-11T06:30:52.000-05:00"
 updated_at: "2026-09-11T06:30:51.000-05:00"
 tags:
   - "Applied Case"
   - "Geopolitical Wasteland"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
 ---
 # Applied Case: The War That Never Ended

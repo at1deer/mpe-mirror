@@ -2,13 +2,17 @@
 title: "The Causal Veil Carries Structure"
 slug: "the-c"
 canonical_url: "https://modalpathethics.com/the-c/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-c.md"
 published_at: "2026-07-30T06:00:11.000-05:00"
 updated_at: "2026-07-30T06:00:10.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
 # The Causal Veil Carries Structure

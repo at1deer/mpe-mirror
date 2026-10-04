@@ -2,13 +2,17 @@
 title: "II"
 slug: "ii"
 canonical_url: "https://modalpathethics.com/ii/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ii.md"
 published_at: "2026-09-18T06:02:21.000-05:00"
 updated_at: "2026-09-18T06:02:20.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "10fb864454ef6df82f15b10ee3862e412dc64bddc471d5447d2f6f9d5242d98e"
 ---
 # II

@@ -2,13 +2,17 @@
 title: "Applied Case: The Category Goes In the Brain"
 slug: "applied-case-the-category-goes-in-the-brain"
 canonical_url: "https://modalpathethics.com/applied-case-the-category-goes-in-the-brain/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-category-goes-in-the-brain.md"
 published_at: "2026-09-09T08:00:39.000-05:00"
 updated_at: "2026-09-09T08:00:39.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
 ---
 # Applied Case: The Category Goes In the Brain

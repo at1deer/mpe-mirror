@@ -2,14 +2,18 @@
 title: "Applied Case: The Levant Leverage Field"
 slug: "applied-case-the-levant-leverage-field"
 canonical_url: "https://modalpathethics.com/applied-case-the-levant-leverage-field/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-levant-leverage-field.md"
 published_at: "2026-06-12T02:16:12.000-05:00"
 updated_at: "2026-09-29T20:54:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b15bc6b73390505ecb3dc0a19464228b3b67410ef05898d16172261c4a053793"
 ---
 # Applied Case: The Levant Leverage Field

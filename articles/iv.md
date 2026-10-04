@@ -2,13 +2,17 @@
 title: "IV"
 slug: "iv"
 canonical_url: "https://modalpathethics.com/iv/"
+mirror_url: "https://mirror.modalpathethics.com/articles/iv.md"
 published_at: "2026-09-20T06:04:10.000-05:00"
 updated_at: "2026-09-20T06:04:09.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
 ---
 # IV

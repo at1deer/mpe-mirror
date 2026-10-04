@@ -2,6 +2,7 @@
 title: "Applied Case: The SCP Foundation"
 slug: "scp"
 canonical_url: "https://modalpathethics.com/scp/"
+mirror_url: "https://mirror.modalpathethics.com/articles/scp.md"
 published_at: "2026-07-01T02:46:54.000-05:00"
 updated_at: "2026-07-04T17:46:45.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
 # Applied Case: The SCP Foundation

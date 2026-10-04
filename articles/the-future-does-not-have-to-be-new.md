@@ -2,13 +2,17 @@
 title: "The Future Does Not Have to Be New"
 slug: "the-future-does-not-have-to-be-new"
 canonical_url: "https://modalpathethics.com/the-future-does-not-have-to-be-new/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-future-does-not-have-to-be-new.md"
 published_at: "2026-09-24T05:30:45.000-05:00"
 updated_at: "2026-09-26T02:36:08.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
 ---
 # The Future Does Not Have to Be New

@@ -2,6 +2,7 @@
 title: "Transition Action: The Clock Becomes an Entropy Leak"
 slug: "transition-action-the-clock-becomes-an-entropy-leak"
 canonical_url: "https://modalpathethics.com/transition-action-the-clock-becomes-an-entropy-leak/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-clock-becomes-an-entropy-leak.md"
 published_at: "2026-07-08T08:00:41.000-05:00"
 updated_at: "2026-07-08T08:00:40.000-05:00"
 tags:
@@ -10,8 +11,11 @@ tags:
   - "Chastening of the Controller"
   - "Entropy Debt Week"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
 # Transition Action: The Clock Becomes an Entropy Leak

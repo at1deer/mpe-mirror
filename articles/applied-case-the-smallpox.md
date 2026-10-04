@@ -2,13 +2,17 @@
 title: "Thought Gauntlet IX: Smallpox"
 slug: "applied-case-the-smallpox"
 canonical_url: "https://modalpathethics.com/applied-case-the-smallpox/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-smallpox.md"
 published_at: "2026-04-26T21:14:30.000-05:00"
 updated_at: "2026-05-08T22:05:31.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
 # Thought Gauntlet IX: Smallpox

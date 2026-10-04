@@ -2,13 +2,17 @@
 title: "Tales of Distortion: The 1904 St. Louis Marathon"
 slug: "applied-case-1904-st-louis-marathon"
 canonical_url: "https://modalpathethics.com/applied-case-1904-st-louis-marathon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-1904-st-louis-marathon.md"
 published_at: "2026-04-16T18:42:47.000-05:00"
 updated_at: "2026-09-28T20:44:01.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon

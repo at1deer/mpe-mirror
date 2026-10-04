@@ -2,13 +2,17 @@
 title: "Field Instruments: Infodynamics"
 slug: "field-instruments-infodynamics"
 canonical_url: "https://modalpathethics.com/field-instruments-infodynamics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-infodynamics.md"
 published_at: "2026-08-06T05:30:16.000-05:00"
 updated_at: "2026-08-06T05:30:16.000-05:00"
 tags:
   - "Field Instruments"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
 # Field Instruments: Infodynamics

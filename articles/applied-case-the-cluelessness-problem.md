@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XVI: Cluelessness"
 slug: "applied-case-the-cluelessness-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-cluelessness-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-cluelessness-problem.md"
 published_at: "2026-04-26T23:52:29.000-05:00"
 updated_at: "2026-05-08T22:11:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
 # Thought Gauntlet XVI: Cluelessness

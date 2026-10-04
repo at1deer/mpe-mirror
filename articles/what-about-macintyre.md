@@ -2,14 +2,18 @@
 title: "About MacIntyre"
 slug: "what-about-macintyre"
 canonical_url: "https://modalpathethics.com/what-about-macintyre/"
+mirror_url: "https://mirror.modalpathethics.com/articles/what-about-macintyre.md"
 published_at: "2026-04-19T16:47:43.000-05:00"
 updated_at: "2026-09-28T20:45:45.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "672a5617d0fdc67e53558672482849cb1a341fac70c9bed8e4b70238a55c0754"
 ---
 # About MacIntyre

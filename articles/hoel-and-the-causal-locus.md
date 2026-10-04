@@ -2,12 +2,16 @@
 title: "Hoel and the Causal Locus"
 slug: "hoel-and-the-causal-locus"
 canonical_url: "https://modalpathethics.com/hoel-and-the-causal-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/hoel-and-the-causal-locus.md"
 published_at: "2026-09-06T07:00:59.000-05:00"
 updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
 # Hoel and the Causal Locus

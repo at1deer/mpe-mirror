@@ -2,14 +2,18 @@
 title: "Formal: What Makes Something a Locus"
 slug: "formal-what-makes-something-a-locus"
 canonical_url: "https://modalpathethics.com/formal-what-makes-something-a-locus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/formal-what-makes-something-a-locus.md"
 published_at: "2026-05-09T19:19:21.000-05:00"
 updated_at: "2026-09-28T21:11:15.000-05:00"
 tags:
   - "Formal"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
 # Formal: What Makes Something a Locus

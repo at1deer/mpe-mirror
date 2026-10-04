@@ -2,14 +2,18 @@
 title: "Field Instruments: Deterrence"
 slug: "field-instruments-deterrence"
 canonical_url: "https://modalpathethics.com/field-instruments-deterrence/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-deterrence.md"
 published_at: "2026-07-02T10:30:15.000-05:00"
 updated_at: "2026-07-03T00:17:28.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
 # Field Instruments: Deterrence

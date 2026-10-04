@@ -2,14 +2,18 @@
 title: "Introducing TimeVault"
 slug: "introducing-timevault"
 canonical_url: "https://modalpathethics.com/introducing-timevault/"
+mirror_url: "https://mirror.modalpathethics.com/articles/introducing-timevault.md"
 published_at: "2026-06-24T09:06:09.000-05:00"
 updated_at: "2026-06-24T20:18:15.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Chirality"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
 # Introducing TimeVault

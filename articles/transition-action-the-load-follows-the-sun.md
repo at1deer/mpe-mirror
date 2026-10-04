@@ -2,13 +2,17 @@
 title: "Transition Action: The Load Moves"
 slug: "transition-action-the-load-follows-the-sun"
 canonical_url: "https://modalpathethics.com/transition-action-the-load-follows-the-sun/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-load-follows-the-sun.md"
 published_at: "2026-06-15T05:50:44.000-05:00"
 updated_at: "2026-06-19T02:59:16.000-05:00"
 tags:
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
 # Transition Action: The Load Moves

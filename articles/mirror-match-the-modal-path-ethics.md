@@ -2,14 +2,18 @@
 title: "Mirror Match: The Modal Path Ethics"
 slug: "mirror-match-the-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/mirror-match-the-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/mirror-match-the-modal-path-ethics.md"
 published_at: "2026-05-08T21:51:23.000-05:00"
 updated_at: "2026-09-28T21:09:55.000-05:00"
 tags:
   - "Applied Case"
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a05362680623ebe3c0c90efe09cb02bc90dd59cf00b30e63ca4df2a09bb82506"
 ---
 # Mirror Match: The Modal Path Ethics

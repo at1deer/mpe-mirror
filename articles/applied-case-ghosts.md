@@ -2,6 +2,7 @@
 title: "Applied Case: Ghosts"
 slug: "applied-case-ghosts"
 canonical_url: "https://modalpathethics.com/applied-case-ghosts/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-ghosts.md"
 published_at: "2026-08-23T06:00:40.000-05:00"
 updated_at: "2026-09-13T19:10:16.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Systems"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3f14576c1d706d95f009ccdc2905b82504d3297cabde0a9f93d57680da45cd5"
 ---
 # Applied Case: Ghosts

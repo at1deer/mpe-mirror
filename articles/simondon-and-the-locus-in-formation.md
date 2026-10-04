@@ -2,12 +2,16 @@
 title: "Simondon and the Locus in Formation"
 slug: "simondon-and-the-locus-in-formation"
 canonical_url: "https://modalpathethics.com/simondon-and-the-locus-in-formation/"
+mirror_url: "https://mirror.modalpathethics.com/articles/simondon-and-the-locus-in-formation.md"
 published_at: "2026-09-08T09:11:45.000-05:00"
 updated_at: "2026-09-09T22:50:01.000-05:00"
 tags:
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
 ---
 # Simondon and the Locus in Formation

@@ -2,12 +2,16 @@
 title: "The First Gift"
 slug: "the-first-gift"
 canonical_url: "https://modalpathethics.com/the-first-gift/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-first-gift.md"
 published_at: "2026-09-24T05:55:16.000-05:00"
 updated_at: "2026-09-24T05:55:15.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b5efb5e08bc4491ae70661f313b70322ffded0324f53d693922ee03b25931e6a"
 ---
 # The First Gift

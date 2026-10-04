@@ -2,14 +2,18 @@
 title: "Transition Action: The Sensor Cleans Itself"
 slug: "transition-action-the-sensor-cleans-itself"
 canonical_url: "https://modalpathethics.com/transition-action-the-sensor-cleans-itself/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-sensor-cleans-itself.md"
 published_at: "2026-07-14T19:44:34.000-05:00"
 updated_at: "2026-07-15T03:38:20.000-05:00"
 tags:
   - "Transition Action"
   - "Modal Path Ethics"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
 # Transition Action: The Sensor Cleans Itself

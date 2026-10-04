@@ -2,13 +2,17 @@
 title: "Failed Field Analysts: Robert Moses and the Flow of Life"
 slug: "failed-field-analysts-robert-moses-and-the-flow-of-life"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-moses-and-the-flow-of-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-robert-moses-and-the-flow-of-life.md"
 published_at: "2026-05-19T06:30:41.000-05:00"
 updated_at: "2026-09-29T20:39:10.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "80156d69f1288c7c757ca69f311a8d407f9e9d1479a3e4a01ae805549262bcc4"
 ---
 # Failed Field Analysts: Robert Moses and the Flow of Life

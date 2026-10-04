@@ -2,6 +2,7 @@
 title: "Applied Case: The RBY UU Upheaval of the Early 2020s"
 slug: "applied-case-rby-uu-2020s"
 canonical_url: "https://modalpathethics.com/applied-case-rby-uu-2020s/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-rby-uu-2020s.md"
 published_at: "2026-04-20T02:58:23.000-05:00"
 updated_at: "2026-05-06T21:07:24.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Instrument Jurisdiction"
   - "Pokémon"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
 # Applied Case: The RBY UU Upheaval of the Early 2020s

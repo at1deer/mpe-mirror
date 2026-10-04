@@ -2,13 +2,17 @@
 title: "Backpath: Evidence for What Transitions Make Unrecoverable"
 slug: "backpath-evidence-for-what-transitions-make-unrecoverable"
 canonical_url: "https://modalpathethics.com/backpath-evidence-for-what-transitions-make-unrecoverable/"
+mirror_url: "https://mirror.modalpathethics.com/articles/backpath-evidence-for-what-transitions-make-unrecoverable.md"
 published_at: "2026-06-23T21:00:54.000-05:00"
 updated_at: "2026-06-25T17:20:27.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Modal Path Ethical Software"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
 # Backpath: Evidence for What Transitions Make Unrecoverable

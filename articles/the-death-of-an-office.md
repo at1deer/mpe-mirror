@@ -2,12 +2,16 @@
 title: "The Death of an Office"
 slug: "the-death-of-an-office"
 canonical_url: "https://modalpathethics.com/the-death-of-an-office/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-death-of-an-office.md"
 published_at: "2026-09-10T05:30:55.000-05:00"
 updated_at: "2026-09-10T05:30:54.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a631d6aab9a0beb7619b379856d1d30a3679d9a6fe86334cbe98cad5d381e126"
 ---
 # The Death of an Office

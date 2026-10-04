@@ -2,14 +2,18 @@
 title: "Applied Case: Claude’s Constitution"
 slug: "applied-case-claudes-constitution"
 canonical_url: "https://modalpathethics.com/applied-case-claudes-constitution/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-claudes-constitution.md"
 published_at: "2026-09-04T06:05:16.000-05:00"
 updated_at: "2026-09-04T06:05:15.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
 # Applied Case: Claude’s Constitution

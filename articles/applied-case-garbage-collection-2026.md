@@ -2,14 +2,18 @@
 title: "Applied Case: Garbage Collection (2026)"
 slug: "applied-case-garbage-collection-2026"
 canonical_url: "https://modalpathethics.com/applied-case-garbage-collection-2026/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-garbage-collection-2026.md"
 published_at: "2026-06-24T09:07:35.000-05:00"
 updated_at: "2026-06-25T04:31:05.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
 # Applied Case: Garbage Collection (2026)

@@ -2,6 +2,7 @@
 title: "Failed Field Analysts: L. Ron Hubbard and the Sealed Room"
 slug: "failed-field-analysts-l-ron-hubbard-and-the-sealed-room"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-l-ron-hubbard-and-the-sealed-room/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-l-ron-hubbard-and-the-sealed-room.md"
 published_at: "2026-06-26T05:00:55.000-05:00"
 updated_at: "2026-06-26T12:48:26.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
 # Failed Field Analysts: L. Ron Hubbard and the Sealed Room

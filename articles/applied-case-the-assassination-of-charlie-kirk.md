@@ -2,12 +2,16 @@
 title: "Applied Case: The Assassination of Charlie Kirk"
 slug: "applied-case-the-assassination-of-charlie-kirk"
 canonical_url: "https://modalpathethics.com/applied-case-the-assassination-of-charlie-kirk/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-assassination-of-charlie-kirk.md"
 published_at: "2026-07-28T05:30:47.000-05:00"
 updated_at: "2026-08-10T07:23:37.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
 # Applied Case: The Assassination of Charlie Kirk

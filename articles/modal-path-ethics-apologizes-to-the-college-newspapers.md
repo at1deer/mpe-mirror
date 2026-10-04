@@ -2,12 +2,16 @@
 title: "Modal Path Ethics Apologizes to the College Newspapers"
 slug: "modal-path-ethics-apologizes-to-the-college-newspapers"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-apologizes-to-the-college-newspapers/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-college-newspapers.md"
 published_at: "2026-09-08T15:37:58.000-05:00"
 updated_at: "2026-09-08T15:37:58.000-05:00"
 tags:
   - "Apologies Department"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
 ---
 # Modal Path Ethics Apologizes to the College Newspapers

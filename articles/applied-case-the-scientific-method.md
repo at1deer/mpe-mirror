@@ -2,13 +2,17 @@
 title: "Field Instruments: The Scientific Method"
 slug: "applied-case-the-scientific-method"
 canonical_url: "https://modalpathethics.com/applied-case-the-scientific-method/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-scientific-method.md"
 published_at: "2026-05-03T21:18:09.000-05:00"
 updated_at: "2026-05-20T13:01:17.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
 # Field Instruments: The Scientific Method

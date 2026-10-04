@@ -2,13 +2,17 @@
 title: "Fictional Earth: LinkedIn and the Acceptable Person Machine"
 slug: "fictional-earth-linkedin-and-the-acceptable-person-machine"
 canonical_url: "https://modalpathethics.com/fictional-earth-linkedin-and-the-acceptable-person-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-linkedin-and-the-acceptable-person-machine.md"
 published_at: "2026-07-30T06:05:56.000-05:00"
 updated_at: "2026-07-30T06:05:56.000-05:00"
 tags:
   - "Fictional Earth"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
 # Fictional Earth: LinkedIn and the Acceptable Person Machine

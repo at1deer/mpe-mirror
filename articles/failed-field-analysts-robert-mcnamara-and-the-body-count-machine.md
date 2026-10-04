@@ -2,6 +2,7 @@
 title: "Failed Field Analysts: Robert McNamara and the Body Count Machine"
 slug: "failed-field-analysts-robert-mcnamara-and-the-body-count-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-robert-mcnamara-and-the-body-count-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-robert-mcnamara-and-the-body-count-machine.md"
 published_at: "2026-07-09T06:00:32.000-05:00"
 updated_at: "2026-07-09T18:12:38.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
 # Failed Field Analysts: Robert McNamara and the Body Count Machine

@@ -2,6 +2,7 @@
 title: "Failed Field Analysts: Skynet"
 slug: "failed-field-analysts-skynet"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-skynet/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-skynet.md"
 published_at: "2026-06-20T07:00:33.000-05:00"
 updated_at: "2026-06-25T05:51:43.000-05:00"
 tags:
@@ -10,8 +11,11 @@ tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
 # Failed Field Analysts: Skynet

@@ -2,6 +2,7 @@
 title: "Tales of Distortion: Course 095"
 slug: "tales-of-distortion-course-095-to-eternity"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-course-095-to-eternity/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-course-095-to-eternity.md"
 published_at: "2026-07-10T06:00:00.000-05:00"
 updated_at: "2026-07-10T21:27:19.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
 # Tales of Distortion: Course 095

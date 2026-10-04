@@ -2,14 +2,18 @@
 title: "Pope Leo and the Optimizable Human"
 slug: "pope-leo-and-the-optimizable-human"
 canonical_url: "https://modalpathethics.com/pope-leo-and-the-optimizable-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pope-leo-and-the-optimizable-human.md"
 published_at: "2026-07-22T13:15:55.000-05:00"
 updated_at: "2026-08-10T07:28:17.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Modal Systems"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
 # Pope Leo and the Optimizable Human

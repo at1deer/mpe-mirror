@@ -2,13 +2,17 @@
 title: "Field Instruments: Active Information"
 slug: "field-instruments-active-information"
 canonical_url: "https://modalpathethics.com/field-instruments-active-information/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-active-information.md"
 published_at: "2026-07-29T05:45:03.000-05:00"
 updated_at: "2026-07-29T05:45:02.000-05:00"
 tags:
   - "Field Instruments"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
 # Field Instruments: Active Information

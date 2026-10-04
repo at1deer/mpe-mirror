@@ -2,13 +2,17 @@
 title: "Field Instruments: Money"
 slug: "field-instruments-money"
 canonical_url: "https://modalpathethics.com/field-instruments-money/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-money.md"
 published_at: "2026-05-20T06:36:46.000-05:00"
 updated_at: "2026-09-29T20:33:50.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f9e427140b94e1e7852195b02ce76e3fb2e5019bbc2d332175865eb7c231349f"
 ---
 # Field Instruments: Money

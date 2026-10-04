@@ -2,14 +2,18 @@
 title: "Field Instruments: Telepathy"
 slug: "field-instruments-telepathy"
 canonical_url: "https://modalpathethics.com/field-instruments-telepathy/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-telepathy.md"
 published_at: "2026-09-25T05:20:39.000-05:00"
 updated_at: "2026-09-25T05:20:38.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b2a117f20d7ca26c63ae2df7d132009a6659cee6ca7e76ec7b5c17776e64d82"
 ---
 # Field Instruments: Telepathy

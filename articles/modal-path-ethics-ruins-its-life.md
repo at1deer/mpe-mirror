@@ -2,6 +2,7 @@
 title: "Modal Path Ethics Ruins Its Life"
 slug: "modal-path-ethics-ruins-its-life"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-ruins-its-life/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-ruins-its-life.md"
 published_at: "2026-06-16T04:34:20.000-05:00"
 updated_at: "2026-09-29T21:01:34.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Engagement"
   - "Formal"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f6153fb444e482f7100b0ffad4331fc40b9cea40fe9a2e48c1dc32e0764d2a5e"
 ---
 # Modal Path Ethics Ruins Its Life

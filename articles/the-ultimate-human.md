@@ -2,6 +2,7 @@
 title: "I Am The Ultimate Human"
 slug: "the-ultimate-human"
 canonical_url: "https://modalpathethics.com/the-ultimate-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-ultimate-human.md"
 published_at: "2026-06-28T05:00:51.000-05:00"
 updated_at: "2026-06-29T19:22:32.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Field Instruments"
   - "Fictional Earth"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
 # I Am The Ultimate Human

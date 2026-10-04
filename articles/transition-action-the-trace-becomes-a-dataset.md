@@ -2,14 +2,18 @@
 title: "Transition Action: The Trace Becomes a Dataset"
 slug: "transition-action-the-trace-becomes-a-dataset"
 canonical_url: "https://modalpathethics.com/transition-action-the-trace-becomes-a-dataset/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-trace-becomes-a-dataset.md"
 published_at: "2026-06-22T19:10:30.000-05:00"
 updated_at: "2026-06-24T18:36:44.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Transition Action"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
 # Transition Action: The Trace Becomes a Dataset

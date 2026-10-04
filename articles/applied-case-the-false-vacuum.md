@@ -2,13 +2,17 @@
 title: "Applied Case: The False Vacuum"
 slug: "applied-case-the-false-vacuum"
 canonical_url: "https://modalpathethics.com/applied-case-the-false-vacuum/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-false-vacuum.md"
 published_at: "2026-04-25T21:40:27.000-05:00"
 updated_at: "2026-09-28T20:55:28.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
 # Applied Case: The False Vacuum

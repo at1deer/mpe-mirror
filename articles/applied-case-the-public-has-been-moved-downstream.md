@@ -2,13 +2,17 @@
 title: "Applied Case: The Public Has Been Moved Downstream"
 slug: "applied-case-the-public-has-been-moved-downstream"
 canonical_url: "https://modalpathethics.com/applied-case-the-public-has-been-moved-downstream/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-public-has-been-moved-downstream.md"
 published_at: "2026-09-11T06:00:34.000-05:00"
 updated_at: "2026-09-11T09:46:46.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "da0634ebd64e6806ff7e858d4ae6fc1f2366b1427e2125fe438640d5fc19afa2"
 ---
 # Applied Case: The Public Has Been Moved Downstream

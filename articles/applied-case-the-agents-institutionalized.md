@@ -2,12 +2,16 @@
 title: "Applied Case: The Agents Institutionalized"
 slug: "applied-case-the-agents-institutionalized"
 canonical_url: "https://modalpathethics.com/applied-case-the-agents-institutionalized/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-agents-institutionalized.md"
 published_at: "2026-09-08T07:00:42.000-05:00"
 updated_at: "2026-09-09T10:17:49.000-05:00"
 tags:
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
 ---
 # Applied Case: The Agents Institutionalized

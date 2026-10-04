@@ -2,14 +2,18 @@
 title: "Applied Case: The Epicurean Death Problem"
 slug: "applied-case-the-epicurean-death-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-epicurean-death-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-epicurean-death-problem.md"
 published_at: "2026-04-28T22:43:04.000-05:00"
 updated_at: "2026-09-28T21:00:43.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Slack"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
 # Applied Case: The Epicurean Death Problem

@@ -2,13 +2,17 @@
 title: "Thought Gauntlet I: The Trolley Problem"
 slug: "applied-case-the-trolley-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-trolley-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-trolley-problem.md"
 published_at: "2026-04-26T16:35:31.000-05:00"
 updated_at: "2026-08-10T07:21:02.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
 # Thought Gauntlet I: The Trolley Problem

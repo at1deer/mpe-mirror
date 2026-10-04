@@ -2,13 +2,17 @@
 title: "Applied Case: The Finiteness Problem"
 slug: "applied-case-the-finiteness-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-finiteness-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-finiteness-problem.md"
 published_at: "2026-06-09T21:43:13.000-05:00"
 updated_at: "2026-09-29T20:51:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd71f3ea0a184041acd7053f0ccbb3ce06a00ec1ccd9075d25e155212824dd41"
 ---
 # Applied Case: The Finiteness Problem

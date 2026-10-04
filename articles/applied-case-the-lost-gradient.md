@@ -2,14 +2,18 @@
 title: "Applied Case: The Lost Gradient"
 slug: "applied-case-the-lost-gradient"
 canonical_url: "https://modalpathethics.com/applied-case-the-lost-gradient/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-lost-gradient.md"
 published_at: "2026-04-25T22:42:19.000-05:00"
 updated_at: "2026-09-28T20:55:57.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f1edbe8b40ee9d84436398e85c6b22240c9655e4f6db163bf1e5c7515b72181"
 ---
 # Applied Case: The Lost Gradient

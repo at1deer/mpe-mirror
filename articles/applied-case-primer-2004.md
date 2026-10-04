@@ -2,6 +2,7 @@
 title: "Applied Case: Primer (2004)"
 slug: "applied-case-primer-2004"
 canonical_url: "https://modalpathethics.com/applied-case-primer-2004/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-primer-2004.md"
 published_at: "2026-06-18T06:00:17.000-05:00"
 updated_at: "2026-08-10T07:34:30.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
 # Applied Case: Primer (2004)

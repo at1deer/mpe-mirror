@@ -2,14 +2,18 @@
 title: "Tales of Distortion: Münster’s New Jerusalem"
 slug: "tales-of-distortion-munsters-new-jerusalem"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-munsters-new-jerusalem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-munsters-new-jerusalem.md"
 published_at: "2026-07-05T07:00:15.000-05:00"
 updated_at: "2026-08-10T07:32:51.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
 # Tales of Distortion: Münster’s New Jerusalem

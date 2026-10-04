@@ -2,14 +2,18 @@
 title: "Tales of Distortion: The N-Rays"
 slug: "applied-case-the-n-rays"
 canonical_url: "https://modalpathethics.com/applied-case-the-n-rays/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-n-rays.md"
 published_at: "2026-05-10T06:55:43.000-05:00"
 updated_at: "2026-09-28T21:12:24.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
 # Tales of Distortion: The N-Rays

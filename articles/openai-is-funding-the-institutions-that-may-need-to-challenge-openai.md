@@ -2,13 +2,17 @@
 title: "OpenAI Is Funding the Institutions That May Need to Challenge OpenAI"
 slug: "openai-is-funding-the-institutions-that-may-need-to-challenge-openai"
 canonical_url: "https://modalpathethics.com/openai-is-funding-the-institutions-that-may-need-to-challenge-openai/"
+mirror_url: "https://mirror.modalpathethics.com/articles/openai-is-funding-the-institutions-that-may-need-to-challenge-openai.md"
 published_at: "2026-08-28T06:00:49.000-05:00"
 updated_at: "2026-08-28T06:00:49.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
 # OpenAI Is Funding the Institutions That May Need to Challenge OpenAI

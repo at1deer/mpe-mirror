@@ -2,6 +2,7 @@
 title: "Moonlight with Figures: The Ghost Dance"
 slug: "moonlight-with-figures-the-ghost-dance"
 canonical_url: "https://modalpathethics.com/moonlight-with-figures-the-ghost-dance/"
+mirror_url: "https://mirror.modalpathethics.com/articles/moonlight-with-figures-the-ghost-dance.md"
 published_at: "2026-07-07T06:05:02.000-05:00"
 updated_at: "2026-07-23T13:25:02.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
 # Moonlight with Figures: The Ghost Dance

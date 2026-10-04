@@ -2,12 +2,16 @@
 title: "WAICO Is the Hard Case"
 slug: "ia-waico-is-the-hard-case"
 canonical_url: "https://modalpathethics.com/ia-waico-is-the-hard-case/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ia-waico-is-the-hard-case.md"
 published_at: "2026-09-02T05:00:17.000-05:00"
 updated_at: "2026-09-07T15:51:08.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
 # WAICO Is the Hard Case

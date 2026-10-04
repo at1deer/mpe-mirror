@@ -2,13 +2,17 @@
 title: "Failed Field Analysts: Elizabeth Holmes and the False Path"
 slug: "failed-field-analysts-elizabeth-holmes-and-the-false-path"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-elizabeth-holmes-and-the-false-path/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-elizabeth-holmes-and-the-false-path.md"
 published_at: "2026-05-19T14:31:58.000-05:00"
 updated_at: "2026-09-29T20:39:39.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ecac44569ad985afcf8f86beab904121372b76c39e2b7670559ef8cbbab6bf3b"
 ---
 # Failed Field Analysts: Elizabeth Holmes and the False Path

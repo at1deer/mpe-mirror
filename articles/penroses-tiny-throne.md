@@ -2,12 +2,16 @@
 title: "Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne"
 slug: "penroses-tiny-throne"
 canonical_url: "https://modalpathethics.com/penroses-tiny-throne/"
+mirror_url: "https://mirror.modalpathethics.com/articles/penroses-tiny-throne.md"
 published_at: "2026-07-12T05:00:34.000-05:00"
 updated_at: "2026-09-14T17:22:26.000-05:00"
 tags:
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1eee73ebf48b5de0e4b3b6bc969317e8f0736d7bc89775a36ecc69c34398e8c"
 ---
 # Modal Path Ethics vs. Orch OR: Penrose's Tiny Throne

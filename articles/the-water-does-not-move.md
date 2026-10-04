@@ -2,12 +2,16 @@
 title: "The Water Does Not Move"
 slug: "the-water-does-not-move"
 canonical_url: "https://modalpathethics.com/the-water-does-not-move/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-water-does-not-move.md"
 published_at: "2026-09-07T05:30:16.000-05:00"
 updated_at: "2026-09-07T05:30:16.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
 ---
 # The Water Does Not Move

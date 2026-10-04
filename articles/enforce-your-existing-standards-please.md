@@ -2,14 +2,18 @@
 title: "Enforce Your Existing Standards, Please"
 slug: "enforce-your-existing-standards-please"
 canonical_url: "https://modalpathethics.com/enforce-your-existing-standards-please/"
+mirror_url: "https://mirror.modalpathethics.com/articles/enforce-your-existing-standards-please.md"
 published_at: "2026-09-01T13:10:06.000-05:00"
 updated_at: "2026-09-01T13:10:06.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "Epistemic Instruments"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
 # Enforce Your Existing Standards, Please

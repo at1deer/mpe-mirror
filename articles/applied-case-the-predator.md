@@ -2,13 +2,17 @@
 title: "Thought Gauntlet X: The Predator"
 slug: "applied-case-the-predator"
 canonical_url: "https://modalpathethics.com/applied-case-the-predator/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-predator.md"
 published_at: "2026-04-26T21:32:16.000-05:00"
 updated_at: "2026-07-10T04:55:46.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
 # Thought Gauntlet X: The Predator

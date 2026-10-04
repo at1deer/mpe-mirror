@@ -2,14 +2,18 @@
 title: "Applied Case: The Negative Boat"
 slug: "applied-case-the-negative-boat"
 canonical_url: "https://modalpathethics.com/applied-case-the-negative-boat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-negative-boat.md"
 published_at: "2026-07-27T13:34:27.000-05:00"
 updated_at: "2026-07-27T13:34:27.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
 # Applied Case: The Negative Boat

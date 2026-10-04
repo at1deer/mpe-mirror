@@ -2,13 +2,17 @@
 title: "Applied Case: Thirteen Minutes at East Palestine"
 slug: "applied-case-thirteen-minutes-at-east-palestine"
 canonical_url: "https://modalpathethics.com/applied-case-thirteen-minutes-at-east-palestine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-thirteen-minutes-at-east-palestine.md"
 published_at: "2026-08-16T06:00:17.000-05:00"
 updated_at: "2026-08-16T06:00:16.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
 # Applied Case: Thirteen Minutes at East Palestine

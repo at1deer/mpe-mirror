@@ -2,13 +2,17 @@
 title: "MODAL KOMBAT: Catherine Malabou and the Transition Problem"
 slug: "multiplayer-catherine-malabou-and-the-transition-problem"
 canonical_url: "https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/multiplayer-catherine-malabou-and-the-transition-problem.md"
 published_at: "2026-10-03T06:00:03.000-05:00"
 updated_at: "2026-10-03T06:00:02.000-05:00"
 tags:
   - "Multiplayer"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
 ---
 # MODAL KOMBAT: Catherine Malabou and the Transition Problem

@@ -2,13 +2,17 @@
 title: "Biosphere as Structure"
 slug: "structure-of-the-biosphere"
 canonical_url: "https://modalpathethics.com/structure-of-the-biosphere/"
+mirror_url: "https://mirror.modalpathethics.com/articles/structure-of-the-biosphere.md"
 published_at: "2026-05-10T06:56:27.000-05:00"
 updated_at: "2026-09-28T21:12:58.000-05:00"
 tags:
   - "Biosphere"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a088a65eaf4345b375fd3e329fbe3af56fc37b7da2d3229f6018928fee36a8b"
 ---
 # Biosphere as Structure

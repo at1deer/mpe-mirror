@@ -2,14 +2,18 @@
 title: "Failed Field Analysts: The Nashville Network Bombing"
 slug: "ffa-the-nashville-network-bombing"
 canonical_url: "https://modalpathethics.com/ffa-the-nashville-network-bombing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/ffa-the-nashville-network-bombing.md"
 published_at: "2026-05-18T16:14:01.000-05:00"
 updated_at: "2026-06-01T16:31:50.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Modal Path Ethics"
   - "Sacred Slack"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
 # Failed Field Analysts: The Nashville Network Bombing

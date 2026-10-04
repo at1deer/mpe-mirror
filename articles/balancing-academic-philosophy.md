@@ -2,13 +2,17 @@
 title: "Balancing the Broken Meta of Academic Philosophy"
 slug: "balancing-academic-philosophy"
 canonical_url: "https://modalpathethics.com/balancing-academic-philosophy/"
+mirror_url: "https://mirror.modalpathethics.com/articles/balancing-academic-philosophy.md"
 published_at: "2026-04-23T00:34:27.000-05:00"
 updated_at: "2026-09-28T20:49:57.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
 # Balancing the Broken Meta of Academic Philosophy

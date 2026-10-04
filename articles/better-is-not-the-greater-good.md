@@ -2,13 +2,17 @@
 title: "Why Better is Not the Greater Good"
 slug: "better-is-not-the-greater-good"
 canonical_url: "https://modalpathethics.com/better-is-not-the-greater-good/"
+mirror_url: "https://mirror.modalpathethics.com/articles/better-is-not-the-greater-good.md"
 published_at: "2026-04-16T14:58:36.000-05:00"
 updated_at: "2026-09-28T20:43:23.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "20c60ee44e1987e15f5a8a048ac03bacddaea1981f710c2530f5b7a1ef410bc4"
 ---
 # Why Better is Not the Greater Good

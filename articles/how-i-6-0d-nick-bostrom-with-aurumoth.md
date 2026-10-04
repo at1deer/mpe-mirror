@@ -2,6 +2,7 @@
 title: "How I 6-0’d Nick Bostrom With Aurumoth"
 slug: "how-i-6-0d-nick-bostrom-with-aurumoth"
 canonical_url: "https://modalpathethics.com/how-i-6-0d-nick-bostrom-with-aurumoth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/how-i-6-0d-nick-bostrom-with-aurumoth.md"
 published_at: "2026-10-02T06:00:32.000-05:00"
 updated_at: "2026-10-02T06:00:31.000-05:00"
 tags:
@@ -11,8 +12,11 @@ tags:
   - "Pokémon"
   - "Post-Game"
   - "Chastening of the Controller"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b786cb70c7cd1317af05aa98c72d5884aa0dca403ccc65531694dc371420bdaa"
 ---
 # How I 6-0’d Nick Bostrom With Aurumoth

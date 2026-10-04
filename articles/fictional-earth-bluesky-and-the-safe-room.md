@@ -2,13 +2,17 @@
 title: "Fictional Earth: Bluesky and the Safe Room"
 slug: "fictional-earth-bluesky-and-the-safe-room"
 canonical_url: "https://modalpathethics.com/fictional-earth-bluesky-and-the-safe-room/"
+mirror_url: "https://mirror.modalpathethics.com/articles/fictional-earth-bluesky-and-the-safe-room.md"
 published_at: "2026-07-06T07:18:43.000-05:00"
 updated_at: "2026-07-06T07:18:43.000-05:00"
 tags:
   - "Fictional Earth"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
 # Fictional Earth: Bluesky and the Safe Room

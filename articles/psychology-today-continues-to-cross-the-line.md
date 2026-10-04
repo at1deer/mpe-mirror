@@ -2,14 +2,18 @@
 title: "Psychology Today Continues to Cross the Line"
 slug: "psychology-today-continues-to-cross-the-line"
 canonical_url: "https://modalpathethics.com/psychology-today-continues-to-cross-the-line/"
+mirror_url: "https://mirror.modalpathethics.com/articles/psychology-today-continues-to-cross-the-line.md"
 published_at: "2026-08-26T20:21:39.000-05:00"
 updated_at: "2026-08-26T20:21:38.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "Modal Systems"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
 ---
 # Psychology Today Continues to Cross the Line

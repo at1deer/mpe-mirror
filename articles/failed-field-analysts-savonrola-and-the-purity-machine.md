@@ -2,12 +2,16 @@
 title: "Failed Field Analysts: Savonarola and the Purity Pyre"
 slug: "failed-field-analysts-savonrola-and-the-purity-machine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-savonrola-and-the-purity-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-savonrola-and-the-purity-machine.md"
 published_at: "2026-07-15T05:30:34.000-05:00"
 updated_at: "2026-08-17T19:24:47.000-05:00"
 tags:
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
 # Failed Field Analysts: Savonarola and the Purity Pyre
@@ -16,7 +20,7 @@ On June 30, 1498, Florence sentenced a bell.
 
 The human being associated with this bell had already been hanged and burned in the Piazza della Signoria five weeks earlier. Girolamo Savonarola was dead. Fra Domenico da Pescia was dead. Fra Silvestro Maruffi was dead. Their bodies had been destroyed publicly. Their ashes had been removed from the square and scattered so that no useful relic could remain in the hands of followers.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8\_FTKIxBWu-2IM1B0NfD79BvTPhILzF\_uZo85D7w/s1600/burning+of+savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6l21qBXYriKPUNxo1VGFaOE1sXgdcfKvA1W93cEKoZEVnGvLnjm5PnjRufxqmyBMyKievWGqBO-s18MZyMUTbsJbkaloDE0PUjUL8_FTKIxBWu-2IM1B0NfD79BvTPhILzF_uZo85D7w/s1600/burning+of+savonarola.jpg)
 
 This really should have settled the matter.
 
@@ -100,7 +104,7 @@ He found its components already distributed across Florence:
 
 Savonarola synchronized these components and gave them a prophetic controller.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh\_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF\_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k4L8u4AIXW3zgs9NNjyvKu6PtZo27Bos8PJrsm6PAvXTyZh_RBp0gJYTxhwcxNmVfyQns-Jp5Srm5WL9JRGG97AtHmF_M2OoFu15ChQzg65WcjbYscI-dD6tk6geqkptJiokW-Z93iE/s1600/Painting+of+Savonarola.jpg)
 
 Then the controller became one more object the city knew how to burn.
 
@@ -620,7 +624,7 @@ Savonarola then participated in diplomacy with Charles VIII and helped Florence 
 
 The prophet had become useful. Usefulness changes sacred authority.
 
-![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz\_MX3BIFy4et\_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg)
+![https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz_MX3BIFy4et_cLhPmD2ycw83KcE7A1T-sdlMlApuI4I6mczxB9QawPEGBX0T086s6q2zF7vxdWT1B9agCjoAYLVG4QivwtVONZUhbZa6TktFWz2ws1N2xxKh0P0NaDUpR3IsH1JZP5c/s1600/Savonarola-preaching-against-prodigality-ludwig-von-langenmantel-1879-w8kve0.jpg)
 
 A preacher who accurately describes moral pressure may be admired.
 
@@ -1801,7 +1805,7 @@ The critique of clerical corruption should not be rejected because prophecy beca
 
 The New Jerusalem vision should not be rejected simply because sacred title became dangerous. A city can need a moral horizon larger than oligarchic continuity.
 
-[![Das Neue Jerusalem \[The New Jerusalem\] - Curtis Wright Maps](https://curtiswrightmaps.com/wp-content/uploads/map_13.27x16.61_07-09-25_inv007187c-scaled.jpg)](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
+[![Das Neue Jerusalem [The New Jerusalem] - Curtis Wright Maps](https://curtiswrightmaps.com/wp-content/uploads/map_13.27x16.61_07-09-25_inv007187c-scaled.jpg)](https://curtiswrightmaps.com/product/das-neue-jerusalem-the-new-jerusalem/?ref=modalpathethics.com)
 
 The law of appeal should be preserved precisely because Savonarola’s own field failed it.
 
@@ -1874,7 +1878,7 @@ The sixth surviving object is the bonfire’s diagnostic power.
 
 A pile of objects can become a dashboard for a field it does not measure.
 
-[![Assassin's Creed 2 - Savonarola's Death & Ezio's Speech \[HD\]](https://i.ytimg.com/vi/ZCIZ7-J0cwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
+[![Assassin's Creed 2 - Savonarola's Death & Ezio's Speech [HD]](https://i.ytimg.com/vi/ZCIZ7-J0cwc/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZCIZ7-J0cwc&ref=modalpathethics.com)
 
 The lesson reaches well beyond Florence.
 

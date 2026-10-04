@@ -2,6 +2,7 @@
 title: "Applied Case: The Secret"
 slug: "applied-case-the-secret"
 canonical_url: "https://modalpathethics.com/applied-case-the-secret/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-secret.md"
 published_at: "2026-06-25T07:07:49.000-05:00"
 updated_at: "2026-06-26T14:22:58.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Sacred Slack"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
 # Applied Case: The Secret

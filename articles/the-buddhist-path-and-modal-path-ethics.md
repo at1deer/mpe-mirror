@@ -2,14 +2,18 @@
 title: "The Buddhist Path vs. Modal Path Ethics"
 slug: "the-buddhist-path-and-modal-path-ethics"
 canonical_url: "https://modalpathethics.com/the-buddhist-path-and-modal-path-ethics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-buddhist-path-and-modal-path-ethics.md"
 published_at: "2026-04-19T23:38:38.000-05:00"
 updated_at: "2026-09-28T20:47:32.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Engagement"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "af647f264fe4f3d4d3c5612954ef6d5f42f58d5fae15f37ae322c6c15cb6046c"
 ---
 # The Buddhist Path vs. Modal Path Ethics

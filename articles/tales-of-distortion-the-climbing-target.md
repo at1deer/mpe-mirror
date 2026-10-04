@@ -2,6 +2,7 @@
 title: "Tales of Distortion: The Climbing Target"
 slug: "tales-of-distortion-the-climbing-target"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-climbing-target/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-climbing-target.md"
 published_at: "2026-07-13T05:45:41.000-05:00"
 updated_at: "2026-07-13T05:45:41.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
 # Tales of Distortion: The Climbing Target

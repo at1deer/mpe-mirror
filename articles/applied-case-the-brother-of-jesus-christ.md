@@ -2,14 +2,18 @@
 title: "Applied Case: The Brother of Jesus Christ"
 slug: "applied-case-the-brother-of-jesus-christ"
 canonical_url: "https://modalpathethics.com/applied-case-the-brother-of-jesus-christ/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-brother-of-jesus-christ.md"
 published_at: "2026-07-21T05:30:37.000-05:00"
 updated_at: "2026-08-10T07:27:34.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
 # **I. The Brother Applies for Office**

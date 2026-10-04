@@ -2,6 +2,7 @@
 title: "Applied Case: Iran and the Nuclear Threshold"
 slug: "applied-case-iran-and-the-nuclear-threshold"
 canonical_url: "https://modalpathethics.com/applied-case-iran-and-the-nuclear-threshold/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-iran-and-the-nuclear-threshold.md"
 published_at: "2026-08-04T05:03:04.000-05:00"
 updated_at: "2026-08-08T02:04:36.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Geopolitical Wasteland"
   - "Security Instruments"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
 # **I. The Number**

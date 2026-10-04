@@ -2,13 +2,17 @@
 title: "Applied Case: Nord Stream"
 slug: "applied-case-nord-stream"
 canonical_url: "https://modalpathethics.com/applied-case-nord-stream/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-nord-stream.md"
 published_at: "2026-09-19T06:00:49.000-05:00"
 updated_at: "2026-09-19T06:00:48.000-05:00"
 tags:
   - "Applied Case"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
 ---
 # Applied Case: Nord Stream

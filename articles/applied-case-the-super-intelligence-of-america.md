@@ -2,13 +2,17 @@
 title: "Applied Case: The Super Intelligence of America"
 slug: "applied-case-the-super-intelligence-of-america"
 canonical_url: "https://modalpathethics.com/applied-case-the-super-intelligence-of-america/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-super-intelligence-of-america.md"
 published_at: "2026-09-23T01:30:12.000-05:00"
 updated_at: "2026-09-23T01:30:12.000-05:00"
 tags:
   - "Modal Systems"
   - "Field Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
 ---
 # Applied Case: The Super Intelligence of America

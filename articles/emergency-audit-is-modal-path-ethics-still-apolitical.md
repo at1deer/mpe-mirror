@@ -2,13 +2,17 @@
 title: "Emergency Audit: Is Modal Path Ethics Still Apolitical?"
 slug: "emergency-audit-is-modal-path-ethics-still-apolitical"
 canonical_url: "https://modalpathethics.com/emergency-audit-is-modal-path-ethics-still-apolitical/"
+mirror_url: "https://mirror.modalpathethics.com/articles/emergency-audit-is-modal-path-ethics-still-apolitical.md"
 published_at: "2026-09-24T20:25:47.000-05:00"
 updated_at: "2026-09-24T20:25:47.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
 ---
 # Emergency Audit: Is Modal Path Ethics Still Apolitical?

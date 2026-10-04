@@ -2,13 +2,17 @@
 title: "VI"
 slug: "vi"
 canonical_url: "https://modalpathethics.com/vi/"
+mirror_url: "https://mirror.modalpathethics.com/articles/vi.md"
 published_at: "2026-09-22T06:06:18.000-05:00"
 updated_at: "2026-09-22T06:06:18.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "The Player Who Can Win Every Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
 ---
 # VI

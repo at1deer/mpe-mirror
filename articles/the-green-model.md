@@ -2,12 +2,16 @@
 title: "The Green Model"
 slug: "the-green-model"
 canonical_url: "https://modalpathethics.com/the-green-model/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-green-model.md"
 published_at: "2026-09-12T05:30:19.000-05:00"
 updated_at: "2026-09-12T05:30:18.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
 ---
 # The Green Model

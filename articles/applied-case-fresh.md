@@ -2,14 +2,18 @@
 title: "Applied Case: Fresh (1994)"
 slug: "applied-case-fresh"
 canonical_url: "https://modalpathethics.com/applied-case-fresh/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-fresh.md"
 published_at: "2026-05-13T17:31:51.000-05:00"
 updated_at: "2026-09-28T21:15:39.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
 # Applied Case: Fresh (1994)

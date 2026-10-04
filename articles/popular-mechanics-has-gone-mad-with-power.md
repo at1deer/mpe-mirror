@@ -2,13 +2,17 @@
 title: "Popular Mechanics Has Gone Mad With Power"
 slug: "popular-mechanics-has-gone-mad-with-power"
 canonical_url: "https://modalpathethics.com/popular-mechanics-has-gone-mad-with-power/"
+mirror_url: "https://mirror.modalpathethics.com/articles/popular-mechanics-has-gone-mad-with-power.md"
 published_at: "2026-09-03T04:30:01.000-05:00"
 updated_at: "2026-09-03T04:30:00.000-05:00"
 tags:
   - "Instrument Jurisdiction"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
 # Popular Mechanics Has Gone Mad With Power

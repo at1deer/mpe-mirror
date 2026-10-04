@@ -2,13 +2,17 @@
 title: "Modal Path Ethics Is Not Partisan Politics"
 slug: "modal-path-ethics-is-not-partisan-politics"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-not-partisan-politics/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-not-partisan-politics.md"
 published_at: "2026-04-16T04:57:49.000-05:00"
 updated_at: "2026-09-28T20:42:37.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "995fd0fcf3b0b7f2d4f3fe86a32d45f05c7596e52b96529193ad3e4286571761"
 ---
 # Modal Path Ethics Is Not Partisan Politics

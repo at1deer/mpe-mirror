@@ -2,13 +2,17 @@
 title: "Applied Case: The Bodybuilding Field Collapse"
 slug: "applied-case-the-bodybuilding-field-collapse"
 canonical_url: "https://modalpathethics.com/applied-case-the-bodybuilding-field-collapse/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-bodybuilding-field-collapse.md"
 published_at: "2026-05-26T00:02:02.000-05:00"
 updated_at: "2026-09-29T20:40:31.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6be0eaa671dcff8859ad92e14cc23d7541785ad9a5d27d9c7b25b480701ab31a"
 ---
 # Applied Case: The Bodybuilding Field Collapse

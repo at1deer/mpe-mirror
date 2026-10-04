@@ -2,14 +2,18 @@
 title: "Al-Ghazali and the Last Instrument"
 slug: "al-ghazali-and-the-last-instrument"
 canonical_url: "https://modalpathethics.com/al-ghazali-and-the-last-instrument/"
+mirror_url: "https://mirror.modalpathethics.com/articles/al-ghazali-and-the-last-instrument.md"
 published_at: "2026-09-07T08:00:44.000-05:00"
 updated_at: "2026-09-07T08:00:43.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
 # Al-Ghazali and the Last Instrument

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generator": "mpe-static-mirror",
+  "generator_version": "2.0.0",
+  "generated_at": "2026-10-04T01:35:29.373Z",
+  "source_api": "https://modal-path-ethics.ghost.io",
+  "canonical_site": "https://modalpathethics.com",
+  "mirror_base_url": "https://mirror.modalpathethics.com",
+  "selection_rule": "All posts returned by Ghost Content API /posts endpoint using the configured public Content API key.",
+  "excludes": [
+    "drafts",
+    "scheduled posts not returned as published",
+    "preview URLs",
+    "deleted/unpublished posts after next successful sync"
+  ],
+  "integrity": "Each article record includes sha256_plaintext over Ghost plaintext when available, otherwise generated Markdown."
+}

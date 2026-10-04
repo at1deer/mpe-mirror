@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XVIII: Antinatalism"
 slug: "applied-case-the-antinatalist-position"
 canonical_url: "https://modalpathethics.com/applied-case-the-antinatalist-position/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-antinatalist-position.md"
 published_at: "2026-04-27T01:02:29.000-05:00"
 updated_at: "2026-05-08T22:13:43.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
 # Thought Gauntlet XVIII: Antinatalism

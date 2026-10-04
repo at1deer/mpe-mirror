@@ -2,14 +2,18 @@
 title: "Applied Case: Twelve Monkeys (1995)"
 slug: "applied-case-twelve-monkeys-1995"
 canonical_url: "https://modalpathethics.com/applied-case-twelve-monkeys-1995/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-twelve-monkeys-1995.md"
 published_at: "2026-06-21T07:30:24.000-05:00"
 updated_at: "2026-06-24T03:03:29.000-05:00"
 tags:
   - "Entropy Debt Week"
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
 # Applied Case: Twelve Monkeys (1995)

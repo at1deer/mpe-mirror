@@ -2,13 +2,17 @@
 title: "Story-Minds"
 slug: "story-minds"
 canonical_url: "https://modalpathethics.com/story-minds/"
+mirror_url: "https://mirror.modalpathethics.com/articles/story-minds.md"
 published_at: "2026-05-07T21:13:47.000-05:00"
 updated_at: "2026-09-28T21:09:15.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
 # Story-Minds

@@ -2,14 +2,18 @@
 title: "Applied Case: The TempleOS"
 slug: "applied-case-the-templeos-and-the-oracle"
 canonical_url: "https://modalpathethics.com/applied-case-the-templeos-and-the-oracle/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-templeos-and-the-oracle.md"
 published_at: "2026-05-21T00:39:30.000-05:00"
 updated_at: "2026-09-29T20:34:25.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Failed Field Analysts"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1e218cdc3d4644ccfe66e714b85210fd23fa917a4b895a826b5bfd297df7f9c2"
 ---
 # Applied Case: The TempleOS

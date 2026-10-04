@@ -2,13 +2,17 @@
 title: "Field Instruments: Disruption"
 slug: "field-instruments-disruption"
 canonical_url: "https://modalpathethics.com/field-instruments-disruption/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-disruption.md"
 published_at: "2026-07-21T10:00:03.000-05:00"
 updated_at: "2026-08-11T15:28:44.000-05:00"
 tags:
   - "Field Instruments"
   - "Business"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
 # Field Instruments: Disruption

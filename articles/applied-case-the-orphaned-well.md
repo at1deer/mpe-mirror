@@ -2,13 +2,17 @@
 title: "Applied Case: The Orphaned Well"
 slug: "applied-case-the-orphaned-well"
 canonical_url: "https://modalpathethics.com/applied-case-the-orphaned-well/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-orphaned-well.md"
 published_at: "2026-08-20T06:00:34.000-05:00"
 updated_at: "2026-08-20T20:07:53.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
 # Applied Case: The Orphaned Well

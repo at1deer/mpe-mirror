@@ -2,13 +2,17 @@
 title: "Thought Gauntlet V: The Scapegoat"
 slug: "applied-case-the-scapegoat"
 canonical_url: "https://modalpathethics.com/applied-case-the-scapegoat/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-scapegoat.md"
 published_at: "2026-04-26T18:41:10.000-05:00"
 updated_at: "2026-05-08T22:02:25.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
 # Thought Gauntlet V: The Scapegoat

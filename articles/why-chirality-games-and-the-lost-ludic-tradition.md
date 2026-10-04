@@ -2,14 +2,18 @@
 title: "About Chirality: Games, Philosophy, and The Lost Ludic Tradition"
 slug: "why-chirality-games-and-the-lost-ludic-tradition"
 canonical_url: "https://modalpathethics.com/why-chirality-games-and-the-lost-ludic-tradition/"
+mirror_url: "https://mirror.modalpathethics.com/articles/why-chirality-games-and-the-lost-ludic-tradition.md"
 published_at: "2026-04-19T04:58:39.000-05:00"
 updated_at: "2026-09-28T20:46:03.000-05:00"
 tags:
   - "Chirality"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
 # About Chirality: Games, Philosophy, and The Lost Ludic Tradition

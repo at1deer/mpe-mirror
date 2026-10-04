@@ -2,14 +2,18 @@
 title: "Applied Case: Tennessee Found $1.2 Billion"
 slug: "applied-case-tennessee-found-1-2-billion"
 canonical_url: "https://modalpathethics.com/applied-case-tennessee-found-1-2-billion/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-tennessee-found-1-2-billion.md"
 published_at: "2026-09-07T06:00:30.000-05:00"
 updated_at: "2026-09-07T14:25:32.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
 # Applied Case: Tennessee Found $1.2 Billion

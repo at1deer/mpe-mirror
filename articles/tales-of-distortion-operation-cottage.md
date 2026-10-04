@@ -2,14 +2,18 @@
 title: "Tales of Distortion: Operation Cottage"
 slug: "tales-of-distortion-operation-cottage"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-operation-cottage/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-operation-cottage.md"
 published_at: "2026-07-04T05:45:49.000-05:00"
 updated_at: "2026-07-04T06:23:12.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Security Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
 # Tales of Distortion: Operation Cottage

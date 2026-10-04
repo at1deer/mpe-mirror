@@ -2,13 +2,17 @@
 title: "Thought Gauntlet XVII: Moral Uncertainty"
 slug: "applied-case-the-uncertainty-problem"
 canonical_url: "https://modalpathethics.com/applied-case-the-uncertainty-problem/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-uncertainty-problem.md"
 published_at: "2026-04-27T00:19:09.000-05:00"
 updated_at: "2026-05-08T22:12:08.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
 # Thought Gauntlet XVII: Moral Uncertainty

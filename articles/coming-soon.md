@@ -2,13 +2,17 @@
 title: "Coming June 17th"
 slug: "coming-soon"
 canonical_url: "https://modalpathethics.com/coming-soon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/coming-soon.md"
 published_at: "2026-04-15T18:10:37.000-05:00"
 updated_at: "2026-09-28T20:40:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bdfbc6ecdb97fd52c0efe2f061e93d37124846d33cc9af5ef69b169759bde2e6"
 ---
 # Coming June 17th

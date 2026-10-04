@@ -2,13 +2,17 @@
 title: "Field Instruments: Markets"
 slug: "field-instruments-markets"
 canonical_url: "https://modalpathethics.com/field-instruments-markets/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-markets.md"
 published_at: "2026-06-02T19:18:33.000-05:00"
 updated_at: "2026-09-29T20:44:06.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9ce0d18b46741b44a10edb14add787c07c44f42ed0d9733caaeeeb10fe9be19"
 ---
 # Field Instruments: Markets

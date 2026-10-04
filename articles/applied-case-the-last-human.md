@@ -2,13 +2,17 @@
 title: "Thought Gauntlet VIII: The Last Human"
 slug: "applied-case-the-last-human"
 canonical_url: "https://modalpathethics.com/applied-case-the-last-human/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-last-human.md"
 published_at: "2026-04-26T20:58:50.000-05:00"
 updated_at: "2026-05-08T22:04:40.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
 # Thought Gauntlet VIII: The Last Human

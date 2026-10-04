@@ -2,14 +2,18 @@
 title: "The Trespass Machine"
 slug: "applied-case-the-trespass-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-trespass-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-trespass-machine.md"
 published_at: "2026-06-27T05:01:00.000-05:00"
 updated_at: "2026-06-28T01:35:47.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
 # The Trespass Machine

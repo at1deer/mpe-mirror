@@ -2,14 +2,18 @@
 title: "Pope Leo Walks Through the Door"
 slug: "pope-leo-walks-through-the-door"
 canonical_url: "https://modalpathethics.com/pope-leo-walks-through-the-door/"
+mirror_url: "https://mirror.modalpathethics.com/articles/pope-leo-walks-through-the-door.md"
 published_at: "2026-09-26T05:30:21.000-05:00"
 updated_at: "2026-09-26T05:30:20.000-05:00"
 tags:
   - "Sacred Instruments"
   - "Instrument Jurisdiction"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "cf0a0d4437bb1684d2215184ea56257592fff503a3a4f1dcc0d319b768a737f3"
 ---
 # Pope Leo Walks Through the Door

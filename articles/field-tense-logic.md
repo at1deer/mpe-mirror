@@ -2,14 +2,18 @@
 title: "Field Tense Logic"
 slug: "field-tense-logic"
 canonical_url: "https://modalpathethics.com/field-tense-logic/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-tense-logic.md"
 published_at: "2026-07-01T07:30:55.000-05:00"
 updated_at: "2026-09-26T16:37:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Formal"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "aae299f80170f2207372fdc95b1f0ae71aa45ba6c979acd4b2a3e375e4ef3060"
 ---
 # Field Tense Logic

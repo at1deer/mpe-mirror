@@ -2,14 +2,18 @@
 title: "Applied Case: The Crew"
 slug: "applied-case-the-crew"
 canonical_url: "https://modalpathethics.com/applied-case-the-crew/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-crew.md"
 published_at: "2026-05-06T14:01:36.000-05:00"
 updated_at: "2026-09-28T21:07:12.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "974cb2a75ad22384a278dc5f19a331ffb71f2b7f60c0b6c5a231927a73c92431"
 ---
 # Applied Case: The Crew

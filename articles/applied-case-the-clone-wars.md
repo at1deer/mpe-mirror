@@ -2,13 +2,17 @@
 title: "Applied Case: The Clone Wars"
 slug: "applied-case-the-clone-wars"
 canonical_url: "https://modalpathethics.com/applied-case-the-clone-wars/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-clone-wars.md"
 published_at: "2026-06-06T11:32:59.000-05:00"
 updated_at: "2026-09-29T20:46:51.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "b40245cbe6885b6daa1e75123b7dfaf3f2d92a15d57a97e621f95bf2970adee8"
 ---
 # Applied Case: The Clone Wars

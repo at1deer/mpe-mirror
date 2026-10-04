@@ -2,14 +2,18 @@
 title: "Applied Case: The Problem of Evil"
 slug: "problem-of-evil"
 canonical_url: "https://modalpathethics.com/problem-of-evil/"
+mirror_url: "https://mirror.modalpathethics.com/articles/problem-of-evil.md"
 published_at: "2026-04-28T22:03:00.000-05:00"
 updated_at: "2026-09-28T21:00:18.000-05:00"
 tags:
   - "Applied Case"
   - "Sacred Instruments"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "104ba44b5716e4b475013fc090a3ffa463f8403fd55f35d81d37bef3fc3ed71b"
 ---
 # Applied Case: The Problem of Evil

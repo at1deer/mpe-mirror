@@ -2,13 +2,17 @@
 title: "Applied Case: The Aug Incident of 2027"
 slug: "the-fourth-button"
 canonical_url: "https://modalpathethics.com/the-fourth-button/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-fourth-button.md"
 published_at: "2026-08-03T06:00:49.000-05:00"
 updated_at: "2026-08-04T00:37:56.000-05:00"
 tags:
   - "Chirality"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
 # Applied Case: The Aug Incident of 2027

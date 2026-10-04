@@ -2,13 +2,17 @@
 title: "Thought Gauntlet III: The Transplant Surgeon"
 slug: "applied-case-the-transplant-surgeon"
 canonical_url: "https://modalpathethics.com/applied-case-the-transplant-surgeon/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-transplant-surgeon.md"
 published_at: "2026-04-26T18:06:28.000-05:00"
 updated_at: "2026-05-08T22:00:53.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Thought Gauntlet"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
 # Thought Gauntlet III: The Transplant Surgeon

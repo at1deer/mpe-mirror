@@ -2,13 +2,17 @@
 title: "Applied Case: The Fictional Soul-Balm Machine"
 slug: "applied-case-the-fictional-soul-balm-machine"
 canonical_url: "https://modalpathethics.com/applied-case-the-fictional-soul-balm-machine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-fictional-soul-balm-machine.md"
 published_at: "2026-05-28T03:00:14.000-05:00"
 updated_at: "2026-09-29T20:42:49.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5779db9970d2e9a27a7efe5e168aeb9e3c6a14653d0f6e0164740744aad5b1ad"
 ---
 # Applied Case: The Fictional Soul-Balm Machine

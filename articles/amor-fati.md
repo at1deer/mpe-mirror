@@ -2,6 +2,7 @@
 title: "Amor Fati."
 slug: "amor-fati"
 canonical_url: "https://modalpathethics.com/amor-fati/"
+mirror_url: "https://mirror.modalpathethics.com/articles/amor-fati.md"
 published_at: "2026-09-26T06:00:57.000-05:00"
 updated_at: "2026-09-26T14:00:37.000-05:00"
 tags:
@@ -11,8 +12,11 @@ tags:
   - "Epistemic Instruments"
   - "Apologies Department"
   - "Post-Game"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "3ce28745732482a163c60dd79cd68dfdfbe28c42de507a01a49d93c3fbc60ac3"
 ---
 # Amor Fati.

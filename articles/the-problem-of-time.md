@@ -2,14 +2,18 @@
 title: "The Problem of Time"
 slug: "the-problem-of-time"
 canonical_url: "https://modalpathethics.com/the-problem-of-time/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-problem-of-time.md"
 published_at: "2026-06-12T19:09:22.000-05:00"
 updated_at: "2026-09-29T20:55:21.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5bb0b78ea853589390b1770753db397b2e526a49ffc0d37fed881e7f3b95a275"
 ---
 # The Problem of Time

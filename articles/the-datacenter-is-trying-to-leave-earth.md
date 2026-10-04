@@ -2,14 +2,18 @@
 title: "Applied Case: The Datacenter is Trying to Leave Earth"
 slug: "the-datacenter-is-trying-to-leave-earth"
 canonical_url: "https://modalpathethics.com/the-datacenter-is-trying-to-leave-earth/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-datacenter-is-trying-to-leave-earth.md"
 published_at: "2026-09-19T05:30:59.000-05:00"
 updated_at: "2026-09-19T05:30:59.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
 ---
 # Applied Case: The Datacenter is Trying to Leave Earth

@@ -2,14 +2,18 @@
 title: "Modal Path Ethics Has Been Published"
 slug: "modal-path-ethics-has-been-published"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-has-been-published/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-has-been-published.md"
 published_at: "2026-06-17T02:22:31.000-05:00"
 updated_at: "2026-09-27T02:28:35.000-05:00"
 tags:
   - "Books"
   - "Modal Path Ethics"
   - "News"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
 ---
 # Modal Path Ethics Has Been Published

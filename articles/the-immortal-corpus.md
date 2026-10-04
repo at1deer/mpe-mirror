@@ -2,14 +2,18 @@
 title: "Applied Case: The Immortal Corpus"
 slug: "the-immortal-corpus"
 canonical_url: "https://modalpathethics.com/the-immortal-corpus/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-immortal-corpus.md"
 published_at: "2026-07-14T04:20:46.000-05:00"
 updated_at: "2026-08-08T02:28:16.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
 # Applied Case: The Immortal Corpus
@@ -44,7 +48,7 @@ That article named **continuance capture**: the reversal that occurs when an ins
 
 Professional academic philosophy is what continuance capture looks like at civilizational scale.
 
-![ER\_Object\_Erdtree\_Burial01.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Object_Erdtree_Burial01.webp)
+![ER_Object_Erdtree_Burial01.webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_Object_Erdtree_Burial01.webp)
 
 Its archive was built to preserve instruments of thought.
 
@@ -92,7 +96,7 @@ _Corpus_ means body.
 
 This is already suspiciously helpful.
 
-![504387092\_2957581161109457\_5532010655185055760\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/504387092_2957581161109457_5532010655185055760_n.jpg)
+![504387092_2957581161109457_5532010655185055760_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/504387092_2957581161109457_5532010655185055760_n.jpg)
 
 A body of work can preserve continuity across time. It lets later minds encounter arguments they did not invent, mistakes they did not have to repeat, and conceptual structures too large for one lifetime.
 
@@ -382,7 +386,7 @@ So, the pipeline therefore selects for the most countable residue.
 
 It selects **against** the event that produced the residue.
 
-![1920x1080-vtime10\_14-take2022-03-24-07-26-31.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg)
+![1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/1920x1080-vtime10_14-take2022-03-24-07-26-31.jpeg)
 
 A seminar paper can **record** philosophical discovery. Over time, the institution begins treating the record as the discovery.
 
@@ -412,7 +416,7 @@ Technically true. I was willing to do this.
 
 A city is also _technically_ walkable if the sidewalk ends every two hundred feet but the pedestrian is willing to climb a drainage ditch full of rabid hounds.
 
-![487872517\_9037565559681886\_390765732002225693\_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/487872517_9037565559681886_390765732002225693_n.jpg)
+![487872517_9037565559681886_390765732002225693_n.jpg](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/487872517_9037565559681886_390765732002225693_n.jpg)
 
 **Access** is a path through reality, not a permission statement.
 
@@ -876,4 +880,4 @@ Philosophy does not need another immortal.
 
 It needs something alive enough to become obsolete.
 
-![ER\_NPC\_Goldmask\_(Forest-Spanning\_Greatbridge)\_(9.16).webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_NPC_Goldmask_-Forest-Spanning_Greatbridge-_-9.16-.webp)
+![ER_NPC_Goldmask_(Forest-Spanning_Greatbridge)_(9.16).webp](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/07/ER_NPC_Goldmask_-Forest-Spanning_Greatbridge-_-9.16-.webp)

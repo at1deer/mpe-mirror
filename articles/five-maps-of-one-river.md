@@ -2,12 +2,16 @@
 title: "Five Maps of One River"
 slug: "five-maps-of-one-river"
 canonical_url: "https://modalpathethics.com/five-maps-of-one-river/"
+mirror_url: "https://mirror.modalpathethics.com/articles/five-maps-of-one-river.md"
 published_at: "2026-09-06T06:00:13.000-05:00"
 updated_at: "2026-09-06T06:00:12.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
 # Five Maps of One River

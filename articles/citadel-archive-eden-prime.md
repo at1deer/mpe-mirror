@@ -2,6 +2,7 @@
 title: "Citadel Archive: Eden Prime"
 slug: "citadel-archive-eden-prime"
 canonical_url: "https://modalpathethics.com/citadel-archive-eden-prime/"
+mirror_url: "https://mirror.modalpathethics.com/articles/citadel-archive-eden-prime.md"
 published_at: "2026-06-10T07:30:23.000-05:00"
 updated_at: "2026-09-29T20:52:47.000-05:00"
 tags:
@@ -9,8 +10,11 @@ tags:
   - "Failed Field Analysts"
   - "Field Creature"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d77786bf0c0dd7f3a00113112e0ec8666df4a045365b7f7685c3039d6a67403"
 ---
 # Citadel Archive: Eden Prime

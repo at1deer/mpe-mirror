@@ -2,14 +2,18 @@
 title: "Modal Path Ethics is Slowing Down"
 slug: "modal-path-ethics-is-slowing-down"
 canonical_url: "https://modalpathethics.com/modal-path-ethics-is-slowing-down/"
+mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-is-slowing-down.md"
 published_at: "2026-08-13T06:00:09.000-05:00"
 updated_at: "2026-08-13T06:00:08.000-05:00"
 tags:
   - "News"
   - "Modal Path Ethics"
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
 # Modal Path Ethics is Slowing Down

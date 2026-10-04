@@ -2,13 +2,17 @@
 title: "Applied Case: The Assembly and the Guards"
 slug: "applied-case-the-assembly-and-the-guards"
 canonical_url: "https://modalpathethics.com/applied-case-the-assembly-and-the-guards/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-assembly-and-the-guards.md"
 published_at: "2026-08-18T06:00:05.000-05:00"
 updated_at: "2026-08-18T06:00:05.000-05:00"
 tags:
   - "Inner Apocalypse"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
 # Applied Case: The Assembly and the Guards

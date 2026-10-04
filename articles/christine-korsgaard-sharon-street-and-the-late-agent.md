@@ -2,14 +2,18 @@
 title: "Christine Korsgaard, Sharon Street, and the Late Agent"
 slug: "christine-korsgaard-sharon-street-and-the-late-agent"
 canonical_url: "https://modalpathethics.com/christine-korsgaard-sharon-street-and-the-late-agent/"
+mirror_url: "https://mirror.modalpathethics.com/articles/christine-korsgaard-sharon-street-and-the-late-agent.md"
 published_at: "2026-09-29T05:30:32.000-05:00"
 updated_at: "2026-09-29T05:30:32.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
   - "Multiplayer"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e995e43ffc84b2b6f85db066af635243ff633264fa65e4c938f8920cc86855bc"
 ---
 # Christine Korsgaard, Sharon Street, and the Late Agent

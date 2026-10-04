@@ -2,14 +2,18 @@
 title: "Tales of Distortion: The Great Disappointment"
 slug: "tales-of-distortion-the-great-disappointment"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-great-disappointment/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-great-disappointment.md"
 published_at: "2026-07-03T06:00:12.000-05:00"
 updated_at: "2026-07-05T04:37:20.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
   - "Sacred Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
 # Tales of Distortion: The Great Disappointment

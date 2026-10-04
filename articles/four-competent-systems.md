@@ -2,12 +2,16 @@
 title: "Four Competent Systems"
 slug: "four-competent-systems"
 canonical_url: "https://modalpathethics.com/four-competent-systems/"
+mirror_url: "https://mirror.modalpathethics.com/articles/four-competent-systems.md"
 published_at: "2026-08-24T06:00:26.000-05:00"
 updated_at: "2026-08-24T06:00:25.000-05:00"
 tags:
   - "Inner Apocalypse"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
 # Four Competent Systems

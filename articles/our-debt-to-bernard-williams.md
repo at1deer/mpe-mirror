@@ -2,14 +2,18 @@
 title: "Our Debt to Bernard Williams"
 slug: "our-debt-to-bernard-williams"
 canonical_url: "https://modalpathethics.com/our-debt-to-bernard-williams/"
+mirror_url: "https://mirror.modalpathethics.com/articles/our-debt-to-bernard-williams.md"
 published_at: "2026-04-20T12:30:35.000-05:00"
 updated_at: "2026-09-28T20:49:21.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8af6a2e49146261c7d8f1b5f05724dd34fbbdb39b6be06f45b26f09a647395"
 ---
 # Our Debt to Bernard Williams

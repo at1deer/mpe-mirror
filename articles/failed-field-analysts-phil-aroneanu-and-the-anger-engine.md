@@ -2,13 +2,17 @@
 title: "Failed Field Analysts: Phil Aroneanu and the Anger Engine"
 slug: "failed-field-analysts-phil-aroneanu-and-the-anger-engine"
 canonical_url: "https://modalpathethics.com/failed-field-analysts-phil-aroneanu-and-the-anger-engine/"
+mirror_url: "https://mirror.modalpathethics.com/articles/failed-field-analysts-phil-aroneanu-and-the-anger-engine.md"
 published_at: "2026-08-29T19:44:55.000-05:00"
 updated_at: "2026-09-01T18:05:54.000-05:00"
 tags:
   - "Failed Field Analysts"
   - "Instrument Jurisdiction"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "1bdea79ae33378c6a30187559211911d19b2bcc8cdf66fcc95c1b3fd705058ce"
 ---
 # Failed Field Analysts: Phil Aroneanu and the Anger Engine

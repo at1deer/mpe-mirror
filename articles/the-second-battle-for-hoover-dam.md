@@ -2,6 +2,7 @@
 title: "Applied Case: The Second Battle of Hoover Dam"
 slug: "the-second-battle-for-hoover-dam"
 canonical_url: "https://modalpathethics.com/the-second-battle-for-hoover-dam/"
+mirror_url: "https://mirror.modalpathethics.com/articles/the-second-battle-for-hoover-dam.md"
 published_at: "2026-06-29T06:06:05.000-05:00"
 updated_at: "2026-08-10T07:34:03.000-05:00"
 tags:
@@ -10,8 +11,11 @@ tags:
   - "Failed Field Analysts"
   - "Field Creature"
   - "Chirality"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
 # Applied Case: The Second Battle of Hoover Dam

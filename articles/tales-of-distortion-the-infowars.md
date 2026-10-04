@@ -2,13 +2,17 @@
 title: "Tales of Distortion: InfoWars"
 slug: "tales-of-distortion-the-infowars"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-infowars/"
+mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-infowars.md"
 published_at: "2026-08-12T06:00:58.000-05:00"
 updated_at: "2026-08-12T06:00:58.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Epistemic Instruments"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
 # Tales of Distortion: InfoWars

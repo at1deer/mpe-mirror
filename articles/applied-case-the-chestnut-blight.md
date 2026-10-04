@@ -2,13 +2,17 @@
 title: "Applied Case: The Chestnut Blight"
 slug: "applied-case-the-chestnut-blight"
 canonical_url: "https://modalpathethics.com/applied-case-the-chestnut-blight/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-chestnut-blight.md"
 published_at: "2026-04-25T00:50:39.000-05:00"
 updated_at: "2026-09-28T20:52:00.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
 # Applied Case: The Chestnut Blight

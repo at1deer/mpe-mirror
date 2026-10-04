@@ -2,12 +2,16 @@
 title: "Transition Action: The Battery Does Nothing"
 slug: "transition-action-the-battery-does-nothing"
 canonical_url: "https://modalpathethics.com/transition-action-the-battery-does-nothing/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-battery-does-nothing.md"
 published_at: "2026-08-10T07:14:04.000-05:00"
 updated_at: "2026-08-10T07:14:04.000-05:00"
 tags:
   - "Transition Action"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
 ---
 # Transition Action: The Battery Does Nothing

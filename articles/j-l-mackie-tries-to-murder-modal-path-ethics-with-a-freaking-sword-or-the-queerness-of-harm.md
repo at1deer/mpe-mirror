@@ -2,13 +2,17 @@
 title: "J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)"
 slug: "j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm"
 canonical_url: "https://modalpathethics.com/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm/"
+mirror_url: "https://mirror.modalpathethics.com/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.md"
 published_at: "2026-10-01T05:45:52.000-05:00"
 updated_at: "2026-10-01T10:32:59.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "52b7eecfc160a35042eebb60af261a4d7177719d084dcaccb50481b2ecb8c903"
 ---
 # J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)

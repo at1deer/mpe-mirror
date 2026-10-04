@@ -2,13 +2,17 @@
 title: "Taxonomy of Extant Loci"
 slug: "taxonomy-of-extant-loci"
 canonical_url: "https://modalpathethics.com/taxonomy-of-extant-loci/"
+mirror_url: "https://mirror.modalpathethics.com/articles/taxonomy-of-extant-loci.md"
 published_at: "2026-05-06T18:50:16.000-05:00"
 updated_at: "2026-09-28T21:08:13.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Supplement"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
 # Taxonomy of Extant Loci

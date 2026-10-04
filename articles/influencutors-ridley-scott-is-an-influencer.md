@@ -2,12 +2,16 @@
 title: "Influencutors: Ridley Scott Is an Influencer"
 slug: "influencutors-ridley-scott-is-an-influencer"
 canonical_url: "https://modalpathethics.com/influencutors-ridley-scott-is-an-influencer/"
+mirror_url: "https://mirror.modalpathethics.com/articles/influencutors-ridley-scott-is-an-influencer.md"
 published_at: "2026-09-11T13:36:28.000-05:00"
 updated_at: "2026-09-11T13:36:28.000-05:00"
 tags:
   - "Influencutors"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
 ---
 # Influencutors: Ridley Scott Is an Influencer

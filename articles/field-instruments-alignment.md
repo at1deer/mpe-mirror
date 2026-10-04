@@ -2,13 +2,17 @@
 title: "Field Instruments: Alignment"
 slug: "field-instruments-alignment"
 canonical_url: "https://modalpathethics.com/field-instruments-alignment/"
+mirror_url: "https://mirror.modalpathethics.com/articles/field-instruments-alignment.md"
 published_at: "2026-09-09T07:00:18.000-05:00"
 updated_at: "2026-09-09T07:00:17.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---
 # Field Instruments: Alignment

@@ -2,13 +2,17 @@
 title: "Applied Case: The Mysteries of Pokémon VGC"
 slug: "applied-case-the-mysteries-of-pokemon-vgc"
 canonical_url: "https://modalpathethics.com/applied-case-the-mysteries-of-pokemon-vgc/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-mysteries-of-pokemon-vgc.md"
 published_at: "2026-06-08T01:22:02.000-05:00"
 updated_at: "2026-09-29T20:47:52.000-05:00"
 tags:
   - "Pokémon"
   - "Applied Case"
-source: "Ghost Content API published post"
-mirror_generated_at: "2026-10-03T21:42:47.002Z"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-10-04T01:35:29.373Z"
+mirror_generator_version: "2.0.0"
 sha256_plaintext: "03bd151d308ac5a407c3935b6ce21d17bdcc8cc05dbdf6652ab0054d6e598c75"
 ---
 # Applied Case: The Mysteries of Pokémon VGC
