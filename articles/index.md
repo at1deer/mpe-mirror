@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-05T06:08:34.008Z
+Mirror generated: 2026-10-05T15:12:19.581Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 368
+Published article count: 369
 
+- 2026-10-05 — [Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.md) ([HTML](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.html)) · [canonical](https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/)
 - 2026-10-04 — [Applied Case: The Proof Was 166 Pages Long](/articles/applied-case-the-proof-was-166-pages-long.md) ([HTML](/articles/applied-case-the-proof-was-166-pages-long.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/)
 - 2026-10-04 — [Pope Leo and the Ontological Border](/articles/pope-leo-and-the-ontological-border.md) ([HTML](/articles/pope-leo-and-the-ontological-border.html)) · [canonical](https://modalpathethics.com/pope-leo-and-the-ontological-border/)
 - 2026-10-03 — [MODAL KOMBAT: Catherine Malabou and the Transition Problem](/articles/multiplayer-catherine-malabou-and-the-transition-problem.md) ([HTML](/articles/multiplayer-catherine-malabou-and-the-transition-problem.html)) · [canonical](https://modalpathethics.com/multiplayer-catherine-malabou-and-the-transition-problem/)

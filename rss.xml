@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 06:08:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:12:19 GMT</lastBuildDate>
     
+    <item>
+      <title>Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive</title>
+      <link>https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.html</guid>
+      <pubDate>Mon, 05 Oct 2026 11:00:53 GMT</pubDate>
+      <description>A right to correct is not a path by which correction remains possible.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Proof Was 166 Pages Long</title>
       <link>https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-bill-gates.html</guid>
       <pubDate>Fri, 18 Sep 2026 10:45:01 GMT</pubDate>
       <description>Human Reserved is still getting rezoned.</description>
-    </item>
-
-    <item>
-      <title>I</title>
-      <link>https://modalpathethics.com/i/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/i.html</guid>
-      <pubDate>Thu, 17 Sep 2026 11:31:58 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
     </item>
   </channel>
 </rss>
