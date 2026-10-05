@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-04T21:52:18.747Z",
+  "generated_at": "2026-10-05T06:08:34.008Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -92,7 +92,10 @@
       "updated_at": "2026-10-02T16:46:04.000-05:00",
       "canonical_url": "https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/",
       "excerpt": "Modal Path Ethics downloaded the data. This matters.",
-      "tags": [],
+      "tags": [
+        "News",
+        "Modal Systems"
+      ],
       "authors": [
         "Aidan Lawson"
       ],
@@ -106,7 +109,7 @@
       "title": "How I 6-0’d Nick Bostrom With Aurumoth",
       "slug": "how-i-6-0d-nick-bostrom-with-aurumoth",
       "published_at": "2026-10-02T06:00:32.000-05:00",
-      "updated_at": "2026-10-02T06:00:31.000-05:00",
+      "updated_at": "2026-10-04T23:41:11.000-05:00",
       "canonical_url": "https://modalpathethics.com/how-i-6-0d-nick-bostrom-with-aurumoth/",
       "excerpt": "\"It was just a matter of time before we got burned by the power creep of Topic Leaders.\" - DougJustDoug",
       "tags": [
@@ -236,7 +239,7 @@
       "title": "Christine Korsgaard, Sharon Street, and the Late Agent",
       "slug": "christine-korsgaard-sharon-street-and-the-late-agent",
       "published_at": "2026-09-29T05:30:32.000-05:00",
-      "updated_at": "2026-09-29T05:30:32.000-05:00",
+      "updated_at": "2026-10-04T23:41:20.000-05:00",
       "canonical_url": "https://modalpathethics.com/christine-korsgaard-sharon-street-and-the-late-agent/",
       "excerpt": "Two Hunters guard the road out of moral realism.",
       "tags": [
@@ -298,7 +301,7 @@
       "title": "Hume, Moore, and the Normative Bridge",
       "slug": "hume-moore-and-the-normative-bridge",
       "published_at": "2026-09-27T06:00:22.000-05:00",
-      "updated_at": "2026-09-29T02:29:52.000-05:00",
+      "updated_at": "2026-10-04T23:41:33.000-05:00",
       "canonical_url": "https://modalpathethics.com/hume-moore-and-the-normative-bridge/",
       "excerpt": "Welcome to the post-game.",
       "tags": [
@@ -406,7 +409,7 @@
       "title": "Field Instruments: Telepathy",
       "slug": "field-instruments-telepathy",
       "published_at": "2026-09-25T05:20:39.000-05:00",
-      "updated_at": "2026-09-25T05:20:38.000-05:00",
+      "updated_at": "2026-10-04T23:41:45.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-telepathy/",
       "excerpt": "Telepathy makes translation intimate enough to disappear from experience. It does not abolish translation.",
       "tags": [
@@ -690,7 +693,7 @@
       "title": "Field Instruments: Hyperintelligence",
       "slug": "field-instruments-hyperintelligence",
       "published_at": "2026-09-22T05:58:09.000-05:00",
-      "updated_at": "2026-09-22T16:23:59.000-05:00",
+      "updated_at": "2026-10-04T23:42:10.000-05:00",
       "canonical_url": "https://modalpathethics.com/field-instruments-hyperintelligence/",
       "excerpt": "When human cognitive limitation becomes a fact about the reachable field.",
       "tags": [
@@ -970,7 +973,7 @@
       "title": "Applied Case: The Dog Gets the Ball",
       "slug": "applied-case-the-dog-gets-the-ball",
       "published_at": "2026-09-18T05:50:11.000-05:00",
-      "updated_at": "2026-09-18T23:10:16.000-05:00",
+      "updated_at": "2026-10-04T23:42:28.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/",
       "excerpt": "Everyone may be dead in ten years.",
       "tags": [

@@ -4,7 +4,7 @@ slug: "hume-moore-and-the-normative-bridge"
 canonical_url: "https://modalpathethics.com/hume-moore-and-the-normative-bridge/"
 mirror_url: "https://mirror.modalpathethics.com/articles/hume-moore-and-the-normative-bridge.md"
 published_at: "2026-09-27T06:00:22.000-05:00"
-updated_at: "2026-09-29T02:29:52.000-05:00"
+updated_at: "2026-10-04T23:41:33.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
@@ -12,7 +12,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-04T21:52:18.747Z"
+mirror_generated_at: "2026-10-05T06:08:34.008Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "11b3a5a4af1b851e0565f384d8cd20e3f2a56eeeef95c8aa96c002852ea4aa33"
 ---

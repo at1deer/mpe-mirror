@@ -4,7 +4,7 @@ slug: "applied-case-the-dog-gets-the-ball"
 canonical_url: "https://modalpathethics.com/applied-case-the-dog-gets-the-ball/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-dog-gets-the-ball.md"
 published_at: "2026-09-18T05:50:11.000-05:00"
-updated_at: "2026-09-18T23:10:16.000-05:00"
+updated_at: "2026-10-04T23:42:28.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Systems"
@@ -12,7 +12,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-04T21:52:18.747Z"
+mirror_generated_at: "2026-10-05T06:08:34.008Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
 ---
