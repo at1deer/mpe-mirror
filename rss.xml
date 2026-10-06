@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 15:12:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 00:16:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Jean-Pierre Aubin and the Artificer’s Workshop</title>
+      <link>https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/jean-pierre-aubin-and-the-artificers-workshop.html</guid>
+      <pubDate>Mon, 05 Oct 2026 15:20:00 GMT</pubDate>
+      <description>I left a mathematician outside.</description>
+    </item>
+
     <item>
       <title>Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive</title>
       <link>https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-dog-gets-the-ball.html</guid>
       <pubDate>Fri, 18 Sep 2026 10:50:11 GMT</pubDate>
       <description>Everyone may be dead in ten years.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics Apologizes to Bill Gates</title>
-      <link>https://modalpathethics.com/modal-path-ethics-apologizes-to-bill-gates/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-bill-gates.html</guid>
-      <pubDate>Fri, 18 Sep 2026 10:45:01 GMT</pubDate>
-      <description>Human Reserved is still getting rezoned.</description>
     </item>
   </channel>
 </rss>

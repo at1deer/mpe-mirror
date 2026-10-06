@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-05T15:12:19.581Z
+Mirror generated: 2026-10-06T00:16:48.059Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 369
+Published article count: 370
 
+- 2026-10-05 — [Jean-Pierre Aubin and the Artificer’s Workshop](/articles/jean-pierre-aubin-and-the-artificers-workshop.md) ([HTML](/articles/jean-pierre-aubin-and-the-artificers-workshop.html)) · [canonical](https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/)
 - 2026-10-05 — [Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.md) ([HTML](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.html)) · [canonical](https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/)
 - 2026-10-04 — [Applied Case: The Proof Was 166 Pages Long](/articles/applied-case-the-proof-was-166-pages-long.md) ([HTML](/articles/applied-case-the-proof-was-166-pages-long.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/)
 - 2026-10-04 — [Pope Leo and the Ontological Border](/articles/pope-leo-and-the-ontological-border.md) ([HTML](/articles/pope-leo-and-the-ontological-border.html)) · [canonical](https://modalpathethics.com/pope-leo-and-the-ontological-border/)

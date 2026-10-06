@@ -4,16 +4,19 @@ slug: "convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longe
 canonical_url: "https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/"
 mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.md"
 published_at: "2026-10-05T06:00:53.000-05:00"
-updated_at: "2026-10-05T06:00:52.000-05:00"
+updated_at: "2026-10-05T14:01:16.000-05:00"
 tags:
   - "Convergence Point"
   - "Engagement"
+  - "Modal Systems"
+  - "Instrument Jurisdiction"
+  - "Security Instruments"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-05T15:12:19.581Z"
+mirror_generated_at: "2026-10-06T00:16:48.059Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "aa5fac7bdd7b50ab528dba01d80cc2bcde49505cadf0dbb4e543aee36c369a3e"
+sha256_plaintext: "42fec68252a0eb7ea33634e32d6471ad69a280869efe6c6b5ab2344a7eaae138"
 ---
 # Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive
 
@@ -32,7 +35,7 @@ Because this one is close enough that the chronology has to do actual work.
 -   **10 September:** Krakowski posts _Primary Field Cybernetics_, written August 30. Its central proposition is that control depends not merely on choosing actions but on preserving the conditions under which viable future action remains accessible. **The same day**, Modal Path Ethics publishes _The Death of an Office_: authority must be able to disappear while the function survives. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7442820&utm_source=chatgpt.com))
 -   **18 September:** _Applied Case: The Dog Gets the Ball_ introduces the **corrigibility horizon**: the point at which formal removal remains available while adequate independent replacement can no longer arrive inside the protected correction interval. ([Modal Path Ethics](https://modalpathethics.com/articles/?utm_source=chatgpt.com))
 -   **19 September:** Krakowski dates _Decision Closure: Structural Reachability and the Cost of Correction_. It separates **structural reachability** from **correction impedance** and asks how institutional structure can make correction unavailable even after failure has been recognized. It is posted on September 22. ([SSRN](https://papers.ssrn.com/sol3/Delivery.cfm/7489739.pdf?abstractid=7489739&mirid=1&type=2&utm_source=chatgpt.com))
--   **20 September:** _Harm as Contraction_ v1.2 goes public on Zenodo states the bridge explicitly: **correction is itself a reachable continuation**, and formal corrigibility can survive after material corrigibility has died. ([Modal Path Ethics](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/?utm_source=chatgpt.com))
+-   **20 September:** _Harm as Contraction_ v1.2 goes public on Zenodo and the accompanying article states the bridge explicitly: **correction is itself a reachable continuation**, and formal corrigibility can survive after material corrigibility has died. ([Modal Path Ethics](https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/?utm_source=chatgpt.com))
 -   **3 October:** Krakowski posts the paper that finally triggered this article: **_Autonomous Weapon Systems—Beyond Human-in-the-Loop: Correction Reachability and the Closure of Futures_**. SSRN records 34 pages posted October 3. ([SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7552581&utm_source=chatgpt.com))
 
 Do not cheat with these dates.
