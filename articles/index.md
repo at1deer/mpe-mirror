@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-06T06:47:54.998Z
+Mirror generated: 2026-10-06T18:34:27.049Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 370
+Published article count: 372
 
+- 2026-10-06 — [Patañjali and the Grain of Change](/articles/patanjali-and-the-grain-of-change.md) ([HTML](/articles/patanjali-and-the-grain-of-change.html)) · [canonical](https://modalpathethics.com/patanjali-and-the-grain-of-change/)
+- 2026-10-06 — [Convergence Point: DeepMind Institute Finds the Field](/articles/convergence-point-deepmind-institute-finds-the-field.md) ([HTML](/articles/convergence-point-deepmind-institute-finds-the-field.html)) · [canonical](https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/)
 - 2026-10-05 — [Jean-Pierre Aubin and the Artificer’s Workshop](/articles/jean-pierre-aubin-and-the-artificers-workshop.md) ([HTML](/articles/jean-pierre-aubin-and-the-artificers-workshop.html)) · [canonical](https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/)
 - 2026-10-05 — [Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.md) ([HTML](/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.html)) · [canonical](https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/)
 - 2026-10-04 — [Applied Case: The Proof Was 166 Pages Long](/articles/applied-case-the-proof-was-166-pages-long.md) ([HTML](/articles/applied-case-the-proof-was-166-pages-long.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-was-166-pages-long/)

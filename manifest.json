@@ -1,13 +1,57 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-06T06:47:54.998Z",
+  "generated_at": "2026-10-06T18:34:27.049Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 370,
+  "article_count": 372,
   "articles": [
+    {
+      "title": "Patañjali and the Grain of Change",
+      "slug": "patanjali-and-the-grain-of-change",
+      "published_at": "2026-10-06T06:00:38.000-05:00",
+      "updated_at": "2026-10-06T09:30:18.000-05:00",
+      "canonical_url": "https://modalpathethics.com/patanjali-and-the-grain-of-change/",
+      "excerpt": "Pariṇāma, causal loci, and what actually continues; The revenge of Catherine Malabou",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood",
+        "Sacred Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/patanjali-and-the-grain-of-change.md",
+      "mirror_html_path": "/articles/patanjali-and-the-grain-of-change.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/patanjali-and-the-grain-of-change.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/patanjali-and-the-grain-of-change.html",
+      "sha256_plaintext": "0f05105146ca87d60bd6342da8664e419d3674c84917c981a5758da51f29b912"
+    },
+    {
+      "title": "Convergence Point: DeepMind Institute Finds the Field",
+      "slug": "convergence-point-deepmind-institute-finds-the-field",
+      "published_at": "2026-10-06T06:00:17.000-05:00",
+      "updated_at": "2026-10-06T06:00:16.000-05:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/",
+      "excerpt": "Artificial Symbiotic Intelligence, agent institutions, and the constitutional problem after minds begin thinking together.",
+      "tags": [
+        "Convergence Point",
+        "Modal Systems",
+        "Instrument Jurisdiction",
+        "Epistemic Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-deepmind-institute-finds-the-field.md",
+      "mirror_html_path": "/articles/convergence-point-deepmind-institute-finds-the-field.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.html",
+      "sha256_plaintext": "51b2341bbfea0266e2f379a17483ef5514060c93ce545b38cb14eb13898bedca"
+    },
     {
       "title": "Jean-Pierre Aubin and the Artificer’s Workshop",
       "slug": "jean-pierre-aubin-and-the-artificers-workshop",

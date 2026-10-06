@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 06:47:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:34:27 GMT</lastBuildDate>
     
+    <item>
+      <title>Patañjali and the Grain of Change</title>
+      <link>https://modalpathethics.com/patanjali-and-the-grain-of-change/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/patanjali-and-the-grain-of-change.html</guid>
+      <pubDate>Tue, 06 Oct 2026 11:00:38 GMT</pubDate>
+      <description>Pariṇāma, causal loci, and what actually continues; The revenge of Catherine Malabou</description>
+    </item>
+
+    <item>
+      <title>Convergence Point: DeepMind Institute Finds the Field</title>
+      <link>https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.html</guid>
+      <pubDate>Tue, 06 Oct 2026 11:00:17 GMT</pubDate>
+      <description>Artificial Symbiotic Intelligence, agent institutions, and the constitutional problem after minds begin thinking together.</description>
+    </item>
+
     <item>
       <title>Jean-Pierre Aubin and the Artificer’s Workshop</title>
       <link>https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-datacenter-is-trying-to-leave-earth.html</guid>
       <pubDate>Sat, 19 Sep 2026 10:30:59 GMT</pubDate>
       <description>The cloud found its body.</description>
-    </item>
-
-    <item>
-      <title>II</title>
-      <link>https://modalpathethics.com/ii/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/ii.html</guid>
-      <pubDate>Fri, 18 Sep 2026 11:02:21 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Dog Gets the Ball</title>
-      <link>https://modalpathethics.com/applied-case-the-dog-gets-the-ball/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-dog-gets-the-ball.html</guid>
-      <pubDate>Fri, 18 Sep 2026 10:50:11 GMT</pubDate>
-      <description>Everyone may be dead in ten years.</description>
     </item>
   </channel>
 </rss>
