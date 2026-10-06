@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-06T00:16:48.059Z",
+  "generated_at": "2026-10-06T06:47:54.998Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -19,7 +19,8 @@
         "Modal Path Ethics",
         "Engagement",
         "Instrument Jurisdiction",
-        "Chastening of the Controller"
+        "Chastening of the Controller",
+        "Post-Game"
       ],
       "authors": [
         "Aidan Lawson"
@@ -99,7 +100,8 @@
       "excerpt": "\"I am no longer Bi-Han. I am Sub-Zero.\"",
       "tags": [
         "Multiplayer",
-        "Engagement"
+        "Engagement",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -560,7 +562,8 @@
       "excerpt": "Sean Carroll, the Endless Battle, and what can still happen inside a universe that comes back.",
       "tags": [
         "Inner Apocalypse",
-        "Engagement"
+        "Engagement",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -579,7 +582,9 @@
       "canonical_url": "https://modalpathethics.com/hegel-and-the-preserved-wound/",
       "excerpt": "The Final Boss. The dialectic can preserve what history negates. That does not tell us whether the negated locus was harmed.",
       "tags": [
-        "Engagement"
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -620,7 +625,8 @@
       "tags": [
         "Modal Path Ethics",
         "Supplement",
-        "Engagement"
+        "Engagement",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1498,7 +1504,8 @@
       "canonical_url": "https://modalpathethics.com/convergence-point-eduardo-blasco-and-the-engineer-who-found-the-future/",
       "excerpt": "Somehow we ended up arguing with the same geometry.",
       "tags": [
-        "Convergence Point"
+        "Convergence Point",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1614,7 +1621,8 @@
       "canonical_url": "https://modalpathethics.com/simondon-and-the-locus-in-formation/",
       "excerpt": "This guy keeps trying to take my locus.",
       "tags": [
-        "Engagement"
+        "Engagement",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1693,7 +1701,8 @@
       "tags": [
         "Engagement",
         "Modal Path Ethics",
-        "Sacred Instruments"
+        "Sacred Instruments",
+        "Instrument Jurisdiction"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1771,7 +1780,9 @@
       "canonical_url": "https://modalpathethics.com/hoel-and-the-causal-locus/",
       "excerpt": "Modal Path Ethics has spent months dissolving the object. That may be a problem.",
       "tags": [
-        "Engagement"
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood"
       ],
       "authors": [
         "Aidan Lawson"
@@ -3502,7 +3513,8 @@
       "excerpt": "A Modal Path Ethical response to Kane Baker",
       "tags": [
         "Engagement",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Epistemic Instruments"
       ],
       "authors": [
         "Aidan Lawson"
@@ -3521,8 +3533,8 @@
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-has-doublevision/",
       "excerpt": "\"Fill my eyes.\" [AVGN I]",
       "tags": [
-        "Modal Path Ethics",
-        "News"
+        "News",
+        "Modal Path Ethics"
       ],
       "authors": [
         "Aidan Lawson"

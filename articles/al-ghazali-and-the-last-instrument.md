@@ -9,10 +9,11 @@ tags:
   - "Engagement"
   - "Modal Path Ethics"
   - "Sacred Instruments"
+  - "Instrument Jurisdiction"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---

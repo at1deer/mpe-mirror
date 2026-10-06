@@ -8,10 +8,11 @@ updated_at: "2026-10-05T16:18:03.000-05:00"
 tags:
   - "Multiplayer"
   - "Engagement"
+  - "Locushood"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
 ---

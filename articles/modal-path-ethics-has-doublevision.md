@@ -6,12 +6,12 @@ mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-has-d
 published_at: "2026-07-29T06:00:52.000-05:00"
 updated_at: "2026-08-10T07:31:28.000-05:00"
 tags:
-  - "Modal Path Ethics"
   - "News"
+  - "Modal Path Ethics"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---

@@ -8,10 +8,11 @@ updated_at: "2026-07-30T06:00:10.000-05:00"
 tags:
   - "Engagement"
   - "Modal Path Ethics"
+  - "Epistemic Instruments"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---

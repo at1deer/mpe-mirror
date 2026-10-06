@@ -9,10 +9,11 @@ tags:
   - "Modal Path Ethics"
   - "Supplement"
   - "Engagement"
+  - "Locushood"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c415edee0161e8bf64458bb3ab4fdefa10672dc1b3cd8ddb1b9f6841514ef532"
 ---

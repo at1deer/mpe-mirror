@@ -7,10 +7,12 @@ published_at: "2026-09-06T07:00:59.000-05:00"
 updated_at: "2026-09-07T15:50:30.000-05:00"
 tags:
   - "Engagement"
+  - "Modal Path Ethics"
+  - "Locushood"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T00:16:48.059Z"
+mirror_generated_at: "2026-10-06T06:47:54.998Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
