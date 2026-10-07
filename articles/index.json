@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-07T06:22:47.535Z",
+  "generated_at": "2026-10-07T13:49:08.871Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 372,
+  "article_count": 374,
   "articles": [
+    {
+      "title": "Stuart Kauffman and the Grain of the Adjacent Possible",
+      "slug": "stuart-kauffman-and-the-grain-of-the-adjacent-possible",
+      "published_at": "2026-10-07T06:00:52.000-05:00",
+      "updated_at": "2026-10-07T06:00:52.000-05:00",
+      "canonical_url": "https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/",
+      "excerpt": "The future may build new futures. It still has to happen to something.",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md",
+      "mirror_html_path": "/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html",
+      "sha256_plaintext": "78054964209a10961fb76aed6b36f951f752db554263aedad3311216b078773c"
+    },
+    {
+      "title": "Applied Case: Religious Force",
+      "slug": "applied-case-religious-force",
+      "published_at": "2026-10-07T06:00:14.000-05:00",
+      "updated_at": "2026-10-07T06:00:14.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-religious-force/",
+      "excerpt": "Sam Altman, artificial intelligence, and the text that answers back.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Sacred Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-religious-force.md",
+      "mirror_html_path": "/articles/applied-case-religious-force.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-religious-force.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-religious-force.html",
+      "sha256_plaintext": "3da832237e6b3aaf7c01c1a9aa494c9fc15fafc69c552528cc8392aa9071b889"
+    },
     {
       "title": "Patañjali and the Grain of Change",
       "slug": "patanjali-and-the-grain-of-change",

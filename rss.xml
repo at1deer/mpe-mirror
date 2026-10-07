@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 06:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:49:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Stuart Kauffman and the Grain of the Adjacent Possible</title>
+      <link>https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:52 GMT</pubDate>
+      <description>The future may build new futures. It still has to happen to something.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Religious Force</title>
+      <link>https://modalpathethics.com/applied-case-religious-force/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-religious-force.html</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:14 GMT</pubDate>
+      <description>Sam Altman, artificial intelligence, and the text that answers back.</description>
+    </item>
+
     <item>
       <title>Patañjali and the Grain of Change</title>
       <link>https://modalpathethics.com/patanjali-and-the-grain-of-change/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/iii.html</guid>
       <pubDate>Sat, 19 Sep 2026 11:03:29 GMT</pubDate>
       <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Nord Stream</title>
-      <link>https://modalpathethics.com/applied-case-nord-stream/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-nord-stream.html</guid>
-      <pubDate>Sat, 19 Sep 2026 11:00:49 GMT</pubDate>
-      <description>The gas had stopped. The future had not.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Datacenter is Trying to Leave Earth</title>
-      <link>https://modalpathethics.com/the-datacenter-is-trying-to-leave-earth/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-datacenter-is-trying-to-leave-earth.html</guid>
-      <pubDate>Sat, 19 Sep 2026 10:30:59 GMT</pubDate>
-      <description>The cloud found its body.</description>
     </item>
   </channel>
 </rss>

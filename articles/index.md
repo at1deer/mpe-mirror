@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-07T06:22:47.535Z
+Mirror generated: 2026-10-07T13:49:08.871Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 372
+Published article count: 374
 
+- 2026-10-07 — [Stuart Kauffman and the Grain of the Adjacent Possible](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md) ([HTML](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html)) · [canonical](https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/)
+- 2026-10-07 — [Applied Case: Religious Force](/articles/applied-case-religious-force.md) ([HTML](/articles/applied-case-religious-force.html)) · [canonical](https://modalpathethics.com/applied-case-religious-force/)
 - 2026-10-06 — [Patañjali and the Grain of Change](/articles/patanjali-and-the-grain-of-change.md) ([HTML](/articles/patanjali-and-the-grain-of-change.html)) · [canonical](https://modalpathethics.com/patanjali-and-the-grain-of-change/)
 - 2026-10-06 — [Convergence Point: DeepMind Institute Finds the Field](/articles/convergence-point-deepmind-institute-finds-the-field.md) ([HTML](/articles/convergence-point-deepmind-institute-finds-the-field.html)) · [canonical](https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/)
 - 2026-10-05 — [Jean-Pierre Aubin and the Artificer’s Workshop](/articles/jean-pierre-aubin-and-the-artificers-workshop.md) ([HTML](/articles/jean-pierre-aubin-and-the-artificers-workshop.html)) · [canonical](https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/)
