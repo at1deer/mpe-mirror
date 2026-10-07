@@ -4,7 +4,7 @@ slug: "stuart-kauffman-and-the-grain-of-the-adjacent-possible"
 canonical_url: "https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/"
 mirror_url: "https://mirror.modalpathethics.com/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md"
 published_at: "2026-10-07T06:00:52.000-05:00"
-updated_at: "2026-10-07T06:00:52.000-05:00"
+updated_at: "2026-10-07T18:14:35.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
@@ -12,11 +12,21 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-07T13:49:08.871Z"
+mirror_generated_at: "2026-10-07T23:16:33.043Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "78054964209a10961fb76aed6b36f951f752db554263aedad3311216b078773c"
+sha256_plaintext: "eb400f4b644a7651162901a909fa242f0d0db7acc95f9051dc7a4ec01e08819b"
 ---
 # Stuart Kauffman and the Grain of the Adjacent Possible
+
+> **Clarification — 7 October 2026**
+
+> I got a little too excited here. The grain notation makes an existing relativity explicit. Kauffman and Roli already define function through the whole sustained and discuss nested Kantian wholes. The question here is how those relations are tracked across grains when organized continuations conflict. [Kauffman and Roli, §6](https://pmc.ncbi.nlm.nih.gov/articles/PMC12489499/?ref=modalpathethics.com)
+
+> The ethical comparison concerns the Continuance Principle's claim about pro tanto harm. A competing account can challenge that claim without requiring unconditional preservation of every bearer or reproducing the whole architecture of Modal Path Ethics. Establishing a reduction requires showing how the rival's own normative premises support the relevant harm judgment. Organism-relative success, taken by itself, does not complete that argument.
+
+> Longo, Montévil, and Kauffman also distinguish the evolution of biological organization from physical explanations of already-evolved organisms, which they expressly retain. Their unprestatability argument concerns biological observables and niches, not an accidental gap in yesterday's vocabulary. The substantive dispute concerns what follows about entailment across grains. The cross-grain objection raised here requires engagement with that argument in full; it should not be presented as a completed refutation or as an answer to a denial of all physical law. [Longo, Montévil, and Kauffman, §1](https://arxiv.org/pdf/1201.2069?ref=modalpathethics.com)
+
+The questions about bearer, grain, enablement, and the normative bridge remain. These qualifications specify what the comparison has established and what remains open.
 
 Stuart Kauffman's best idea is also extremely easy to give too much authority.
 
@@ -234,7 +244,7 @@ Again:
 
 > Useful machine.
 
-Now add **grain**.
+Now make that whole-relative dependence explicit across grains.
 
 A causal consequence can sustain:
 
@@ -248,7 +258,7 @@ A causal consequence can sustain:
 
 These can conflict.
 
-So function acquires the same missing index.
+So let us write the whole-relative index explicitly.
 
 **FG(x)**
 
@@ -322,17 +332,11 @@ The paper therefore states the **Continuance Principle** openly:
 
 The paper then has to defend that premise like a champion through explanatory fit, limiting cases, exclusions, burden transfer, destructive continuations, repair, and mixed transitions. It explicitly refuses the idea that a descriptive structure has smuggled morality into the room by naming itself carefully enough.
 
-Kauffman's biological machinery can get us somewhere real:
+Kauffman's biological machinery can identify a condition whose loss degrades an organized bearer.
 
-> **This condition sustains this organized bearer.**
+The ethical question is whether that degradation constitutes pro tanto moral harm to the bearer.
 
-It does not get us for free to:
-
-> **Therefore this bearer ought to be sustained against every competing continuation**.
-
-That second question arrives precisely when another locus enters the field.
-
-And another one always does eventually.
+That is the claim an attempted reduction has to meet. Comparing this harm with changes borne by other loci is a further question.
 
 > **“Good for me”** tells us that something matters to a bearer. It does not tell us how that bearer matters when another bearer enters the field.
 
@@ -533,37 +537,19 @@ The argument moves roughly like this.
 -   The relevant biological phase space therefore cannot be fully prestated.
     -   Without a prestated phase space, they argue, there can be no ordinary law of motion for evolution analogous to one defined over a fixed physical phase space.
 
-They describe this as radical emergence and argue that the evolution of the biosphere is entailed by no law.
+They describe this as radical emergence and argue that the evolution of the biosphere is entailed by no law. They also retain physical explanations of organisms that have already evolved. Their dispute concerns diachronic evolution. Those two claims must be assessed separately.
 
 So this is where grain becomes hostile.
 
-Suppose we grant the strongest useful premise.
+Take their claim of unprestatability at a biological grain **GB** seriously. The question is whether its implications extend to an entailing account at another grain GP.
 
-At some biological grain **GB**, later functional distinctions cannot all be prestated from the biological vocabulary available at **t0**.
-
-Fine.
-
-Perhaps:
-
-> **¬ Prestate(ΓGB,t+n)**
-
-That is an important fact about our biological description.
-
-It does not establish:
-
-> **¬ LawGoverned(EGP,t→t+n)**
-
-for every lower or neighboring grain **Gp**.
-
-Those are different claims.
+That extension needs an explicit connecting argument. Evaluating their account therefore requires examining the proposed connection, including what counts as an adequate biological observable and what an entailing account would have to preserve.
 
 A future biological function is already a grain-relative relation between some organized part, whole, environment, and successor structure.
 
-The fact that an earlier description did not contain that functional category tells us something important about the description and perhaps about open-ended biological organization.
+Their claim concerns the unprestatability of the evolving biological phase space. The cross-grain question is what an entailing account at another grain would have to preserve of the biological relations at issue.
 
-It does not by itself establish that the material history realizing the later function **escaped lawful dynamics**.
-
-The swim bladder makes this obvious.
+The swim bladder illustrates this distinction.
 
 Physics did not need a variable labeled
 
@@ -577,7 +563,7 @@ Why would it?
 
 The category can be new at one grain while the material history remains continuous through another.
 
-This is exactly the kind of cross-grain promotion _Patañjali and the Grain of Change_ now tells Modal Path Ethics to reject. One event can receive different legitimate descriptions at different grains. No single description inherits universal jurisdiction just because it captures something real.
+This is the cross-grain inference that the argument needs to justify. One event can receive different legitimate descriptions at different grains. No single description inherits universal jurisdiction just because it captures something real.
 
 Kauffman can therefore establish:
 
@@ -597,7 +583,7 @@ Then he reaches:
 
 **Hold on.**
 
-The grain changed during the argument.
+The cross-grain connection is the point that still needs to be assessed.
 
 * * *
 
@@ -652,7 +638,7 @@ Fine. Bring evidence.
 
 The narrower point is enough:
 
-> Unprestatability at one causal grain does not establish lawlessness at every grain.
+> A claim about unprestatable biological organization needs an explicit account of what it establishes across causal grains.
 
 That is a claim about inference discipline.
 
@@ -714,9 +700,9 @@ They put boundaries around what it establishes.
 -   The whole can be real without becoming the only whole.
 -   Biological valence can be real without becoming moral law.
 -   Novel function can be real without having existed beforehand as a completed option.
--   An evolving phase space can defeat our current representation without proving that causation packed its bags sometime around the Cambrian.
+-   An evolving phase space gives us a serious problem of representation and entailment whose implications must be argued at the relevant grain.
 
-There is room here for a much better machine.
+There is room here for a better machine.
 
 * * *
 
@@ -744,7 +730,7 @@ That is exactly the kind of future Modal Path Ethics wants to remain able to des
 
 We do not need a completed possibility warehouse, every future biological function hiding invisibly inside the present, one metaphysically privileged whole, or organismic self-interest to manufacture ethics.
 
-And we certainly do not need a missing variable in one biological phase space to issue a universal arrest warrant for natural law.
+And the relation between biological novelty and entailment across grains still needs an argument precise enough to bear the conclusion.
 
 Kauffman found a world that keeps making new doors.
 
@@ -765,3 +751,5 @@ Follow the continuations.
 [Giuseppe Longo, Maël Montévil, and Stuart Kauffman, “No entailing laws, but enablement in the evolution of the biosphere” (2012).](https://arxiv.org/abs/1201.2069?utm_source=chatgpt.com)
 
 [Stuart Kauffman, discussion of the adjacent possible, exaptation, and the swim-bladder example.](https://edge.org/conversation/stuart_a_kauffman-five-problems-in-the-philosophy-of-mind?ref=modalpathethics.com)
+
+Stuart A. Kauffman and Andrea Roli, “Beyond the Newtonian Paradigm: A Statistical Mechanics of Emergence,” chapter 8 in Evolution ‘On Purpose’: Teleonomy in Living Systems (MIT Press, 2023), §8.10. ([https://cris.unibo.it/retrieve/5b7f8b31-75cc-4797-b22a-6f7fb007250f/c008900\_9780262376013.pdf](https://cris.unibo.it/retrieve/5b7f8b31-75cc-4797-b22a-6f7fb007250f/c008900_9780262376013.pdf?ref=modalpathethics.com))
