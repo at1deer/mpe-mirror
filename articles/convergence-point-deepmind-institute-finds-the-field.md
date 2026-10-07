@@ -4,7 +4,7 @@ slug: "convergence-point-deepmind-institute-finds-the-field"
 canonical_url: "https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/"
 mirror_url: "https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.md"
 published_at: "2026-10-06T06:00:17.000-05:00"
-updated_at: "2026-10-06T06:00:16.000-05:00"
+updated_at: "2026-10-06T18:20:47.000-05:00"
 tags:
   - "Convergence Point"
   - "Modal Systems"
@@ -13,9 +13,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-06T22:46:16.435Z"
+mirror_generated_at: "2026-10-07T06:22:47.535Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "51b2341bbfea0266e2f379a17483ef5514060c93ce545b38cb14eb13898bedca"
+sha256_plaintext: "7048c2324b8ae91003056babbb90dde6d135110984f9ad1358230700f94a4a61"
 ---
 # Convergence Point: DeepMind Institute Finds the Field
 
@@ -453,7 +453,9 @@ That is where the problem keeps moving.
 
 * * *
 
-## Someone _Still_ Has to Coordinate All This.
+## Someone **_Still_** Has to
+
+## Coordinate All This.
 
 There is still no escape through romantic **decentralization**.
 

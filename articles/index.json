@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-06T22:46:16.435Z",
+  "generated_at": "2026-10-07T06:22:47.535Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -34,7 +34,7 @@
       "title": "Convergence Point: DeepMind Institute Finds the Field",
       "slug": "convergence-point-deepmind-institute-finds-the-field",
       "published_at": "2026-10-06T06:00:17.000-05:00",
-      "updated_at": "2026-10-06T06:00:16.000-05:00",
+      "updated_at": "2026-10-06T18:20:47.000-05:00",
       "canonical_url": "https://modalpathethics.com/convergence-point-deepmind-institute-finds-the-field/",
       "excerpt": "Artificial Symbiotic Intelligence, agent institutions, and the constitutional problem after minds begin thinking together.",
       "tags": [
@@ -50,7 +50,7 @@
       "mirror_html_path": "/articles/convergence-point-deepmind-institute-finds-the-field.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.html",
-      "sha256_plaintext": "51b2341bbfea0266e2f379a17483ef5514060c93ce545b38cb14eb13898bedca"
+      "sha256_plaintext": "7048c2324b8ae91003056babbb90dde6d135110984f9ad1358230700f94a4a61"
     },
     {
       "title": "Jean-Pierre Aubin and the Artificer’s Workshop",
