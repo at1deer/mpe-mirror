@@ -1,6 +1,6 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-07T23:16:33.043Z
+Mirror generated: 2026-10-08T06:34:45.414Z
 
 Canonical publication: https://modalpathethics.com
 
@@ -67,7 +67,7 @@ Published article count: 374
 - 2026-09-17 — [Emmanuel Levinas and the Infinite Claim](/articles/emmanuel-levinas-and-the-infinite-claim.md) ([HTML](/articles/emmanuel-levinas-and-the-infinite-claim.html)) · [canonical](https://modalpathethics.com/emmanuel-levinas-and-the-infinite-claim/)
 - 2026-09-17 — [Applied Case: Girl Scout Ethics](/articles/applied-case-the-thin-mint-heist.md) ([HTML](/articles/applied-case-the-thin-mint-heist.html)) · [canonical](https://modalpathethics.com/applied-case-the-thin-mint-heist/)
 - 2026-09-16 — [SLIME WATCH II: The Slop Button](/articles/slime-watch-ii-the-slop-button.md) ([HTML](/articles/slime-watch-ii-the-slop-button.html)) · [canonical](https://modalpathethics.com/slime-watch-ii-the-slop-button/)
-- 2026-09-16 — [Tales of Distortion: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html)) · [canonical](https://modalpathethics.com/the-book-was-more-than-the-text/)
+- 2026-09-16 — [Applied Case: The Book Was More Than the Text](/articles/the-book-was-more-than-the-text.md) ([HTML](/articles/the-book-was-more-than-the-text.html)) · [canonical](https://modalpathethics.com/the-book-was-more-than-the-text/)
 - 2026-09-16 — [Applied Case: Physics Finds the Empty Altar](/articles/applied-case-physics-finds-the-empty-altar.md) ([HTML](/articles/applied-case-physics-finds-the-empty-altar.html)) · [canonical](https://modalpathethics.com/applied-case-physics-finds-the-empty-altar/)
 - 2026-09-15 — [The Quasiexplicable Origins of Modal Path Ethics](/articles/origins.md) ([HTML](/articles/origins.html)) · [canonical](https://modalpathethics.com/origins/)
 - 2026-09-15 — [Two Screens](/articles/two-screens.md) ([HTML](/articles/two-screens.html)) · [canonical](https://modalpathethics.com/two-screens/)
