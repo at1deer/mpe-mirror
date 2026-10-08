@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-08T06:34:45.414Z",
+  "generated_at": "2026-10-08T13:58:08.101Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 374,
+  "article_count": 376,
   "articles": [
+    {
+      "title": "Applied Case: For the Spicy Chicken",
+      "slug": "applied-case-for-the-spicy-chicken",
+      "published_at": "2026-10-08T06:00:33.000-05:00",
+      "updated_at": "2026-10-08T06:00:32.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-for-the-spicy-chicken/",
+      "excerpt": "McDonald’s and the AI Exposure Effect",
+      "tags": [
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-for-the-spicy-chicken.md",
+      "mirror_html_path": "/articles/applied-case-for-the-spicy-chicken.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-for-the-spicy-chicken.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-for-the-spicy-chicken.html",
+      "sha256_plaintext": "3454f6119163d3e541a1557e1456f2be50c5af913534ef605b4df8bc221ec0cd"
+    },
+    {
+      "title": "Applied Case: The Proof Had No Deadline",
+      "slug": "applied-case-the-proof-had-no-deadline",
+      "published_at": "2026-10-08T05:59:44.000-05:00",
+      "updated_at": "2026-10-08T08:15:30.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-proof-had-no-deadline/",
+      "excerpt": "PTT has 722 manuscripts to navigate",
+      "tags": [
+        "Proof-to-Theory",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-proof-had-no-deadline.md",
+      "mirror_html_path": "/articles/applied-case-the-proof-had-no-deadline.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-proof-had-no-deadline.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-proof-had-no-deadline.html",
+      "sha256_plaintext": "25341a608ec161327c5780e86a77d9fd17ac9035708404204bb5cbfcc90d6aa3"
+    },
     {
       "title": "Stuart Kauffman and the Grain of the Adjacent Possible",
       "slug": "stuart-kauffman-and-the-grain-of-the-adjacent-possible",

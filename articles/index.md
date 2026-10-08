@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-08T06:34:45.414Z
+Mirror generated: 2026-10-08T13:58:08.101Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 374
+Published article count: 376
 
+- 2026-10-08 — [Applied Case: For the Spicy Chicken](/articles/applied-case-for-the-spicy-chicken.md) ([HTML](/articles/applied-case-for-the-spicy-chicken.html)) · [canonical](https://modalpathethics.com/applied-case-for-the-spicy-chicken/)
+- 2026-10-08 — [Applied Case: The Proof Had No Deadline](/articles/applied-case-the-proof-had-no-deadline.md) ([HTML](/articles/applied-case-the-proof-had-no-deadline.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-had-no-deadline/)
 - 2026-10-07 — [Stuart Kauffman and the Grain of the Adjacent Possible](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md) ([HTML](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html)) · [canonical](https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/)
 - 2026-10-07 — [Applied Case: Religious Force](/articles/applied-case-religious-force.md) ([HTML](/articles/applied-case-religious-force.html)) · [canonical](https://modalpathethics.com/applied-case-religious-force/)
 - 2026-10-06 — [Patañjali and the Grain of Change](/articles/patanjali-and-the-grain-of-change.md) ([HTML](/articles/patanjali-and-the-grain-of-change.html)) · [canonical](https://modalpathethics.com/patanjali-and-the-grain-of-change/)
