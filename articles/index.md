@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-09T06:36:54.635Z
+Mirror generated: 2026-10-09T13:43:25.968Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 376
+Published article count: 378
 
+- 2026-10-09 — [Luciano Floridi 1v1s Modal Path Ethics on Rust](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md) ([HTML](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html)) · [canonical](https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/)
+- 2026-10-09 — [Convergence Point: Pandey & Saxena and the No That Didn't Fit the Form](/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.md) ([HTML](/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.html)) · [canonical](https://modalpathethics.com/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form/)
 - 2026-10-08 — [Applied Case: For the Spicy Chicken](/articles/applied-case-for-the-spicy-chicken.md) ([HTML](/articles/applied-case-for-the-spicy-chicken.html)) · [canonical](https://modalpathethics.com/applied-case-for-the-spicy-chicken/)
 - 2026-10-08 — [Applied Case: The Proof Had No Deadline](/articles/applied-case-the-proof-had-no-deadline.md) ([HTML](/articles/applied-case-the-proof-had-no-deadline.html)) · [canonical](https://modalpathethics.com/applied-case-the-proof-had-no-deadline/)
 - 2026-10-07 — [Stuart Kauffman and the Grain of the Adjacent Possible](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.md) ([HTML](/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html)) · [canonical](https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/)

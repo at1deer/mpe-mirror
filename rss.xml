@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 06:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:43:25 GMT</lastBuildDate>
     
+    <item>
+      <title>Luciano Floridi 1v1s Modal Path Ethics on Rust</title>
+      <link>https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html</guid>
+      <pubDate>Fri, 09 Oct 2026 11:00:02 GMT</pubDate>
+      <description>No M16. No launchers.</description>
+    </item>
+
+    <item>
+      <title>Convergence Point: Pandey &amp; Saxena and the No That Didn't Fit the Form</title>
+      <link>https://modalpathethics.com/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.html</guid>
+      <pubDate>Fri, 09 Oct 2026 10:55:57 GMT</pubDate>
+      <description>Beware the legibility trap.</description>
+    </item>
+
     <item>
       <title>Applied Case: For the Spicy Chicken</title>
       <link>https://modalpathethics.com/applied-case-for-the-spicy-chicken/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/from-pvp-to-pve.html</guid>
       <pubDate>Mon, 21 Sep 2026 10:45:38 GMT</pubDate>
       <description>Change what winning means.</description>
-    </item>
-
-    <item>
-      <title>IV</title>
-      <link>https://modalpathethics.com/iv/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/iv.html</guid>
-      <pubDate>Sun, 20 Sep 2026 11:04:10 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Harm as Contraction and Structural Ethics</title>
-      <link>https://modalpathethics.com/artificial-intelligence-needs-a-structural-ethics-layer/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/artificial-intelligence-needs-a-structural-ethics-layer.html</guid>
-      <pubDate>Sun, 20 Sep 2026 11:02:27 GMT</pubDate>
-      <description>Harm as Contraction of Reachable Continuation is now on Zenodo. It may identify something missing from the AI alignment stack.</description>
     </item>
   </channel>
 </rss>

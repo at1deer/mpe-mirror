@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-09T06:36:54.635Z",
+  "generated_at": "2026-10-09T13:43:25.968Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 376,
+  "article_count": 378,
   "articles": [
+    {
+      "title": "Luciano Floridi 1v1s Modal Path Ethics on Rust",
+      "slug": "multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust",
+      "published_at": "2026-10-09T06:00:02.000-05:00",
+      "updated_at": "2026-10-09T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/",
+      "excerpt": "No M16. No launchers.",
+      "tags": [
+        "Multiplayer",
+        "Post-Game",
+        "Engagement",
+        "Epistemic Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md",
+      "mirror_html_path": "/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html",
+      "sha256_plaintext": "913292f765511c498f073ffe8fae15e616b2b4ed76917f1ebafb79fe60aa55fd"
+    },
+    {
+      "title": "Convergence Point: Pandey & Saxena and the No That Didn't Fit the Form",
+      "slug": "convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form",
+      "published_at": "2026-10-09T05:55:57.000-05:00",
+      "updated_at": "2026-10-09T05:55:56.000-05:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form/",
+      "excerpt": "Beware the legibility trap.",
+      "tags": [
+        "Convergence Point",
+        "Inner Apocalypse"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.md",
+      "mirror_html_path": "/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.html",
+      "sha256_plaintext": "c67de9b86a7231dad5776c72e8b6c0333b08ff05b42071718fed88e806f26975"
+    },
     {
       "title": "Applied Case: For the Spicy Chicken",
       "slug": "applied-case-for-the-spicy-chicken",
