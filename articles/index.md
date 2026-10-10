@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-10T06:19:17.754Z
+Mirror generated: 2026-10-10T12:59:02.587Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 378
+Published article count: 380
 
+- 2026-10-10 — [The Author Was Never Alone](/articles/the-author-was-never-alone.md) ([HTML](/articles/the-author-was-never-alone.html)) · [canonical](https://modalpathethics.com/the-author-was-never-alone/)
+- 2026-10-10 — [Multiplayer: JUNKER](/articles/multiplayer-junker.md) ([HTML](/articles/multiplayer-junker.html)) · [canonical](https://modalpathethics.com/multiplayer-junker/)
 - 2026-10-09 — [Luciano Floridi 1v1s Modal Path Ethics on Rust](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md) ([HTML](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html)) · [canonical](https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/)
 - 2026-10-09 — [Convergence Point: Pandey & Saxena and the No That Didn't Fit the Form](/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.md) ([HTML](/articles/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form.html)) · [canonical](https://modalpathethics.com/convergence-point-pandey-saxena-and-the-no-that-didnt-fit-the-form/)
 - 2026-10-08 — [Applied Case: For the Spicy Chicken](/articles/applied-case-for-the-spicy-chicken.md) ([HTML](/articles/applied-case-for-the-spicy-chicken.html)) · [canonical](https://modalpathethics.com/applied-case-for-the-spicy-chicken/)

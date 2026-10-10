@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 10 Oct 2026 06:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:59:02 GMT</lastBuildDate>
     
+    <item>
+      <title>The Author Was Never Alone</title>
+      <link>https://modalpathethics.com/the-author-was-never-alone/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-author-was-never-alone.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 GMT</pubDate>
+      <description>AI disclosure, provenance, and the impossible pure sentence</description>
+    </item>
+
+    <item>
+      <title>Multiplayer: JUNKER</title>
+      <link>https://modalpathethics.com/multiplayer-junker/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/multiplayer-junker.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Eliezer Yudkowsky, Nate Soares, and the constitution of stopping artificial intelligence.</description>
+    </item>
+
     <item>
       <title>Luciano Floridi 1v1s Modal Path Ethics on Rust</title>
       <link>https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/transition-action-the-brain-had-two-beginnings.html</guid>
       <pubDate>Mon, 21 Sep 2026 11:00:22 GMT</pubDate>
       <description>The controller was a relation before it was a throne.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Planes Were in the Air</title>
-      <link>https://modalpathethics.com/applied-case-the-planes-were-in-the-air/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-planes-were-in-the-air.html</guid>
-      <pubDate>Mon, 21 Sep 2026 10:58:20 GMT</pubDate>
-      <description>The room was part of the targeter.</description>
-    </item>
-
-    <item>
-      <title>From PvP to PvE</title>
-      <link>https://modalpathethics.com/from-pvp-to-pve/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/from-pvp-to-pve.html</guid>
-      <pubDate>Mon, 21 Sep 2026 10:45:38 GMT</pubDate>
-      <description>Change what winning means.</description>
     </item>
   </channel>
 </rss>

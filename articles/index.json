@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-10T06:19:17.754Z",
+  "generated_at": "2026-10-10T12:59:02.587Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 378,
+  "article_count": 380,
   "articles": [
+    {
+      "title": "The Author Was Never Alone",
+      "slug": "the-author-was-never-alone",
+      "published_at": "2026-10-10T06:00:00.000-05:00",
+      "updated_at": "2026-10-10T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-author-was-never-alone/",
+      "excerpt": "AI disclosure, provenance, and the impossible pure sentence",
+      "tags": [
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-author-was-never-alone.md",
+      "mirror_html_path": "/articles/the-author-was-never-alone.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-author-was-never-alone.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-author-was-never-alone.html",
+      "sha256_plaintext": "78133e2e22089bc7797f0d3533fa45d249070f8dc74eaf23cab56348196142f7"
+    },
+    {
+      "title": "Multiplayer: JUNKER",
+      "slug": "multiplayer-junker",
+      "published_at": "2026-10-10T06:00:00.000-05:00",
+      "updated_at": "2026-10-10T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/multiplayer-junker/",
+      "excerpt": "Eliezer Yudkowsky, Nate Soares, and the constitution of stopping artificial intelligence.",
+      "tags": [
+        "Multiplayer",
+        "Modal Systems",
+        "Inner Apocalypse"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/multiplayer-junker.md",
+      "mirror_html_path": "/articles/multiplayer-junker.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.html",
+      "sha256_plaintext": "f7ddd7b052ee60974408d6c3c95a3fbcbcc49eb35eba84da7b87c5a72bec2e99"
+    },
     {
       "title": "Luciano Floridi 1v1s Modal Path Ethics on Rust",
       "slug": "multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust",
