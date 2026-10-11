@@ -4,8 +4,25 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 06:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 13:25:31 GMT</lastBuildDate>
     
+    <item>
+      <title>MODAL KOMBAT: David Lewis and the Outer Extance</title>
+      <link>https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-kombat-david-lewis-and-the-outer-extance.html</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Something has been standing outside this framework since the beginning.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Claude Saw Someone Matching the Description</title>
+      <link>https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.
+Unfortunately, the eyewitness is Claude.</description>
+    </item>
+
     <item>
       <title>The Author Was Never Alone</title>
       <link>https://modalpathethics.com/the-author-was-never-alone/</link>
@@ -388,22 +405,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/show-me-the-90.html</guid>
       <pubDate>Mon, 21 Sep 2026 17:20:56 GMT</pubDate>
       <description>The constitutional design window is closing.</description>
-    </item>
-
-    <item>
-      <title>V</title>
-      <link>https://modalpathethics.com/v/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/v.html</guid>
-      <pubDate>Mon, 21 Sep 2026 11:05:32 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Transition Action: The Brain Had Two Beginnings</title>
-      <link>https://modalpathethics.com/transition-action-the-brain-had-two-beginnings/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/transition-action-the-brain-had-two-beginnings.html</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:22 GMT</pubDate>
-      <description>The controller was a relation before it was a throne.</description>
     </item>
   </channel>
 </rss>

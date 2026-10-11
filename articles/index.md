@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-11T06:20:52.636Z
+Mirror generated: 2026-10-11T13:25:31.469Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 380
+Published article count: 382
 
+- 2026-10-11 — [MODAL KOMBAT: David Lewis and the Outer Extance](/articles/modal-kombat-david-lewis-and-the-outer-extance.md) ([HTML](/articles/modal-kombat-david-lewis-and-the-outer-extance.html)) · [canonical](https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/)
+- 2026-10-11 — [Applied Case: Claude Saw Someone Matching the Description](/articles/applied-case-claude-saw-someone-matching-the-description.md) ([HTML](/articles/applied-case-claude-saw-someone-matching-the-description.html)) · [canonical](https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/)
 - 2026-10-10 — [The Author Was Never Alone](/articles/the-author-was-never-alone.md) ([HTML](/articles/the-author-was-never-alone.html)) · [canonical](https://modalpathethics.com/the-author-was-never-alone/)
 - 2026-10-10 — [Multiplayer: JUNKER](/articles/multiplayer-junker.md) ([HTML](/articles/multiplayer-junker.html)) · [canonical](https://modalpathethics.com/multiplayer-junker/)
 - 2026-10-09 — [Luciano Floridi 1v1s Modal Path Ethics on Rust](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md) ([HTML](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html)) · [canonical](https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/)
