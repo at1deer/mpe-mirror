@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-12T06:26:25.605Z
+Mirror generated: 2026-10-12T16:00:18.944Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 382
+Published article count: 384
 
+- 2026-10-12 — [Applied Case: The Streets Have Standing](/articles/the-street-is-filing-an-appeal.md) ([HTML](/articles/the-street-is-filing-an-appeal.html)) · [canonical](https://modalpathethics.com/the-street-is-filing-an-appeal/)
+- 2026-10-12 — [MODAL KOMBAT: Nancy Cartwright and the Elemental Planes](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md) ([HTML](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html)) · [canonical](https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/)
 - 2026-10-11 — [MODAL KOMBAT: David Lewis and the Outer Extance](/articles/modal-kombat-david-lewis-and-the-outer-extance.md) ([HTML](/articles/modal-kombat-david-lewis-and-the-outer-extance.html)) · [canonical](https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/)
 - 2026-10-11 — [Applied Case: Claude Saw Someone Matching the Description](/articles/applied-case-claude-saw-someone-matching-the-description.md) ([HTML](/articles/applied-case-claude-saw-someone-matching-the-description.html)) · [canonical](https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/)
 - 2026-10-10 — [The Author Was Never Alone](/articles/the-author-was-never-alone.md) ([HTML](/articles/the-author-was-never-alone.html)) · [canonical](https://modalpathethics.com/the-author-was-never-alone/)

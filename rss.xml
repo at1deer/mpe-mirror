@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 06:26:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 16:00:18 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Streets Have Standing</title>
+      <link>https://modalpathethics.com/the-street-is-filing-an-appeal/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-street-is-filing-an-appeal.html</guid>
+      <pubDate>Mon, 12 Oct 2026 11:00:00 GMT</pubDate>
+      <description>India, France, Spain, Serbia, and the Democratic Republic of the Congo are confronting different failures and disputes in public authority. The question connecting them is what an answer from the public can still make an institution do.</description>
+    </item>
+
+    <item>
+      <title>MODAL KOMBAT: Nancy Cartwright and the Elemental Planes</title>
+      <link>https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html</guid>
+      <pubDate>Mon, 12 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The Amulet travels. The conditions do not.</description>
+    </item>
+
     <item>
       <title>MODAL KOMBAT: David Lewis and the Outer Extance</title>
       <link>https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/field-instruments-hyperintelligence.html</guid>
       <pubDate>Tue, 22 Sep 2026 10:58:09 GMT</pubDate>
       <description>When human cognitive limitation becomes a fact about the reachable field.</description>
-    </item>
-
-    <item>
-      <title>The Silent Ocean</title>
-      <link>https://modalpathethics.com/the-ocean-has-no-spokesperson/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-ocean-has-no-spokesperson.html</guid>
-      <pubDate>Tue, 22 Sep 2026 10:45:34 GMT</pubDate>
-      <description>Every instrument may be right about something.</description>
-    </item>
-
-    <item>
-      <title>Show Me the 90</title>
-      <link>https://modalpathethics.com/show-me-the-90/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/show-me-the-90.html</guid>
-      <pubDate>Mon, 21 Sep 2026 17:20:56 GMT</pubDate>
-      <description>The constitutional design window is closing.</description>
     </item>
   </channel>
 </rss>
