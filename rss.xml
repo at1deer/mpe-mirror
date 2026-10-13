@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 00:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:31:10 GMT</lastBuildDate>
     
+    <item>
+      <title>Introducing Capital Chirality</title>
+      <link>https://modalpathethics.com/introducing-capital-chirality/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/introducing-capital-chirality.html</guid>
+      <pubDate>Tue, 13 Oct 2026 11:01:00 GMT</pubDate>
+      <description>New tiles, new rules, new gameplay.</description>
+    </item>
+
+    <item>
+      <title>Jacques Derrida and the Upended Source</title>
+      <link>https://modalpathethics.com/jacques-derrida-and-the-upended-source/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.html</guid>
+      <pubDate>Tue, 13 Oct 2026 11:00:00 GMT</pubDate>
+      <description>(Your Luster. My Glaive.)</description>
+    </item>
+
     <item>
       <title>Applied Case: The Streets Have Standing</title>
       <link>https://modalpathethics.com/the-street-is-filing-an-appeal/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/vi.html</guid>
       <pubDate>Tue, 22 Sep 2026 11:06:18 GMT</pubDate>
       <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Copy Accuses the Source</title>
-      <link>https://modalpathethics.com/applied-case-the-copy-accuses-the-source/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-copy-accuses-the-source.html</guid>
-      <pubDate>Tue, 22 Sep 2026 10:59:21 GMT</pubDate>
-      <description>Jerry Falade answers the authorship machine.</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Hyperintelligence</title>
-      <link>https://modalpathethics.com/field-instruments-hyperintelligence/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/field-instruments-hyperintelligence.html</guid>
-      <pubDate>Tue, 22 Sep 2026 10:58:09 GMT</pubDate>
-      <description>When human cognitive limitation becomes a fact about the reachable field.</description>
     </item>
   </channel>
 </rss>

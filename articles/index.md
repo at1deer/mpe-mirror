@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-13T00:56:18.840Z
+Mirror generated: 2026-10-13T14:31:10.697Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 384
+Published article count: 386
 
+- 2026-10-13 — [Introducing Capital Chirality](/articles/introducing-capital-chirality.md) ([HTML](/articles/introducing-capital-chirality.html)) · [canonical](https://modalpathethics.com/introducing-capital-chirality/)
+- 2026-10-13 — [Jacques Derrida and the Upended Source](/articles/jacques-derrida-and-the-upended-source.md) ([HTML](/articles/jacques-derrida-and-the-upended-source.html)) · [canonical](https://modalpathethics.com/jacques-derrida-and-the-upended-source/)
 - 2026-10-12 — [Applied Case: The Streets Have Standing](/articles/the-street-is-filing-an-appeal.md) ([HTML](/articles/the-street-is-filing-an-appeal.html)) · [canonical](https://modalpathethics.com/the-street-is-filing-an-appeal/)
 - 2026-10-12 — [MODAL KOMBAT: Nancy Cartwright and the Elemental Planes](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md) ([HTML](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html)) · [canonical](https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/)
 - 2026-10-11 — [MODAL KOMBAT: David Lewis and the Outer Extance](/articles/modal-kombat-david-lewis-and-the-outer-extance.md) ([HTML](/articles/modal-kombat-david-lewis-and-the-outer-extance.html)) · [canonical](https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/)

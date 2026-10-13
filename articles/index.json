@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-13T00:56:18.840Z",
+  "generated_at": "2026-10-13T14:31:10.697Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 384,
+  "article_count": 386,
   "articles": [
+    {
+      "title": "Introducing Capital Chirality",
+      "slug": "introducing-capital-chirality",
+      "published_at": "2026-10-13T06:01:00.000-05:00",
+      "updated_at": "2026-10-13T06:01:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/introducing-capital-chirality/",
+      "excerpt": "New tiles, new rules, new gameplay.",
+      "tags": [
+        "Chirality",
+        "News"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/introducing-capital-chirality.md",
+      "mirror_html_path": "/articles/introducing-capital-chirality.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/introducing-capital-chirality.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/introducing-capital-chirality.html",
+      "sha256_plaintext": "03da91413f15207940a506ecf654163bb052f00613dcafaee096cff4452c20d6"
+    },
+    {
+      "title": "Jacques Derrida and the Upended Source",
+      "slug": "jacques-derrida-and-the-upended-source",
+      "published_at": "2026-10-13T06:00:00.000-05:00",
+      "updated_at": "2026-10-13T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/jacques-derrida-and-the-upended-source/",
+      "excerpt": "(Your Luster. My Glaive.)",
+      "tags": [
+        "Post-Game",
+        "Engagement",
+        "Epistemic Instruments",
+        "Instrument Jurisdiction"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/jacques-derrida-and-the-upended-source.md",
+      "mirror_html_path": "/articles/jacques-derrida-and-the-upended-source.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.html",
+      "sha256_plaintext": "3311155ae76d0010394fda748cc3f55e197bfd2e67925cc01f08adb324097c76"
+    },
     {
       "title": "Applied Case: The Streets Have Standing",
       "slug": "the-street-is-filing-an-appeal",
