@@ -4,7 +4,7 @@ slug: "jacques-derrida-and-the-upended-source"
 canonical_url: "https://modalpathethics.com/jacques-derrida-and-the-upended-source/"
 mirror_url: "https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.md"
 published_at: "2026-10-13T06:00:00.000-05:00"
-updated_at: "2026-10-13T06:00:00.000-05:00"
+updated_at: "2026-10-13T16:12:30.000-05:00"
 tags:
   - "Post-Game"
   - "Engagement"
@@ -13,9 +13,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-13T14:31:10.697Z"
+mirror_generated_at: "2026-10-13T23:04:31.076Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "3311155ae76d0010394fda748cc3f55e197bfd2e67925cc01f08adb324097c76"
+sha256_plaintext: "5ccdfb8a9d8c4131e85a0d9003853a7d301492fdb76ef244e18fd49e6e31c343"
 ---
 # Jacques Derrida and the Upended Source
 
@@ -426,14 +426,10 @@ Also no.
 
 Chronology remains chronology.
 
-A dated text can establish that a formulation existed by a particular date.
-
-A citation can establish that one document explicitly invoked another.
-
-Version history can establish which wording existed in which version.
-
-A surviving file can establish that a particular object existed.
-
+-   A dated text can establish that a formulation existed by a particular date.
+-   A citation can establish that one document explicitly invoked another.
+-   Version history can establish which wording existed in which version.
+-   A surviving file can establish that a particular object existed.
 -   Resemblance can establish resemblance.
 -   Convergence can establish convergence.
     -   None of those automatically establishes causal descent.
@@ -638,7 +634,7 @@ This is the crucial inversion.
 
 Everything so far was warm-up.
 
-Fine, says Derrida.
+> **Fine,** says Derrida.
 
 -   You have surrendered pure origins.
 -   You have surrendered transparent mediation.

@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-13T14:31:10.697Z",
+  "generated_at": "2026-10-13T23:04:31.076Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -12,7 +12,7 @@
       "title": "Introducing Capital Chirality",
       "slug": "introducing-capital-chirality",
       "published_at": "2026-10-13T06:01:00.000-05:00",
-      "updated_at": "2026-10-13T06:01:00.000-05:00",
+      "updated_at": "2026-10-13T09:45:33.000-05:00",
       "canonical_url": "https://modalpathethics.com/introducing-capital-chirality/",
       "excerpt": "New tiles, new rules, new gameplay.",
       "tags": [
@@ -26,13 +26,13 @@
       "mirror_html_path": "/articles/introducing-capital-chirality.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/introducing-capital-chirality.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/introducing-capital-chirality.html",
-      "sha256_plaintext": "03da91413f15207940a506ecf654163bb052f00613dcafaee096cff4452c20d6"
+      "sha256_plaintext": "d69f200249198dd36e4ad870e0cad800fbe31058dec0e9790b79f4c00e9bdd96"
     },
     {
       "title": "Jacques Derrida and the Upended Source",
       "slug": "jacques-derrida-and-the-upended-source",
       "published_at": "2026-10-13T06:00:00.000-05:00",
-      "updated_at": "2026-10-13T06:00:00.000-05:00",
+      "updated_at": "2026-10-13T16:12:30.000-05:00",
       "canonical_url": "https://modalpathethics.com/jacques-derrida-and-the-upended-source/",
       "excerpt": "(Your Luster. My Glaive.)",
       "tags": [
@@ -48,7 +48,28 @@
       "mirror_html_path": "/articles/jacques-derrida-and-the-upended-source.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/jacques-derrida-and-the-upended-source.html",
-      "sha256_plaintext": "3311155ae76d0010394fda748cc3f55e197bfd2e67925cc01f08adb324097c76"
+      "sha256_plaintext": "5ccdfb8a9d8c4131e85a0d9003853a7d301492fdb76ef244e18fd49e6e31c343"
+    },
+    {
+      "title": "MODAL KOMBAT: Nancy Cartwright and the Elemental Planes",
+      "slug": "modal-kombat-nancy-cartwright-and-the-elemental-planes",
+      "published_at": "2026-10-12T06:00:00.000-05:00",
+      "updated_at": "2026-10-12T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/",
+      "excerpt": "The Amulet travels. The conditions do not.",
+      "tags": [
+        "Multiplayer",
+        "Post-Game",
+        "Engagement"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
+      "mirror_html_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
+      "sha256_plaintext": "8afd707df292b0585396cb7836ff84b04fbf21abc8c40ae2cc2b0b0600a125ef"
     },
     {
       "title": "Applied Case: The Streets Have Standing",
@@ -71,25 +92,24 @@
       "sha256_plaintext": "72fff717c7008c59da5f4b2b6ada81e83993303b302a2c40d3ee0658920f6b85"
     },
     {
-      "title": "MODAL KOMBAT: Nancy Cartwright and the Elemental Planes",
-      "slug": "modal-kombat-nancy-cartwright-and-the-elemental-planes",
-      "published_at": "2026-10-12T06:00:00.000-05:00",
-      "updated_at": "2026-10-12T06:00:00.000-05:00",
-      "canonical_url": "https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/",
-      "excerpt": "The Amulet travels. The conditions do not.",
+      "title": "Applied Case: Claude Saw Someone Matching the Description",
+      "slug": "applied-case-claude-saw-someone-matching-the-description",
+      "published_at": "2026-10-11T06:00:00.000-05:00",
+      "updated_at": "2026-10-11T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/",
+      "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
       "tags": [
-        "Multiplayer",
-        "Post-Game",
-        "Engagement"
+        "Applied Case",
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
-      "mirror_html_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
-      "sha256_plaintext": "8afd707df292b0585396cb7836ff84b04fbf21abc8c40ae2cc2b0b0600a125ef"
+      "mirror_markdown_path": "/articles/applied-case-claude-saw-someone-matching-the-description.md",
+      "mirror_html_path": "/articles/applied-case-claude-saw-someone-matching-the-description.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html",
+      "sha256_plaintext": "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
     },
     {
       "title": "MODAL KOMBAT: David Lewis and the Outer Extance",
@@ -114,24 +134,25 @@
       "sha256_plaintext": "12b1537171e3149c86c3a458de02f632a8500d880112c61ec0cd7250a9c8d887"
     },
     {
-      "title": "Applied Case: Claude Saw Someone Matching the Description",
-      "slug": "applied-case-claude-saw-someone-matching-the-description",
-      "published_at": "2026-10-11T06:00:00.000-05:00",
-      "updated_at": "2026-10-11T05:59:59.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/",
-      "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
+      "title": "Multiplayer: JUNKER",
+      "slug": "multiplayer-junker",
+      "published_at": "2026-10-10T06:00:00.000-05:00",
+      "updated_at": "2026-10-10T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/multiplayer-junker/",
+      "excerpt": "Eliezer Yudkowsky, Nate Soares, and the constitution of stopping artificial intelligence.",
       "tags": [
-        "Applied Case",
-        "Modal Systems"
+        "Multiplayer",
+        "Modal Systems",
+        "Inner Apocalypse"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/applied-case-claude-saw-someone-matching-the-description.md",
-      "mirror_html_path": "/articles/applied-case-claude-saw-someone-matching-the-description.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html",
-      "sha256_plaintext": "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
+      "mirror_markdown_path": "/articles/multiplayer-junker.md",
+      "mirror_html_path": "/articles/multiplayer-junker.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.html",
+      "sha256_plaintext": "f7ddd7b052ee60974408d6c3c95a3fbcbcc49eb35eba84da7b87c5a72bec2e99"
     },
     {
       "title": "The Author Was Never Alone",
@@ -152,27 +173,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-author-was-never-alone.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-author-was-never-alone.html",
       "sha256_plaintext": "78133e2e22089bc7797f0d3533fa45d249070f8dc74eaf23cab56348196142f7"
-    },
-    {
-      "title": "Multiplayer: JUNKER",
-      "slug": "multiplayer-junker",
-      "published_at": "2026-10-10T06:00:00.000-05:00",
-      "updated_at": "2026-10-10T05:59:59.000-05:00",
-      "canonical_url": "https://modalpathethics.com/multiplayer-junker/",
-      "excerpt": "Eliezer Yudkowsky, Nate Soares, and the constitution of stopping artificial intelligence.",
-      "tags": [
-        "Multiplayer",
-        "Modal Systems",
-        "Inner Apocalypse"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/multiplayer-junker.md",
-      "mirror_html_path": "/articles/multiplayer-junker.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-junker.html",
-      "sha256_plaintext": "f7ddd7b052ee60974408d6c3c95a3fbcbcc49eb35eba84da7b87c5a72bec2e99"
     },
     {
       "title": "Luciano Floridi 1v1s Modal Path Ethics on Rust",
@@ -450,7 +450,7 @@
       "title": "This Is Not Worker Solidarity You Morons",
       "slug": "this-is-not-worker-solidarity-you-morons",
       "published_at": "2026-10-03T05:50:34.000-05:00",
-      "updated_at": "2026-10-03T05:50:33.000-05:00",
+      "updated_at": "2026-10-13T09:43:47.000-05:00",
       "canonical_url": "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/",
       "excerpt": "The people are still piloting the robots. The gamers still make steam come out of my eyes.",
       "tags": [
@@ -463,7 +463,7 @@
       "mirror_html_path": "/articles/this-is-not-worker-solidarity-you-morons.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.html",
-      "sha256_plaintext": "30bf63ad7e5dd92de934720a8dc7e05d9d1cd13b2864588a025f7bc8c17fb137"
+      "sha256_plaintext": "58b830360dca9747f2552d0cb08a452ee94db8df2655f0693a82d21f5634c4f4"
     },
     {
       "title": "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI",

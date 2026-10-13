@@ -4,16 +4,16 @@ slug: "introducing-capital-chirality"
 canonical_url: "https://modalpathethics.com/introducing-capital-chirality/"
 mirror_url: "https://mirror.modalpathethics.com/articles/introducing-capital-chirality.md"
 published_at: "2026-10-13T06:01:00.000-05:00"
-updated_at: "2026-10-13T06:01:00.000-05:00"
+updated_at: "2026-10-13T09:45:33.000-05:00"
 tags:
   - "Chirality"
   - "News"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-13T14:31:10.697Z"
+mirror_generated_at: "2026-10-13T23:04:31.076Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "03da91413f15207940a506ecf654163bb052f00613dcafaee096cff4452c20d6"
+sha256_plaintext: "d69f200249198dd36e4ad870e0cad800fbe31058dec0e9790b79f4c00e9bdd96"
 ---
 # Introducing Capital Chirality
 
@@ -37,7 +37,7 @@ The original game was built on the **P3 Penrose tiling**, using Thick and Thin r
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/10/image-63.png)
 
-This is not another board added to the rotation. It is a new geometry, with new formations, new strategic relationships, and an entirely different central objective.
+This is not another board added to the rotation. It is a new geometry, with new formations and new strategic relationships.
 
 Naturally, this one also involves five arcane Towers casting spells at one another.
 
@@ -55,7 +55,7 @@ Two to five players begin with five pieces occupying their respective Ports, wit
 
 The objective is simple: **occupy all five Darts of the Capital to win immediately**, or eliminate every opposing army.
 
-The movement, capture, and initiative rules remain the same. Pieces still take their capabilities from the terrain they occupy. Kites are **Thick**, Darts are _Thin_. Players still Move or Muster, and the active player's captures resolve before surviving opponents can respond.
+The movement, capture, and initiative rules remain the same. Pieces still take their capabilities from the terrain they occupy. Kites are **Thick**, Darts are _Thin_. Players still Move or Muster, and the active player's captures resolve before opponents.
 
 What changes is the battlefield's structure.
 
@@ -129,9 +129,7 @@ Your chosen combination and most recently played tiles will also now replace the
 
 * * *
 
-## Two Geometries.
-
-## One Game.
+## Chirality.
 
 _Capital_ is the first substantial addition to _Chirality's_ underlying ruleset, rather than another variation of the original battlefield.
 

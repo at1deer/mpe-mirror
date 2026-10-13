@@ -4,15 +4,15 @@ slug: "this-is-not-worker-solidarity-you-morons"
 canonical_url: "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/"
 mirror_url: "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md"
 published_at: "2026-10-03T05:50:34.000-05:00"
-updated_at: "2026-10-03T05:50:33.000-05:00"
+updated_at: "2026-10-13T09:43:47.000-05:00"
 tags:
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-13T14:31:10.697Z"
+mirror_generated_at: "2026-10-13T23:04:31.076Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "30bf63ad7e5dd92de934720a8dc7e05d9d1cd13b2864588a025f7bc8c17fb137"
+sha256_plaintext: "58b830360dca9747f2552d0cb08a452ee94db8df2655f0693a82d21f5634c4f4"
 ---
 # This Is Not Worker Solidarity You Morons
 
@@ -509,7 +509,7 @@ Steam itself [defines](https://partner.steamgames.com/doc/store/reviews?ref=moda
 
 And gaming culture fucking loves this instrument. It's their go-to.
 
-It is completely fucking unethical and incoherent.
+It is completely fucking incoherent.
 
 Developers are simultaneously:
 
