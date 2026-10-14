@@ -4,7 +4,7 @@ slug: "nemichandra-and-the-ten-vitalities"
 canonical_url: "https://modalpathethics.com/nemichandra-and-the-ten-vitalities/"
 mirror_url: "https://mirror.modalpathethics.com/articles/nemichandra-and-the-ten-vitalities.md"
 published_at: "2026-10-14T06:01:00.000-05:00"
-updated_at: "2026-10-14T06:00:59.000-05:00"
+updated_at: "2026-10-14T09:57:40.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Sacred Instruments"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-14T12:17:48.630Z"
+mirror_generated_at: "2026-10-14T17:33:20.807Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "908d37a444512bdaeaef6db20a1737015764372fff5b97f0f4032603b1d7c341"
+sha256_plaintext: "5782c3c853b6ca31eab5c2e5dbe14d632fa3dbbd4ea06cc366a5727a2db0e063"
 ---
 # Nemichandra and the Ten Vitalities
 
@@ -63,11 +63,14 @@ These are not ten equally distributed tokens that every organism has hiding in t
 
 Already, two things matter.
 
--   First, a living being need not cease to exist for a vitality to be injured.
+First, a living being need not cease to exist for a vitality to be injured.
+
 -   Sight can be lost while respiration continues.
 -   Bodily power can be burdened while sensory activity remains.
 -   Speech can be obstructed while other capacities persist.
--   Second, Jainism's concern with life does not stop at creatures that resemble human beings.
+
+Second, Jainism's concern with life does not stop at creatures that resemble human beings.
+
 -   Its wider cosmology includes one-sensed life and earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied beings.
 -   Whatever we eventually make of that cosmology, it would be a spectacular mistake to describe Jain nonviolence as concern for humans and a few particularly photogenic mammals.
 
