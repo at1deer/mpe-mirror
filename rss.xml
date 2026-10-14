@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 05:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 12:17:48 GMT</lastBuildDate>
     
+    <item>
+      <title>Nemichandra and the Ten Vitalities</title>
+      <link>https://modalpathethics.com/nemichandra-and-the-ten-vitalities/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/nemichandra-and-the-ten-vitalities.html</guid>
+      <pubDate>Wed, 14 Oct 2026 11:01:00 GMT</pubDate>
+      <description>Jainism, the anatomy of injury, and the weight of continuation.</description>
+    </item>
+
+    <item>
+      <title>IGN Has Mistaken a Cool Crocodile for an Argument</title>
+      <link>https://modalpathethics.com/ign-has-mistaken-a-cool-crocodile-for-an-argument/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.html</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The human can still write the catchphrase, direct the actor, and make the crocodile faster. Artificial intelligence has not confiscated the controls.</description>
+    </item>
+
     <item>
       <title>Introducing Capital Chirality</title>
       <link>https://modalpathethics.com/introducing-capital-chirality/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-will-is-not-universal.html</guid>
       <pubDate>Wed, 23 Sep 2026 10:50:09 GMT</pubDate>
       <description>Schopenhauer, Mainländer, and the Metaphysics of Closure.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Super Intelligence of America</title>
-      <link>https://modalpathethics.com/applied-case-the-super-intelligence-of-america/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-super-intelligence-of-america.html</guid>
-      <pubDate>Wed, 23 Sep 2026 06:30:12 GMT</pubDate>
-      <description>I just can't win.</description>
-    </item>
-
-    <item>
-      <title>VI</title>
-      <link>https://modalpathethics.com/vi/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/vi.html</guid>
-      <pubDate>Tue, 22 Sep 2026 11:06:18 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
     </item>
   </channel>
 </rss>

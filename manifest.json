@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-14T05:18:08.030Z",
+  "generated_at": "2026-10-14T12:17:48.630Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 386,
+  "article_count": 388,
   "articles": [
+    {
+      "title": "Nemichandra and the Ten Vitalities",
+      "slug": "nemichandra-and-the-ten-vitalities",
+      "published_at": "2026-10-14T06:01:00.000-05:00",
+      "updated_at": "2026-10-14T06:00:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/nemichandra-and-the-ten-vitalities/",
+      "excerpt": "Jainism, the anatomy of injury, and the weight of continuation.",
+      "tags": [
+        "Modal Path Ethics",
+        "Sacred Instruments",
+        "Instrument Jurisdiction"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/nemichandra-and-the-ten-vitalities.md",
+      "mirror_html_path": "/articles/nemichandra-and-the-ten-vitalities.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/nemichandra-and-the-ten-vitalities.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/nemichandra-and-the-ten-vitalities.html",
+      "sha256_plaintext": "908d37a444512bdaeaef6db20a1737015764372fff5b97f0f4032603b1d7c341"
+    },
+    {
+      "title": "IGN Has Mistaken a Cool Crocodile for an Argument",
+      "slug": "ign-has-mistaken-a-cool-crocodile-for-an-argument",
+      "published_at": "2026-10-14T06:00:00.000-05:00",
+      "updated_at": "2026-10-14T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/ign-has-mistaken-a-cool-crocodile-for-an-argument/",
+      "excerpt": "The human can still write the catchphrase, direct the actor, and make the crocodile faster. Artificial intelligence has not confiscated the controls.",
+      "tags": [
+        "Modal Systems",
+        "News"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.md",
+      "mirror_html_path": "/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.html",
+      "sha256_plaintext": "a7848e8ab4998be35cfd1d8d12466fb70bdc5bf65c57b7cf44d100291280c3a7"
+    },
     {
       "title": "Introducing Capital Chirality",
       "slug": "introducing-capital-chirality",

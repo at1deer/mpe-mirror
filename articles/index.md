@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-14T05:18:08.030Z
+Mirror generated: 2026-10-14T12:17:48.630Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 386
+Published article count: 388
 
+- 2026-10-14 — [Nemichandra and the Ten Vitalities](/articles/nemichandra-and-the-ten-vitalities.md) ([HTML](/articles/nemichandra-and-the-ten-vitalities.html)) · [canonical](https://modalpathethics.com/nemichandra-and-the-ten-vitalities/)
+- 2026-10-14 — [IGN Has Mistaken a Cool Crocodile for an Argument](/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.md) ([HTML](/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.html)) · [canonical](https://modalpathethics.com/ign-has-mistaken-a-cool-crocodile-for-an-argument/)
 - 2026-10-13 — [Introducing Capital Chirality](/articles/introducing-capital-chirality.md) ([HTML](/articles/introducing-capital-chirality.html)) · [canonical](https://modalpathethics.com/introducing-capital-chirality/)
 - 2026-10-13 — [Jacques Derrida and the Upended Source](/articles/jacques-derrida-and-the-upended-source.md) ([HTML](/articles/jacques-derrida-and-the-upended-source.html)) · [canonical](https://modalpathethics.com/jacques-derrida-and-the-upended-source/)
 - 2026-10-12 — [MODAL KOMBAT: Nancy Cartwright and the Elemental Planes](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md) ([HTML](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html)) · [canonical](https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/)
