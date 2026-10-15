@@ -4,19 +4,133 @@ slug: "applied-case-the-superintelligence-ban-cannot-find-the-superintelligence"
 canonical_url: "https://modalpathethics.com/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md"
 published_at: "2026-09-04T13:13:59.000-05:00"
-updated_at: "2026-09-04T13:13:59.000-05:00"
+updated_at: "2026-10-14T21:33:42.000-05:00"
 tags:
   - "Applied Case"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-14T21:54:32.706Z"
+mirror_generated_at: "2026-10-15T05:05:11.855Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
+sha256_plaintext: "698cdf0435c0e14356cfbdadee7906fa87da4825f39a1c5acc8f7e7255110fb0"
 ---
 # Applied Case: The Superintelligence Ban Cannot Find the Superintelligence
 
-> **Source note:** On September 3, 2026, Senator Bernie Sanders and Representative Greg Casar announced the forthcoming Ban Artificial Superintelligence Act. The complete legislative text has not yet been released. This audit therefore addresses the definitions, examples, regulatory architecture, and claims the sponsors have publicly announced. If the statutory text supplies materially stronger distinctions, this article should be updated accordingly. Here's hoping.
+## October 14, 2026: The Ban Has Found a Secretary.
+
+On September 4, Modal Path Ethics asked Bernie Sanders and Greg Casar to identify the **Artificial Superintelligence** they intended to ban.
+
+They have now supplied [S. 5493](https://www.govinfo.gov/content/pkg/BILLS-119s5493is/html/BILLS-119s5493is.htm?ref=modalpathethics.com) and [H.R. 10538](https://www.govinfo.gov/content/pkg/BILLS-119hr10538ih/xhtml/BILLS-119hr10538ih.html?ref=modalpathethics.com). These are **introduced bills**, not law. The original argument remains below, where I left it. The introduced text has earned a new hearing.
+
+And it turns out Congress did find something.
+
+Several things, actually.
+
+Section 3 distinguishes an _advanced AI system_, _artificial superintelligence_, and _superintelligence precursor characteristics_. The superintelligence definition has two alternative routes:
+
+-   broad cognitive superiority across most domains,
+
+or
+
+-   sufficient capability to plan and execute humanity's destruction or disempowerment.
+
+The precursor definition lists six characteristics, including
+
+1.  accelerating AI research,
+2.  unauthorized access,
+3.  shutdown resistance,
+4.  weapons assistance,
+5.  self-modification, and
+6.  deceptive evasion of oversight.
+
+Good. Different phenomena finally have different names.
+
+Then §9(a) prohibits developing, deploying, acquiring, possessing, funding, importing, or transferring a system that displays **even one precursor characteristic**. And Section 9(b) reaches systems that could **foreseeably be modified** to produce one. The precursor list is nonexhaustive, and these prohibitions are not expressly limited to the separate advanced-AI compute threshold.
+
+-   The definitions separated the phenomena.
+-   The prohibition gathered them back together.
+
+-   An AI that can accelerate AI research is not thereby an AI that can destroy humanity.
+-   An AI that can be modified into a dangerous deployment is not already that deployment.
+-   A system resistant to one shutdown instrument has not acquired general cognitive supremacy.
+
+None of those observations makes the dangers unreal. They determine **which danger the law has actually found**.
+
+[_Field Instruments: Hyperintelligence_](https://modalpathethics.com/field-instruments-hyperintelligence/) sharpened this after the original article. Modal Path Ethics now distinguishes an artificial locus exceeding an independent human capability frontier in a declared consequential domain from _Superintelligence_ as a field-level capacity composed through multiple loci.
+
+Generality, persistence, tools, replication, dangerous capability, and institutional dependence can all move separately.
+
+The bill has located several of those variables. It still needs a law that treats them separately when the consequences arrive.
+
+* * *
+
+## The Safe Set Has an Office.
+
+The more important change since September is that Modal Path Ethics has spent several weeks asking a worse question:
+
+> Who gets to decide what counts as safe, and what can make **that decision** lose?
+
+In [_Show Me the 90_](https://modalpathethics.com/show-me-the-90/), I quite reasonably asked what institutions look like if artificial intelligence does **not** end humanity. In [_Carl Schmitt and the Batman Who Leaves_](https://modalpathethics.com/carl-schmitt-and-the-batman-who-leaves/), I granted the emergency commander the power to act and denied him permanent ownership of the emergency. In [the recent engagement with Sławomir Krakowski](https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/), the stop command survived after the time and material route required to execute it had disappeared. Krakowski's safe set still required somebody to specify what belonged inside it. In [the October encounter with Nick Bostrom](https://modalpathethics.com/how-i-6-0d-nick-bostrom-with-aurumoth/), I granted that some global problems demand global coordination and refused to grant the coordinator permanent title over challenges to its own supremacy. Section 15 of the new bill calls for international cooperation against superintelligence. The constitutional question travels with it.
+
+The new bill supplies that somebody with an office.
+
+Under §8, the temporary advanced-AI pause ends when the **Secretary of Artificial Intelligence** determines the department is staffed and its required safety rules exist. Under §6, the Secretary selects the members of the board described as independent scientific advisers. Under §10, the Secretary can identify precursor systems for immediate pause and internet sequestration, followed by inoperation within thirty days if the offending characteristics cannot be verified as removed; systems identified as artificial superintelligence must be rendered inoperative immediately.
+
+There are actual constraints. The Secretary would be appointed by the President with Senate confirmation. Section 13 supplies Federal Circuit review for charter revocation. The bill contains whistleblower protections. Those are meaningful. The text does not equally specify an independent **pre-inoperation** review procedure in §10; that does not establish the absence of every other legal remedy.
+
+We have not proved the proposed Department sovereign. We have found the place where its constitutional design has to be tested.
+
+An emergency brake needs enough authority to stop the machine. That authority cannot inherit an unrestricted right to define the machine, grade its own evidence, read its own clock, and decide when everyone else may resume.
+
+* * *
+
+## The Public Has Entered the Hearing.
+
+On October 13, Michigan Senate candidate **Abdul El-Sayed** released [_AI Under Control_](https://abdulforsenate.com/2026/10/ai-under-control/?ref=modalpathethics.com), explicitly building on Sanders and Casar. He calls for a frontier pause, a permanent superintelligence ban, a further ban on recursive self-improvement, shutdown drills, incident reporting, an international agreement, and a regulator able to order suspension or shutdown.
+
+His [June](https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/?ref=modalpathethics.com) [_AI Under Democracy_](https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/?ref=modalpathethics.com) [platform](https://abdulforsenate.com/2026/06/first-do-no-harm-ai-under-democracy/?ref=modalpathethics.com) went somewhere else too: majority publicly selected boards at frontier labs, support for 50% public equity through Sanders's **separate** sovereign-wealth proposal, public dividends, and protections for workers. These are El-Sayed's proposals, not provisions secretly lurking in S. 5493.
+
+There is a real improvement in the October plan.
+
+-   El-Sayed says the regulator's scientific board should be **chosen outside the agency**.
+-   Sanders and Casar's bill puts selection with the Secretary.
+
+Those architectures are not identical, and that difference matters. So does the limit of the improvement.
+
+-   Public shares do not automatically grant an affected person standing.
+-   An appointed board does not automatically possess independent access to the disputed model, data, or deployment.
+-   A lawful shutdown order does not reconstruct a hospital's lost capacity to operate without the system.
+-   A permanent ban on a broadly named process still requires an answer about what precise configurations and transitions it prohibits.
+
+_The Inner Apocalypse_ is a constitutional program for this whole surviving future. Public ownership can belong in it. Strong regulation can belong in it. Emergency shutdown can belong in it. Every one of those instruments has to remain answerable to the people and fields it can injure while trying to protect them.
+
+[
+
+The Inner Apocalypse
+
+The Inner Apocalypse.pdf
+
+2 MB
+
+download-circle
+
+](https://modalpathethics.com/content/files/2026/09/The-Inner-Apocalypse.pdf "Download")
+
+That same rule applies to the technology companies, the regulator, a public board, and any political coalition selling us the cure.
+
+The bill's best instincts are worth keeping: outside inspection, real consequences for reckless wrongdoing, preserved whistleblower routes, and power to interrupt dangerous systems. The next draft should distinguish dangerous **relations and deployments**, protect the evidence needed to contest classifications, and make the emergency authority's limits and correction paths materially real.
+
+In September we asked Congress to find the superintelligence.
+
+It has found a Secretary who may pronounce one present.
+
+> **Now show us how the Secretary can be wrong, and how correction can still arrive in time.**
+
+* * *
+
+## Original Article.
+
+> **Source note:** On September 3, 2026, Senator Bernie Sanders and Representative Greg Casar announced the forthcoming Ban Artificial Superintelligence Act. The complete legislative text has not yet been released. This audit therefore addresses the definitions, examples, regulatory architecture, and claims the sponsors have publicly announced. If the statutory text supplies materially stronger distinctions, this article should be updated accordingly, which it now has.
 
 Bernie Sanders and Greg Casar would like to ban **Artificial Superintelligence**.
 

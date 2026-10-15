@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-14T21:54:32.706Z",
+  "generated_at": "2026-10-15T05:05:11.855Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -92,27 +92,6 @@
       "sha256_plaintext": "5ccdfb8a9d8c4131e85a0d9003853a7d301492fdb76ef244e18fd49e6e31c343"
     },
     {
-      "title": "MODAL KOMBAT: Nancy Cartwright and the Elemental Planes",
-      "slug": "modal-kombat-nancy-cartwright-and-the-elemental-planes",
-      "published_at": "2026-10-12T06:00:00.000-05:00",
-      "updated_at": "2026-10-12T06:00:00.000-05:00",
-      "canonical_url": "https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/",
-      "excerpt": "The Amulet travels. The conditions do not.",
-      "tags": [
-        "Multiplayer",
-        "Post-Game",
-        "Engagement"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
-      "mirror_html_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
-      "sha256_plaintext": "8afd707df292b0585396cb7836ff84b04fbf21abc8c40ae2cc2b0b0600a125ef"
-    },
-    {
       "title": "Applied Case: The Streets Have Standing",
       "slug": "the-street-is-filing-an-appeal",
       "published_at": "2026-10-12T06:00:00.000-05:00",
@@ -133,24 +112,25 @@
       "sha256_plaintext": "72fff717c7008c59da5f4b2b6ada81e83993303b302a2c40d3ee0658920f6b85"
     },
     {
-      "title": "Applied Case: Claude Saw Someone Matching the Description",
-      "slug": "applied-case-claude-saw-someone-matching-the-description",
-      "published_at": "2026-10-11T06:00:00.000-05:00",
-      "updated_at": "2026-10-11T05:59:59.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/",
-      "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
+      "title": "MODAL KOMBAT: Nancy Cartwright and the Elemental Planes",
+      "slug": "modal-kombat-nancy-cartwright-and-the-elemental-planes",
+      "published_at": "2026-10-12T06:00:00.000-05:00",
+      "updated_at": "2026-10-12T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/",
+      "excerpt": "The Amulet travels. The conditions do not.",
       "tags": [
-        "Applied Case",
-        "Modal Systems"
+        "Multiplayer",
+        "Post-Game",
+        "Engagement"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/applied-case-claude-saw-someone-matching-the-description.md",
-      "mirror_html_path": "/articles/applied-case-claude-saw-someone-matching-the-description.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html",
-      "sha256_plaintext": "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
+      "mirror_markdown_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
+      "mirror_html_path": "/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html",
+      "sha256_plaintext": "8afd707df292b0585396cb7836ff84b04fbf21abc8c40ae2cc2b0b0600a125ef"
     },
     {
       "title": "MODAL KOMBAT: David Lewis and the Outer Extance",
@@ -173,6 +153,26 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-david-lewis-and-the-outer-extance.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-david-lewis-and-the-outer-extance.html",
       "sha256_plaintext": "12b1537171e3149c86c3a458de02f632a8500d880112c61ec0cd7250a9c8d887"
+    },
+    {
+      "title": "Applied Case: Claude Saw Someone Matching the Description",
+      "slug": "applied-case-claude-saw-someone-matching-the-description",
+      "published_at": "2026-10-11T06:00:00.000-05:00",
+      "updated_at": "2026-10-11T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/",
+      "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-claude-saw-someone-matching-the-description.md",
+      "mirror_html_path": "/articles/applied-case-claude-saw-someone-matching-the-description.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html",
+      "sha256_plaintext": "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
     },
     {
       "title": "Multiplayer: JUNKER",
@@ -2270,7 +2270,7 @@
       "title": "Applied Case: The Superintelligence Ban Cannot Find the Superintelligence",
       "slug": "applied-case-the-superintelligence-ban-cannot-find-the-superintelligence",
       "published_at": "2026-09-04T13:13:59.000-05:00",
-      "updated_at": "2026-09-04T13:13:59.000-05:00",
+      "updated_at": "2026-10-14T21:33:42.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence/",
       "excerpt": "\nBernie Sanders, Greg Casar, the wrong noun, and a twenty-year prison sentence.",
       "tags": [
@@ -2283,7 +2283,7 @@
       "mirror_html_path": "/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-superintelligence-ban-cannot-find-the-superintelligence.html",
-      "sha256_plaintext": "31018b053aeea6cc6384eb51f3484c8565264f4be472e9dec703055864f4c6a9"
+      "sha256_plaintext": "698cdf0435c0e14356cfbdadee7906fa87da4825f39a1c5acc8f7e7255110fb0"
     },
     {
       "title": "Applied Case: Claude’s Constitution",
