@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-15T05:05:11.855Z",
+  "generated_at": "2026-10-15T12:00:04.335Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 388,
+  "article_count": 390,
   "articles": [
+    {
+      "title": "MULTIPLAYER: Abdul El-Sayed and the 50/50",
+      "slug": "abdul-el-sayed-and-the-public-that-owns-half-the-machine",
+      "published_at": "2026-10-15T06:00:00.000-05:00",
+      "updated_at": "2026-10-15T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/",
+      "excerpt": "The public has acquired an AI company, a regulator, a dividend, a scientific board, a treaty proposal, and a kill switch. Modal Path Ethics has some questions about the exits.",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Systems",
+        "Multiplayer"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md",
+      "mirror_html_path": "/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html",
+      "sha256_plaintext": "e49c4fa7ad44e83ab35633867fd3484914a709088664716d3c82ea4a1eb9d777"
+    },
+    {
+      "title": "Russell T Davies and the Writer Who Was Always There",
+      "slug": "russell-t-davies-and-the-writer-who-was-there-the-whole-time",
+      "published_at": "2026-10-15T05:59:00.000-05:00",
+      "updated_at": "2026-10-15T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/russell-t-davies-and-the-writer-who-was-there-the-whole-time/",
+      "excerpt": "The writer did not disappear.",
+      "tags": [
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.md",
+      "mirror_html_path": "/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html",
+      "sha256_plaintext": "d755a7a3f6bf07b0a481e0e08bf485540168ecb014ba63a5b891ce2889022cd3"
+    },
     {
       "title": "Nemichandra and the Ten Vitalities",
       "slug": "nemichandra-and-the-ten-vitalities",

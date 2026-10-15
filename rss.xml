@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 05:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:00:04 GMT</lastBuildDate>
     
+    <item>
+      <title>MULTIPLAYER: Abdul El-Sayed and the 50/50</title>
+      <link>https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html</guid>
+      <pubDate>Thu, 15 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The public has acquired an AI company, a regulator, a dividend, a scientific board, a treaty proposal, and a kill switch. Modal Path Ethics has some questions about the exits.</description>
+    </item>
+
+    <item>
+      <title>Russell T Davies and the Writer Who Was Always There</title>
+      <link>https://modalpathethics.com/russell-t-davies-and-the-writer-who-was-there-the-whole-time/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html</guid>
+      <pubDate>Thu, 15 Oct 2026 10:59:00 GMT</pubDate>
+      <description>The writer did not disappear.</description>
+    </item>
+
     <item>
       <title>Nemichandra and the Ten Vitalities</title>
       <link>https://modalpathethics.com/nemichandra-and-the-ten-vitalities/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-problem-of-space.html</guid>
       <pubDate>Wed, 23 Sep 2026 11:01:07 GMT</pubDate>
       <description>If spacetime is emergent, what exactly is a &quot;field&quot;? A vocabulary cleanup and engagement with Group Field Theory.</description>
-    </item>
-
-    <item>
-      <title>Failed Field Analysts: Jensen Huang and the Perfect Incentives</title>
-      <link>https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/failed-field-analysts-jensen-huang-and-the-perfect-incentives.html</guid>
-      <pubDate>Wed, 23 Sep 2026 10:59:51 GMT</pubDate>
-      <description>He found the brake inside the accelerator and decided no other brake was necessary.</description>
-    </item>
-
-    <item>
-      <title>Will Is Not Universal</title>
-      <link>https://modalpathethics.com/the-will-is-not-universal/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-will-is-not-universal.html</guid>
-      <pubDate>Wed, 23 Sep 2026 10:50:09 GMT</pubDate>
-      <description>Schopenhauer, Mainländer, and the Metaphysics of Closure.</description>
     </item>
   </channel>
 </rss>

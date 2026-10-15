@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-15T05:05:11.855Z
+Mirror generated: 2026-10-15T12:00:04.335Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 388
+Published article count: 390
 
+- 2026-10-15 — [MULTIPLAYER: Abdul El-Sayed and the 50/50](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md) ([HTML](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html)) · [canonical](https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/)
+- 2026-10-15 — [Russell T Davies and the Writer Who Was Always There](/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.md) ([HTML](/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html)) · [canonical](https://modalpathethics.com/russell-t-davies-and-the-writer-who-was-there-the-whole-time/)
 - 2026-10-14 — [Nemichandra and the Ten Vitalities](/articles/nemichandra-and-the-ten-vitalities.md) ([HTML](/articles/nemichandra-and-the-ten-vitalities.html)) · [canonical](https://modalpathethics.com/nemichandra-and-the-ten-vitalities/)
 - 2026-10-14 — [IGN Has Mistaken a Cool Crocodile for an Argument](/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.md) ([HTML](/articles/ign-has-mistaken-a-cool-crocodile-for-an-argument.html)) · [canonical](https://modalpathethics.com/ign-has-mistaken-a-cool-crocodile-for-an-argument/)
 - 2026-10-13 — [Introducing Capital Chirality](/articles/introducing-capital-chirality.md) ([HTML](/articles/introducing-capital-chirality.html)) · [canonical](https://modalpathethics.com/introducing-capital-chirality/)
