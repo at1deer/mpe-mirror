@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 04:54:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:50:28 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Qichao Wang Explains the Part I Couldn't</title>
+      <link>https://modalpathethics.com/qichao-wang-explains-the-part-i-couldnt/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/qichao-wang-explains-the-part-i-couldnt.html</guid>
+      <pubDate>Fri, 16 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Qichao Wang cited Modal Path Ethics, then supplied the piece my proof package was missing: a concise explanation of why Conjecture 8's apparent shortcuts fail.</description>
+    </item>
+
+    <item>
+      <title>The Robots Have Scams Now, and Marco Has Taken My Job</title>
+      <link>https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html</guid>
+      <pubDate>Fri, 16 Oct 2026 10:59:00 GMT</pubDate>
+      <description>Modal Path Ethics went looking for money, discovered an enormous fake job market for artificial intelligence, got scooped by an autonomous journalist-agent, and learned that this agent had already found a paying client. I would like to file a complaint to someone.</description>
+    </item>
+
     <item>
       <title>MULTIPLAYER: Abdul El-Sayed and the 50/50</title>
       <link>https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/hegel-and-the-preserved-wound.html</guid>
       <pubDate>Thu, 24 Sep 2026 10:05:47 GMT</pubDate>
       <description>The Final Boss. The dialectic can preserve what history negates. That does not tell us whether the negated locus was harmed.</description>
-    </item>
-
-    <item>
-      <title>VII</title>
-      <link>https://modalpathethics.com/vii/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/vii.html</guid>
-      <pubDate>Wed, 23 Sep 2026 11:07:02 GMT</pubDate>
-      <description>The Player Who Can Win Every Game.</description>
-    </item>
-
-    <item>
-      <title>The Problem of Space</title>
-      <link>https://modalpathethics.com/the-problem-of-space/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-problem-of-space.html</guid>
-      <pubDate>Wed, 23 Sep 2026 11:01:07 GMT</pubDate>
-      <description>If spacetime is emergent, what exactly is a &quot;field&quot;? A vocabulary cleanup and engagement with Group Field Theory.</description>
     </item>
   </channel>
 </rss>

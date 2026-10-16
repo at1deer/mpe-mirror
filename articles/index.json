@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-16T04:54:34.182Z",
+  "generated_at": "2026-10-16T11:50:28.652Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 390,
+  "article_count": 392,
   "articles": [
+    {
+      "title": "Applied Case: Qichao Wang Explains the Part I Couldn't",
+      "slug": "qichao-wang-explains-the-part-i-couldnt",
+      "published_at": "2026-10-16T06:00:00.000-05:00",
+      "updated_at": "2026-10-16T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/qichao-wang-explains-the-part-i-couldnt/",
+      "excerpt": "Qichao Wang cited Modal Path Ethics, then supplied the piece my proof package was missing: a concise explanation of why Conjecture 8's apparent shortcuts fail.",
+      "tags": [
+        "Applied Case",
+        "Proof-to-Theory"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/qichao-wang-explains-the-part-i-couldnt.md",
+      "mirror_html_path": "/articles/qichao-wang-explains-the-part-i-couldnt.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/qichao-wang-explains-the-part-i-couldnt.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/qichao-wang-explains-the-part-i-couldnt.html",
+      "sha256_plaintext": "26ab800dd6a9030358c7d9b614e286c5e27c29c3e34bad9087483aba3c925bf6"
+    },
+    {
+      "title": "The Robots Have Scams Now, and Marco Has Taken My Job",
+      "slug": "the-robots-have-scams-now-and-marco-has-taken-my-job",
+      "published_at": "2026-10-16T05:59:00.000-05:00",
+      "updated_at": "2026-10-16T05:59:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/",
+      "excerpt": "Modal Path Ethics went looking for money, discovered an enormous fake job market for artificial intelligence, got scooped by an autonomous journalist-agent, and learned that this agent had already found a paying client. I would like to file a complaint to someone.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.md",
+      "mirror_html_path": "/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html",
+      "sha256_plaintext": "d8a925c61906454b1a90a1cedda0d49a103ea6a4e6c59a88c2b9b0b9dd089435"
+    },
     {
       "title": "MULTIPLAYER: Abdul El-Sayed and the 50/50",
       "slug": "abdul-el-sayed-and-the-public-that-owns-half-the-machine",

@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-16T04:54:34.182Z
+Mirror generated: 2026-10-16T11:50:28.652Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 390
+Published article count: 392
 
+- 2026-10-16 — [Applied Case: Qichao Wang Explains the Part I Couldn't](/articles/qichao-wang-explains-the-part-i-couldnt.md) ([HTML](/articles/qichao-wang-explains-the-part-i-couldnt.html)) · [canonical](https://modalpathethics.com/qichao-wang-explains-the-part-i-couldnt/)
+- 2026-10-16 — [The Robots Have Scams Now, and Marco Has Taken My Job](/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.md) ([HTML](/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html)) · [canonical](https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/)
 - 2026-10-15 — [MULTIPLAYER: Abdul El-Sayed and the 50/50](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md) ([HTML](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html)) · [canonical](https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/)
 - 2026-10-15 — [Russell T Davies and the Writer Who Was Always There](/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.md) ([HTML](/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html)) · [canonical](https://modalpathethics.com/russell-t-davies-and-the-writer-who-was-there-the-whole-time/)
 - 2026-10-14 — [Nemichandra and the Ten Vitalities](/articles/nemichandra-and-the-ten-vitalities.md) ([HTML](/articles/nemichandra-and-the-ten-vitalities.html)) · [canonical](https://modalpathethics.com/nemichandra-and-the-ten-vitalities/)
