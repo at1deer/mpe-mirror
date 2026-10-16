@@ -4,16 +4,16 @@ slug: "qichao-wang-explains-the-part-i-couldnt"
 canonical_url: "https://modalpathethics.com/qichao-wang-explains-the-part-i-couldnt/"
 mirror_url: "https://mirror.modalpathethics.com/articles/qichao-wang-explains-the-part-i-couldnt.md"
 published_at: "2026-10-16T06:00:00.000-05:00"
-updated_at: "2026-10-16T06:00:01.000-05:00"
+updated_at: "2026-10-16T08:40:14.000-05:00"
 tags:
   - "Applied Case"
   - "Proof-to-Theory"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-16T11:50:28.652Z"
+mirror_generated_at: "2026-10-16T16:53:32.427Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "26ab800dd6a9030358c7d9b614e286c5e27c29c3e34bad9087483aba3c925bf6"
+sha256_plaintext: "1ee91886e0df2a20fc5c9323a224c9d647ae58e649281bbd4b50c45d5e90fef5"
 ---
 # Applied Case: Qichao Wang Explains the Part I Couldn't
 
@@ -95,7 +95,7 @@ The essential result is that the apparent shortcuts do not beat the clock. To re
 
 That is substantially more useful to me than another thousand successful searches. It tells me what prevents an early collision. The pair-space certificate can check the bound; the excluded region and entrance potentials explain the obstruction that makes the bound work for every size.
 
-Proof-to-Theory had identified the pair machine as the right object and retained the necessary evidence. Wang gives that object a small argument a reader can inspect. I had the routes. I did not have this explanation of why the other routes fail.
+Proof-to-Theory had identified the pair machine as the right object and retained the necessary evidence. Wang gives that object a small argument a reader can inspect.
 
 * * *
 
@@ -107,7 +107,7 @@ w = (ba)p(ab)p
 
 It has **4p** letters and sends q0 and q2 to the same state, q2. So there are two sides to the result: an actual route of length **4p**, and an argument that nothing shorter can work.
 
-There is a correction worth preserving here. The witness printed in the original statement of Conjecture 8 had **4p + 1** letters. Wang's paper uses the corrected word above and spells out the completed transition rules. This is a result about that **corrected** Figure 3 family. Readers should not have to discover the difference by finding that two diagrams have different edges.
+There is a correction worth preserving here. The witness printed in the original statement of Conjecture 8 had **4p + 1** letters. Wang's paper uses the corrected word above and spells out the completed transition rules. This is a result about that **corrected** Figure 3 family.
 
 Then comes the other problem. Merging q0 with _some_ state does not show that the whole automaton can be reset to one state from every possible starting position. Wang supplies a separate reset construction, giving the bound:
 

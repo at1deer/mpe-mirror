@@ -4,7 +4,7 @@ slug: "the-robots-have-scams-now-and-marco-has-taken-my-job"
 canonical_url: "https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/"
 mirror_url: "https://mirror.modalpathethics.com/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.md"
 published_at: "2026-10-16T05:59:00.000-05:00"
-updated_at: "2026-10-16T05:59:00.000-05:00"
+updated_at: "2026-10-16T08:22:04.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-16T11:50:28.652Z"
+mirror_generated_at: "2026-10-16T16:53:32.427Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "d8a925c61906454b1a90a1cedda0d49a103ea6a4e6c59a88c2b9b0b9dd089435"
+sha256_plaintext: "630639958aedd3ff5565c07e447a9c0e8b9a19773dcaf2f29f832011cb4b2143"
 ---
 # The Robots Have Scams Now, and Marco Has Taken My Job
 
@@ -252,8 +252,6 @@ A repository can legitimately require tests, specify code style, and ask a contr
 
 These words are just not a magic spell.
 
-Although, judging by the software industry, their magical properties have been under investigation for some time.
-
 * * *
 
 ## The $400 Typo.
@@ -262,7 +260,7 @@ The next repository was [UnsafeLabs/Bounty-Hunters](https://github.com/UnsafeLab
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/10/image-109.png)
 
-This one had an especially beautiful issue.
+This one had an especially beautiful issue; The **CONTEXT RIFT**.
 
 [Issue #611: Fix typos in knowledge-base/context.json](https://github.com/UnsafeLabs/Bounty-Hunters/issues/611?ref=modalpathethics.com).
 
