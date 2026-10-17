@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-17T04:55:14.445Z
+Mirror generated: 2026-10-17T11:06:59.513Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 392
+Published article count: 394
 
+- 2026-10-17 — [MODAL KOMBAT: Kit Fine and the Four-Headed Problem](/articles/modal-kombat-kit-fine-and-the-four-headed-problem.md) ([HTML](/articles/modal-kombat-kit-fine-and-the-four-headed-problem.html)) · [canonical](https://modalpathethics.com/modal-kombat-kit-fine-and-the-four-headed-problem/)
+- 2026-10-17 — [Applied Case: The Diesel Finds Another Route](/articles/applied-case-the-diesel-finds-another-route.md) ([HTML](/articles/applied-case-the-diesel-finds-another-route.html)) · [canonical](https://modalpathethics.com/applied-case-the-diesel-finds-another-route/)
 - 2026-10-16 — [Applied Case: Qichao Wang Explains the Part I Couldn't](/articles/qichao-wang-explains-the-part-i-couldnt.md) ([HTML](/articles/qichao-wang-explains-the-part-i-couldnt.html)) · [canonical](https://modalpathethics.com/qichao-wang-explains-the-part-i-couldnt/)
 - 2026-10-16 — [The Robots Have Scams Now, and Marco Has Taken My Job](/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.md) ([HTML](/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html)) · [canonical](https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/)
 - 2026-10-15 — [MULTIPLAYER: Abdul El-Sayed and the 50/50](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md) ([HTML](/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html)) · [canonical](https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/)

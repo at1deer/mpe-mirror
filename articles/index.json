@@ -1,13 +1,57 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-17T04:55:14.445Z",
+  "generated_at": "2026-10-17T11:06:59.513Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 392,
+  "article_count": 394,
   "articles": [
+    {
+      "title": "MODAL KOMBAT: Kit Fine and the Four-Headed Problem",
+      "slug": "modal-kombat-kit-fine-and-the-four-headed-problem",
+      "published_at": "2026-10-17T06:00:00.000-05:00",
+      "updated_at": "2026-10-17T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-kombat-kit-fine-and-the-four-headed-problem/",
+      "excerpt": "I hit an egg with a shovel. The metaphysical consequences are immediate.",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood",
+        "MODAL KOMBAT"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-kombat-kit-fine-and-the-four-headed-problem.md",
+      "mirror_html_path": "/articles/modal-kombat-kit-fine-and-the-four-headed-problem.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-kombat-kit-fine-and-the-four-headed-problem.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-kombat-kit-fine-and-the-four-headed-problem.html",
+      "sha256_plaintext": "b53586d09225a5034ab2b27677fdecf5877f21b14ce5632687773980db57c038"
+    },
+    {
+      "title": "Applied Case: The Diesel Finds Another Route",
+      "slug": "applied-case-the-diesel-finds-another-route",
+      "published_at": "2026-10-17T05:59:00.000-05:00",
+      "updated_at": "2026-10-17T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-diesel-finds-another-route/",
+      "excerpt": "The diesel is available again. The question is what future was bought with it.",
+      "tags": [
+        "Applied Case",
+        "Geopolitical Wasteland",
+        "Modal Path Ethics",
+        "Security Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-diesel-finds-another-route.md",
+      "mirror_html_path": "/articles/applied-case-the-diesel-finds-another-route.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-diesel-finds-another-route.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-diesel-finds-another-route.html",
+      "sha256_plaintext": "d30ef9c7f7873b77ea8ecf0a6ee766e545e819e4af18044e5990104747bb6144"
+    },
     {
       "title": "Applied Case: Qichao Wang Explains the Part I Couldn't",
       "slug": "qichao-wang-explains-the-part-i-couldnt",
