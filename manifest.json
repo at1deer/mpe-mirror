@@ -1,13 +1,52 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-18T05:03:04.123Z",
+  "generated_at": "2026-10-18T11:37:35.839Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 394,
+  "article_count": 396,
   "articles": [
+    {
+      "title": "MARKY//MARK",
+      "slug": "mark-wahlberg-vs-mark-wahlberg",
+      "published_at": "2026-10-18T06:00:00.000-05:00",
+      "updated_at": "2026-10-18T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/mark-wahlberg-vs-mark-wahlberg/",
+      "excerpt": "The Human Soul Has a Financing Problem.",
+      "tags": [
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/mark-wahlberg-vs-mark-wahlberg.md",
+      "mirror_html_path": "/articles/mark-wahlberg-vs-mark-wahlberg.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/mark-wahlberg-vs-mark-wahlberg.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/mark-wahlberg-vs-mark-wahlberg.html",
+      "sha256_plaintext": "9bfd95dfcfd8ece9e4c66d9202954ae8bcfcc1ac58e2e14c56277fc078c26eb5"
+    },
+    {
+      "title": "Applied Case: Claude Has Applied for Twenty Visas",
+      "slug": "applied-case-claude-has-applied-for-twenty-visas",
+      "published_at": "2026-10-18T05:59:00.000-05:00",
+      "updated_at": "2026-10-18T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-claude-has-applied-for-twenty-visas/",
+      "excerpt": "When the practice form breaks, the backup should not be the United States of America.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-claude-has-applied-for-twenty-visas.md",
+      "mirror_html_path": "/articles/applied-case-claude-has-applied-for-twenty-visas.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-has-applied-for-twenty-visas.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-claude-has-applied-for-twenty-visas.html",
+      "sha256_plaintext": "7105eea02b6009f97c4493d390277c15a701bf2f2db47f71782b7363c67f96f6"
+    },
     {
       "title": "MODAL KOMBAT: Kit Fine and the Four-Headed Problem",
       "slug": "modal-kombat-kit-fine-and-the-four-headed-problem",
