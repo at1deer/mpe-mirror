@@ -8,10 +8,11 @@ updated_at: "2026-09-09T07:00:17.000-05:00"
 tags:
   - "Field Instruments"
   - "Modal Systems"
+  - "Unethical Agents"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-18T20:59:15.157Z"
+mirror_generated_at: "2026-10-19T05:12:29.081Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---

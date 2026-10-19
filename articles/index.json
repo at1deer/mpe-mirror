@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-18T20:59:15.157Z",
+  "generated_at": "2026-10-19T05:12:29.081Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -36,7 +36,8 @@
       "excerpt": "When the practice form breaks, the backup should not be the United States of America.",
       "tags": [
         "Applied Case",
-        "Modal Systems"
+        "Modal Systems",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -121,7 +122,8 @@
       "tags": [
         "Applied Case",
         "Modal Path Ethics",
-        "Modal Systems"
+        "Modal Systems",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -329,7 +331,8 @@
       "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
       "tags": [
         "Applied Case",
-        "Modal Systems"
+        "Modal Systems",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -538,7 +541,7 @@
         "Convergence Point",
         "Modal Systems",
         "Instrument Jurisdiction",
-        "Epistemic Instruments"
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -875,7 +878,8 @@
       "excerpt": "The county ends. The water keeps going.",
       "tags": [
         "Applied Case",
-        "Instrument Jurisdiction"
+        "Instrument Jurisdiction",
+        "Aquatic Curriculum"
       ],
       "authors": [
         "Aidan Lawson"
@@ -916,7 +920,8 @@
       "excerpt": "AUS 1 • BIO 2 • ??? 1",
       "tags": [
         "Australia vs. The Biosphere",
-        "Modal Systems"
+        "Modal Systems",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1449,7 +1454,8 @@
         "Modal Path Ethics",
         "Modal Systems",
         "Inner Apocalypse",
-        "Formal"
+        "Formal",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1572,7 +1578,8 @@
       "tags": [
         "Applied Case",
         "Modal Systems",
-        "Inner Apocalypse"
+        "Inner Apocalypse",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -2107,7 +2114,8 @@
       "excerpt": "Humanity is the longest-running intelligence-alignment experiment in the dataset. Results are mixed.",
       "tags": [
         "Field Instruments",
-        "Modal Systems"
+        "Modal Systems",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"
@@ -2184,7 +2192,9 @@
       "canonical_url": "https://modalpathethics.com/applied-case-the-agents-institutionalized/",
       "excerpt": "\nAn institution begins when recurrent coordination becomes inherited structure. The Wiki Incident.",
       "tags": [
-        "Applied Case"
+        "Applied Case",
+        "Unethical Agents",
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
@@ -2266,7 +2276,8 @@
       "tags": [
         "Applied Case",
         "Modal Path Ethics",
-        "News"
+        "News",
+        "Aquatic Curriculum"
       ],
       "authors": [
         "Aidan Lawson"
@@ -3209,7 +3220,8 @@
       "tags": [
         "Applied Case",
         "Modal Systems",
-        "Modal Path Ethics"
+        "Modal Path Ethics",
+        "Unethical Agents"
       ],
       "authors": [
         "Aidan Lawson"

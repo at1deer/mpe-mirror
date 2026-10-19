@@ -8,10 +8,11 @@ updated_at: "2026-09-28T05:30:05.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
+  - "Aquatic Curriculum"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-18T20:59:15.157Z"
+mirror_generated_at: "2026-10-19T05:12:29.081Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
