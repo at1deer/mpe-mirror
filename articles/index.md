@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-19T05:12:29.081Z
+Mirror generated: 2026-10-19T13:51:26.521Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 396
+Published article count: 398
 
+- 2026-10-19 — [ASTRAL QUEST ETHICS: Artificer's Extra](/articles/astral-quest-ethics-artificers-extra.md) ([HTML](/articles/astral-quest-ethics-artificers-extra.html)) · [canonical](https://modalpathethics.com/astral-quest-ethics-artificers-extra/)
+- 2026-10-19 — [Applied Case: When The Fifth Fish Flies](/articles/applied-case-the-fifth-fish-flies.md) ([HTML](/articles/applied-case-the-fifth-fish-flies.html)) · [canonical](https://modalpathethics.com/applied-case-the-fifth-fish-flies/)
 - 2026-10-18 — [MARKY//MARK](/articles/mark-wahlberg-vs-mark-wahlberg.md) ([HTML](/articles/mark-wahlberg-vs-mark-wahlberg.html)) · [canonical](https://modalpathethics.com/mark-wahlberg-vs-mark-wahlberg/)
 - 2026-10-18 — [Applied Case: Claude Has Applied for Twenty Visas](/articles/applied-case-claude-has-applied-for-twenty-visas.md) ([HTML](/articles/applied-case-claude-has-applied-for-twenty-visas.html)) · [canonical](https://modalpathethics.com/applied-case-claude-has-applied-for-twenty-visas/)
 - 2026-10-17 — [MODAL KOMBAT: Kit Fine and the Four-Headed Problem](/articles/modal-kombat-kit-fine-and-the-four-headed-problem.md) ([HTML](/articles/modal-kombat-kit-fine-and-the-four-headed-problem.html)) · [canonical](https://modalpathethics.com/modal-kombat-kit-fine-and-the-four-headed-problem/)

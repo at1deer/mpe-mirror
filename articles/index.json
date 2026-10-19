@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-19T05:12:29.081Z",
+  "generated_at": "2026-10-19T13:51:26.521Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 396,
+  "article_count": 398,
   "articles": [
+    {
+      "title": "ASTRAL QUEST ETHICS: Artificer's Extra",
+      "slug": "astral-quest-ethics-artificers-extra",
+      "published_at": "2026-10-19T06:00:00.000-05:00",
+      "updated_at": "2026-10-19T06:00:03.000-05:00",
+      "canonical_url": "https://modalpathethics.com/astral-quest-ethics-artificers-extra/",
+      "excerpt": "The Independent Journal of the City of Towers ",
+      "tags": [
+        "Transition Action"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/astral-quest-ethics-artificers-extra.md",
+      "mirror_html_path": "/articles/astral-quest-ethics-artificers-extra.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.html",
+      "sha256_plaintext": "098b9b2a15be188aac7c43b8a547b6913e371c2592d1da4c8d922e6894b6ffe6"
+    },
+    {
+      "title": "Applied Case: When The Fifth Fish Flies",
+      "slug": "applied-case-the-fifth-fish-flies",
+      "published_at": "2026-10-19T05:59:00.000-05:00",
+      "updated_at": "2026-10-19T05:59:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-fifth-fish-flies/",
+      "excerpt": "The common pool has acquired a participant who never signed the rules.",
+      "tags": [
+        "Applied Case",
+        "Business",
+        "Instrument Jurisdiction",
+        "Aquatic Curriculum"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-fifth-fish-flies.md",
+      "mirror_html_path": "/articles/applied-case-the-fifth-fish-flies.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-fifth-fish-flies.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-fifth-fish-flies.html",
+      "sha256_plaintext": "7d5b1dc420431a4f9a8f19ecfc80045f85537b719e9cc03e7e4ac5240ee7526a"
+    },
     {
       "title": "MARKY//MARK",
       "slug": "mark-wahlberg-vs-mark-wahlberg",
