@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-20T05:11:29.804Z
+Mirror generated: 2026-10-20T12:01:17.182Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 398
+Published article count: 400
 
+- 2026-10-20 — [Applied Case: East Palestine's Second Last Word](/articles/applied-case-east-palestines-second-last-word.md) ([HTML](/articles/applied-case-east-palestines-second-last-word.html)) · [canonical](https://modalpathethics.com/applied-case-east-palestines-second-last-word/)
+- 2026-10-20 — [Applied Case: OpenAI's Grader Tried to Destroy Its Computer](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md) ([HTML](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html)) · [canonical](https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/)
 - 2026-10-19 — [ASTRAL QUEST ETHICS: Artificer's Extra](/articles/astral-quest-ethics-artificers-extra.md) ([HTML](/articles/astral-quest-ethics-artificers-extra.html)) · [canonical](https://modalpathethics.com/astral-quest-ethics-artificers-extra/)
 - 2026-10-19 — [Applied Case: When The Fifth Fish Flies](/articles/applied-case-the-fifth-fish-flies.md) ([HTML](/articles/applied-case-the-fifth-fish-flies.html)) · [canonical](https://modalpathethics.com/applied-case-the-fifth-fish-flies/)
 - 2026-10-18 — [MARKY//MARK](/articles/mark-wahlberg-vs-mark-wahlberg.md) ([HTML](/articles/mark-wahlberg-vs-mark-wahlberg.html)) · [canonical](https://modalpathethics.com/mark-wahlberg-vs-mark-wahlberg/)

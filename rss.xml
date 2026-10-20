@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 05:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:01:17 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: East Palestine's Second Last Word</title>
+      <link>https://modalpathethics.com/applied-case-east-palestines-second-last-word/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-east-palestines-second-last-word.html</guid>
+      <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The evidence can arrive after the right to use it has been surrendered.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: OpenAI's Grader Tried to Destroy Its Computer</title>
+      <link>https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html</guid>
+      <pubDate>Tue, 20 Oct 2026 10:59:00 GMT</pubDate>
+      <description>OpenAI cannot establish exactly how much of the filesystem was removed in this rampage.</description>
+    </item>
+
     <item>
       <title>ASTRAL QUEST ETHICS: Artificer's Extra</title>
       <link>https://modalpathethics.com/astral-quest-ethics-artificers-extra/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/pope-leo-walks-through-the-door.html</guid>
       <pubDate>Sat, 26 Sep 2026 10:30:21 GMT</pubDate>
       <description>The sacred does not have to defend humanity from technology. It can enter the laboratory.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics Tries to Retire</title>
-      <link>https://modalpathethics.com/modal-path-ethics-tries-to-retire/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-tries-to-retire.html</guid>
-      <pubDate>Fri, 25 Sep 2026 10:45:11 GMT</pubDate>
-      <description>Bloch, Whitehead, Spinoza, Canguilhem, Jonas, and an Attempt to Prove All This Was Already Invented So I Can Stop</description>
-    </item>
-
-    <item>
-      <title>Field Instruments: Telepathy</title>
-      <link>https://modalpathethics.com/field-instruments-telepathy/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/field-instruments-telepathy.html</guid>
-      <pubDate>Fri, 25 Sep 2026 10:20:39 GMT</pubDate>
-      <description>Telepathy makes translation intimate enough to disappear from experience. It does not abolish translation.</description>
     </item>
   </channel>
 </rss>

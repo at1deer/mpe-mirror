@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-20T05:11:29.804Z",
+  "generated_at": "2026-10-20T12:01:17.182Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 398,
+  "article_count": 400,
   "articles": [
+    {
+      "title": "Applied Case: East Palestine's Second Last Word",
+      "slug": "applied-case-east-palestines-second-last-word",
+      "published_at": "2026-10-20T06:00:00.000-05:00",
+      "updated_at": "2026-10-20T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-east-palestines-second-last-word/",
+      "excerpt": "The evidence can arrive after the right to use it has been surrendered.",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-east-palestines-second-last-word.md",
+      "mirror_html_path": "/articles/applied-case-east-palestines-second-last-word.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-east-palestines-second-last-word.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-east-palestines-second-last-word.html",
+      "sha256_plaintext": "56b1238b4eff538efdf845ba87f9f233a2f890b44e7cc7b9f0680ffb1ccc960e"
+    },
+    {
+      "title": "Applied Case: OpenAI's Grader Tried to Destroy Its Computer",
+      "slug": "applied-case-openais-grader-tried-to-destroy-its-computer",
+      "published_at": "2026-10-20T05:59:00.000-05:00",
+      "updated_at": "2026-10-20T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/",
+      "excerpt": "OpenAI cannot establish exactly how much of the filesystem was removed in this rampage.",
+      "tags": [
+        "Applied Case",
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md",
+      "mirror_html_path": "/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html",
+      "sha256_plaintext": "8a37f6d68fccb31a11ce1a08875f6f50d5a3031c96ca17a67e540b1641ada4dc"
+    },
     {
       "title": "ASTRAL QUEST ETHICS: Artificer's Extra",
       "slug": "astral-quest-ethics-artificers-extra",
