@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-21T05:13:38.359Z
+Mirror generated: 2026-10-21T12:16:33.811Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 400
+Published article count: 402
 
+- 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
+- 2026-10-21 — [Applied Case: The Great Zoo Entrance Incident](/articles/applied-case-the-great-zoo-entrance-incident.md) ([HTML](/articles/applied-case-the-great-zoo-entrance-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/)
 - 2026-10-20 — [Applied Case: East Palestine's Second Last Word](/articles/applied-case-east-palestines-second-last-word.md) ([HTML](/articles/applied-case-east-palestines-second-last-word.html)) · [canonical](https://modalpathethics.com/applied-case-east-palestines-second-last-word/)
 - 2026-10-20 — [Applied Case: OpenAI's Grader Tried to Destroy Its Computer](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md) ([HTML](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html)) · [canonical](https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/)
 - 2026-10-19 — [ASTRAL QUEST ETHICS: Artificer's Extra](/articles/astral-quest-ethics-artificers-extra.md) ([HTML](/articles/astral-quest-ethics-artificers-extra.html)) · [canonical](https://modalpathethics.com/astral-quest-ethics-artificers-extra/)

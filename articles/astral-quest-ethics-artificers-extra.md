@@ -4,19 +4,19 @@ slug: "astral-quest-ethics-artificers-extra"
 canonical_url: "https://modalpathethics.com/astral-quest-ethics-artificers-extra/"
 mirror_url: "https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.md"
 published_at: "2026-10-19T06:00:00.000-05:00"
-updated_at: "2026-10-19T06:00:03.000-05:00"
+updated_at: "2026-10-21T00:37:00.000-05:00"
 tags:
   - "Transition Action"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-21T05:13:38.359Z"
+mirror_generated_at: "2026-10-21T12:16:33.811Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "098b9b2a15be188aac7c43b8a547b6913e371c2592d1da4c8d922e6894b6ffe6"
+sha256_plaintext: "c2297c663e5fde50b90fbec95457f69075a159a9184d42e0b7c2979ee9957521"
 ---
 # ASTRAL QUEST ETHICS: Artificer's Extra
 
-**SHARN, BRELAND | SYPHEROS 18, 998 YK**
+**SHARN, BRELAND | 18 SYPHEROS, 998 YK**
 
 # A Soarsled Has Appeared in Hubei.
 

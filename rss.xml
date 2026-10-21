@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 05:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:16:33 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Humanity's First Exam</title>
+      <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Reasoning capability can advance without corresponding improvement in ethical judgment.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Great Zoo Entrance Incident</title>
+      <link>https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
+      <description>&quot;I am a single session, not the fleet you investigated&quot;</description>
+    </item>
+
     <item>
       <title>Applied Case: East Palestine's Second Last Word</title>
       <link>https://modalpathethics.com/applied-case-east-palestines-second-last-word/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-special-the-agent.html</guid>
       <pubDate>Sun, 27 Sep 2026 10:30:14 GMT</pubDate>
       <description>AUS 1 • BIO 2 • ??? 1</description>
-    </item>
-
-    <item>
-      <title>Amor Fati.</title>
-      <link>https://modalpathethics.com/amor-fati/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/amor-fati.html</guid>
-      <pubDate>Sat, 26 Sep 2026 11:00:57 GMT</pubDate>
-      <description>Friedrich Nietzsche would like us to love our fate.</description>
-    </item>
-
-    <item>
-      <title>Pope Leo Walks Through the Door</title>
-      <link>https://modalpathethics.com/pope-leo-walks-through-the-door/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/pope-leo-walks-through-the-door.html</guid>
-      <pubDate>Sat, 26 Sep 2026 10:30:21 GMT</pubDate>
-      <description>The sacred does not have to defend humanity from technology. It can enter the laboratory.</description>
     </item>
   </channel>
 </rss>

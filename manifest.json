@@ -1,13 +1,56 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-21T05:13:38.359Z",
+  "generated_at": "2026-10-21T12:16:33.811Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 400,
+  "article_count": 402,
   "articles": [
+    {
+      "title": "Applied Case: Humanity's First Exam",
+      "slug": "applied-case-humanitys-first-exam",
+      "published_at": "2026-10-21T06:00:00.000-05:00",
+      "updated_at": "2026-10-21T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-humanitys-first-exam/",
+      "excerpt": "Reasoning capability can advance without corresponding improvement in ethical judgment.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Sacred Instruments",
+        "Unethical Agents"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-humanitys-first-exam.md",
+      "mirror_html_path": "/articles/applied-case-humanitys-first-exam.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html",
+      "sha256_plaintext": "25b487be24c4f41f102d2d011171a5205acdf530eab15ac36edff71c22874419"
+    },
+    {
+      "title": "Applied Case: The Great Zoo Entrance Incident",
+      "slug": "applied-case-the-great-zoo-entrance-incident",
+      "published_at": "2026-10-21T06:00:00.000-05:00",
+      "updated_at": "2026-10-21T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/",
+      "excerpt": "\"I am a single session, not the fleet you investigated\"",
+      "tags": [
+        "Applied Case",
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_path": "/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "sha256_plaintext": "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
+    },
     {
       "title": "Applied Case: East Palestine's Second Last Word",
       "slug": "applied-case-east-palestines-second-last-word",
@@ -53,7 +96,7 @@
       "title": "ASTRAL QUEST ETHICS: Artificer's Extra",
       "slug": "astral-quest-ethics-artificers-extra",
       "published_at": "2026-10-19T06:00:00.000-05:00",
-      "updated_at": "2026-10-19T06:00:03.000-05:00",
+      "updated_at": "2026-10-21T00:37:00.000-05:00",
       "canonical_url": "https://modalpathethics.com/astral-quest-ethics-artificers-extra/",
       "excerpt": "The Independent Journal of the City of Towers ",
       "tags": [
@@ -66,7 +109,7 @@
       "mirror_html_path": "/articles/astral-quest-ethics-artificers-extra.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.html",
-      "sha256_plaintext": "098b9b2a15be188aac7c43b8a547b6913e371c2592d1da4c8d922e6894b6ffe6"
+      "sha256_plaintext": "c2297c663e5fde50b90fbec95457f69075a159a9184d42e0b7c2979ee9957521"
     },
     {
       "title": "Applied Case: When The Fifth Fish Flies",
