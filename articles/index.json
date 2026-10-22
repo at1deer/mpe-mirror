@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-22T05:16:45.949Z",
+  "generated_at": "2026-10-22T12:17:51.185Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 402,
+  "article_count": 404,
   "articles": [
+    {
+      "title": "The Humans Still Get to Vote",
+      "slug": "the-humans-still-get-to-vote",
+      "published_at": "2026-10-22T06:00:00.000-05:00",
+      "updated_at": "2026-10-22T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-humans-still-get-to-vote/",
+      "excerpt": "Gradual Disempowerment and the Inner Apocalypse",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-humans-still-get-to-vote.md",
+      "mirror_html_path": "/articles/the-humans-still-get-to-vote.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-humans-still-get-to-vote.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-humans-still-get-to-vote.html",
+      "sha256_plaintext": "958535f0abd631e1dbb6eaa6f0476c610e3d7cc4f97702fc14bba232d7a28b99"
+    },
+    {
+      "title": "Applied Case: The Future Came Home in a Backpack",
+      "slug": "applied-case-the-future-came-home-in-a-backpack",
+      "published_at": "2026-10-22T05:59:00.000-05:00",
+      "updated_at": "2026-10-22T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/",
+      "excerpt": "The Girl and the Photo.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-future-came-home-in-a-backpack.md",
+      "mirror_html_path": "/articles/applied-case-the-future-came-home-in-a-backpack.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.html",
+      "sha256_plaintext": "07c903ec302a388cacd9525098dc79eaf87ddb778acbebe827023b980a32e0dd"
+    },
     {
       "title": "Applied Case: Humanity's First Exam",
       "slug": "applied-case-humanitys-first-exam",

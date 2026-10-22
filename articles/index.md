@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-22T05:16:45.949Z
+Mirror generated: 2026-10-22T12:17:51.185Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 402
+Published article count: 404
 
+- 2026-10-22 — [The Humans Still Get to Vote](/articles/the-humans-still-get-to-vote.md) ([HTML](/articles/the-humans-still-get-to-vote.html)) · [canonical](https://modalpathethics.com/the-humans-still-get-to-vote/)
+- 2026-10-22 — [Applied Case: The Future Came Home in a Backpack](/articles/applied-case-the-future-came-home-in-a-backpack.md) ([HTML](/articles/applied-case-the-future-came-home-in-a-backpack.html)) · [canonical](https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/)
 - 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
 - 2026-10-21 — [Applied Case: The Great Zoo Entrance Incident](/articles/applied-case-the-great-zoo-entrance-incident.md) ([HTML](/articles/applied-case-the-great-zoo-entrance-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/)
 - 2026-10-20 — [Applied Case: East Palestine's Second Last Word](/articles/applied-case-east-palestines-second-last-word.md) ([HTML](/articles/applied-case-east-palestines-second-last-word.html)) · [canonical](https://modalpathethics.com/applied-case-east-palestines-second-last-word/)

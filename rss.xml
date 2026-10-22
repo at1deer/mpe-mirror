@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 05:16:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:17:51 GMT</lastBuildDate>
     
+    <item>
+      <title>The Humans Still Get to Vote</title>
+      <link>https://modalpathethics.com/the-humans-still-get-to-vote/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-humans-still-get-to-vote.html</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Gradual Disempowerment and the Inner Apocalypse</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Future Came Home in a Backpack</title>
+      <link>https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.html</guid>
+      <pubDate>Thu, 22 Oct 2026 10:59:00 GMT</pubDate>
+      <description>The Girl and the Photo.</description>
+    </item>
+
     <item>
       <title>Applied Case: Humanity's First Exam</title>
       <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-creek-has-no-jurisdiction.html</guid>
       <pubDate>Mon, 28 Sep 2026 10:30:06 GMT</pubDate>
       <description>The county ends. The water keeps going.</description>
-    </item>
-
-    <item>
-      <title>Hume, Moore, and the Normative Bridge</title>
-      <link>https://modalpathethics.com/hume-moore-and-the-normative-bridge/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/hume-moore-and-the-normative-bridge.html</guid>
-      <pubDate>Sun, 27 Sep 2026 11:00:22 GMT</pubDate>
-      <description>Welcome to the post-game.</description>
-    </item>
-
-    <item>
-      <title>Australia vs. The Biosphere SPECIAL: The Agent</title>
-      <link>https://modalpathethics.com/australia-vs-the-biosphere-special-the-agent/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/australia-vs-the-biosphere-special-the-agent.html</guid>
-      <pubDate>Sun, 27 Sep 2026 10:30:14 GMT</pubDate>
-      <description>AUS 1 • BIO 2 • ??? 1</description>
     </item>
   </channel>
 </rss>
