@@ -4,7 +4,7 @@ slug: "applied-case-the-future-came-home-in-a-backpack"
 canonical_url: "https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.md"
 published_at: "2026-10-22T05:59:00.000-05:00"
-updated_at: "2026-10-22T05:58:59.000-05:00"
+updated_at: "2026-10-22T09:05:38.000-05:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-22T12:17:51.185Z"
+mirror_generated_at: "2026-10-22T17:33:43.423Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "07c903ec302a388cacd9525098dc79eaf87ddb778acbebe827023b980a32e0dd"
+sha256_plaintext: "2fc47aa8ee7a2409a7f3617d2918f6a66d0fe142576b3e75666924fa73dfca8a"
 ---
 # Applied Case: The Future Came Home in a Backpack
 
@@ -37,7 +37,7 @@ Modal Path Ethics has an immediate question.
 
 > **_What do we know?_**
 
-We know the image was generated and does not actually depict the year 2051. We do not know which service the school used, what photographs were supplied to it, what consent arrangements applied here, or what happened to the data afterward.
+We know the image was generated and does not actually depict the year 2045. We do not know which service the school used, what photographs were supplied to it, what consent arrangements applied here, or what happened to the data afterward.
 
 Those last questions are legitimate. And Anderson has asked the school for the answers.
 
