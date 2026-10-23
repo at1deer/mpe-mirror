@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-23T05:15:54.958Z
+Mirror generated: 2026-10-23T12:00:06.890Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 404
+Published article count: 406
 
+- 2026-10-23 — [Convergence Point: Wanhong Huang and the Future You Cannot Give Back](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.md) ([HTML](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.html)) · [canonical](https://modalpathethics.com/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back/)
+- 2026-10-23 — [Applied Case: The Train Ticket Outrage](/articles/applied-case-the-train-ticket-outrage.md) ([HTML](/articles/applied-case-the-train-ticket-outrage.html)) · [canonical](https://modalpathethics.com/applied-case-the-train-ticket-outrage/)
 - 2026-10-22 — [The Humans Still Get to Vote](/articles/the-humans-still-get-to-vote.md) ([HTML](/articles/the-humans-still-get-to-vote.html)) · [canonical](https://modalpathethics.com/the-humans-still-get-to-vote/)
 - 2026-10-22 — [Applied Case: The Future Came Home in a Backpack](/articles/applied-case-the-future-came-home-in-a-backpack.md) ([HTML](/articles/applied-case-the-future-came-home-in-a-backpack.html)) · [canonical](https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/)
 - 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
