@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-24T16:11:56.908Z
+Mirror generated: 2026-10-24T21:08:03.649Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 408
+Published article count: 409
 
+- 2026-10-24 — [Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.md) ([HTML](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html)) · [canonical](https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/)
 - 2026-10-24 — [Applied Case: Guess Numbers.](/articles/applied-case-guess-numbers.md) ([HTML](/articles/applied-case-guess-numbers.html)) · [canonical](https://modalpathethics.com/applied-case-guess-numbers/)
 - 2026-10-24 — [The Veto Maze And You](/articles/the-veto-maze-and-you.md) ([HTML](/articles/the-veto-maze-and-you.html)) · [canonical](https://modalpathethics.com/the-veto-maze-and-you/)
 - 2026-10-23 — [Convergence Point: Wanhong Huang and the Future You Cannot Give Back](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.md) ([HTML](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.html)) · [canonical](https://modalpathethics.com/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back/)

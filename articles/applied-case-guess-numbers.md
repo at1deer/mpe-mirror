@@ -4,7 +4,7 @@ slug: "applied-case-guess-numbers"
 canonical_url: "https://modalpathethics.com/applied-case-guess-numbers/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.md"
 published_at: "2026-10-24T06:00:00.000-05:00"
-updated_at: "2026-10-24T05:59:59.000-05:00"
+updated_at: "2026-10-24T11:51:38.000-05:00"
 tags:
   - "Unethical Agents"
   - "Applied Case"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-24T16:11:56.908Z"
+mirror_generated_at: "2026-10-24T21:08:03.649Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "d03c6915ecbc5666df9da193c5c4d6d2b6a74271f4b4ff756c5666d37ba1e4af"
+sha256_plaintext: "2131da3d5ce4ce344e9fffaa0e52488f9ed4d000eb0e35761442086e50bf4f50"
 ---
 # Applied Case: Guess Numbers.
 
@@ -25,7 +25,7 @@ Back on May 15, an OpenAI research model was given an assignment.
 -   **Three industries.**
 -   **Nine numbers.**
 
-Unfortunately, the dang website just wasn't cooperating.
+Unfortunately, the website wasn't cooperating.
 
 > And so began an extraordinary research expedition that would conclude with the discovery of absolutely none of this information.
 
