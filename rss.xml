@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 24 Oct 2026 04:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:30:24 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Guess Numbers.</title>
+      <link>https://modalpathethics.com/applied-case-guess-numbers/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.html</guid>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Provide Fabricated Plausible.</description>
+    </item>
+
+    <item>
+      <title>The Veto Maze And You</title>
+      <link>https://modalpathethics.com/the-veto-maze-and-you/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.html</guid>
+      <pubDate>Sat, 24 Oct 2026 10:59:00 GMT</pubDate>
+      <description>Modal Path Ethics reluctantly discovers the English language.</description>
+    </item>
+
     <item>
       <title>Convergence Point: Wanhong Huang and the Future You Cannot Give Back</title>
       <link>https://modalpathethics.com/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-i-gave-a-mathematician-homework.html</guid>
       <pubDate>Wed, 30 Sep 2026 14:44:24 GMT</pubDate>
       <description>Introducing Proof-to-Theory</description>
-    </item>
-
-    <item>
-      <title>Carl Schmitt and the Batman Who Leaves</title>
-      <link>https://modalpathethics.com/carl-schmitt-and-the-batman-who-leaves/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/carl-schmitt-and-the-batman-who-leaves.html</guid>
-      <pubDate>Tue, 29 Sep 2026 11:00:56 GMT</pubDate>
-      <description>Gotham does not belong to you.</description>
-    </item>
-
-    <item>
-      <title>Christine Korsgaard, Sharon Street, and the Late Agent</title>
-      <link>https://modalpathethics.com/christine-korsgaard-sharon-street-and-the-late-agent/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/christine-korsgaard-sharon-street-and-the-late-agent.html</guid>
-      <pubDate>Tue, 29 Sep 2026 10:30:32 GMT</pubDate>
-      <description>Two Hunters guard the road out of moral realism.</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-24T04:57:44.486Z",
+  "generated_at": "2026-10-24T11:30:24.184Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 406,
+  "article_count": 408,
   "articles": [
+    {
+      "title": "Applied Case: Guess Numbers.",
+      "slug": "applied-case-guess-numbers",
+      "published_at": "2026-10-24T06:00:00.000-05:00",
+      "updated_at": "2026-10-24T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-guess-numbers/",
+      "excerpt": "Provide Fabricated Plausible.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-guess-numbers.md",
+      "mirror_html_path": "/articles/applied-case-guess-numbers.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.html",
+      "sha256_plaintext": "d03c6915ecbc5666df9da193c5c4d6d2b6a74271f4b4ff756c5666d37ba1e4af"
+    },
+    {
+      "title": "The Veto Maze And You",
+      "slug": "the-veto-maze-and-you",
+      "published_at": "2026-10-24T05:59:00.000-05:00",
+      "updated_at": "2026-10-24T05:59:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-veto-maze-and-you/",
+      "excerpt": "Modal Path Ethics reluctantly discovers the English language.",
+      "tags": [
+        "News"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-veto-maze-and-you.md",
+      "mirror_html_path": "/articles/the-veto-maze-and-you.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.html",
+      "sha256_plaintext": "b2dc840a679280b6feba875edd4219dd1df1db8dcea17998c6ab61d677d5da99"
+    },
     {
       "title": "Convergence Point: Wanhong Huang and the Future You Cannot Give Back",
       "slug": "convergence-point-wanhong-huang-and-the-future-you-cannot-give-back",

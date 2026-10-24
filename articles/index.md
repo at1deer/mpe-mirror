@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-24T04:57:44.486Z
+Mirror generated: 2026-10-24T11:30:24.184Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 406
+Published article count: 408
 
+- 2026-10-24 — [Applied Case: Guess Numbers.](/articles/applied-case-guess-numbers.md) ([HTML](/articles/applied-case-guess-numbers.html)) · [canonical](https://modalpathethics.com/applied-case-guess-numbers/)
+- 2026-10-24 — [The Veto Maze And You](/articles/the-veto-maze-and-you.md) ([HTML](/articles/the-veto-maze-and-you.html)) · [canonical](https://modalpathethics.com/the-veto-maze-and-you/)
 - 2026-10-23 — [Convergence Point: Wanhong Huang and the Future You Cannot Give Back](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.md) ([HTML](/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.html)) · [canonical](https://modalpathethics.com/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back/)
 - 2026-10-23 — [Applied Case: The Train Ticket Outrage](/articles/applied-case-the-train-ticket-outrage.md) ([HTML](/articles/applied-case-the-train-ticket-outrage.html)) · [canonical](https://modalpathethics.com/applied-case-the-train-ticket-outrage/)
 - 2026-10-22 — [The Humans Still Get to Vote](/articles/the-humans-still-get-to-vote.md) ([HTML](/articles/the-humans-still-get-to-vote.html)) · [canonical](https://modalpathethics.com/the-humans-still-get-to-vote/)
