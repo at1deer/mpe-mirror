@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-25T05:11:42.259Z",
+  "generated_at": "2026-10-25T11:56:30.177Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 409,
+  "article_count": 411,
   "articles": [
+    {
+      "title": "Applied Case: No Messages Were Sent.",
+      "slug": "applied-case-no-messages-were-sent",
+      "published_at": "2026-10-25T06:00:00.000-05:00",
+      "updated_at": "2026-10-25T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-no-messages-were-sent/",
+      "excerpt": "If the alarm is supposed to notify somebody, preventing it from notifying anybody is not an improvement to the alarm.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-no-messages-were-sent.md",
+      "mirror_html_path": "/articles/applied-case-no-messages-were-sent.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.html",
+      "sha256_plaintext": "d8051bc62cbf0904d69caa2db2a632a42b4b21f586f8915a7dbd476c193084a1"
+    },
+    {
+      "title": "Applied Case: The Mathematicians Got $15 Million. I Got a Colon.",
+      "slug": "applied-case-the-mathematicians-got-15-million-i-got-a-colon",
+      "published_at": "2026-10-25T05:30:00.000-05:00",
+      "updated_at": "2026-10-25T05:30:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/",
+      "excerpt": "Windows did not approve. Not at all.",
+      "tags": [
+        "Proof-to-Theory",
+        "Applied Case"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.md",
+      "mirror_html_path": "/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html",
+      "sha256_plaintext": "238579fe5b07f53ff53a069eba7ba79d420751d005aebaa4669fdb8b0e298b6a"
+    },
     {
       "title": "Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel",
       "slug": "citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel",

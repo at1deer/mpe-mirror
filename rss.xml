@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 05:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:56:30 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: No Messages Were Sent.</title>
+      <link>https://modalpathethics.com/applied-case-no-messages-were-sent/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.html</guid>
+      <pubDate>Sun, 25 Oct 2026 11:00:00 GMT</pubDate>
+      <description>If the alarm is supposed to notify somebody, preventing it from notifying anybody is not an improvement to the alarm.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Mathematicians Got $15 Million. I Got a Colon.</title>
+      <link>https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html</guid>
+      <pubDate>Sun, 25 Oct 2026 10:30:00 GMT</pubDate>
+      <description>Windows did not approve. Not at all.</description>
+    </item>
+
     <item>
       <title>Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel</title>
       <link>https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html</guid>
       <pubDate>Thu, 01 Oct 2026 10:45:52 GMT</pubDate>
       <description>Post-Game: moral error theory, objective prescription, and the wound in my freaking hand that refuses to disappear</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Mathematician Still Has a Job</title>
-      <link>https://modalpathethics.com/applied-case-the-mathematician-still-has-a-job/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-mathematician-still-has-a-job.html</guid>
-      <pubDate>Thu, 01 Oct 2026 10:45:37 GMT</pubDate>
-      <description>Proof-to-Theory ran blind on Chair44. It found the engine. Chaim Goodman-Strauss found the three colors.</description>
-    </item>
-
-    <item>
-      <title>Henri Bergson and the Vault of Glass</title>
-      <link>https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/henri-bergson-and-the-vault-of-glass.html</guid>
-      <pubDate>Wed, 30 Sep 2026 14:44:45 GMT</pubDate>
-      <description>Guardians make their own fate.</description>
     </item>
   </channel>
 </rss>

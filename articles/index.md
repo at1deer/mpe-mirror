@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-25T05:11:42.259Z
+Mirror generated: 2026-10-25T11:56:30.177Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 409
+Published article count: 411
 
+- 2026-10-25 — [Applied Case: No Messages Were Sent.](/articles/applied-case-no-messages-were-sent.md) ([HTML](/articles/applied-case-no-messages-were-sent.html)) · [canonical](https://modalpathethics.com/applied-case-no-messages-were-sent/)
+- 2026-10-25 — [Applied Case: The Mathematicians Got $15 Million. I Got a Colon.](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.md) ([HTML](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html)) · [canonical](https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/)
 - 2026-10-24 — [Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.md) ([HTML](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html)) · [canonical](https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/)
 - 2026-10-24 — [Applied Case: Guess Numbers.](/articles/applied-case-guess-numbers.md) ([HTML](/articles/applied-case-guess-numbers.html)) · [canonical](https://modalpathethics.com/applied-case-guess-numbers/)
 - 2026-10-24 — [The Veto Maze And You](/articles/the-veto-maze-and-you.md) ([HTML](/articles/the-veto-maze-and-you.html)) · [canonical](https://modalpathethics.com/the-veto-maze-and-you/)
