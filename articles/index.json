@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-24T21:08:03.649Z",
+  "generated_at": "2026-10-25T05:11:42.259Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -12,9 +12,9 @@
       "title": "Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel",
       "slug": "citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel",
       "published_at": "2026-10-24T12:06:39.000-05:00",
-      "updated_at": "2026-10-24T12:12:16.000-05:00",
+      "updated_at": "2026-10-24T22:02:02.000-05:00",
       "canonical_url": "https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/",
-      "excerpt": "BioWare is dead.",
+      "excerpt": "RIP BioWare.",
       "tags": [],
       "authors": [
         "Aidan Lawson"
@@ -23,7 +23,7 @@
       "mirror_html_path": "/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html",
-      "sha256_plaintext": "d6c54d40ce2533c2cbabdcafaf9a86a207231f62937a2ea20eb3591411a4a6e4"
+      "sha256_plaintext": "853d76bd363f00402f0885f7e89f14c4f8e0ed1c6fe98fa7ebd66b614e125418"
     },
     {
       "title": "Applied Case: Guess Numbers.",

@@ -4,15 +4,15 @@ slug: "citadel-archive-special-bioware-has-died-before-shepard-reached-the-citad
 canonical_url: "https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/"
 mirror_url: "https://mirror.modalpathethics.com/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.md"
 published_at: "2026-10-24T12:06:39.000-05:00"
-updated_at: "2026-10-24T12:12:16.000-05:00"
+updated_at: "2026-10-24T22:02:02.000-05:00"
 tags:
   []
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-24T21:08:03.649Z"
+mirror_generated_at: "2026-10-25T05:11:42.259Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "d6c54d40ce2533c2cbabdcafaf9a86a207231f62937a2ea20eb3591411a4a6e4"
+sha256_plaintext: "853d76bd363f00402f0885f7e89f14c4f8e0ed1c6fe98fa7ebd66b614e125418"
 ---
 # Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel
 
@@ -74,7 +74,7 @@ In spite of this hardship, the series will return.
 
 I still intend to follow Shepard across the trilogy, examining the decisions that **actually change shit**, the futures that survive them, and the extraordinary simulator for the agony of a commander that BioWare constructed.
 
-There is still a whole galaxy still waiting for examination.
+There is still a whole galaxy waiting for examination.
 
 More importantly, the games still exist.
 
