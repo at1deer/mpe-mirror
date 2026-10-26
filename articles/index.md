@@ -1,13 +1,16 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-26T05:12:52.286Z
+Mirror generated: 2026-10-26T13:28:47.426Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 412
+Published article count: 415
 
+- 2026-10-26 — [Modal Path Ethics Apologizes to the Gamers](/articles/modal-path-ethics-apologizes-to-the-gamers.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-gamers.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/)
+- 2026-10-26 — [The United States Army Must Abandon the Skeleton](/articles/the-united-states-army-must-abandon-the-skeleton.md) ([HTML](/articles/the-united-states-army-must-abandon-the-skeleton.html)) · [canonical](https://modalpathethics.com/the-united-states-army-must-abandon-the-skeleton/)
+- 2026-10-26 — [Confucius and the Rectification of the Pentagon](/articles/confucius-and-the-rectification-of-the-pentagon.md) ([HTML](/articles/confucius-and-the-rectification-of-the-pentagon.html)) · [canonical](https://modalpathethics.com/confucius-and-the-rectification-of-the-pentagon/)
 - 2026-10-25 — [Emergency Audit: Is Curiosity Trespassing?](/articles/emergency-audit-is-curiosity-trespassing.md) ([HTML](/articles/emergency-audit-is-curiosity-trespassing.html)) · [canonical](https://modalpathethics.com/emergency-audit-is-curiosity-trespassing/)
 - 2026-10-25 — [Applied Case: No Messages Were Sent.](/articles/applied-case-no-messages-were-sent.md) ([HTML](/articles/applied-case-no-messages-were-sent.html)) · [canonical](https://modalpathethics.com/applied-case-no-messages-were-sent/)
 - 2026-10-25 — [Applied Case: The Mathematicians Got $15 Million. I Got a Colon.](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.md) ([HTML](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html)) · [canonical](https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/)

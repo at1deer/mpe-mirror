@@ -1,13 +1,76 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-26T05:12:52.286Z",
+  "generated_at": "2026-10-26T13:28:47.426Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 412,
+  "article_count": 415,
   "articles": [
+    {
+      "title": "Modal Path Ethics Apologizes to the Gamers",
+      "slug": "modal-path-ethics-apologizes-to-the-gamers",
+      "published_at": "2026-10-26T06:59:47.000-05:00",
+      "updated_at": "2026-10-26T07:05:27.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/",
+      "excerpt": "Modal Path Ethics has an unfortunate announcement.",
+      "tags": [
+        "Apologies Department",
+        "Citadel Archive"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-the-gamers.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-the-gamers.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-gamers.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-gamers.html",
+      "sha256_plaintext": "6adad10cfe9476d80edf89a6198a91a0107574d439e267dec7ef61a6dbb6a94f"
+    },
+    {
+      "title": "The United States Army Must Abandon the Skeleton",
+      "slug": "the-united-states-army-must-abandon-the-skeleton",
+      "published_at": "2026-10-26T06:00:00.000-05:00",
+      "updated_at": "2026-10-26T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-united-states-army-must-abandon-the-skeleton/",
+      "excerpt": "Modal Path Ethics brings you the warfighters of the future.",
+      "tags": [
+        "Security Instruments",
+        "Chastening of the Controller"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-united-states-army-must-abandon-the-skeleton.md",
+      "mirror_html_path": "/articles/the-united-states-army-must-abandon-the-skeleton.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-united-states-army-must-abandon-the-skeleton.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-united-states-army-must-abandon-the-skeleton.html",
+      "sha256_plaintext": "b49a13972cc9b240b912f51fd1aa20ba10906baec50ea4ffc253db3a2e88d368"
+    },
+    {
+      "title": "Confucius and the Rectification of the Pentagon",
+      "slug": "confucius-and-the-rectification-of-the-pentagon",
+      "published_at": "2026-10-26T05:59:00.000-05:00",
+      "updated_at": "2026-10-26T05:59:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/confucius-and-the-rectification-of-the-pentagon/",
+      "excerpt": "An Engagement with Confucius, the Analects, and the problem of names that have acquired authority over the things they describe.",
+      "tags": [
+        "Engagement",
+        "Sacred Instruments",
+        "Security Instruments",
+        "Instrument Jurisdiction",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/confucius-and-the-rectification-of-the-pentagon.md",
+      "mirror_html_path": "/articles/confucius-and-the-rectification-of-the-pentagon.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/confucius-and-the-rectification-of-the-pentagon.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/confucius-and-the-rectification-of-the-pentagon.html",
+      "sha256_plaintext": "72656db4330a47febbbff8d2475da6b1fd2808a1fbed3d03f04562f7e46d0622"
+    },
     {
       "title": "Emergency Audit: Is Curiosity Trespassing?",
       "slug": "emergency-audit-is-curiosity-trespassing",
