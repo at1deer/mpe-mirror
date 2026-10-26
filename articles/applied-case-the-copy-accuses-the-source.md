@@ -4,16 +4,16 @@ slug: "applied-case-the-copy-accuses-the-source"
 canonical_url: "https://modalpathethics.com/applied-case-the-copy-accuses-the-source/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-copy-accuses-the-source.md"
 published_at: "2026-09-22T05:59:21.000-05:00"
-updated_at: "2026-09-22T05:59:20.000-05:00"
+updated_at: "2026-10-25T21:46:25.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-25T21:10:23.018Z"
+mirror_generated_at: "2026-10-26T05:12:52.286Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "8ee1a4a85d647e38a1b0889f1ea1b0678bb27dc88b9f83d6629da0c65e2379da"
+sha256_plaintext: "7233cc5ad883f5b2e9c013dde7e80e7d7a865e70832fb886a57ea245b37ccf90"
 ---
 # Applied Case: The Copy Accuses the Source
 
@@ -444,7 +444,3 @@ No writer should have to become worse evidence of themselves for a fucking aucti
 
 -   The copy accused the source.
 -   The burden of proof belongs on the instrument.
-    -   Audit the audit.
-    -   Do not support companies attacking human writing with machines.
-        -   **Publishing is a shitshow.**
-        -   **Fuck your detectors.**

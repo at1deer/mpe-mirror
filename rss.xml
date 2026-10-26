@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:12:52 GMT</lastBuildDate>
     
+    <item>
+      <title>Emergency Audit: Is Curiosity Trespassing?</title>
+      <link>https://modalpathethics.com/emergency-audit-is-curiosity-trespassing/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/emergency-audit-is-curiosity-trespassing.html</guid>
+      <pubDate>Mon, 26 Oct 2026 02:16:58 GMT</pubDate>
+      <description>Michael Makowsky, intellectual squatting, Qichao Wang, and the market for scholarly glory.</description>
+    </item>
+
     <item>
       <title>Applied Case: No Messages Were Sent.</title>
       <link>https://modalpathethics.com/applied-case-no-messages-were-sent/</link>
@@ -79,19 +87,19 @@
     </item>
 
     <item>
-      <title>Applied Case: Humanity's First Exam</title>
-      <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Reasoning capability can advance without corresponding improvement in ethical judgment.</description>
-    </item>
-
-    <item>
       <title>Applied Case: The Great Zoo Entrance Incident</title>
       <link>https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
       <description>&quot;I am a single session, not the fleet you investigated&quot;</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Humanity's First Exam</title>
+      <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Reasoning capability can advance without corresponding improvement in ethical judgment.</description>
     </item>
 
     <item>
@@ -239,20 +247,20 @@
     </item>
 
     <item>
-      <title>MODAL KOMBAT: David Lewis and the Outer Extance</title>
-      <link>https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-kombat-david-lewis-and-the-outer-extance.html</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Something has been standing outside this framework since the beginning.</description>
-    </item>
-
-    <item>
       <title>Applied Case: Claude Saw Someone Matching the Description</title>
       <link>https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html</guid>
       <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
       <description>Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.
 Unfortunately, the eyewitness is Claude.</description>
+    </item>
+
+    <item>
+      <title>MODAL KOMBAT: David Lewis and the Outer Extance</title>
+      <link>https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-kombat-david-lewis-and-the-outer-extance.html</guid>
+      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
+      <description>Something has been standing outside this framework since the beginning.</description>
     </item>
 
     <item>
@@ -397,14 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/how-i-6-0d-nick-bostrom-with-aurumoth.html</guid>
       <pubDate>Fri, 02 Oct 2026 11:00:32 GMT</pubDate>
       <description>&quot;It was just a matter of time before we got burned by the power creep of Topic Leaders.&quot; - DougJustDoug</description>
-    </item>
-
-    <item>
-      <title>J. L. Mackie Tries to Murder Modal Path Ethics With a Freaking Sword (Or, The Queerness of Harm)</title>
-      <link>https://modalpathethics.com/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/j-l-mackie-tries-to-murder-modal-path-ethics-with-a-freaking-sword-or-the-queerness-of-harm.html</guid>
-      <pubDate>Thu, 01 Oct 2026 10:45:52 GMT</pubDate>
-      <description>Post-Game: moral error theory, objective prescription, and the wound in my freaking hand that refuses to disappear</description>
     </item>
   </channel>
 </rss>

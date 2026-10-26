@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-25T21:10:23.018Z
+Mirror generated: 2026-10-26T05:12:52.286Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 411
+Published article count: 412
 
+- 2026-10-25 — [Emergency Audit: Is Curiosity Trespassing?](/articles/emergency-audit-is-curiosity-trespassing.md) ([HTML](/articles/emergency-audit-is-curiosity-trespassing.html)) · [canonical](https://modalpathethics.com/emergency-audit-is-curiosity-trespassing/)
 - 2026-10-25 — [Applied Case: No Messages Were Sent.](/articles/applied-case-no-messages-were-sent.md) ([HTML](/articles/applied-case-no-messages-were-sent.html)) · [canonical](https://modalpathethics.com/applied-case-no-messages-were-sent/)
 - 2026-10-25 — [Applied Case: The Mathematicians Got $15 Million. I Got a Colon.](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.md) ([HTML](/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html)) · [canonical](https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/)
 - 2026-10-24 — [Citadel Archive SPECIAL: BioWare Has Died Before Shepard Reached the Citadel](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.md) ([HTML](/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html)) · [canonical](https://modalpathethics.com/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel/)
@@ -17,8 +18,8 @@ Published article count: 411
 - 2026-10-23 — [Applied Case: The Train Ticket Outrage](/articles/applied-case-the-train-ticket-outrage.md) ([HTML](/articles/applied-case-the-train-ticket-outrage.html)) · [canonical](https://modalpathethics.com/applied-case-the-train-ticket-outrage/)
 - 2026-10-22 — [The Humans Still Get to Vote](/articles/the-humans-still-get-to-vote.md) ([HTML](/articles/the-humans-still-get-to-vote.html)) · [canonical](https://modalpathethics.com/the-humans-still-get-to-vote/)
 - 2026-10-22 — [Applied Case: The Future Came Home in a Backpack](/articles/applied-case-the-future-came-home-in-a-backpack.md) ([HTML](/articles/applied-case-the-future-came-home-in-a-backpack.html)) · [canonical](https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/)
-- 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
 - 2026-10-21 — [Applied Case: The Great Zoo Entrance Incident](/articles/applied-case-the-great-zoo-entrance-incident.md) ([HTML](/articles/applied-case-the-great-zoo-entrance-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/)
+- 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
 - 2026-10-20 — [Applied Case: East Palestine's Second Last Word](/articles/applied-case-east-palestines-second-last-word.md) ([HTML](/articles/applied-case-east-palestines-second-last-word.html)) · [canonical](https://modalpathethics.com/applied-case-east-palestines-second-last-word/)
 - 2026-10-20 — [Applied Case: OpenAI's Grader Tried to Destroy Its Computer](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md) ([HTML](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html)) · [canonical](https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/)
 - 2026-10-19 — [ASTRAL QUEST ETHICS: Artificer's Extra](/articles/astral-quest-ethics-artificers-extra.md) ([HTML](/articles/astral-quest-ethics-artificers-extra.html)) · [canonical](https://modalpathethics.com/astral-quest-ethics-artificers-extra/)
@@ -37,8 +38,8 @@ Published article count: 411
 - 2026-10-13 — [Jacques Derrida and the Upended Source](/articles/jacques-derrida-and-the-upended-source.md) ([HTML](/articles/jacques-derrida-and-the-upended-source.html)) · [canonical](https://modalpathethics.com/jacques-derrida-and-the-upended-source/)
 - 2026-10-12 — [Applied Case: The Streets Have Standing](/articles/the-street-is-filing-an-appeal.md) ([HTML](/articles/the-street-is-filing-an-appeal.html)) · [canonical](https://modalpathethics.com/the-street-is-filing-an-appeal/)
 - 2026-10-12 — [MODAL KOMBAT: Nancy Cartwright and the Elemental Planes](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.md) ([HTML](/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html)) · [canonical](https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/)
-- 2026-10-11 — [MODAL KOMBAT: David Lewis and the Outer Extance](/articles/modal-kombat-david-lewis-and-the-outer-extance.md) ([HTML](/articles/modal-kombat-david-lewis-and-the-outer-extance.html)) · [canonical](https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/)
 - 2026-10-11 — [Applied Case: Claude Saw Someone Matching the Description](/articles/applied-case-claude-saw-someone-matching-the-description.md) ([HTML](/articles/applied-case-claude-saw-someone-matching-the-description.html)) · [canonical](https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/)
+- 2026-10-11 — [MODAL KOMBAT: David Lewis and the Outer Extance](/articles/modal-kombat-david-lewis-and-the-outer-extance.md) ([HTML](/articles/modal-kombat-david-lewis-and-the-outer-extance.html)) · [canonical](https://modalpathethics.com/modal-kombat-david-lewis-and-the-outer-extance/)
 - 2026-10-10 — [Multiplayer: JUNKER](/articles/multiplayer-junker.md) ([HTML](/articles/multiplayer-junker.html)) · [canonical](https://modalpathethics.com/multiplayer-junker/)
 - 2026-10-10 — [The Author Was Never Alone](/articles/the-author-was-never-alone.md) ([HTML](/articles/the-author-was-never-alone.html)) · [canonical](https://modalpathethics.com/the-author-was-never-alone/)
 - 2026-10-09 — [Luciano Floridi 1v1s Modal Path Ethics on Rust](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.md) ([HTML](/articles/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust.html)) · [canonical](https://modalpathethics.com/multiplayer-luciano-floridi-1v1s-modal-path-ethics-on-rust/)
