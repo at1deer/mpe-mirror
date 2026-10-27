@@ -1,13 +1,73 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-27T05:30:07.145Z",
+  "generated_at": "2026-10-27T12:36:44.615Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 415,
+  "article_count": 418,
   "articles": [
+    {
+      "title": "The Blue Wave Has a Coffee Stirrer",
+      "slug": "the-blue-wave-holds-a-coffee-stirrer",
+      "published_at": "2026-10-27T06:00:00.000-05:00",
+      "updated_at": "2026-10-27T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/",
+      "excerpt": "The possibility of a substantial change in congressional authority is now an immediate institutional question.",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.md",
+      "mirror_html_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html",
+      "sha256_plaintext": "a8097afa9ec2d9ca9c1d3d184327b35e467b0cdd09f88221acc6b02879000527"
+    },
+    {
+      "title": "Nathan Fielder Is Technically Allowed to Do This",
+      "slug": "nathan-fielder-is-technically-allowed-to-do-this",
+      "published_at": "2026-10-27T06:00:00.000-05:00",
+      "updated_at": "2026-10-27T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/",
+      "excerpt": "Six ethical audits of Nathan for You",
+      "tags": [
+        "Failed Field Analysts",
+        "Instrument Jurisdiction"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
+      "mirror_html_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
+      "sha256_plaintext": "292d87c314451d41b259f006fceaf4e2ae79f2f8d95bf62074ad9f7b77df7f17"
+    },
+    {
+      "title": "Applied Case: The Answer Key Is Probably in the Chip Factory.",
+      "slug": "applied-case-the-answer-key-is-probably-in-the-chip-factory",
+      "published_at": "2026-10-27T05:59:00.000-05:00",
+      "updated_at": "2026-10-27T05:58:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-answer-key-is-probably-in-the-chip-factory/",
+      "excerpt": "Amazing.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.md",
+      "mirror_html_path": "/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html",
+      "sha256_plaintext": "a6cf85c2c5000aa0eedc41ba20934ebc36c46806bc403a431d328253eec41067"
+    },
     {
       "title": "Modal Path Ethics Apologizes to the Gamers",
       "slug": "modal-path-ethics-apologizes-to-the-gamers",

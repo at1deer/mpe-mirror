@@ -1,13 +1,16 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-27T05:30:07.145Z
+Mirror generated: 2026-10-27T12:36:44.615Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 415
+Published article count: 418
 
+- 2026-10-27 — [The Blue Wave Has a Coffee Stirrer](/articles/the-blue-wave-holds-a-coffee-stirrer.md) ([HTML](/articles/the-blue-wave-holds-a-coffee-stirrer.html)) · [canonical](https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/)
+- 2026-10-27 — [Nathan Fielder Is Technically Allowed to Do This](/articles/nathan-fielder-is-technically-allowed-to-do-this.md) ([HTML](/articles/nathan-fielder-is-technically-allowed-to-do-this.html)) · [canonical](https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/)
+- 2026-10-27 — [Applied Case: The Answer Key Is Probably in the Chip Factory.](/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.md) ([HTML](/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html)) · [canonical](https://modalpathethics.com/applied-case-the-answer-key-is-probably-in-the-chip-factory/)
 - 2026-10-26 — [Modal Path Ethics Apologizes to the Gamers](/articles/modal-path-ethics-apologizes-to-the-gamers.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-gamers.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/)
 - 2026-10-26 — [The United States Army Must Abandon the Skeleton](/articles/the-united-states-army-must-abandon-the-skeleton.md) ([HTML](/articles/the-united-states-army-must-abandon-the-skeleton.html)) · [canonical](https://modalpathethics.com/the-united-states-army-must-abandon-the-skeleton/)
 - 2026-10-26 — [Confucius and the Rectification of the Pentagon](/articles/confucius-and-the-rectification-of-the-pentagon.md) ([HTML](/articles/confucius-and-the-rectification-of-the-pentagon.html)) · [canonical](https://modalpathethics.com/confucius-and-the-rectification-of-the-pentagon/)
