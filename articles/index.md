@@ -1,6 +1,6 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-28T13:28:05.205Z
+Mirror generated: 2026-10-28T22:48:01.545Z
 
 Canonical publication: https://modalpathethics.com
 
@@ -8,7 +8,7 @@ Mirror: https://mirror.modalpathethics.com
 
 Published article count: 420
 
-- 2026-10-28 — [The Cumberland Run](/articles/the-cumberland-run.md) ([HTML](/articles/the-cumberland-run.html)) · [canonical](https://modalpathethics.com/the-cumberland-run/)
+- 2026-10-28 — [Play Cumberland Run](/articles/the-cumberland-run.md) ([HTML](/articles/the-cumberland-run.html)) · [canonical](https://modalpathethics.com/the-cumberland-run/)
 - 2026-10-28 — [Applied Case: The Trees Are Still Standing](/articles/applied-case-the-trees-are-still-standing.md) ([HTML](/articles/applied-case-the-trees-are-still-standing.html)) · [canonical](https://modalpathethics.com/applied-case-the-trees-are-still-standing/)
 - 2026-10-27 — [Nathan Fielder Is Technically Allowed to Do This](/articles/nathan-fielder-is-technically-allowed-to-do-this.md) ([HTML](/articles/nathan-fielder-is-technically-allowed-to-do-this.html)) · [canonical](https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/)
 - 2026-10-27 — [The Blue Wave Has a Coffee Stirrer](/articles/the-blue-wave-holds-a-coffee-stirrer.md) ([HTML](/articles/the-blue-wave-holds-a-coffee-stirrer.html)) · [canonical](https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/)

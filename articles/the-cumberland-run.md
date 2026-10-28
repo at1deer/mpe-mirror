@@ -1,10 +1,10 @@
 ---
-title: "The Cumberland Run"
+title: "Play Cumberland Run"
 slug: "the-cumberland-run"
 canonical_url: "https://modalpathethics.com/the-cumberland-run/"
 mirror_url: "https://mirror.modalpathethics.com/articles/the-cumberland-run.md"
 published_at: "2026-10-28T06:00:00.000-05:00"
-updated_at: "2026-10-28T06:00:01.000-05:00"
+updated_at: "2026-10-28T08:39:49.000-05:00"
 tags:
   - "Aquatic Curriculum"
   - "Chirality"
@@ -12,11 +12,11 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-28T13:28:05.205Z"
+mirror_generated_at: "2026-10-28T22:48:01.545Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
 ---
-# The Cumberland Run
+# Play Cumberland Run
 
 Tennessee's subterranean transportation authority has developed an unusual public-confidence strategy.
 
