@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-27T22:33:46.201Z",
+  "generated_at": "2026-10-28T06:12:34.469Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -97,7 +97,8 @@
       "excerpt": "Modal Path Ethics brings you the warfighters of the future.",
       "tags": [
         "Security Instruments",
-        "Chastening of the Controller"
+        "Chastening of the Controller",
+        "Transition Action"
       ],
       "authors": [
         "Aidan Lawson"
@@ -8447,7 +8448,7 @@
       "title": "Tales of Distortion: The 1904 St. Louis Marathon",
       "slug": "applied-case-1904-st-louis-marathon",
       "published_at": "2026-04-16T18:42:47.000-05:00",
-      "updated_at": "2026-09-28T20:44:01.000-05:00",
+      "updated_at": "2026-10-27T21:55:56.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-1904-st-louis-marathon/",
       "excerpt": "The Olympic record shows a completed official event with final results and some brief notes, not the results of the dehydrating-world-athletes study. [L]",
       "tags": [
@@ -8461,7 +8462,7 @@
       "mirror_html_path": "/articles/applied-case-1904-st-louis-marathon.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-1904-st-louis-marathon.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-1904-st-louis-marathon.html",
-      "sha256_plaintext": "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
+      "sha256_plaintext": "de2522e2c18295aa34259c179090d98ca54ebe1d30d8ab33970cf21fa1e5668c"
     },
     {
       "title": "Why Better is Not the Greater Good",

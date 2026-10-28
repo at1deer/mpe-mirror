@@ -4,20 +4,22 @@ slug: "applied-case-1904-st-louis-marathon"
 canonical_url: "https://modalpathethics.com/applied-case-1904-st-louis-marathon/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-1904-st-louis-marathon.md"
 published_at: "2026-04-16T18:42:47.000-05:00"
-updated_at: "2026-09-28T20:44:01.000-05:00"
+updated_at: "2026-10-27T21:55:56.000-05:00"
 tags:
   - "Modal Path Ethics"
   - "Tales of Distortion"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-27T22:33:46.201Z"
+mirror_generated_at: "2026-10-28T06:12:34.469Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "b7f89cc55a6ccb4efc54ef6e5b8c26493d12e4de834e16052123c3cb70e81d07"
+sha256_plaintext: "de2522e2c18295aa34259c179090d98ca54ebe1d30d8ab33970cf21fa1e5668c"
 ---
 # Tales of Distortion: The 1904 St. Louis Marathon
 
-> **September 2026 note:** The marathon remains a distortion audit of a real historical field. Read its harms using the later distinctions between harm-tokens, transition profiles, resistance thickening, burden transfer, repairability, and verdict.
+> **September 2026 note:** The marathon remains a distortion audit of a real historical field. Read its harms using the later distinctions between harms, transition profiles, resistance thickening, burden transfer, repairability, and verdict.
+
+> Also, possibility space is no longer bering used like this, see [_Henri Bergson and the Vault of Glass_](https://modalpathethics.com/henri-bergson-and-the-vault-of-glass/).
 
 The 1904 Summer Games marathon is a perfect example in Modal Path Ethics of how every single concept of the framework can be violated simultaneously and demonstrably in real time by identifiable actors with documented consequences.
 
