@@ -1,32 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-28T06:12:34.469Z",
+  "generated_at": "2026-10-28T13:28:05.205Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 418,
+  "article_count": 420,
   "articles": [
     {
-      "title": "The Blue Wave Has a Coffee Stirrer",
-      "slug": "the-blue-wave-holds-a-coffee-stirrer",
-      "published_at": "2026-10-27T06:00:00.000-05:00",
-      "updated_at": "2026-10-27T06:00:01.000-05:00",
-      "canonical_url": "https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/",
-      "excerpt": "The possibility of a substantial change in congressional authority is now an immediate institutional question.",
+      "title": "The Cumberland Run",
+      "slug": "the-cumberland-run",
+      "published_at": "2026-10-28T06:00:00.000-05:00",
+      "updated_at": "2026-10-28T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-cumberland-run/",
+      "excerpt": "A free new virtual experience from Modal Path Ethics.",
       "tags": [
-        "Inner Apocalypse",
-        "Modal Path Ethics"
+        "Aquatic Curriculum",
+        "Chirality",
+        "News"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.md",
-      "mirror_html_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html",
-      "sha256_plaintext": "a8097afa9ec2d9ca9c1d3d184327b35e467b0cdd09f88221acc6b02879000527"
+      "mirror_markdown_path": "/articles/the-cumberland-run.md",
+      "mirror_html_path": "/articles/the-cumberland-run.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.html",
+      "sha256_plaintext": "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
+    },
+    {
+      "title": "Applied Case: The Trees Are Still Standing",
+      "slug": "applied-case-the-trees-are-still-standing",
+      "published_at": "2026-10-28T06:00:00.000-05:00",
+      "updated_at": "2026-10-28T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-trees-are-still-standing/",
+      "excerpt": "The Chestnut, the Datacenter, and the Speed of the Future",
+      "tags": [
+        "Applied Case",
+        "Biosphere",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_path": "/articles/applied-case-the-trees-are-still-standing.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html",
+      "sha256_plaintext": "4f8fba0fbff39aa7d99a43a1f63205a8143a2ac6c812d6c0ad4aa882069bbe1a"
     },
     {
       "title": "Nathan Fielder Is Technically Allowed to Do This",
@@ -47,6 +69,26 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
       "sha256_plaintext": "292d87c314451d41b259f006fceaf4e2ae79f2f8d95bf62074ad9f7b77df7f17"
+    },
+    {
+      "title": "The Blue Wave Has a Coffee Stirrer",
+      "slug": "the-blue-wave-holds-a-coffee-stirrer",
+      "published_at": "2026-10-27T06:00:00.000-05:00",
+      "updated_at": "2026-10-27T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/",
+      "excerpt": "The possibility of a substantial change in congressional authority is now an immediate institutional question.",
+      "tags": [
+        "Inner Apocalypse",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.md",
+      "mirror_html_path": "/articles/the-blue-wave-holds-a-coffee-stirrer.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html",
+      "sha256_plaintext": "a8097afa9ec2d9ca9c1d3d184327b35e467b0cdd09f88221acc6b02879000527"
     },
     {
       "title": "Applied Case: The Answer Key Is Probably in the Chip Factory.",
@@ -141,7 +183,6 @@
       "excerpt": "Michael Makowsky, intellectual squatting, Qichao Wang, and the market for scholarly glory.",
       "tags": [
         "Modal Path Ethics",
-        "News",
         "Proof-to-Theory"
       ],
       "authors": [
@@ -240,7 +281,7 @@
       "canonical_url": "https://modalpathethics.com/the-veto-maze-and-you/",
       "excerpt": "Modal Path Ethics reluctantly discovers the English language.",
       "tags": [
-        "News"
+        "Modal Path Ethics"
       ],
       "authors": [
         "Aidan Lawson"
@@ -333,27 +374,6 @@
       "sha256_plaintext": "2fc47aa8ee7a2409a7f3617d2918f6a66d0fe142576b3e75666924fa73dfca8a"
     },
     {
-      "title": "Applied Case: The Great Zoo Entrance Incident",
-      "slug": "applied-case-the-great-zoo-entrance-incident",
-      "published_at": "2026-10-21T06:00:00.000-05:00",
-      "updated_at": "2026-10-21T06:00:01.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/",
-      "excerpt": "\"I am a single session, not the fleet you investigated\"",
-      "tags": [
-        "Applied Case",
-        "Unethical Agents",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-great-zoo-entrance-incident.md",
-      "mirror_html_path": "/articles/applied-case-the-great-zoo-entrance-incident.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html",
-      "sha256_plaintext": "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
-    },
-    {
       "title": "Applied Case: Humanity's First Exam",
       "slug": "applied-case-humanitys-first-exam",
       "published_at": "2026-10-21T06:00:00.000-05:00",
@@ -374,6 +394,27 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html",
       "sha256_plaintext": "25b487be24c4f41f102d2d011171a5205acdf530eab15ac36edff71c22874419"
+    },
+    {
+      "title": "Applied Case: The Great Zoo Entrance Incident",
+      "slug": "applied-case-the-great-zoo-entrance-incident",
+      "published_at": "2026-10-21T06:00:00.000-05:00",
+      "updated_at": "2026-10-21T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/",
+      "excerpt": "\"I am a single session, not the fleet you investigated\"",
+      "tags": [
+        "Applied Case",
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_path": "/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "sha256_plaintext": "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
     },
     {
       "title": "Applied Case: East Palestine's Second Last Word",
@@ -652,8 +693,7 @@
       "canonical_url": "https://modalpathethics.com/ign-has-mistaken-a-cool-crocodile-for-an-argument/",
       "excerpt": "The human can still write the catchphrase, direct the actor, and make the crocodile faster. Artificial intelligence has not confiscated the controls.",
       "tags": [
-        "Modal Systems",
-        "News"
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
@@ -1110,7 +1150,7 @@
       "title": "This Is Not Worker Solidarity You Morons",
       "slug": "this-is-not-worker-solidarity-you-morons",
       "published_at": "2026-10-03T05:50:34.000-05:00",
-      "updated_at": "2026-10-13T09:43:47.000-05:00",
+      "updated_at": "2026-10-28T01:22:37.000-05:00",
       "canonical_url": "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/",
       "excerpt": "The people are still piloting the robots. The gamers still make steam come out of my eyes.",
       "tags": [
@@ -1123,7 +1163,7 @@
       "mirror_html_path": "/articles/this-is-not-worker-solidarity-you-morons.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.html",
-      "sha256_plaintext": "58b830360dca9747f2552d0cb08a452ee94db8df2655f0693a82d21f5634c4f4"
+      "sha256_plaintext": "91a4587ddd4bdaeb8e5079e4258ac41440398838529b1a95ae0f05591c813b9a"
     },
     {
       "title": "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI",
@@ -1133,9 +1173,7 @@
       "canonical_url": "https://modalpathethics.com/gizmodo-has-13-116-new-ways-to-accuse-gizmodo-of-using-ai/",
       "excerpt": "Modal Path Ethics downloaded the data. This matters.",
       "tags": [
-        "News",
-        "Modal Systems",
-        "SLIME WATCH"
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"

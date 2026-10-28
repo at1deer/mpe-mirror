@@ -7,12 +7,11 @@ published_at: "2026-10-25T21:16:58.000-05:00"
 updated_at: "2026-10-25T21:30:10.000-05:00"
 tags:
   - "Modal Path Ethics"
-  - "News"
   - "Proof-to-Theory"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-28T06:12:34.469Z"
+mirror_generated_at: "2026-10-28T13:28:05.205Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8e0c25fa2a741e723b17efa58035358b5eaf14f6774e0e92ea53201fc35da8f2"
 ---

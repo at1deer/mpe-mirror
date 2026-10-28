@@ -6,11 +6,11 @@ mirror_url: "https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.m
 published_at: "2026-10-24T05:59:00.000-05:00"
 updated_at: "2026-10-24T05:59:00.000-05:00"
 tags:
-  - "News"
+  - "Modal Path Ethics"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-28T06:12:34.469Z"
+mirror_generated_at: "2026-10-28T13:28:05.205Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b2dc840a679280b6feba875edd4219dd1df1db8dcea17998c6ab61d677d5da99"
 ---

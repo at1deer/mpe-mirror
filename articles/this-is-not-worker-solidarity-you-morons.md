@@ -4,17 +4,33 @@ slug: "this-is-not-worker-solidarity-you-morons"
 canonical_url: "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/"
 mirror_url: "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md"
 published_at: "2026-10-03T05:50:34.000-05:00"
-updated_at: "2026-10-13T09:43:47.000-05:00"
+updated_at: "2026-10-28T01:22:37.000-05:00"
 tags:
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-28T06:12:34.469Z"
+mirror_generated_at: "2026-10-28T13:28:05.205Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "58b830360dca9747f2552d0cb08a452ee94db8df2655f0693a82d21f5634c4f4"
+sha256_plaintext: "91a4587ddd4bdaeb8e5079e4258ac41440398838529b1a95ae0f05591c813b9a"
 ---
 # This Is Not Worker Solidarity You Morons
+
+> **Update:** This article was a steam review of the Steam reviewers, the apology/better article is here.
+
+[
+
+Modal Path Ethics Apologizes to the Gamers
+
+Modal Path Ethics has an unfortunate announcement.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-b10fd2f9-1e12-4f20-96f3-a4a32faaa467.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/84846-fa13fa9b-aec0-4dc6-b9a1-41ee4156a0ff.jpg)
+
+](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/)
+
+> Original text retained below.
 
 I wrote this argument once already. Then I deleted Substack.
 

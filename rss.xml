@@ -4,14 +4,22 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 06:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:28:05 GMT</lastBuildDate>
     
     <item>
-      <title>The Blue Wave Has a Coffee Stirrer</title>
-      <link>https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The possibility of a substantial change in congressional authority is now an immediate institutional question.</description>
+      <title>The Cumberland Run</title>
+      <link>https://modalpathethics.com/the-cumberland-run/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-cumberland-run.html</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:00 GMT</pubDate>
+      <description>A free new virtual experience from Modal Path Ethics.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Trees Are Still Standing</title>
+      <link>https://modalpathethics.com/applied-case-the-trees-are-still-standing/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The Chestnut, the Datacenter, and the Speed of the Future</description>
     </item>
 
     <item>
@@ -20,6 +28,14 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html</guid>
       <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
       <description>Six ethical audits of Nathan for You</description>
+    </item>
+
+    <item>
+      <title>The Blue Wave Has a Coffee Stirrer</title>
+      <link>https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html</guid>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The possibility of a substantial change in congressional authority is now an immediate institutional question.</description>
     </item>
 
     <item>
@@ -135,19 +151,19 @@
     </item>
 
     <item>
-      <title>Applied Case: The Great Zoo Entrance Incident</title>
-      <link>https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <description>&quot;I am a single session, not the fleet you investigated&quot;</description>
-    </item>
-
-    <item>
       <title>Applied Case: Humanity's First Exam</title>
       <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
       <description>Reasoning capability can advance without corresponding improvement in ethical judgment.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Great Zoo Entrance Incident</title>
+      <link>https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
+      <description>&quot;I am a single session, not the fleet you investigated&quot;</description>
     </item>
 
     <item>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-deepmind-institute-finds-the-field.html</guid>
       <pubDate>Tue, 06 Oct 2026 11:00:17 GMT</pubDate>
       <description>Artificial Symbiotic Intelligence, agent institutions, and the constitutional problem after minds begin thinking together.</description>
-    </item>
-
-    <item>
-      <title>Jean-Pierre Aubin and the Artificer’s Workshop</title>
-      <link>https://modalpathethics.com/jean-pierre-aubin-and-the-artificers-workshop/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/jean-pierre-aubin-and-the-artificers-workshop.html</guid>
-      <pubDate>Mon, 05 Oct 2026 15:20:00 GMT</pubDate>
-      <description>I left a mathematician outside.</description>
-    </item>
-
-    <item>
-      <title>Convergence Point: Sławomir Krakowski and the Correction That Can No Longer Arrive</title>
-      <link>https://modalpathethics.com/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-slawomir-krakowski-and-the-correction-that-can-no-longer-arrive.html</guid>
-      <pubDate>Mon, 05 Oct 2026 11:00:53 GMT</pubDate>
-      <description>A right to correct is not a path by which correction remains possible.</description>
     </item>
   </channel>
 </rss>

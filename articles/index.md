@@ -1,15 +1,17 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-28T06:12:34.469Z
+Mirror generated: 2026-10-28T13:28:05.205Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 418
+Published article count: 420
 
-- 2026-10-27 — [The Blue Wave Has a Coffee Stirrer](/articles/the-blue-wave-holds-a-coffee-stirrer.md) ([HTML](/articles/the-blue-wave-holds-a-coffee-stirrer.html)) · [canonical](https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/)
+- 2026-10-28 — [The Cumberland Run](/articles/the-cumberland-run.md) ([HTML](/articles/the-cumberland-run.html)) · [canonical](https://modalpathethics.com/the-cumberland-run/)
+- 2026-10-28 — [Applied Case: The Trees Are Still Standing](/articles/applied-case-the-trees-are-still-standing.md) ([HTML](/articles/applied-case-the-trees-are-still-standing.html)) · [canonical](https://modalpathethics.com/applied-case-the-trees-are-still-standing/)
 - 2026-10-27 — [Nathan Fielder Is Technically Allowed to Do This](/articles/nathan-fielder-is-technically-allowed-to-do-this.md) ([HTML](/articles/nathan-fielder-is-technically-allowed-to-do-this.html)) · [canonical](https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/)
+- 2026-10-27 — [The Blue Wave Has a Coffee Stirrer](/articles/the-blue-wave-holds-a-coffee-stirrer.md) ([HTML](/articles/the-blue-wave-holds-a-coffee-stirrer.html)) · [canonical](https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/)
 - 2026-10-27 — [Applied Case: The Answer Key Is Probably in the Chip Factory.](/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.md) ([HTML](/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html)) · [canonical](https://modalpathethics.com/applied-case-the-answer-key-is-probably-in-the-chip-factory/)
 - 2026-10-26 — [Modal Path Ethics Apologizes to the Gamers](/articles/modal-path-ethics-apologizes-to-the-gamers.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-gamers.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/)
 - 2026-10-26 — [The United States Army Must Abandon the Skeleton](/articles/the-united-states-army-must-abandon-the-skeleton.md) ([HTML](/articles/the-united-states-army-must-abandon-the-skeleton.html)) · [canonical](https://modalpathethics.com/the-united-states-army-must-abandon-the-skeleton/)
@@ -24,8 +26,8 @@ Published article count: 418
 - 2026-10-23 — [Applied Case: The Train Ticket Outrage](/articles/applied-case-the-train-ticket-outrage.md) ([HTML](/articles/applied-case-the-train-ticket-outrage.html)) · [canonical](https://modalpathethics.com/applied-case-the-train-ticket-outrage/)
 - 2026-10-22 — [The Humans Still Get to Vote](/articles/the-humans-still-get-to-vote.md) ([HTML](/articles/the-humans-still-get-to-vote.html)) · [canonical](https://modalpathethics.com/the-humans-still-get-to-vote/)
 - 2026-10-22 — [Applied Case: The Future Came Home in a Backpack](/articles/applied-case-the-future-came-home-in-a-backpack.md) ([HTML](/articles/applied-case-the-future-came-home-in-a-backpack.html)) · [canonical](https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/)
-- 2026-10-21 — [Applied Case: The Great Zoo Entrance Incident](/articles/applied-case-the-great-zoo-entrance-incident.md) ([HTML](/articles/applied-case-the-great-zoo-entrance-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/)
 - 2026-10-21 — [Applied Case: Humanity's First Exam](/articles/applied-case-humanitys-first-exam.md) ([HTML](/articles/applied-case-humanitys-first-exam.html)) · [canonical](https://modalpathethics.com/applied-case-humanitys-first-exam/)
+- 2026-10-21 — [Applied Case: The Great Zoo Entrance Incident](/articles/applied-case-the-great-zoo-entrance-incident.md) ([HTML](/articles/applied-case-the-great-zoo-entrance-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/)
 - 2026-10-20 — [Applied Case: East Palestine's Second Last Word](/articles/applied-case-east-palestines-second-last-word.md) ([HTML](/articles/applied-case-east-palestines-second-last-word.html)) · [canonical](https://modalpathethics.com/applied-case-east-palestines-second-last-word/)
 - 2026-10-20 — [Applied Case: OpenAI's Grader Tried to Destroy Its Computer](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md) ([HTML](/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html)) · [canonical](https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/)
 - 2026-10-19 — [ASTRAL QUEST ETHICS: Artificer's Extra](/articles/astral-quest-ethics-artificers-extra.md) ([HTML](/articles/astral-quest-ethics-artificers-extra.html)) · [canonical](https://modalpathethics.com/astral-quest-ethics-artificers-extra/)
