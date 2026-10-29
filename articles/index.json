@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-29T06:22:26.019Z",
+  "generated_at": "2026-10-29T13:38:17.544Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 420,
+  "article_count": 422,
   "articles": [
+    {
+      "title": "Tales of Distortion: Sauvé's Crevasse",
+      "slug": "tales-of-distortion-sauves-crevasse",
+      "published_at": "2026-10-29T06:00:00.000-05:00",
+      "updated_at": "2026-10-29T06:00:01.000-05:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-sauves-crevasse/",
+      "excerpt": "Return to Louisiana.",
+      "tags": [
+        "Tales of Distortion",
+        "Instrument Jurisdiction",
+        "Aquatic Curriculum"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-sauves-crevasse.md",
+      "mirror_html_path": "/articles/tales-of-distortion-sauves-crevasse.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.html",
+      "sha256_plaintext": "199dd7410a32013e4ccc81a381156b0475278849ec59015ee147a449ea42b214"
+    },
+    {
+      "title": "Applied Case: It's a Competition",
+      "slug": "applied-case-its-a-competition",
+      "published_at": "2026-10-29T05:59:00.000-05:00",
+      "updated_at": "2026-10-29T05:59:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-its-a-competition/",
+      "excerpt": "Race neutralized.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-its-a-competition.md",
+      "mirror_html_path": "/articles/applied-case-its-a-competition.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-its-a-competition.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-its-a-competition.html",
+      "sha256_plaintext": "74ca4f6a361e2cdd85816bea39c893307f9c671424656497b26dd34967ae8852"
+    },
     {
       "title": "Play Cumberland Run",
       "slug": "the-cumberland-run",

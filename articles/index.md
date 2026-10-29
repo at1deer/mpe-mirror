@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-29T06:22:26.019Z
+Mirror generated: 2026-10-29T13:38:17.544Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 420
+Published article count: 422
 
+- 2026-10-29 — [Tales of Distortion: Sauvé's Crevasse](/articles/tales-of-distortion-sauves-crevasse.md) ([HTML](/articles/tales-of-distortion-sauves-crevasse.html)) · [canonical](https://modalpathethics.com/tales-of-distortion-sauves-crevasse/)
+- 2026-10-29 — [Applied Case: It's a Competition](/articles/applied-case-its-a-competition.md) ([HTML](/articles/applied-case-its-a-competition.html)) · [canonical](https://modalpathethics.com/applied-case-its-a-competition/)
 - 2026-10-28 — [Play Cumberland Run](/articles/the-cumberland-run.md) ([HTML](/articles/the-cumberland-run.html)) · [canonical](https://modalpathethics.com/the-cumberland-run/)
 - 2026-10-28 — [Applied Case: The Trees Are Still Standing](/articles/applied-case-the-trees-are-still-standing.md) ([HTML](/articles/applied-case-the-trees-are-still-standing.html)) · [canonical](https://modalpathethics.com/applied-case-the-trees-are-still-standing/)
 - 2026-10-27 — [Nathan Fielder Is Technically Allowed to Do This](/articles/nathan-fielder-is-technically-allowed-to-do-this.md) ([HTML](/articles/nathan-fielder-is-technically-allowed-to-do-this.html)) · [canonical](https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/)
