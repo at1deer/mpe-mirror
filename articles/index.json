@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-29T22:56:08.179Z",
+  "generated_at": "2026-10-30T06:21:03.557Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -12,7 +12,7 @@
       "title": "Tales of Distortion: Sauvé's Crevasse",
       "slug": "tales-of-distortion-sauves-crevasse",
       "published_at": "2026-10-29T06:00:00.000-05:00",
-      "updated_at": "2026-10-29T06:00:01.000-05:00",
+      "updated_at": "2026-10-29T18:56:05.000-05:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-sauves-crevasse/",
       "excerpt": "Return to Louisiana.",
       "tags": [
@@ -27,7 +27,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-sauves-crevasse.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.html",
-      "sha256_plaintext": "199dd7410a32013e4ccc81a381156b0475278849ec59015ee147a449ea42b214"
+      "sha256_plaintext": "b54738ecb363d2a84a735b849dd6707c544e9e73300cf66c99835983e08c669b"
     },
     {
       "title": "Applied Case: It's a Competition",

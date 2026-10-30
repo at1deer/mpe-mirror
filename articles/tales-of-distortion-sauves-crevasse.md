@@ -4,7 +4,7 @@ slug: "tales-of-distortion-sauves-crevasse"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-sauves-crevasse/"
 mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.md"
 published_at: "2026-10-29T06:00:00.000-05:00"
-updated_at: "2026-10-29T06:00:01.000-05:00"
+updated_at: "2026-10-29T18:56:05.000-05:00"
 tags:
   - "Tales of Distortion"
   - "Instrument Jurisdiction"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-29T22:56:08.179Z"
+mirror_generated_at: "2026-10-30T06:21:03.557Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "199dd7410a32013e4ccc81a381156b0475278849ec59015ee147a449ea42b214"
+sha256_plaintext: "b54738ecb363d2a84a735b849dd6707c544e9e73300cf66c99835983e08c669b"
 ---
 # Tales of Distortion: Sauvé's Crevasse
 
@@ -519,7 +519,7 @@ He also doubted that the proposed enlargement would accomplish very much.
 
 The elevation and connection to the surrounding basins were troubling. Digging a wider ditch was of little use if the ditch did not reach the water it was supposed to remove at a sufficient depth.
 
-This is one of those very important feature of canals.
+This is one of those very important features of canals.
 
 A **canal** is a cut through land.
 
