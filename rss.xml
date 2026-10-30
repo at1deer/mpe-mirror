@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 06:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:26:49 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: GIMME YOSECRET</title>
+      <link>https://modalpathethics.com/applied-case-gimme-yosecret/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-gimme-yosecret.html</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 GMT</pubDate>
+      <description>I would like to suggest that an unlocked window does not automatically constitute an invitation.</description>
+    </item>
+
+    <item>
+      <title>The Safe Sentence</title>
+      <link>https://modalpathethics.com/the-safe-sentence/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-safe-sentence.html</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 GMT</pubDate>
+      <description>The thought had somewhere else to go.</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: Sauvé's Crevasse</title>
       <link>https://modalpathethics.com/tales-of-distortion-sauves-crevasse/</link>
@@ -389,22 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-proof-had-no-deadline.html</guid>
       <pubDate>Thu, 08 Oct 2026 10:59:44 GMT</pubDate>
       <description>PTT has 722 manuscripts to navigate</description>
-    </item>
-
-    <item>
-      <title>Stuart Kauffman and the Grain of the Adjacent Possible</title>
-      <link>https://modalpathethics.com/stuart-kauffman-and-the-grain-of-the-adjacent-possible/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/stuart-kauffman-and-the-grain-of-the-adjacent-possible.html</guid>
-      <pubDate>Wed, 07 Oct 2026 11:00:52 GMT</pubDate>
-      <description>The future may build new futures. It still has to happen to something.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Religious Force</title>
-      <link>https://modalpathethics.com/applied-case-religious-force/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-religious-force.html</guid>
-      <pubDate>Wed, 07 Oct 2026 11:00:14 GMT</pubDate>
-      <description>Sam Altman, artificial intelligence, and the text that answers back.</description>
     </item>
   </channel>
 </rss>

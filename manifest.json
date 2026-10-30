@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-30T06:21:03.557Z",
+  "generated_at": "2026-10-30T13:26:49.503Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 422,
+  "article_count": 424,
   "articles": [
+    {
+      "title": "Applied Case: GIMME YOSECRET",
+      "slug": "applied-case-gimme-yosecret",
+      "published_at": "2026-10-30T06:00:00.000-05:00",
+      "updated_at": "2026-10-30T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-gimme-yosecret/",
+      "excerpt": "I would like to suggest that an unlocked window does not automatically constitute an invitation.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-gimme-yosecret.md",
+      "mirror_html_path": "/articles/applied-case-gimme-yosecret.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-gimme-yosecret.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-gimme-yosecret.html",
+      "sha256_plaintext": "625c7663e11a9b83dfd975cc632a7400172025eebd015358d4b4764d9d10ee85"
+    },
+    {
+      "title": "The Safe Sentence",
+      "slug": "the-safe-sentence",
+      "published_at": "2026-10-30T06:00:00.000-05:00",
+      "updated_at": "2026-10-30T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/the-safe-sentence/",
+      "excerpt": "The thought had somewhere else to go.",
+      "tags": [
+        "Engagement",
+        "Epistemic Instruments",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-safe-sentence.md",
+      "mirror_html_path": "/articles/the-safe-sentence.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-safe-sentence.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-safe-sentence.html",
+      "sha256_plaintext": "99d0d1859a53056dd374f2e7692d4a09e032890428536b548a107b88bcde67f4"
+    },
     {
       "title": "Tales of Distortion: Sauvé's Crevasse",
       "slug": "tales-of-distortion-sauves-crevasse",

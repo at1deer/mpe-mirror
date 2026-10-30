@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-30T06:21:03.557Z
+Mirror generated: 2026-10-30T13:26:49.503Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 422
+Published article count: 424
 
+- 2026-10-30 — [Applied Case: GIMME YOSECRET](/articles/applied-case-gimme-yosecret.md) ([HTML](/articles/applied-case-gimme-yosecret.html)) · [canonical](https://modalpathethics.com/applied-case-gimme-yosecret/)
+- 2026-10-30 — [The Safe Sentence](/articles/the-safe-sentence.md) ([HTML](/articles/the-safe-sentence.html)) · [canonical](https://modalpathethics.com/the-safe-sentence/)
 - 2026-10-29 — [Tales of Distortion: Sauvé's Crevasse](/articles/tales-of-distortion-sauves-crevasse.md) ([HTML](/articles/tales-of-distortion-sauves-crevasse.html)) · [canonical](https://modalpathethics.com/tales-of-distortion-sauves-crevasse/)
 - 2026-10-29 — [Applied Case: It's a Competition](/articles/applied-case-its-a-competition.md) ([HTML](/articles/applied-case-its-a-competition.html)) · [canonical](https://modalpathethics.com/applied-case-its-a-competition/)
 - 2026-10-28 — [Play Cumberland Run](/articles/the-cumberland-run.md) ([HTML](/articles/the-cumberland-run.html)) · [canonical](https://modalpathethics.com/the-cumberland-run/)
