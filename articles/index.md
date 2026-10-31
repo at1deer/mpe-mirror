@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-10-30T22:36:51.028Z
+Mirror generated: 2026-10-31T06:11:56.790Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 424
+Published article count: 425
 
+- 2026-10-31 — [SLIME WATCH IV: I Just Apologized to the Gamers](/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md) ([HTML](/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html)) · [canonical](https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/)
 - 2026-10-30 — [Applied Case: GIMME YOSECRET](/articles/applied-case-gimme-yosecret.md) ([HTML](/articles/applied-case-gimme-yosecret.html)) · [canonical](https://modalpathethics.com/applied-case-gimme-yosecret/)
 - 2026-10-30 — [The Safe Sentence](/articles/the-safe-sentence.md) ([HTML](/articles/the-safe-sentence.html)) · [canonical](https://modalpathethics.com/the-safe-sentence/)
 - 2026-10-29 — [Tales of Distortion: Sauvé's Crevasse](/articles/tales-of-distortion-sauves-crevasse.md) ([HTML](/articles/tales-of-distortion-sauves-crevasse.html)) · [canonical](https://modalpathethics.com/tales-of-distortion-sauves-crevasse/)

@@ -1,13 +1,36 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-30T22:36:51.028Z",
+  "generated_at": "2026-10-31T06:11:56.790Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 424,
+  "article_count": 425,
   "articles": [
+    {
+      "title": "SLIME WATCH IV: I Just Apologized to the Gamers",
+      "slug": "slime-watch-iv-i-just-apologized-to-the-gamers",
+      "published_at": "2026-10-31T00:12:52.000-05:00",
+      "updated_at": "2026-10-31T00:55:53.000-05:00",
+      "canonical_url": "https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/",
+      "excerpt": "This has been a very difficult week for the Apologies Department.",
+      "tags": [
+        "SLIME WATCH",
+        "Modal Systems",
+        "Chirality",
+        "Apologies Department",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md",
+      "mirror_html_path": "/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html",
+      "sha256_plaintext": "c874657185dc8ce0af1b41ba010c40d04c028e79441dcf103a1f3c7b36673646"
+    },
     {
       "title": "Applied Case: GIMME YOSECRET",
       "slug": "applied-case-gimme-yosecret",

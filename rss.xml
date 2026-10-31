@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 22:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:11:56 GMT</lastBuildDate>
     
+    <item>
+      <title>SLIME WATCH IV: I Just Apologized to the Gamers</title>
+      <link>https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html</guid>
+      <pubDate>Sat, 31 Oct 2026 05:12:52 GMT</pubDate>
+      <description>This has been a very difficult week for the Apologies Department.</description>
+    </item>
+
     <item>
       <title>Applied Case: GIMME YOSECRET</title>
       <link>https://modalpathethics.com/applied-case-gimme-yosecret/</link>
@@ -397,14 +405,6 @@ Unfortunately, the eyewitness is Claude.</description>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-for-the-spicy-chicken.html</guid>
       <pubDate>Thu, 08 Oct 2026 11:00:33 GMT</pubDate>
       <description>McDonald’s and the AI Exposure Effect</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Proof Had No Deadline</title>
-      <link>https://modalpathethics.com/applied-case-the-proof-had-no-deadline/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-proof-had-no-deadline.html</guid>
-      <pubDate>Thu, 08 Oct 2026 10:59:44 GMT</pubDate>
-      <description>PTT has 722 manuscripts to navigate</description>
     </item>
   </channel>
 </rss>
