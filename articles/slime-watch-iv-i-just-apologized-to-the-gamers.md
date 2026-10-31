@@ -4,7 +4,7 @@ slug: "slime-watch-iv-i-just-apologized-to-the-gamers"
 canonical_url: "https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/"
 mirror_url: "https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md"
 published_at: "2026-10-31T00:12:52.000-05:00"
-updated_at: "2026-10-31T00:55:53.000-05:00"
+updated_at: "2026-10-31T01:50:03.000-05:00"
 tags:
   - "SLIME WATCH"
   - "Modal Systems"
@@ -14,9 +14,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-31T06:11:56.790Z"
+mirror_generated_at: "2026-10-31T12:59:17.037Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "c874657185dc8ce0af1b41ba010c40d04c028e79441dcf103a1f3c7b36673646"
+sha256_plaintext: "e5ad43f06cacca390f241e1124b52bd106a4be5b6ec2ceb85a5277771da648aa"
 ---
 # SLIME WATCH IV: I Just Apologized to the Gamers
 
@@ -36,7 +36,7 @@ Just a few days ago, [I apologized to the gamers](https://modalpathethics.com/mo
 
 This was an important moment of personal growth.
 
-But apparently, **_Slime Watch_** has just actived.
+But apparently, **_Slime Watch_** is needed again.
 
 ![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/2026/10/85020-1.jpg)
 

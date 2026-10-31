@@ -1,18 +1,58 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-31T06:11:56.790Z",
+  "generated_at": "2026-10-31T12:59:17.037Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 425,
+  "article_count": 427,
   "articles": [
+    {
+      "title": "Applied Case: The Internet Was Approved Unanimously.",
+      "slug": "applied-case-the-internet-was-approved-unanimously",
+      "published_at": "2026-10-31T06:06:00.000-05:00",
+      "updated_at": "2026-10-31T06:05:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-internet-was-approved-unanimously/",
+      "excerpt": "We Have Fallen in Love With Our Own Honesty",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-internet-was-approved-unanimously.md",
+      "mirror_html_path": "/articles/applied-case-the-internet-was-approved-unanimously.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-internet-was-approved-unanimously.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-internet-was-approved-unanimously.html",
+      "sha256_plaintext": "ac1ed9498e9e57d64014bca0bb2ee13b49fdcb5695d445dd96759c0f70cef6e7"
+    },
+    {
+      "title": "Modal Path Ethics Apologizes to David Gross",
+      "slug": "modal-path-ethics-apologizes-to-david-gross",
+      "published_at": "2026-10-31T06:00:00.000-05:00",
+      "updated_at": "2026-10-31T05:59:59.000-05:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-david-gross/",
+      "excerpt": "The clock remains confiscated.",
+      "tags": [
+        "Apologies Department",
+        "Proof-to-Theory"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-david-gross.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-david-gross.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-david-gross.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-david-gross.html",
+      "sha256_plaintext": "33c8a1bdd5206902e7974616e974c2487f76ba814d3b5d2d38838fb117acc2c9"
+    },
     {
       "title": "SLIME WATCH IV: I Just Apologized to the Gamers",
       "slug": "slime-watch-iv-i-just-apologized-to-the-gamers",
       "published_at": "2026-10-31T00:12:52.000-05:00",
-      "updated_at": "2026-10-31T00:55:53.000-05:00",
+      "updated_at": "2026-10-31T01:50:03.000-05:00",
       "canonical_url": "https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/",
       "excerpt": "This has been a very difficult week for the Apologies Department.",
       "tags": [
@@ -29,7 +69,7 @@
       "mirror_html_path": "/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html",
-      "sha256_plaintext": "c874657185dc8ce0af1b41ba010c40d04c028e79441dcf103a1f3c7b36673646"
+      "sha256_plaintext": "e5ad43f06cacca390f241e1124b52bd106a4be5b6ec2ceb85a5277771da648aa"
     },
     {
       "title": "Applied Case: GIMME YOSECRET",
