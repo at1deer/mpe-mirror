@@ -4,16 +4,16 @@ slug: "applied-case-psychiatry-before-psychiatry"
 canonical_url: "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-psychiatry-before-psychiatry.md"
 published_at: "2026-08-01T03:28:53.000-05:00"
-updated_at: "2026-09-20T21:31:34.000-05:00"
+updated_at: "2026-10-31T17:27:25.000-05:00"
 tags:
   - "Applied Case"
   - "Instrument Jurisdiction"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-10-31T21:49:39.649Z"
+mirror_generated_at: "2026-11-01T06:44:55.976Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
+sha256_plaintext: "f0a07ac08ebba655721a014cb4bb947e7c55556a5357d844a1cff3d6f282eabc"
 ---
 # Applied Case: Psychiatry Before Psychiatry
 
@@ -682,7 +682,7 @@ The family receives the message.
 
 The public receives the message.
 
-Then, the stable schizophrenia-spectrum patient who received the messagge **voluntarily seeks ordinary medication continuity** and encounters the firewall psychiatry has built to keep them away from clinics.
+Then, the stable schizophrenia-spectrum patient who received the message **voluntarily seeks ordinary medication continuity** and encounters the firewall psychiatry has built to keep them away from clinics.
 
 That contradiction changes the **whole epistemic field**.
 
@@ -734,7 +734,7 @@ A psychiatrist is not automatically a priest of pathology.
 
 Psychiatric diagnosis and medication can be _exactly_ the intervention a person needs.
 
-The public also has a fully legitimate interest in learning how to respond when someone cannot safely orient, is threatening themselves or others, cannot meet basic needs, or is experiencing abrupt changes that may indicate psychiatric, neurological, toxicological, infectious, metabolic, or other medical danger.
+The public also has a fully legitimate interest in learning how to respond when someone cannot safely orient, is threatening themselves or others inappropriately, cannot meet basic needs, or is experiencing abrupt changes that may indicate psychiatric, neurological, toxicological, infectious, metabolic, or other medical danger.
 
 There is no ethical path back to silence.
 

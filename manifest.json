@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-10-31T21:49:39.649Z",
+  "generated_at": "2026-11-01T06:44:55.976Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -4615,7 +4615,7 @@
       "title": "Applied Case: Psychiatry Before Psychiatry",
       "slug": "applied-case-psychiatry-before-psychiatry",
       "published_at": "2026-08-01T03:28:53.000-05:00",
-      "updated_at": "2026-09-20T21:31:34.000-05:00",
+      "updated_at": "2026-10-31T17:27:25.000-05:00",
       "canonical_url": "https://modalpathethics.com/applied-case-psychiatry-before-psychiatry/",
       "excerpt": "Psychiatry does not wait at the clinic. It arrives years earlier, inside the language by which distress learns to recognize itself.",
       "tags": [
@@ -4629,7 +4629,7 @@
       "mirror_html_path": "/articles/applied-case-psychiatry-before-psychiatry.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-psychiatry-before-psychiatry.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-psychiatry-before-psychiatry.html",
-      "sha256_plaintext": "e60788aea5ae66ef6f3119781b846d6f184e0bdd03adc93bfdf1517ba98b7a18"
+      "sha256_plaintext": "f0a07ac08ebba655721a014cb4bb947e7c55556a5357d844a1cff3d6f282eabc"
     },
     {
       "title": "Applied Case: Russia and the Buffer Wound",
