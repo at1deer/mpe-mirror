@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-01T06:44:55.976Z",
+  "generated_at": "2026-11-01T18:03:17.658Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 427,
+  "article_count": 429,
   "articles": [
+    {
+      "title": "Aristotle and the Akratic Account",
+      "slug": "aristotle-and-the-akratic-account",
+      "published_at": "2026-11-01T06:00:00.000-06:00",
+      "updated_at": "2026-11-01T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/aristotle-and-the-akratic-account/",
+      "excerpt": "Aristotle, Heather, Hendon, Burdman, and the city that never used its laws.",
+      "tags": [
+        "Engagement",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/aristotle-and-the-akratic-account.md",
+      "mirror_html_path": "/articles/aristotle-and-the-akratic-account.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/aristotle-and-the-akratic-account.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/aristotle-and-the-akratic-account.html",
+      "sha256_plaintext": "a44c1ec523dfaecd3c54f0239560d7049cc0e3b570c5763494414240516183ce"
+    },
+    {
+      "title": "Applied Case: Searching for Sada",
+      "slug": "applied-case-searching-for-sada",
+      "published_at": "2026-11-01T06:00:00.000-06:00",
+      "updated_at": "2026-11-01T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-searching-for-sada/",
+      "excerpt": "An investigation into the disturbance beneath Area Zero. Spoilers for Pokémon Scarlet and Violet.",
+      "tags": [
+        "Pokémon",
+        "Modal Systems",
+        "Chirality"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-searching-for-sada.md",
+      "mirror_html_path": "/articles/applied-case-searching-for-sada.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-searching-for-sada.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-searching-for-sada.html",
+      "sha256_plaintext": "0cb901acdd097a1ea385eacfdf098b61b23813bcac5bc0d23a6b3d7e94e2a701"
+    },
     {
       "title": "Applied Case: The Internet Was Approved Unanimously.",
       "slug": "applied-case-the-internet-was-approved-unanimously",

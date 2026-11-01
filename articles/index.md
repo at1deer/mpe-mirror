@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-01T06:44:55.976Z
+Mirror generated: 2026-11-01T18:03:17.658Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 427
+Published article count: 429
 
+- 2026-11-01 — [Aristotle and the Akratic Account](/articles/aristotle-and-the-akratic-account.md) ([HTML](/articles/aristotle-and-the-akratic-account.html)) · [canonical](https://modalpathethics.com/aristotle-and-the-akratic-account/)
+- 2026-11-01 — [Applied Case: Searching for Sada](/articles/applied-case-searching-for-sada.md) ([HTML](/articles/applied-case-searching-for-sada.html)) · [canonical](https://modalpathethics.com/applied-case-searching-for-sada/)
 - 2026-10-31 — [Applied Case: The Internet Was Approved Unanimously.](/articles/applied-case-the-internet-was-approved-unanimously.md) ([HTML](/articles/applied-case-the-internet-was-approved-unanimously.html)) · [canonical](https://modalpathethics.com/applied-case-the-internet-was-approved-unanimously/)
 - 2026-10-31 — [Modal Path Ethics Apologizes to David Gross](/articles/modal-path-ethics-apologizes-to-david-gross.md) ([HTML](/articles/modal-path-ethics-apologizes-to-david-gross.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-apologizes-to-david-gross/)
 - 2026-10-31 — [SLIME WATCH IV: I Just Apologized to the Gamers](/articles/slime-watch-iv-i-just-apologized-to-the-gamers.md) ([HTML](/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html)) · [canonical](https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/)
