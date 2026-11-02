@@ -4,7 +4,7 @@ slug: "applied-case-the-trees-are-still-standing"
 canonical_url: "https://modalpathethics.com/applied-case-the-trees-are-still-standing/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md"
 published_at: "2026-10-28T06:00:00.000-05:00"
-updated_at: "2026-10-28T06:00:00.000-05:00"
+updated_at: "2026-11-01T18:48:33.000-06:00"
 tags:
   - "Applied Case"
   - "Biosphere"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-01T22:18:29.140Z"
+mirror_generated_at: "2026-11-02T06:43:30.753Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "4f8fba0fbff39aa7d99a43a1f63205a8143a2ac6c812d6c0ad4aa882069bbe1a"
+sha256_plaintext: "df800be26130471cae270e20b20efd98940e8f0b0f504b7058d645d6a63336d0"
 ---
 # Applied Case: The Trees Are Still Standing
 
@@ -88,7 +88,7 @@ The evidence establishes a live and serious risk, with the feasibility of the pr
 
 Those achievements overlap, but are not interchangeable.
 
-So do not want to treat the existence of backup plantings as evidence that uprooting the originals is safe. The backups are valuable _on their own terms_. If the mature trees die after a move, their loss remains.
+So we do not want to treat the existence of backup plantings as evidence that uprooting the originals is safe. The backups are valuable _on their own terms_. If the mature trees die after a move, their loss remains.
 
 That led to a very small investigation: what could be done **without** pretending to possess Nscale's unpublished northern master plan or the tree-by-tree root survey, which I could not find online?
 

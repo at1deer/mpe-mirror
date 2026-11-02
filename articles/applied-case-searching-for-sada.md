@@ -4,7 +4,7 @@ slug: "applied-case-searching-for-sada"
 canonical_url: "https://modalpathethics.com/applied-case-searching-for-sada/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-searching-for-sada.md"
 published_at: "2026-11-01T06:00:00.000-06:00"
-updated_at: "2026-11-01T06:00:00.000-06:00"
+updated_at: "2026-11-01T16:55:43.000-06:00"
 tags:
   - "Pokémon"
   - "Modal Systems"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-01T22:18:29.140Z"
+mirror_generated_at: "2026-11-02T06:43:30.753Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "0cb901acdd097a1ea385eacfdf098b61b23813bcac5bc0d23a6b3d7e94e2a701"
+sha256_plaintext: "402d3865096aa53fdcbaad75b0af46647fa87fede655837e832fdda0507f076d"
 ---
 # Applied Case: Searching for Sada
 
@@ -243,7 +243,7 @@ A machine can be dangerous to the legitimacy of a competition long before it is 
 
 * * *
 
-## Research Station No 4.
+## Research Station No 4
 
 The final security console flashes in bright red what looks like a promising option:
 

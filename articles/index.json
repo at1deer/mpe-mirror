@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-01T22:18:29.140Z",
+  "generated_at": "2026-11-02T06:43:30.753Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -32,7 +32,7 @@
       "title": "Applied Case: Searching for Sada",
       "slug": "applied-case-searching-for-sada",
       "published_at": "2026-11-01T06:00:00.000-06:00",
-      "updated_at": "2026-11-01T06:00:00.000-06:00",
+      "updated_at": "2026-11-01T16:55:43.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-searching-for-sada/",
       "excerpt": "An investigation into the disturbance beneath Area Zero. Spoilers for Pokémon Scarlet and Violet.",
       "tags": [
@@ -47,7 +47,7 @@
       "mirror_html_path": "/articles/applied-case-searching-for-sada.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-searching-for-sada.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-searching-for-sada.html",
-      "sha256_plaintext": "0cb901acdd097a1ea385eacfdf098b61b23813bcac5bc0d23a6b3d7e94e2a701"
+      "sha256_plaintext": "402d3865096aa53fdcbaad75b0af46647fa87fede655837e832fdda0507f076d"
     },
     {
       "title": "Applied Case: The Internet Was Approved Unanimously.",
@@ -196,6 +196,27 @@
       "sha256_plaintext": "74ca4f6a361e2cdd85816bea39c893307f9c671424656497b26dd34967ae8852"
     },
     {
+      "title": "Applied Case: The Trees Are Still Standing",
+      "slug": "applied-case-the-trees-are-still-standing",
+      "published_at": "2026-10-28T06:00:00.000-05:00",
+      "updated_at": "2026-11-01T18:48:33.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-trees-are-still-standing/",
+      "excerpt": "The Chestnut, the Datacenter, and the Speed of the Future",
+      "tags": [
+        "Applied Case",
+        "Biosphere",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_path": "/articles/applied-case-the-trees-are-still-standing.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html",
+      "sha256_plaintext": "df800be26130471cae270e20b20efd98940e8f0b0f504b7058d645d6a63336d0"
+    },
+    {
       "title": "Play Cumberland Run",
       "slug": "the-cumberland-run",
       "published_at": "2026-10-28T06:00:00.000-05:00",
@@ -215,27 +236,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.html",
       "sha256_plaintext": "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
-    },
-    {
-      "title": "Applied Case: The Trees Are Still Standing",
-      "slug": "applied-case-the-trees-are-still-standing",
-      "published_at": "2026-10-28T06:00:00.000-05:00",
-      "updated_at": "2026-10-28T06:00:00.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-trees-are-still-standing/",
-      "excerpt": "The Chestnut, the Datacenter, and the Speed of the Future",
-      "tags": [
-        "Applied Case",
-        "Biosphere",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-trees-are-still-standing.md",
-      "mirror_html_path": "/articles/applied-case-the-trees-are-still-standing.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html",
-      "sha256_plaintext": "4f8fba0fbff39aa7d99a43a1f63205a8143a2ac6c812d6c0ad4aa882069bbe1a"
     },
     {
       "title": "Nathan Fielder Is Technically Allowed to Do This",
