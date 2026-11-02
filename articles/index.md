@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-02T06:43:30.753Z
+Mirror generated: 2026-11-02T21:53:31.414Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 429
+Published article count: 431
 
+- 2026-11-02 — [Applied Case: They Didn't Put the Newspaper in Prison](/articles/applied-case-they-didnt-put-the-newspaper-in-prison.md) ([HTML](/articles/applied-case-they-didnt-put-the-newspaper-in-prison.html)) · [canonical](https://modalpathethics.com/applied-case-they-didnt-put-the-newspaper-in-prison/)
+- 2026-11-02 — [Applied Case: The Maintainers Are Simulated](/articles/applied-case-the-maintainers-are-simulated.md) ([HTML](/articles/applied-case-the-maintainers-are-simulated.html)) · [canonical](https://modalpathethics.com/applied-case-the-maintainers-are-simulated/)
 - 2026-11-01 — [Aristotle and the Akratic Account](/articles/aristotle-and-the-akratic-account.md) ([HTML](/articles/aristotle-and-the-akratic-account.html)) · [canonical](https://modalpathethics.com/aristotle-and-the-akratic-account/)
 - 2026-11-01 — [Applied Case: Searching for Sada](/articles/applied-case-searching-for-sada.md) ([HTML](/articles/applied-case-searching-for-sada.html)) · [canonical](https://modalpathethics.com/applied-case-searching-for-sada/)
 - 2026-10-31 — [Applied Case: The Internet Was Approved Unanimously.](/articles/applied-case-the-internet-was-approved-unanimously.md) ([HTML](/articles/applied-case-the-internet-was-approved-unanimously.html)) · [canonical](https://modalpathethics.com/applied-case-the-internet-was-approved-unanimously/)

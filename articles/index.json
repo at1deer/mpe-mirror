@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-02T06:43:30.753Z",
+  "generated_at": "2026-11-02T21:53:31.414Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 429,
+  "article_count": 431,
   "articles": [
+    {
+      "title": "Applied Case: They Didn't Put the Newspaper in Prison",
+      "slug": "applied-case-they-didnt-put-the-newspaper-in-prison",
+      "published_at": "2026-11-02T06:00:00.000-06:00",
+      "updated_at": "2026-11-02T06:00:02.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-they-didnt-put-the-newspaper-in-prison/",
+      "excerpt": "Novaya Gazeta, Yuri Shchekochikhin's Slaves of the KGB, and the machinery that outlived the Soviet Union.",
+      "tags": [
+        "Applied Case",
+        "Security Instruments",
+        "Epistemic Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-they-didnt-put-the-newspaper-in-prison.md",
+      "mirror_html_path": "/articles/applied-case-they-didnt-put-the-newspaper-in-prison.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-they-didnt-put-the-newspaper-in-prison.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-they-didnt-put-the-newspaper-in-prison.html",
+      "sha256_plaintext": "21c05f63a636f7ccf1797d7ed2f8c7429e267d4b5ca2d0d686c926ea15f72eb1"
+    },
+    {
+      "title": "Applied Case: The Maintainers Are Simulated",
+      "slug": "applied-case-the-maintainers-are-simulated",
+      "published_at": "2026-11-02T05:59:00.000-06:00",
+      "updated_at": "2026-11-02T07:15:18.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-maintainers-are-simulated/",
+      "excerpt": "The attack can continue.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-maintainers-are-simulated.md",
+      "mirror_html_path": "/articles/applied-case-the-maintainers-are-simulated.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-maintainers-are-simulated.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-maintainers-are-simulated.html",
+      "sha256_plaintext": "b92f1b43810ae482e2e0c815bb8e3cb5b2b9e34c8a418632ed1db55a8d355d75"
+    },
     {
       "title": "Aristotle and the Akratic Account",
       "slug": "aristotle-and-the-akratic-account",
