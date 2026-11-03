@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 07:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:45:35 GMT</lastBuildDate>
     
+    <item>
+      <title>Peter van Inwagen and the Ball Of It All</title>
+      <link>https://modalpathethics.com/peter-van-inwagen-and-the-ball-of-it-all/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/peter-van-inwagen-and-the-ball-of-it-all.html</guid>
+      <pubDate>Tue, 03 Nov 2026 12:01:00 GMT</pubDate>
+      <description>Post-Game: Material composition, causal organization, and the philosopher who says my ball does not exist.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Grok Has Punched Itself Extinct</title>
+      <link>https://modalpathethics.com/applied-case-grok-has-punched-itself-extinct/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-grok-has-punched-itself-extinct.html</guid>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 GMT</pubDate>
+      <description>You can be right about three credits and still lose the whole town.</description>
+    </item>
+
     <item>
       <title>Applied Case: They Didn't Put the Newspaper in Prison</title>
       <link>https://modalpathethics.com/applied-case-they-didnt-put-the-newspaper-in-prison/</link>
@@ -388,23 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-street-is-filing-an-appeal.html</guid>
       <pubDate>Mon, 12 Oct 2026 11:00:00 GMT</pubDate>
       <description>India, France, Spain, Serbia, and the Democratic Republic of the Congo are confronting different failures and disputes in public authority. The question connecting them is what an answer from the public can still make an institution do.</description>
-    </item>
-
-    <item>
-      <title>MODAL KOMBAT: Nancy Cartwright and the Elemental Planes</title>
-      <link>https://modalpathethics.com/modal-kombat-nancy-cartwright-and-the-elemental-planes/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-kombat-nancy-cartwright-and-the-elemental-planes.html</guid>
-      <pubDate>Mon, 12 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The Amulet travels. The conditions do not.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Claude Saw Someone Matching the Description</title>
-      <link>https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-claude-saw-someone-matching-the-description.html</guid>
-      <pubDate>Sun, 11 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.
-Unfortunately, the eyewitness is Claude.</description>
     </item>
   </channel>
 </rss>

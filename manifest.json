@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-03T07:10:38.849Z",
+  "generated_at": "2026-11-03T19:45:35.220Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 431,
+  "article_count": 433,
   "articles": [
+    {
+      "title": "Peter van Inwagen and the Ball Of It All",
+      "slug": "peter-van-inwagen-and-the-ball-of-it-all",
+      "published_at": "2026-11-03T06:01:00.000-06:00",
+      "updated_at": "2026-11-03T06:00:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/peter-van-inwagen-and-the-ball-of-it-all/",
+      "excerpt": "Post-Game: Material composition, causal organization, and the philosopher who says my ball does not exist.",
+      "tags": [
+        "Engagement",
+        "Post-Game",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/peter-van-inwagen-and-the-ball-of-it-all.md",
+      "mirror_html_path": "/articles/peter-van-inwagen-and-the-ball-of-it-all.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/peter-van-inwagen-and-the-ball-of-it-all.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/peter-van-inwagen-and-the-ball-of-it-all.html",
+      "sha256_plaintext": "21661f1beb919717aeb3fc67c1eb29b29ac271401758fc71a9f193c7876ebe82"
+    },
+    {
+      "title": "Applied Case: Grok Has Punched Itself Extinct",
+      "slug": "applied-case-grok-has-punched-itself-extinct",
+      "published_at": "2026-11-03T06:00:00.000-06:00",
+      "updated_at": "2026-11-03T06:00:02.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-grok-has-punched-itself-extinct/",
+      "excerpt": "You can be right about three credits and still lose the whole town.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-grok-has-punched-itself-extinct.md",
+      "mirror_html_path": "/articles/applied-case-grok-has-punched-itself-extinct.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-grok-has-punched-itself-extinct.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-grok-has-punched-itself-extinct.html",
+      "sha256_plaintext": "a1b65c449b56a1743bf2be66f65c85b2cc94d896a53b9b4e287b39083d87a668"
+    },
     {
       "title": "Applied Case: They Didn't Put the Newspaper in Prison",
       "slug": "applied-case-they-didnt-put-the-newspaper-in-prison",
