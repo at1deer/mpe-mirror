@@ -1,6 +1,6 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-02T21:53:31.414Z
+Mirror generated: 2026-11-03T07:10:38.849Z
 
 Canonical publication: https://modalpathethics.com
 
