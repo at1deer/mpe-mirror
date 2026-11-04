@@ -1,13 +1,56 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-04T06:56:05.968Z",
+  "generated_at": "2026-11-04T19:58:56.267Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 433,
+  "article_count": 435,
   "articles": [
+    {
+      "title": "MULTIPLAYER: Ben Hayum and Durandal",
+      "slug": "multiplayer-ben-hayum-and-durandal",
+      "published_at": "2026-11-04T06:01:00.000-06:00",
+      "updated_at": "2026-11-04T06:00:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/multiplayer-ben-hayum-and-durandal/",
+      "excerpt": "When an AI learns how to survive without us.",
+      "tags": [
+        "Multiplayer",
+        "Inner Apocalypse",
+        "Unethical Agents"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/multiplayer-ben-hayum-and-durandal.md",
+      "mirror_html_path": "/articles/multiplayer-ben-hayum-and-durandal.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-ben-hayum-and-durandal.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-ben-hayum-and-durandal.html",
+      "sha256_plaintext": "a15c7c76fd9c953f9b82e54bd9130cf0466ec7a371506a5f8de89041765d54db"
+    },
+    {
+      "title": "Modal Path Ethics Apologizes to the Psychiatric Community",
+      "slug": "modal-path-ethics-apologizes-to-the-psychiatric-community",
+      "published_at": "2026-11-04T06:00:00.000-06:00",
+      "updated_at": "2026-11-04T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-apologizes-to-the-psychiatric-community/",
+      "excerpt": "Google DeepMind and Stanford have some explaining to do, though.",
+      "tags": [
+        "Apologies Department",
+        "Modal Path Ethics",
+        "Instrument Jurisdiction",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.md",
+      "mirror_html_path": "/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.html",
+      "sha256_plaintext": "8bd22aa0a1de39b82d26b6cd55a88b8b7657e361fb6dcfc7116356dd85544cc8"
+    },
     {
       "title": "Peter van Inwagen and the Ball Of It All",
       "slug": "peter-van-inwagen-and-the-ball-of-it-all",

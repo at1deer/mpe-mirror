@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-04T06:56:05.968Z
+Mirror generated: 2026-11-04T19:58:56.267Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 433
+Published article count: 435
 
+- 2026-11-04 — [MULTIPLAYER: Ben Hayum and Durandal](/articles/multiplayer-ben-hayum-and-durandal.md) ([HTML](/articles/multiplayer-ben-hayum-and-durandal.html)) · [canonical](https://modalpathethics.com/multiplayer-ben-hayum-and-durandal/)
+- 2026-11-04 — [Modal Path Ethics Apologizes to the Psychiatric Community](/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.md) ([HTML](/articles/modal-path-ethics-apologizes-to-the-psychiatric-community.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-apologizes-to-the-psychiatric-community/)
 - 2026-11-03 — [Peter van Inwagen and the Ball Of It All](/articles/peter-van-inwagen-and-the-ball-of-it-all.md) ([HTML](/articles/peter-van-inwagen-and-the-ball-of-it-all.html)) · [canonical](https://modalpathethics.com/peter-van-inwagen-and-the-ball-of-it-all/)
 - 2026-11-03 — [Applied Case: Grok Has Punched Itself Extinct](/articles/applied-case-grok-has-punched-itself-extinct.md) ([HTML](/articles/applied-case-grok-has-punched-itself-extinct.html)) · [canonical](https://modalpathethics.com/applied-case-grok-has-punched-itself-extinct/)
 - 2026-11-02 — [Applied Case: They Didn't Put the Newspaper in Prison](/articles/applied-case-they-didnt-put-the-newspaper-in-prison.md) ([HTML](/articles/applied-case-they-didnt-put-the-newspaper-in-prison.html)) · [canonical](https://modalpathethics.com/applied-case-they-didnt-put-the-newspaper-in-prison/)
