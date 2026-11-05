@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-05T07:17:56.551Z",
+  "generated_at": "2026-11-05T20:13:33.247Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 435,
+  "article_count": 437,
   "articles": [
+    {
+      "title": "Applied Case: The Rams of Patagonia",
+      "slug": "applied-case-the-rams-of-patagonia",
+      "published_at": "2026-11-05T06:00:00.000-06:00",
+      "updated_at": "2026-11-05T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-rams-of-patagonia/",
+      "excerpt": "America wants its chips back. Apparently, it would prefer the computers somewhere else.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-rams-of-patagonia.md",
+      "mirror_html_path": "/articles/applied-case-the-rams-of-patagonia.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.html",
+      "sha256_plaintext": "09cd0d94fe5468392890a124bf6ea0281b30e3cce9505b5eeb6632f14bd84029"
+    },
+    {
+      "title": "Applied Case: The Third Sam Altman",
+      "slug": "applied-case-the-third-sam-altman",
+      "published_at": "2026-11-05T06:00:00.000-06:00",
+      "updated_at": "2026-11-05T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-third-sam-altman/",
+      "excerpt": "Modal Path Ethics investigates a missing actor, an unidentified billionaire, and the possibility that there are also now two Andrew Garfields.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_path": "/articles/applied-case-the-third-sam-altman.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.html",
+      "sha256_plaintext": "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
+    },
     {
       "title": "MULTIPLAYER: Ben Hayum and Durandal",
       "slug": "multiplayer-ben-hayum-and-durandal",
