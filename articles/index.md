@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-06T07:18:05.293Z
+Mirror generated: 2026-11-06T19:38:56.694Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 437
+Published article count: 439
 
+- 2026-11-06 — [Proof-to-Theory Has Found Someone With a Better Computer](/articles/proof-to-theory-has-found-someone-with-a-better-computer.md) ([HTML](/articles/proof-to-theory-has-found-someone-with-a-better-computer.html)) · [canonical](https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/)
+- 2026-11-06 — [Applied Case: The Frogs Crossed the Border](/articles/applied-case-the-frogs-cross-the-border.md) ([HTML](/articles/applied-case-the-frogs-cross-the-border.html)) · [canonical](https://modalpathethics.com/applied-case-the-frogs-cross-the-border/)
 - 2026-11-05 — [Applied Case: The Rams of Patagonia](/articles/applied-case-the-rams-of-patagonia.md) ([HTML](/articles/applied-case-the-rams-of-patagonia.html)) · [canonical](https://modalpathethics.com/applied-case-the-rams-of-patagonia/)
 - 2026-11-05 — [Applied Case: The Third Sam Altman](/articles/applied-case-the-third-sam-altman.md) ([HTML](/articles/applied-case-the-third-sam-altman.html)) · [canonical](https://modalpathethics.com/applied-case-the-third-sam-altman/)
 - 2026-11-04 — [MULTIPLAYER: Ben Hayum and Durandal](/articles/multiplayer-ben-hayum-and-durandal.md) ([HTML](/articles/multiplayer-ben-hayum-and-durandal.html)) · [canonical](https://modalpathethics.com/multiplayer-ben-hayum-and-durandal/)

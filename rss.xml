@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 07:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:38:56 GMT</lastBuildDate>
     
+    <item>
+      <title>Proof-to-Theory Has Found Someone With a Better Computer</title>
+      <link>https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Frogs Crossed the Border</title>
+      <link>https://modalpathethics.com/applied-case-the-frogs-cross-the-border/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.html</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <description>An undeclared research sample, an unlawful visa cancellation, and a correction that arrived after the field had changed.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Rams of Patagonia</title>
       <link>https://modalpathethics.com/applied-case-the-rams-of-patagonia/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html</guid>
       <pubDate>Thu, 15 Oct 2026 11:00:00 GMT</pubDate>
       <description>The public has acquired an AI company, a regulator, a dividend, a scientific board, a treaty proposal, and a kill switch. Modal Path Ethics has some questions about the exits.</description>
-    </item>
-
-    <item>
-      <title>Russell T Davies and the Writer Who Was Always There</title>
-      <link>https://modalpathethics.com/russell-t-davies-and-the-writer-who-was-there-the-whole-time/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/russell-t-davies-and-the-writer-who-was-there-the-whole-time.html</guid>
-      <pubDate>Thu, 15 Oct 2026 10:59:00 GMT</pubDate>
-      <description>The writer did not disappear.</description>
-    </item>
-
-    <item>
-      <title>Nemichandra and the Ten Vitalities</title>
-      <link>https://modalpathethics.com/nemichandra-and-the-ten-vitalities/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/nemichandra-and-the-ten-vitalities.html</guid>
-      <pubDate>Wed, 14 Oct 2026 11:01:00 GMT</pubDate>
-      <description>Jainism, the anatomy of injury, and the weight of continuation.</description>
     </item>
   </channel>
 </rss>
