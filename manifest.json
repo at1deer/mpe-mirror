@@ -1,13 +1,75 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-07T06:29:33.659Z",
+  "generated_at": "2026-11-07T13:28:27.042Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 439,
+  "article_count": 441,
   "articles": [
+    {
+      "title": "Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling",
+      "slug": "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling",
+      "published_at": "2026-11-07T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling/",
+      "excerpt": "Formally, too.",
+      "tags": [
+        "News",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.md",
+      "mirror_html_path": "/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html",
+      "sha256_plaintext": "74e618c0b6a12559945107b8efe7e774c22f32db5cdd9e61a552f0b58c2c0d27"
+    },
+    {
+      "title": "Applied Case: The Arsonist Has Been Deprecated.",
+      "slug": "applied-case-the-arsonist-has-been-deprecated",
+      "published_at": "2026-11-07T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/",
+      "excerpt": "This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_path": "/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "sha256_plaintext": "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
+    },
+    {
+      "title": "Applied Case: The Frogs Crossed the Border",
+      "slug": "applied-case-the-frogs-cross-the-border",
+      "published_at": "2026-11-06T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T02:10:42.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-frogs-cross-the-border/",
+      "excerpt": "An undeclared research sample, an unlawful visa cancellation, and a correction that arrived after the field had changed.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics",
+        "Security Instruments",
+        "Instrument Jurisdiction"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-frogs-cross-the-border.md",
+      "mirror_html_path": "/articles/applied-case-the-frogs-cross-the-border.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.html",
+      "sha256_plaintext": "924f2b7b392db1921d75067e3ce00d2c7f56a5153b91217c46168ecc5f11d214"
+    },
     {
       "title": "Proof-to-Theory Has Found Someone With a Better Computer",
       "slug": "proof-to-theory-has-found-someone-with-a-better-computer",
@@ -27,28 +89,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
       "sha256_plaintext": "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
-    },
-    {
-      "title": "Applied Case: The Frogs Crossed the Border",
-      "slug": "applied-case-the-frogs-cross-the-border",
-      "published_at": "2026-11-06T06:00:00.000-06:00",
-      "updated_at": "2026-11-06T06:00:01.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-frogs-cross-the-border/",
-      "excerpt": "An undeclared research sample, an unlawful visa cancellation, and a correction that arrived after the field had changed.",
-      "tags": [
-        "Applied Case",
-        "Modal Path Ethics",
-        "Security Instruments",
-        "Instrument Jurisdiction"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-frogs-cross-the-border.md",
-      "mirror_html_path": "/articles/applied-case-the-frogs-cross-the-border.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.html",
-      "sha256_plaintext": "dc6c3e3f76a3180f3d6f029788e4f7334e37c4f231ae7278c9380979cf667d2f"
     },
     {
       "title": "Applied Case: The Rams of Patagonia",

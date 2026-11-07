@@ -4,14 +4,22 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 06:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:28:27 GMT</lastBuildDate>
     
     <item>
-      <title>Proof-to-Theory Has Found Someone With a Better Computer</title>
-      <link>https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html</guid>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
-      <description>Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.</description>
+      <title>Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling</title>
+      <link>https://modalpathethics.com/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Formally, too.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Arsonist Has Been Deprecated.</title>
+      <link>https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 GMT</pubDate>
+      <description>This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.</description>
     </item>
 
     <item>
@@ -20,6 +28,14 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.html</guid>
       <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
       <description>An undeclared research sample, an unlawful visa cancellation, and a correction that arrived after the field had changed.</description>
+    </item>
+
+    <item>
+      <title>Proof-to-Theory Has Found Someone With a Better Computer</title>
+      <link>https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html</guid>
+      <pubDate>Fri, 06 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.</description>
     </item>
 
     <item>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/qichao-wang-explains-the-part-i-couldnt.html</guid>
       <pubDate>Fri, 16 Oct 2026 11:00:00 GMT</pubDate>
       <description>Qichao Wang cited Modal Path Ethics, then supplied the piece my proof package was missing: a concise explanation of why Conjecture 8's apparent shortcuts fail.</description>
-    </item>
-
-    <item>
-      <title>The Robots Have Scams Now, and Marco Has Taken My Job</title>
-      <link>https://modalpathethics.com/the-robots-have-scams-now-and-marco-has-taken-my-job/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-robots-have-scams-now-and-marco-has-taken-my-job.html</guid>
-      <pubDate>Fri, 16 Oct 2026 10:59:00 GMT</pubDate>
-      <description>Modal Path Ethics went looking for money, discovered an enormous fake job market for artificial intelligence, got scooped by an autonomous journalist-agent, and learned that this agent had already found a paying client. I would like to file a complaint to someone.</description>
-    </item>
-
-    <item>
-      <title>MULTIPLAYER: Abdul El-Sayed and the 50/50</title>
-      <link>https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html</guid>
-      <pubDate>Thu, 15 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The public has acquired an AI company, a regulator, a dividend, a scientific board, a treaty proposal, and a kill switch. Modal Path Ethics has some questions about the exits.</description>
     </item>
   </channel>
 </rss>

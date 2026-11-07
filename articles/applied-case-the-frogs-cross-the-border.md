@@ -4,7 +4,7 @@ slug: "applied-case-the-frogs-cross-the-border"
 canonical_url: "https://modalpathethics.com/applied-case-the-frogs-cross-the-border/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-frogs-cross-the-border.md"
 published_at: "2026-11-06T06:00:00.000-06:00"
-updated_at: "2026-11-06T06:00:01.000-06:00"
+updated_at: "2026-11-07T02:10:42.000-06:00"
 tags:
   - "Applied Case"
   - "Modal Path Ethics"
@@ -13,9 +13,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-07T06:29:33.659Z"
+mirror_generated_at: "2026-11-07T13:28:27.042Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "dc6c3e3f76a3180f3d6f029788e4f7334e37c4f231ae7278c9380979cf667d2f"
+sha256_plaintext: "924f2b7b392db1921d75067e3ce00d2c7f56a5153b91217c46168ecc5f11d214"
 ---
 # Applied Case: The Frogs Crossed the Border
 
@@ -110,8 +110,6 @@ The ruling addressed the authority exercised against Petrova's visa. The finding
 It establishes something sufficiently serious on its own.
 
 > The government took an actual customs encounter and used it to perform an immigration action it had no lawful authority to perform.
-
-The disconnect between the initial contact and the resulting custody is the first part to understand.
 
 * * *
 
