@@ -4,16 +4,16 @@ slug: "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-g
 canonical_url: "https://modalpathethics.com/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling/"
 mirror_url: "https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.md"
 published_at: "2026-11-07T06:00:00.000-06:00"
-updated_at: "2026-11-07T06:00:00.000-06:00"
+updated_at: "2026-11-07T13:06:55.000-06:00"
 tags:
   - "News"
   - "Modal Path Ethics"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-07T13:28:27.042Z"
+mirror_generated_at: "2026-11-07T22:14:20.219Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "74e618c0b6a12559945107b8efe7e774c22f32db5cdd9e61a552f0b58c2c0d27"
+sha256_plaintext: "46b52e6e2c09334e99b908e364f05b08e7ae92437c80010c4f716bc966ba837f"
 ---
 # Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling
 
@@ -70,7 +70,7 @@ Wow. That's incredible.
 
 A man has received a ten-year sentence, ten governments have questioned the treatment of political expression, and the legislature has brought the quarterly economic report to the hearing.
 
-A city can be fucking _excellent_ at cross-border wealth management and absolute horseshit at protecting cross-border political speech. The performance of one instrument does not certify the jurisdiction of another.
+A city can be fucking _excellent_ at cross-border wealth management and absolute fucking horseshit at protecting cross-border political speech. The performance of one instrument does not certify the jurisdiction of another.
 
 This was that same problem [I was talking about](https://modalpathethics.com/tales-of-distortion-the-great-leap-forward/) when the harvest figures looked just like Sputnik under Mao.
 
@@ -126,6 +126,6 @@ Joshua Wong is not a convenient emblem to be passed between governments. That is
 
 The courts can have their cases. The state can have its security functions. Foreign governments can be challenged on their motives and methods. None receives the last word over whether Hong Kong’s people have been harmed.
 
-If the Legislative Council wishes to condemn this article, it knows where the fuck to find me.
+If the Legislative Council wishes to condemn this article, it knows where the fuck I'm at.
 
 **Leave the GDP figures at home.**

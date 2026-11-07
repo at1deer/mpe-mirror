@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-07T13:28:27.042Z",
+  "generated_at": "2026-11-07T22:14:20.219Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -12,7 +12,7 @@
       "title": "Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling",
       "slug": "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling",
       "published_at": "2026-11-07T06:00:00.000-06:00",
-      "updated_at": "2026-11-07T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T13:06:55.000-06:00",
       "canonical_url": "https://modalpathethics.com/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling/",
       "excerpt": "Formally, too.",
       "tags": [
@@ -26,7 +26,7 @@
       "mirror_html_path": "/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html",
-      "sha256_plaintext": "74e618c0b6a12559945107b8efe7e774c22f32db5cdd9e61a552f0b58c2c0d27"
+      "sha256_plaintext": "46b52e6e2c09334e99b908e364f05b08e7ae92437c80010c4f716bc966ba837f"
     },
     {
       "title": "Applied Case: The Arsonist Has Been Deprecated.",
