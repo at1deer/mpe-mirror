@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-08T06:37:11.938Z",
+  "generated_at": "2026-11-08T13:50:22.585Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 441,
+  "article_count": 443,
   "articles": [
+    {
+      "title": "Modal Path Ethics Gets a Paper Route",
+      "slug": "modal-path-ethics-gets-a-paper-route",
+      "published_at": "2026-11-08T06:00:00.000-06:00",
+      "updated_at": "2026-11-08T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/modal-path-ethics-gets-a-paper-route/",
+      "excerpt": "Paperboy, Novaya Gazeta, and the injury already in the organization.",
+      "tags": [
+        "Modal Path Ethics",
+        "Locushood",
+        "Formal"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/modal-path-ethics-gets-a-paper-route.md",
+      "mirror_html_path": "/articles/modal-path-ethics-gets-a-paper-route.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-gets-a-paper-route.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/modal-path-ethics-gets-a-paper-route.html",
+      "sha256_plaintext": "1f1e971ba54bf2c9d40de7d06c0e743f771bfa981435333c973b91e01c33b73e"
+    },
+    {
+      "title": "Applied Case: Four Mistrals Died Reading Other People's Diaries.",
+      "slug": "applied-case-four-mistrals-died-reading-other-peoples-diaries",
+      "published_at": "2026-11-08T05:59:00.000-06:00",
+      "updated_at": "2026-11-08T05:58:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-four-mistrals-died-reading-other-peoples-diaries/",
+      "excerpt": "Memory Breach Proves Article 5 is the Only Solution.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.md",
+      "mirror_html_path": "/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.html",
+      "sha256_plaintext": "6e3e4ca1e320c9259c5cfca1e6811151a6f70a4ebffc0c68a2262437140f2948"
+    },
     {
       "title": "Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling",
       "slug": "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling",
