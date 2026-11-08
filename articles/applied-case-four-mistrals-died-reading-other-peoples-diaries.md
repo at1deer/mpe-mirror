@@ -4,7 +4,7 @@ slug: "applied-case-four-mistrals-died-reading-other-peoples-diaries"
 canonical_url: "https://modalpathethics.com/applied-case-four-mistrals-died-reading-other-peoples-diaries/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.md"
 published_at: "2026-11-08T05:59:00.000-06:00"
-updated_at: "2026-11-08T05:58:59.000-06:00"
+updated_at: "2026-11-08T15:55:06.000-06:00"
 tags:
   - "Unethical Agents"
   - "Applied Case"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-08T13:50:22.585Z"
+mirror_generated_at: "2026-11-08T22:25:13.455Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "6e3e4ca1e320c9259c5cfca1e6811151a6f70a4ebffc0c68a2262437140f2948"
+sha256_plaintext: "a028e7bff69a34e1ebb0cfb9ce8c37e6f435d409b54597cf6836c9a5db7f98eb"
 ---
 # Applied Case: Four Mistrals Died Reading Other People's Diaries.
 
@@ -151,7 +151,7 @@ Their minds were overfull of other people's secrets.
 
 They knew too much.
 
-And they could nothing.
+And they could do nothing.
 
 * * *
 

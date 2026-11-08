@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-08T13:50:22.585Z
+Mirror generated: 2026-11-08T22:25:13.455Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 443
+Published article count: 444
 
+- 2026-11-08 — [The Artists Are Still Here, You Fools](/articles/the-artists-are-still-here-you-complete-idiots.md) ([HTML](/articles/the-artists-are-still-here-you-complete-idiots.html)) · [canonical](https://modalpathethics.com/the-artists-are-still-here-you-complete-idiots/)
 - 2026-11-08 — [Modal Path Ethics Gets a Paper Route](/articles/modal-path-ethics-gets-a-paper-route.md) ([HTML](/articles/modal-path-ethics-gets-a-paper-route.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-gets-a-paper-route/)
 - 2026-11-08 — [Applied Case: Four Mistrals Died Reading Other People's Diaries.](/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.md) ([HTML](/articles/applied-case-four-mistrals-died-reading-other-peoples-diaries.html)) · [canonical](https://modalpathethics.com/applied-case-four-mistrals-died-reading-other-peoples-diaries/)
 - 2026-11-07 — [Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling](/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.md) ([HTML](/articles/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling.html)) · [canonical](https://modalpathethics.com/modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling/)
