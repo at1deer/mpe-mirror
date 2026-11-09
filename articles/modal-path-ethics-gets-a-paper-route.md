@@ -9,10 +9,11 @@ tags:
   - "Modal Path Ethics"
   - "Locushood"
   - "Formal"
+  - "Post-Game"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-08T22:25:13.455Z"
+mirror_generated_at: "2026-11-09T07:05:32.060Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1f1e971ba54bf2c9d40de7d06c0e743f771bfa981435333c973b91e01c33b73e"
 ---
