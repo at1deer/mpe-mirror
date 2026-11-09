@@ -1,13 +1,56 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-09T07:05:32.060Z",
+  "generated_at": "2026-11-09T22:39:25.615Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 444,
+  "article_count": 446,
   "articles": [
+    {
+      "title": "Tales of Distortion: The Dam Is Fine",
+      "slug": "tales-of-distortion-the-dam-is-fine",
+      "published_at": "2026-11-09T06:00:00.000-06:00",
+      "updated_at": "2026-11-09T06:00:03.000-06:00",
+      "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/",
+      "excerpt": "Longarone is not.",
+      "tags": [
+        "Tales of Distortion",
+        "Modal Path Ethics",
+        "Biosphere",
+        "Aquatic Curriculum"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/tales-of-distortion-the-dam-is-fine.md",
+      "mirror_html_path": "/articles/tales-of-distortion-the-dam-is-fine.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.html",
+      "sha256_plaintext": "07bce1a179ccc15ab68b6b54c4ace50d26a600d4e50fefcbc0da5c09288a7208"
+    },
+    {
+      "title": "Amartya Sen, Martha Nussbaum, and Modal Path Ethics",
+      "slug": "amartya-sen-martha-nussbaum-and-modal-path-ethics",
+      "published_at": "2026-11-09T06:00:00.000-06:00",
+      "updated_at": "2026-11-09T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/",
+      "excerpt": "An overdue engagement. Real opportunities, organized continuations, and what bears the loss.",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
+      "mirror_html_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
+      "sha256_plaintext": "3c45ad9345fbd462d2dcd1b44de6199f7e5d1243bc15a56b2231205f8a853d3c"
+    },
     {
       "title": "The Artists Are Still Here, You Fools",
       "slug": "the-artists-are-still-here-you-complete-idiots",
