@@ -11,7 +11,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T07:40:56.624Z"
+mirror_generated_at: "2026-11-10T19:58:01.794Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "09cd0d94fe5468392890a124bf6ea0281b30e3cce9505b5eeb6632f14bd84029"
 ---

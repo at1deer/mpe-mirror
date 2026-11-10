@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 07:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:58:01 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: He's Dying.</title>
+      <link>https://modalpathethics.com/applied-case-hes-dying/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-hes-dying.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Let him run dry.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The AI Layoffs</title>
+      <link>https://modalpathethics.com/applied-case-the-ai-layoffs/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-ai-layoffs.html</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Less work should mean more life available to live. That requires an actual arrangement connecting the saved labor to the people released from it.</description>
+    </item>
+
     <item>
       <title>Tales of Distortion: The Dam Is Fine</title>
       <link>https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-openais-grader-tried-to-destroy-its-computer.html</guid>
       <pubDate>Tue, 20 Oct 2026 10:59:00 GMT</pubDate>
       <description>OpenAI cannot establish exactly how much of the filesystem was removed in this rampage.</description>
-    </item>
-
-    <item>
-      <title>ASTRAL QUEST ETHICS: Artificer's Extra</title>
-      <link>https://modalpathethics.com/astral-quest-ethics-artificers-extra/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/astral-quest-ethics-artificers-extra.html</guid>
-      <pubDate>Mon, 19 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The Independent Journal of the City of Towers </description>
-    </item>
-
-    <item>
-      <title>Applied Case: When The Fifth Fish Flies</title>
-      <link>https://modalpathethics.com/applied-case-the-fifth-fish-flies/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-fifth-fish-flies.html</guid>
-      <pubDate>Mon, 19 Oct 2026 10:59:00 GMT</pubDate>
-      <description>The common pool has acquired a participant who never signed the rules.</description>
     </item>
   </channel>
 </rss>

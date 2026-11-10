@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-10T07:40:56.624Z
+Mirror generated: 2026-11-10T19:58:01.794Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 446
+Published article count: 448
 
+- 2026-11-10 — [Applied Case: He's Dying.](/articles/applied-case-hes-dying.md) ([HTML](/articles/applied-case-hes-dying.html)) · [canonical](https://modalpathethics.com/applied-case-hes-dying/)
+- 2026-11-10 — [Applied Case: The AI Layoffs](/articles/applied-case-the-ai-layoffs.md) ([HTML](/articles/applied-case-the-ai-layoffs.html)) · [canonical](https://modalpathethics.com/applied-case-the-ai-layoffs/)
 - 2026-11-09 — [Tales of Distortion: The Dam Is Fine](/articles/tales-of-distortion-the-dam-is-fine.md) ([HTML](/articles/tales-of-distortion-the-dam-is-fine.html)) · [canonical](https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/)
 - 2026-11-09 — [Amartya Sen, Martha Nussbaum, and Modal Path Ethics](/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md) ([HTML](/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html)) · [canonical](https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/)
 - 2026-11-08 — [The Artists Are Still Here, You Fools](/articles/the-artists-are-still-here-you-complete-idiots.md) ([HTML](/articles/the-artists-are-still-here-you-complete-idiots.html)) · [canonical](https://modalpathethics.com/the-artists-are-still-here-you-complete-idiots/)
