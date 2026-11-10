@@ -1,12 +1,12 @@
 /*
-  X-Robots-Tag: noindex, noarchive
+  X-Robots-Tag: noindex
   X-Content-Type-Options: nosniff
   Referrer-Policy: no-referrer
   X-Frame-Options: DENY
   Permissions-Policy: camera=(), microphone=(), geolocation=()
 
 /articles/*.md
-  Content-Type: text/markdown; charset=utf-8
+  Content-Type: text/plain; charset=utf-8
   Cache-Control: no-cache
 
 /articles/*.json
