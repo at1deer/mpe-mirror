@@ -56,5 +56,9 @@ jobs:
             echo "No mirror changes."
           else
             git commit -m "Sync Ghost mirror"
-            git push
+            # A source/configuration push can land while Ghost sync is running.
+            # Replay the generated update on the newest main before pushing.
+            git fetch origin main
+            git rebase origin/main
+            git push origin HEAD:main
           fi
