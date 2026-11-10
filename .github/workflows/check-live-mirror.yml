@@ -1,0 +1,23 @@
+name: Check public mirror retrieval
+
+on:
+  workflow_dispatch:
+  # The Ghost sync runs at minute 37 every six hours. Check the served
+  # Cloudflare site after its deployment window, not during regeneration.
+  schedule:
+    - cron: "17 1,7,13,19 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Verify live corpus and machine-readable headers
+        run: node scripts/check-live-mirror.mjs
