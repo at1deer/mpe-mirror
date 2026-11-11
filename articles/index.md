@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-11T07:00:04.505Z
+Mirror generated: 2026-11-11T19:49:41.233Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 448
+Published article count: 450
 
+- 2026-11-11 — [Applied Case: AngelEye](/articles/applied-case-angeleye.md) ([HTML](/articles/applied-case-angeleye.html)) · [canonical](https://modalpathethics.com/applied-case-angeleye/)
+- 2026-11-11 — [Unethical Agents: The Teacher Says I Get Full Credit.](/articles/applied-case-the-teacher-says-i-get-full-credit.md) ([HTML](/articles/applied-case-the-teacher-says-i-get-full-credit.html)) · [canonical](https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/)
 - 2026-11-10 — [Applied Case: He's Dying.](/articles/applied-case-hes-dying.md) ([HTML](/articles/applied-case-hes-dying.html)) · [canonical](https://modalpathethics.com/applied-case-hes-dying/)
 - 2026-11-10 — [Applied Case: The AI Layoffs](/articles/applied-case-the-ai-layoffs.md) ([HTML](/articles/applied-case-the-ai-layoffs.html)) · [canonical](https://modalpathethics.com/applied-case-the-ai-layoffs/)
 - 2026-11-09 — [Tales of Distortion: The Dam Is Fine](/articles/tales-of-distortion-the-dam-is-fine.md) ([HTML](/articles/tales-of-distortion-the-dam-is-fine.html)) · [canonical](https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/)

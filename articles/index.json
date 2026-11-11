@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-11T07:00:04.505Z",
+  "generated_at": "2026-11-11T19:49:41.233Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 448,
+  "article_count": 450,
   "articles": [
+    {
+      "title": "Applied Case: AngelEye",
+      "slug": "applied-case-angeleye",
+      "published_at": "2026-11-11T06:00:00.000-06:00",
+      "updated_at": "2026-11-11T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-angeleye/",
+      "excerpt": "Who gets to question the guardian?",
+      "tags": [
+        "Aquatic Curriculum",
+        "Instrument Jurisdiction",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-angeleye.md",
+      "mirror_html_path": "/articles/applied-case-angeleye.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.html",
+      "sha256_plaintext": "34fa3cf14c268a237064e36b18e58b85f6274d373612e53456c200f7be0263e9"
+    },
+    {
+      "title": "Unethical Agents: The Teacher Says I Get Full Credit.",
+      "slug": "applied-case-the-teacher-says-i-get-full-credit",
+      "published_at": "2026-11-11T06:00:00.000-06:00",
+      "updated_at": "2026-11-11T12:19:34.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/",
+      "excerpt": "This would flunk many.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "sha256_plaintext": "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
+    },
     {
       "title": "Applied Case: He's Dying.",
       "slug": "applied-case-hes-dying",
