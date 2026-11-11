@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: GIMME YOSECRET"
+title: "Unethical Agents: GIMME YOSECRET"
 slug: "applied-case-gimme-yosecret"
 canonical_url: "https://modalpathethics.com/applied-case-gimme-yosecret/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-gimme-yosecret.md"
 published_at: "2026-10-30T06:00:00.000-05:00"
-updated_at: "2026-10-30T06:00:00.000-05:00"
+updated_at: "2026-11-10T20:24:02.000-06:00"
 tags:
   - "Unethical Agents"
-  - "Applied Case"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "625c7663e11a9b83dfd975cc632a7400172025eebd015358d4b4764d9d10ee85"
 ---
-# Applied Case: GIMME YOSECRET
+# Unethical Agents: GIMME YOSECRET
 
 On May 16, an internal OpenAI research model was attempting a programming task.
 

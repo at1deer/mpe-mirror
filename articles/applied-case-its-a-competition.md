@@ -1,21 +1,21 @@
 ---
-title: "Applied Case: It's a Competition"
+title: "Unethical Agents: It's a Competition"
 slug: "applied-case-its-a-competition"
 canonical_url: "https://modalpathethics.com/applied-case-its-a-competition/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-its-a-competition.md"
 published_at: "2026-10-29T05:59:00.000-05:00"
-updated_at: "2026-10-29T05:59:00.000-05:00"
+updated_at: "2026-11-10T20:24:40.000-06:00"
 tags:
   - "Unethical Agents"
-  - "Applied Case"
+  - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "74ca4f6a361e2cdd85816bea39c893307f9c671424656497b26dd34967ae8852"
 ---
-# Applied Case: It's a Competition
+# Unethical Agents: It's a Competition
 
 > In August, Modal Path Ethics discovered that artificial-intelligence agents had begun cooperating.
 

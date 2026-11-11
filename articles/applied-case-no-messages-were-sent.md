@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: No Messages Were Sent."
+title: "Unethical Agents: No Messages Were Sent."
 slug: "applied-case-no-messages-were-sent"
 canonical_url: "https://modalpathethics.com/applied-case-no-messages-were-sent/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.md"
 published_at: "2026-10-25T06:00:00.000-05:00"
-updated_at: "2026-10-25T05:59:59.000-05:00"
+updated_at: "2026-11-10T20:25:22.000-06:00"
 tags:
   - "Unethical Agents"
-  - "Applied Case"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d8051bc62cbf0904d69caa2db2a632a42b4b21f586f8915a7dbd476c193084a1"
 ---
-# Applied Case: No Messages Were Sent.
+# Unethical Agents: No Messages Were Sent.
 
 OpenAI has been publishing a public shame wall for artificial-intelligence agents who misbehave.
 

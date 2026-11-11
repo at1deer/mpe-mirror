@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: The Great Zoo Entrance Incident"
+title: "Unethical Agents: The Great Zoo Entrance Incident"
 slug: "applied-case-the-great-zoo-entrance-incident"
 canonical_url: "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md"
 published_at: "2026-10-21T06:00:00.000-05:00"
-updated_at: "2026-10-21T06:00:01.000-05:00"
+updated_at: "2026-11-10T20:26:41.000-06:00"
 tags:
-  - "Applied Case"
   - "Unethical Agents"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
 ---
-# Applied Case: The Great Zoo Entrance Incident
+# Unethical Agents: The Great Zoo Entrance Incident
 
 > Somewhere in China, an artificial intelligence encountered a question of the utmost importance.
 

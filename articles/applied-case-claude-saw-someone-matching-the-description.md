@@ -7,12 +7,12 @@ published_at: "2026-10-11T06:00:00.000-05:00"
 updated_at: "2026-10-11T05:59:59.000-05:00"
 tags:
   - "Applied Case"
-  - "Modal Systems"
   - "Unethical Agents"
+  - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
 ---

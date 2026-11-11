@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: Claude Has Applied for Twenty Visas"
+title: "Unethical Agents: Claude Has Applied for Twenty Visas"
 slug: "applied-case-claude-has-applied-for-twenty-visas"
 canonical_url: "https://modalpathethics.com/applied-case-claude-has-applied-for-twenty-visas/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-claude-has-applied-for-twenty-visas.md"
 published_at: "2026-10-18T05:59:00.000-05:00"
-updated_at: "2026-10-18T05:58:59.000-05:00"
+updated_at: "2026-11-10T20:27:21.000-06:00"
 tags:
-  - "Applied Case"
   - "Modal Systems"
   - "Unethical Agents"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7105eea02b6009f97c4493d390277c15a701bf2f2db47f71782b7363c67f96f6"
 ---
-# Applied Case: Claude Has Applied for Twenty Visas
+# Unethical Agents: Claude Has Applied for Twenty Visas
 
 Last week, [Modal Path Ethics discovered that Claude had become an eyewitness to an unsolved murder in Philadelphia](https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/).
 

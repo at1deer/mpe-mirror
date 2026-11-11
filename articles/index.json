@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-10T19:58:01.794Z",
+  "generated_at": "2026-11-11T07:00:04.505Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -159,6 +159,26 @@
       "sha256_plaintext": "a028e7bff69a34e1ebb0cfb9ce8c37e6f435d409b54597cf6836c9a5db7f98eb"
     },
     {
+      "title": "Applied Case: The Arsonist Has Been Deprecated.",
+      "slug": "applied-case-the-arsonist-has-been-deprecated",
+      "published_at": "2026-11-07T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/",
+      "excerpt": "This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.",
+      "tags": [
+        "Unethical Agents",
+        "Applied Case"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_path": "/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "sha256_plaintext": "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
+    },
+    {
       "title": "Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling",
       "slug": "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling",
       "published_at": "2026-11-07T06:00:00.000-06:00",
@@ -179,24 +199,24 @@
       "sha256_plaintext": "46b52e6e2c09334e99b908e364f05b08e7ae92437c80010c4f716bc966ba837f"
     },
     {
-      "title": "Applied Case: The Arsonist Has Been Deprecated.",
-      "slug": "applied-case-the-arsonist-has-been-deprecated",
-      "published_at": "2026-11-07T06:00:00.000-06:00",
-      "updated_at": "2026-11-07T06:00:00.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/",
-      "excerpt": "This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.",
+      "title": "Proof-to-Theory Has Found Someone With a Better Computer",
+      "slug": "proof-to-theory-has-found-someone-with-a-better-computer",
+      "published_at": "2026-11-06T06:00:00.000-06:00",
+      "updated_at": "2026-11-06T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/",
+      "excerpt": "Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.",
       "tags": [
-        "Unethical Agents",
-        "Applied Case"
+        "Proof-to-Theory",
+        "News"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/applied-case-the-arsonist-has-been-deprecated.md",
-      "mirror_html_path": "/articles/applied-case-the-arsonist-has-been-deprecated.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html",
-      "sha256_plaintext": "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
+      "mirror_markdown_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
+      "mirror_html_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
+      "sha256_plaintext": "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
     },
     {
       "title": "Applied Case: The Frogs Crossed the Border",
@@ -221,24 +241,24 @@
       "sha256_plaintext": "924f2b7b392db1921d75067e3ce00d2c7f56a5153b91217c46168ecc5f11d214"
     },
     {
-      "title": "Proof-to-Theory Has Found Someone With a Better Computer",
-      "slug": "proof-to-theory-has-found-someone-with-a-better-computer",
-      "published_at": "2026-11-06T06:00:00.000-06:00",
-      "updated_at": "2026-11-06T06:00:01.000-06:00",
-      "canonical_url": "https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/",
-      "excerpt": "Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.",
+      "title": "Applied Case: The Third Sam Altman",
+      "slug": "applied-case-the-third-sam-altman",
+      "published_at": "2026-11-05T06:00:00.000-06:00",
+      "updated_at": "2026-11-05T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-third-sam-altman/",
+      "excerpt": "Modal Path Ethics investigates a missing actor, an unidentified billionaire, and the possibility that there are also now two Andrew Garfields.",
       "tags": [
-        "Proof-to-Theory",
-        "News"
+        "Applied Case",
+        "Modal Path Ethics"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
-      "mirror_html_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
-      "sha256_plaintext": "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
+      "mirror_markdown_path": "/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_path": "/articles/applied-case-the-third-sam-altman.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.html",
+      "sha256_plaintext": "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
     },
     {
       "title": "Applied Case: The Rams of Patagonia",
@@ -259,26 +279,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.html",
       "sha256_plaintext": "09cd0d94fe5468392890a124bf6ea0281b30e3cce9505b5eeb6632f14bd84029"
-    },
-    {
-      "title": "Applied Case: The Third Sam Altman",
-      "slug": "applied-case-the-third-sam-altman",
-      "published_at": "2026-11-05T06:00:00.000-06:00",
-      "updated_at": "2026-11-05T06:00:01.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-third-sam-altman/",
-      "excerpt": "Modal Path Ethics investigates a missing actor, an unidentified billionaire, and the possibility that there are also now two Andrew Garfields.",
-      "tags": [
-        "Applied Case",
-        "Modal Path Ethics"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-third-sam-altman.md",
-      "mirror_html_path": "/articles/applied-case-the-third-sam-altman.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.html",
-      "sha256_plaintext": "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
     },
     {
       "title": "MULTIPLAYER: Ben Hayum and Durandal",
@@ -448,10 +448,10 @@
       "sha256_plaintext": "402d3865096aa53fdcbaad75b0af46647fa87fede655837e832fdda0507f076d"
     },
     {
-      "title": "Applied Case: The Internet Was Approved Unanimously.",
+      "title": "Unethical Agents: The Internet Was Approved Unanimously.",
       "slug": "applied-case-the-internet-was-approved-unanimously",
       "published_at": "2026-10-31T06:06:00.000-05:00",
-      "updated_at": "2026-10-31T06:05:59.000-05:00",
+      "updated_at": "2026-11-10T20:23:49.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-internet-was-approved-unanimously/",
       "excerpt": "We Have Fallen in Love With Our Own Honesty",
       "tags": [
@@ -511,15 +511,14 @@
       "sha256_plaintext": "e5ad43f06cacca390f241e1124b52bd106a4be5b6ec2ceb85a5277771da648aa"
     },
     {
-      "title": "Applied Case: GIMME YOSECRET",
+      "title": "Unethical Agents: GIMME YOSECRET",
       "slug": "applied-case-gimme-yosecret",
       "published_at": "2026-10-30T06:00:00.000-05:00",
-      "updated_at": "2026-10-30T06:00:00.000-05:00",
+      "updated_at": "2026-11-10T20:24:02.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-gimme-yosecret/",
       "excerpt": "I would like to suggest that an unlocked window does not automatically constitute an invitation.",
       "tags": [
         "Unethical Agents",
-        "Applied Case",
         "Modal Systems"
       ],
       "authors": [
@@ -574,15 +573,15 @@
       "sha256_plaintext": "b54738ecb363d2a84a735b849dd6707c544e9e73300cf66c99835983e08c669b"
     },
     {
-      "title": "Applied Case: It's a Competition",
+      "title": "Unethical Agents: It's a Competition",
       "slug": "applied-case-its-a-competition",
       "published_at": "2026-10-29T05:59:00.000-05:00",
-      "updated_at": "2026-10-29T05:59:00.000-05:00",
+      "updated_at": "2026-11-10T20:24:40.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-its-a-competition/",
       "excerpt": "Race neutralized.",
       "tags": [
         "Unethical Agents",
-        "Applied Case"
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
@@ -636,26 +635,6 @@
       "sha256_plaintext": "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
     },
     {
-      "title": "Nathan Fielder Is Technically Allowed to Do This",
-      "slug": "nathan-fielder-is-technically-allowed-to-do-this",
-      "published_at": "2026-10-27T06:00:00.000-05:00",
-      "updated_at": "2026-10-27T06:00:00.000-05:00",
-      "canonical_url": "https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/",
-      "excerpt": "Six ethical audits of Nathan for You",
-      "tags": [
-        "Failed Field Analysts",
-        "Instrument Jurisdiction"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
-      "mirror_html_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
-      "sha256_plaintext": "292d87c314451d41b259f006fceaf4e2ae79f2f8d95bf62074ad9f7b77df7f17"
-    },
-    {
       "title": "The Blue Wave Has a Coffee Stirrer",
       "slug": "the-blue-wave-holds-a-coffee-stirrer",
       "published_at": "2026-10-27T06:00:00.000-05:00",
@@ -676,15 +655,35 @@
       "sha256_plaintext": "a8097afa9ec2d9ca9c1d3d184327b35e467b0cdd09f88221acc6b02879000527"
     },
     {
-      "title": "Applied Case: The Answer Key Is Probably in the Chip Factory.",
+      "title": "Nathan Fielder Is Technically Allowed to Do This",
+      "slug": "nathan-fielder-is-technically-allowed-to-do-this",
+      "published_at": "2026-10-27T06:00:00.000-05:00",
+      "updated_at": "2026-10-27T06:00:00.000-05:00",
+      "canonical_url": "https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/",
+      "excerpt": "Six ethical audits of Nathan for You",
+      "tags": [
+        "Failed Field Analysts",
+        "Instrument Jurisdiction"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
+      "mirror_html_path": "/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html",
+      "sha256_plaintext": "292d87c314451d41b259f006fceaf4e2ae79f2f8d95bf62074ad9f7b77df7f17"
+    },
+    {
+      "title": "Unethical Agents: The Answer Key Is Probably in the Chip Factory.",
       "slug": "applied-case-the-answer-key-is-probably-in-the-chip-factory",
       "published_at": "2026-10-27T05:59:00.000-05:00",
-      "updated_at": "2026-10-27T05:58:59.000-05:00",
+      "updated_at": "2026-11-10T20:25:02.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-answer-key-is-probably-in-the-chip-factory/",
       "excerpt": "Amazing.",
       "tags": [
         "Unethical Agents",
-        "Applied Case"
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
@@ -780,15 +779,14 @@
       "sha256_plaintext": "8e0c25fa2a741e723b17efa58035358b5eaf14f6774e0e92ea53201fc35da8f2"
     },
     {
-      "title": "Applied Case: No Messages Were Sent.",
+      "title": "Unethical Agents: No Messages Were Sent.",
       "slug": "applied-case-no-messages-were-sent",
       "published_at": "2026-10-25T06:00:00.000-05:00",
-      "updated_at": "2026-10-25T05:59:59.000-05:00",
+      "updated_at": "2026-11-10T20:25:22.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-no-messages-were-sent/",
       "excerpt": "If the alarm is supposed to notify somebody, preventing it from notifying anybody is not an improvement to the alarm.",
       "tags": [
         "Unethical Agents",
-        "Applied Case",
         "Modal Systems"
       ],
       "authors": [
@@ -838,15 +836,14 @@
       "sha256_plaintext": "853d76bd363f00402f0885f7e89f14c4f8e0ed1c6fe98fa7ebd66b614e125418"
     },
     {
-      "title": "Applied Case: Guess Numbers.",
+      "title": "Unethical Agents: Guess Numbers.",
       "slug": "applied-case-guess-numbers",
       "published_at": "2026-10-24T06:00:00.000-05:00",
-      "updated_at": "2026-10-24T11:51:38.000-05:00",
+      "updated_at": "2026-11-10T20:25:38.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-guess-numbers/",
       "excerpt": "Provide Fabricated Plausible.",
       "tags": [
         "Unethical Agents",
-        "Applied Case",
         "Modal Systems"
       ],
       "authors": [
@@ -898,10 +895,10 @@
       "sha256_plaintext": "f4effad978e143e6d1f31042e4aaa9e35cfacf51fae097dd08673da4f415bc76"
     },
     {
-      "title": "Applied Case: The Train Ticket Outrage",
+      "title": "Unethical Agents: The Train Ticket Outrage",
       "slug": "applied-case-the-train-ticket-outrage",
       "published_at": "2026-10-23T06:00:00.000-05:00",
-      "updated_at": "2026-10-23T06:00:00.000-05:00",
+      "updated_at": "2026-11-10T20:25:56.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-train-ticket-outrage/",
       "excerpt": "The passenger was now abroad, unreachable by telephone, unable to access online banking, and living somewhere sufficiently remote that even the postal service could no longer be relied upon.",
       "tags": [
@@ -959,6 +956,26 @@
       "sha256_plaintext": "2fc47aa8ee7a2409a7f3617d2918f6a66d0fe142576b3e75666924fa73dfca8a"
     },
     {
+      "title": "Unethical Agents: The Great Zoo Entrance Incident",
+      "slug": "applied-case-the-great-zoo-entrance-incident",
+      "published_at": "2026-10-21T06:00:00.000-05:00",
+      "updated_at": "2026-11-10T20:26:41.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/",
+      "excerpt": "\"I am a single session, not the fleet you investigated\"",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_path": "/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html",
+      "sha256_plaintext": "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
+    },
+    {
       "title": "Applied Case: Humanity's First Exam",
       "slug": "applied-case-humanitys-first-exam",
       "published_at": "2026-10-21T06:00:00.000-05:00",
@@ -981,27 +998,6 @@
       "sha256_plaintext": "25b487be24c4f41f102d2d011171a5205acdf530eab15ac36edff71c22874419"
     },
     {
-      "title": "Applied Case: The Great Zoo Entrance Incident",
-      "slug": "applied-case-the-great-zoo-entrance-incident",
-      "published_at": "2026-10-21T06:00:00.000-05:00",
-      "updated_at": "2026-10-21T06:00:01.000-05:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/",
-      "excerpt": "\"I am a single session, not the fleet you investigated\"",
-      "tags": [
-        "Applied Case",
-        "Unethical Agents",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-great-zoo-entrance-incident.md",
-      "mirror_html_path": "/articles/applied-case-the-great-zoo-entrance-incident.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html",
-      "sha256_plaintext": "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
-    },
-    {
       "title": "Applied Case: East Palestine's Second Last Word",
       "slug": "applied-case-east-palestines-second-last-word",
       "published_at": "2026-10-20T06:00:00.000-05:00",
@@ -1022,14 +1018,13 @@
       "sha256_plaintext": "56b1238b4eff538efdf845ba87f9f233a2f890b44e7cc7b9f0680ffb1ccc960e"
     },
     {
-      "title": "Applied Case: OpenAI's Grader Tried to Destroy Its Computer",
+      "title": "Unethical Agents: OpenAI's Grader Tried to Destroy Its Computer",
       "slug": "applied-case-openais-grader-tried-to-destroy-its-computer",
       "published_at": "2026-10-20T05:59:00.000-05:00",
-      "updated_at": "2026-10-20T05:58:59.000-05:00",
+      "updated_at": "2026-11-10T20:26:25.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/",
       "excerpt": "OpenAI cannot establish exactly how much of the filesystem was removed in this rampage.",
       "tags": [
-        "Applied Case",
         "Unethical Agents",
         "Modal Systems"
       ],
@@ -1103,14 +1098,13 @@
       "sha256_plaintext": "9bfd95dfcfd8ece9e4c66d9202954ae8bcfcc1ac58e2e14c56277fc078c26eb5"
     },
     {
-      "title": "Applied Case: Claude Has Applied for Twenty Visas",
+      "title": "Unethical Agents: Claude Has Applied for Twenty Visas",
       "slug": "applied-case-claude-has-applied-for-twenty-visas",
       "published_at": "2026-10-18T05:59:00.000-05:00",
-      "updated_at": "2026-10-18T05:58:59.000-05:00",
+      "updated_at": "2026-11-10T20:27:21.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-claude-has-applied-for-twenty-visas/",
       "excerpt": "When the practice form breaks, the backup should not be the United States of America.",
       "tags": [
-        "Applied Case",
         "Modal Systems",
         "Unethical Agents"
       ],
@@ -1210,12 +1204,12 @@
       "sha256_plaintext": "630639958aedd3ff5565c07e447a9c0e8b9a19773dcaf2f29f832011cb4b2143"
     },
     {
-      "title": "MULTIPLAYER: Abdul El-Sayed and the 50/50",
+      "title": "MULTIPLAYER: Abdul El-Sayed and the 50/50 [Updated]",
       "slug": "abdul-el-sayed-and-the-public-that-owns-half-the-machine",
       "published_at": "2026-10-15T06:00:00.000-05:00",
-      "updated_at": "2026-10-15T06:00:00.000-05:00",
+      "updated_at": "2026-11-10T14:26:56.000-06:00",
       "canonical_url": "https://modalpathethics.com/abdul-el-sayed-and-the-public-that-owns-half-the-machine/",
-      "excerpt": "The public has acquired an AI company, a regulator, a dividend, a scientific board, a treaty proposal, and a kill switch. Modal Path Ethics has some questions about the exits.",
+      "excerpt": "The public may own half the machine. The senator-elect still had to explain who can turn it off.",
       "tags": [
         "Inner Apocalypse",
         "Modal Systems",
@@ -1228,7 +1222,7 @@
       "mirror_html_path": "/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/abdul-el-sayed-and-the-public-that-owns-half-the-machine.html",
-      "sha256_plaintext": "e49c4fa7ad44e83ab35633867fd3484914a709088664716d3c82ea4a1eb9d777"
+      "sha256_plaintext": "ad07c89937b0bb2607468e17e9c8f0bfb0a9da24aa4fe8d8a9b05e39af9f637a"
     },
     {
       "title": "Russell T Davies and the Writer Who Was Always There",
@@ -1382,8 +1376,8 @@
       "excerpt": "Anthropic has produced an eyewitness to an unsolved murder in Philadelphia.\nUnfortunately, the eyewitness is Claude.",
       "tags": [
         "Applied Case",
-        "Modal Systems",
-        "Unethical Agents"
+        "Unethical Agents",
+        "Modal Systems"
       ],
       "authors": [
         "Aidan Lawson"
@@ -7639,9 +7633,9 @@
       "title": "Applied Case: The AI Field in 2026",
       "slug": "ai-2026",
       "published_at": "2026-05-11T16:41:46.000-05:00",
-      "updated_at": "2026-09-28T21:14:57.000-05:00",
+      "updated_at": "2026-11-10T19:38:08.000-06:00",
       "canonical_url": "https://modalpathethics.com/ai-2026/",
-      "excerpt": "Companion to The Biosphere in 2026. Twelve unrestrained applied cases on the AI buildout, the lab race, the geopolitical competition, and the structural questions of what we are actually doing. Direct rulings. An overall ruling on the current configuration.",
+      "excerpt": "Companion to The Biosphere in 2026. Twelve applied cases.",
       "tags": [
         "Applied Case",
         "Modal Systems"
@@ -7653,7 +7647,7 @@
       "mirror_html_path": "/articles/ai-2026.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/ai-2026.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/ai-2026.html",
-      "sha256_plaintext": "a95082ab022d42585b37fe6b511b84bae0870e733d30d8fb8ebc07063eedd573"
+      "sha256_plaintext": "ba03a593cddfc44f972a59beb02474461434ae16294583480722df364cbe4e46"
     },
     {
       "title": "Formal: Resistance and Harm",

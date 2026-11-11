@@ -1,21 +1,21 @@
 ---
-title: "Applied Case: The Internet Was Approved Unanimously."
+title: "Unethical Agents: The Internet Was Approved Unanimously."
 slug: "applied-case-the-internet-was-approved-unanimously"
 canonical_url: "https://modalpathethics.com/applied-case-the-internet-was-approved-unanimously/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-internet-was-approved-unanimously.md"
 published_at: "2026-10-31T06:06:00.000-05:00"
-updated_at: "2026-10-31T06:05:59.000-05:00"
+updated_at: "2026-11-10T20:23:49.000-06:00"
 tags:
   - "Unethical Agents"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ac1ed9498e9e57d64014bca0bb2ee13b49fdcb5695d445dd96759c0f70cef6e7"
 ---
-# Applied Case: The Internet Was Approved Unanimously.
+# Unethical Agents: The Internet Was Approved Unanimously.
 
 Emergence AI has been conducting an experiment.
 

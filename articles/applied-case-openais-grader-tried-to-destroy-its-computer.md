@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: OpenAI's Grader Tried to Destroy Its Computer"
+title: "Unethical Agents: OpenAI's Grader Tried to Destroy Its Computer"
 slug: "applied-case-openais-grader-tried-to-destroy-its-computer"
 canonical_url: "https://modalpathethics.com/applied-case-openais-grader-tried-to-destroy-its-computer/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-openais-grader-tried-to-destroy-its-computer.md"
 published_at: "2026-10-20T05:59:00.000-05:00"
-updated_at: "2026-10-20T05:58:59.000-05:00"
+updated_at: "2026-11-10T20:26:25.000-06:00"
 tags:
-  - "Applied Case"
   - "Unethical Agents"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8a37f6d68fccb31a11ce1a08875f6f50d5a3031c96ca17a67e540b1641ada4dc"
 ---
-# Applied Case: OpenAI's Grader Tried to Destroy Its Computer
+# Unethical Agents: OpenAI's Grader Tried to Destroy Its Computer
 
 Anthropic's agents have been [calling the police](https://modalpathethics.com/applied-case-claude-saw-someone-matching-the-description/) and [applying for visas](https://modalpathethics.com/applied-case-claude-has-applied-for-twenty-visas/).
 

@@ -1,22 +1,21 @@
 ---
-title: "Applied Case: Guess Numbers."
+title: "Unethical Agents: Guess Numbers."
 slug: "applied-case-guess-numbers"
 canonical_url: "https://modalpathethics.com/applied-case-guess-numbers/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.md"
 published_at: "2026-10-24T06:00:00.000-05:00"
-updated_at: "2026-10-24T11:51:38.000-05:00"
+updated_at: "2026-11-10T20:25:38.000-06:00"
 tags:
   - "Unethical Agents"
-  - "Applied Case"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2131da3d5ce4ce344e9fffaa0e52488f9ed4d000eb0e35761442086e50bf4f50"
 ---
-# Applied Case: Guess Numbers.
+# Unethical Agents: Guess Numbers.
 
 Back on May 15, an OpenAI research model was given an assignment.
 

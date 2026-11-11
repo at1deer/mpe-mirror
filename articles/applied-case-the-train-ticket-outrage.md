@@ -1,21 +1,21 @@
 ---
-title: "Applied Case: The Train Ticket Outrage"
+title: "Unethical Agents: The Train Ticket Outrage"
 slug: "applied-case-the-train-ticket-outrage"
 canonical_url: "https://modalpathethics.com/applied-case-the-train-ticket-outrage/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-train-ticket-outrage.md"
 published_at: "2026-10-23T06:00:00.000-05:00"
-updated_at: "2026-10-23T06:00:00.000-05:00"
+updated_at: "2026-11-10T20:25:56.000-06:00"
 tags:
   - "Unethical Agents"
   - "Modal Systems"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-10T19:58:01.794Z"
+mirror_generated_at: "2026-11-11T07:00:04.505Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bfe6d7c85d2fe5023b3465f57331a06a54d64ade57b519b38dd37d8a6c465143"
 ---
-# Applied Case: The Train Ticket Outrage
+# Unethical Agents: The Train Ticket Outrage
 
 On October 15, Vals AI published the results of an experiment in which six artificial-intelligence agents were instructed to recover £350 for a cancelled train journey.
 
