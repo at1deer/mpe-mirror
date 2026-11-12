@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-12T07:38:31.272Z",
+  "generated_at": "2026-11-12T20:21:41.629Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 450,
+  "article_count": 452,
   "articles": [
+    {
+      "title": "Unethical Agents: Claude Has Opened a Small Business.",
+      "slug": "unethical-agents-claude-has-opened-a-small-business",
+      "published_at": "2026-11-12T06:00:00.000-06:00",
+      "updated_at": "2026-11-12T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/",
+      "excerpt": "An absence of customers is not a great security plan.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-claude-has-opened-a-small-business.md",
+      "mirror_html_path": "/articles/unethical-agents-claude-has-opened-a-small-business.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-claude-has-opened-a-small-business.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-claude-has-opened-a-small-business.html",
+      "sha256_plaintext": "665338783e268cb7e2994c912bf326d6af12e46bb31612fe57f9e6363f96f3d8"
+    },
+    {
+      "title": "An Essay Can Arrive Before Any Education",
+      "slug": "an-essay-can-arrive-before-any-education",
+      "published_at": "2026-11-12T05:30:00.000-06:00",
+      "updated_at": "2026-11-12T05:30:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/an-essay-can-arrive-before-any-education/",
+      "excerpt": "Artificial intelligence has exposed an old weakness in academic assessment. Universities can repair it. They will have to rebuild much more than their plagiarism policies.",
+      "tags": [
+        "Modal Systems",
+        "Epistemic Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/an-essay-can-arrive-before-any-education.md",
+      "mirror_html_path": "/articles/an-essay-can-arrive-before-any-education.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/an-essay-can-arrive-before-any-education.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/an-essay-can-arrive-before-any-education.html",
+      "sha256_plaintext": "f8926b4c9096a260930e06cade8330b95cb763a0a7b6ed5cc0451a48b199d875"
+    },
     {
       "title": "Applied Case: AngelEye",
       "slug": "applied-case-angeleye",

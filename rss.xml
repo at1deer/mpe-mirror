@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 07:38:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:21:41 GMT</lastBuildDate>
     
+    <item>
+      <title>Unethical Agents: Claude Has Opened a Small Business.</title>
+      <link>https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-claude-has-opened-a-small-business.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 GMT</pubDate>
+      <description>An absence of customers is not a great security plan.</description>
+    </item>
+
+    <item>
+      <title>An Essay Can Arrive Before Any Education</title>
+      <link>https://modalpathethics.com/an-essay-can-arrive-before-any-education/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/an-essay-can-arrive-before-any-education.html</guid>
+      <pubDate>Thu, 12 Nov 2026 11:30:00 GMT</pubDate>
+      <description>Artificial intelligence has exposed an old weakness in academic assessment. Universities can repair it. They will have to rebuild much more than their plagiarism policies.</description>
+    </item>
+
     <item>
       <title>Applied Case: AngelEye</title>
       <link>https://modalpathethics.com/applied-case-angeleye/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.html</guid>
       <pubDate>Thu, 22 Oct 2026 10:59:00 GMT</pubDate>
       <description>The Girl and the Photo.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: The Great Zoo Entrance Incident</title>
-      <link>https://modalpathethics.com/applied-case-the-great-zoo-entrance-incident/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-great-zoo-entrance-incident.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <description>&quot;I am a single session, not the fleet you investigated&quot;</description>
-    </item>
-
-    <item>
-      <title>Applied Case: Humanity's First Exam</title>
-      <link>https://modalpathethics.com/applied-case-humanitys-first-exam/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-humanitys-first-exam.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Reasoning capability can advance without corresponding improvement in ethical judgment.</description>
     </item>
   </channel>
 </rss>

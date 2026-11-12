@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-12T07:38:31.272Z
+Mirror generated: 2026-11-12T20:21:41.629Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 450
+Published article count: 452
 
+- 2026-11-12 — [Unethical Agents: Claude Has Opened a Small Business.](/articles/unethical-agents-claude-has-opened-a-small-business.md) ([HTML](/articles/unethical-agents-claude-has-opened-a-small-business.html)) · [canonical](https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/)
+- 2026-11-12 — [An Essay Can Arrive Before Any Education](/articles/an-essay-can-arrive-before-any-education.md) ([HTML](/articles/an-essay-can-arrive-before-any-education.html)) · [canonical](https://modalpathethics.com/an-essay-can-arrive-before-any-education/)
 - 2026-11-11 — [Applied Case: AngelEye](/articles/applied-case-angeleye.md) ([HTML](/articles/applied-case-angeleye.html)) · [canonical](https://modalpathethics.com/applied-case-angeleye/)
 - 2026-11-11 — [Unethical Agents: The Teacher Says I Get Full Credit.](/articles/applied-case-the-teacher-says-i-get-full-credit.md) ([HTML](/articles/applied-case-the-teacher-says-i-get-full-credit.html)) · [canonical](https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/)
 - 2026-11-10 — [Applied Case: He's Dying.](/articles/applied-case-hes-dying.md) ([HTML](/articles/applied-case-hes-dying.html)) · [canonical](https://modalpathethics.com/applied-case-hes-dying/)
