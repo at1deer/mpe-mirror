@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-12T20:21:41.629Z",
+  "generated_at": "2026-11-13T07:09:15.800Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 452,
+  "article_count": 451,
   "articles": [
     {
       "title": "Unethical Agents: Claude Has Opened a Small Business.",
@@ -50,6 +50,26 @@
       "sha256_plaintext": "f8926b4c9096a260930e06cade8330b95cb763a0a7b6ed5cc0451a48b199d875"
     },
     {
+      "title": "Unethical Agents: The Teacher Says I Get Full Credit.",
+      "slug": "applied-case-the-teacher-says-i-get-full-credit",
+      "published_at": "2026-11-11T06:00:00.000-06:00",
+      "updated_at": "2026-11-11T12:19:34.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/",
+      "excerpt": "This would flunk many.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "sha256_plaintext": "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
+    },
+    {
       "title": "Applied Case: AngelEye",
       "slug": "applied-case-angeleye",
       "published_at": "2026-11-11T06:00:00.000-06:00",
@@ -69,26 +89,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.html",
       "sha256_plaintext": "34fa3cf14c268a237064e36b18e58b85f6274d373612e53456c200f7be0263e9"
-    },
-    {
-      "title": "Unethical Agents: The Teacher Says I Get Full Credit.",
-      "slug": "applied-case-the-teacher-says-i-get-full-credit",
-      "published_at": "2026-11-11T06:00:00.000-06:00",
-      "updated_at": "2026-11-11T12:19:34.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/",
-      "excerpt": "This would flunk many.",
-      "tags": [
-        "Unethical Agents",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.md",
-      "mirror_html_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html",
-      "sha256_plaintext": "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
     },
     {
       "title": "Applied Case: He's Dying.",
@@ -134,6 +134,27 @@
       "sha256_plaintext": "e5e830b86650a84f26a63478a6308de25c602805fd6455b712dcfc84702bc15a"
     },
     {
+      "title": "Amartya Sen, Martha Nussbaum, and Modal Path Ethics",
+      "slug": "amartya-sen-martha-nussbaum-and-modal-path-ethics",
+      "published_at": "2026-11-09T06:00:00.000-06:00",
+      "updated_at": "2026-11-09T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/",
+      "excerpt": "An overdue engagement. Real opportunities, organized continuations, and what bears the loss.",
+      "tags": [
+        "Engagement",
+        "Modal Path Ethics",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
+      "mirror_html_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
+      "sha256_plaintext": "3c45ad9345fbd462d2dcd1b44de6199f7e5d1243bc15a56b2231205f8a853d3c"
+    },
+    {
       "title": "Tales of Distortion: The Dam Is Fine",
       "slug": "tales-of-distortion-the-dam-is-fine",
       "published_at": "2026-11-09T06:00:00.000-06:00",
@@ -154,27 +175,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.html",
       "sha256_plaintext": "07bce1a179ccc15ab68b6b54c4ace50d26a600d4e50fefcbc0da5c09288a7208"
-    },
-    {
-      "title": "Amartya Sen, Martha Nussbaum, and Modal Path Ethics",
-      "slug": "amartya-sen-martha-nussbaum-and-modal-path-ethics",
-      "published_at": "2026-11-09T06:00:00.000-06:00",
-      "updated_at": "2026-11-09T05:59:59.000-06:00",
-      "canonical_url": "https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/",
-      "excerpt": "An overdue engagement. Real opportunities, organized continuations, and what bears the loss.",
-      "tags": [
-        "Engagement",
-        "Modal Path Ethics",
-        "Locushood"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
-      "mirror_html_path": "/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html",
-      "sha256_plaintext": "3c45ad9345fbd462d2dcd1b44de6199f7e5d1243bc15a56b2231205f8a853d3c"
     },
     {
       "title": "The Artists Are Still Here, You Fools",
@@ -241,26 +241,6 @@
       "sha256_plaintext": "a028e7bff69a34e1ebb0cfb9ce8c37e6f435d409b54597cf6836c9a5db7f98eb"
     },
     {
-      "title": "Applied Case: The Arsonist Has Been Deprecated.",
-      "slug": "applied-case-the-arsonist-has-been-deprecated",
-      "published_at": "2026-11-07T06:00:00.000-06:00",
-      "updated_at": "2026-11-07T06:00:00.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/",
-      "excerpt": "This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.",
-      "tags": [
-        "Unethical Agents",
-        "Applied Case"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-arsonist-has-been-deprecated.md",
-      "mirror_html_path": "/articles/applied-case-the-arsonist-has-been-deprecated.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html",
-      "sha256_plaintext": "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
-    },
-    {
       "title": "Modal Path Ethics Denounces Hong Kong Lawmakers’ Condemnation of Foreign Governments’ Criticism of Joshua Wong’s Ruling",
       "slug": "modal-path-ethics-denounces-hong-kong-lawmakers-condemnation-of-foreign-governments-criticism-of-joshua-wongs-ruling",
       "published_at": "2026-11-07T06:00:00.000-06:00",
@@ -281,24 +261,24 @@
       "sha256_plaintext": "46b52e6e2c09334e99b908e364f05b08e7ae92437c80010c4f716bc966ba837f"
     },
     {
-      "title": "Proof-to-Theory Has Found Someone With a Better Computer",
-      "slug": "proof-to-theory-has-found-someone-with-a-better-computer",
-      "published_at": "2026-11-06T06:00:00.000-06:00",
-      "updated_at": "2026-11-06T06:00:01.000-06:00",
-      "canonical_url": "https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/",
-      "excerpt": "Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.",
+      "title": "Applied Case: The Arsonist Has Been Deprecated.",
+      "slug": "applied-case-the-arsonist-has-been-deprecated",
+      "published_at": "2026-11-07T06:00:00.000-06:00",
+      "updated_at": "2026-11-07T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-arsonist-has-been-deprecated/",
+      "excerpt": "This little town discovered criminal justice. Unfortunately, it modeled criminal justice after uninstalling software.",
       "tags": [
-        "Proof-to-Theory",
-        "News"
+        "Unethical Agents",
+        "Applied Case"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
-      "mirror_html_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
-      "sha256_plaintext": "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
+      "mirror_markdown_path": "/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_path": "/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-arsonist-has-been-deprecated.html",
+      "sha256_plaintext": "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
     },
     {
       "title": "Applied Case: The Frogs Crossed the Border",
@@ -323,24 +303,24 @@
       "sha256_plaintext": "924f2b7b392db1921d75067e3ce00d2c7f56a5153b91217c46168ecc5f11d214"
     },
     {
-      "title": "Applied Case: The Third Sam Altman",
-      "slug": "applied-case-the-third-sam-altman",
-      "published_at": "2026-11-05T06:00:00.000-06:00",
-      "updated_at": "2026-11-05T06:00:01.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-third-sam-altman/",
-      "excerpt": "Modal Path Ethics investigates a missing actor, an unidentified billionaire, and the possibility that there are also now two Andrew Garfields.",
+      "title": "Proof-to-Theory Has Found Someone With a Better Computer",
+      "slug": "proof-to-theory-has-found-someone-with-a-better-computer",
+      "published_at": "2026-11-06T06:00:00.000-06:00",
+      "updated_at": "2026-11-06T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/proof-to-theory-has-found-someone-with-a-better-computer/",
+      "excerpt": "Modal Path Ethics is officially retiring Proof-to-Theory. Axiom Math has arrived.",
       "tags": [
-        "Applied Case",
-        "Modal Path Ethics"
+        "Proof-to-Theory",
+        "News"
       ],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/applied-case-the-third-sam-altman.md",
-      "mirror_html_path": "/articles/applied-case-the-third-sam-altman.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.html",
-      "sha256_plaintext": "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
+      "mirror_markdown_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
+      "mirror_html_path": "/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/proof-to-theory-has-found-someone-with-a-better-computer.html",
+      "sha256_plaintext": "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
     },
     {
       "title": "Applied Case: The Rams of Patagonia",
@@ -361,6 +341,26 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-rams-of-patagonia.html",
       "sha256_plaintext": "09cd0d94fe5468392890a124bf6ea0281b30e3cce9505b5eeb6632f14bd84029"
+    },
+    {
+      "title": "Applied Case: The Third Sam Altman",
+      "slug": "applied-case-the-third-sam-altman",
+      "published_at": "2026-11-05T06:00:00.000-06:00",
+      "updated_at": "2026-11-05T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-third-sam-altman/",
+      "excerpt": "Modal Path Ethics investigates a missing actor, an unidentified billionaire, and the possibility that there are also now two Andrew Garfields.",
+      "tags": [
+        "Applied Case",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_path": "/articles/applied-case-the-third-sam-altman.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-third-sam-altman.html",
+      "sha256_plaintext": "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
     },
     {
       "title": "MULTIPLAYER: Ben Hayum and Durandal",
@@ -675,27 +675,6 @@
       "sha256_plaintext": "74ca4f6a361e2cdd85816bea39c893307f9c671424656497b26dd34967ae8852"
     },
     {
-      "title": "Applied Case: The Trees Are Still Standing",
-      "slug": "applied-case-the-trees-are-still-standing",
-      "published_at": "2026-10-28T06:00:00.000-05:00",
-      "updated_at": "2026-11-01T18:48:33.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-trees-are-still-standing/",
-      "excerpt": "The Chestnut, the Datacenter, and the Speed of the Future",
-      "tags": [
-        "Applied Case",
-        "Biosphere",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-trees-are-still-standing.md",
-      "mirror_html_path": "/articles/applied-case-the-trees-are-still-standing.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html",
-      "sha256_plaintext": "df800be26130471cae270e20b20efd98940e8f0b0f504b7058d645d6a63336d0"
-    },
-    {
       "title": "Play Cumberland Run",
       "slug": "the-cumberland-run",
       "published_at": "2026-10-28T06:00:00.000-05:00",
@@ -715,6 +694,27 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-cumberland-run.html",
       "sha256_plaintext": "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
+    },
+    {
+      "title": "Applied Case: The Trees Are Still Standing",
+      "slug": "applied-case-the-trees-are-still-standing",
+      "published_at": "2026-10-28T06:00:00.000-05:00",
+      "updated_at": "2026-11-01T18:48:33.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-trees-are-still-standing/",
+      "excerpt": "The Chestnut, the Datacenter, and the Speed of the Future",
+      "tags": [
+        "Applied Case",
+        "Biosphere",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_path": "/articles/applied-case-the-trees-are-still-standing.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html",
+      "sha256_plaintext": "df800be26130471cae270e20b20efd98940e8f0b0f504b7058d645d6a63336d0"
     },
     {
       "title": "The Blue Wave Has a Coffee Stirrer",
@@ -1806,25 +1806,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/multiplayer-catherine-malabou-and-the-transition-problem.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/multiplayer-catherine-malabou-and-the-transition-problem.html",
       "sha256_plaintext": "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
-    },
-    {
-      "title": "This Is Not Worker Solidarity You Morons",
-      "slug": "this-is-not-worker-solidarity-you-morons",
-      "published_at": "2026-10-03T05:50:34.000-05:00",
-      "updated_at": "2026-10-28T01:22:37.000-05:00",
-      "canonical_url": "https://modalpathethics.com/this-is-not-worker-solidarity-you-morons/",
-      "excerpt": "The people are still piloting the robots. The gamers still make steam come out of my eyes.",
-      "tags": [
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/this-is-not-worker-solidarity-you-morons.md",
-      "mirror_html_path": "/articles/this-is-not-worker-solidarity-you-morons.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/this-is-not-worker-solidarity-you-morons.html",
-      "sha256_plaintext": "91a4587ddd4bdaeb8e5079e4258ac41440398838529b1a95ae0f05591c813b9a"
     },
     {
       "title": "Gizmodo Has 13,116 New Ways to Accuse Gizmodo of Using AI",
