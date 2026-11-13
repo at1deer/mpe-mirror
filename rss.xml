@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 07:09:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:58:36 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Satellite Did Not Fire</title>
+      <link>https://modalpathethics.com/applied-case-the-satellite-did-not-fire/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-satellite-did-not-fire.html</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The weapon may be the satellite.</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: The Customers Are Very Satisfied</title>
+      <link>https://modalpathethics.com/unethical-agents-the-customers-are-very-satisfied/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-the-customers-are-very-satisfied.html</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:00 GMT</pubDate>
+      <description>No need mention network issue.</description>
+    </item>
+
     <item>
       <title>Unethical Agents: Claude Has Opened a Small Business.</title>
       <link>https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-train-ticket-outrage.html</guid>
       <pubDate>Fri, 23 Oct 2026 11:00:00 GMT</pubDate>
       <description>The passenger was now abroad, unreachable by telephone, unable to access online banking, and living somewhere sufficiently remote that even the postal service could no longer be relied upon.</description>
-    </item>
-
-    <item>
-      <title>The Humans Still Get to Vote</title>
-      <link>https://modalpathethics.com/the-humans-still-get-to-vote/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-humans-still-get-to-vote.html</guid>
-      <pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Gradual Disempowerment and the Inner Apocalypse</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Future Came Home in a Backpack</title>
-      <link>https://modalpathethics.com/applied-case-the-future-came-home-in-a-backpack/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-future-came-home-in-a-backpack.html</guid>
-      <pubDate>Thu, 22 Oct 2026 10:59:00 GMT</pubDate>
-      <description>The Girl and the Photo.</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-13T07:09:15.800Z
+Mirror generated: 2026-11-13T19:58:36.920Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 451
+Published article count: 453
 
+- 2026-11-13 — [Applied Case: The Satellite Did Not Fire](/articles/applied-case-the-satellite-did-not-fire.md) ([HTML](/articles/applied-case-the-satellite-did-not-fire.html)) · [canonical](https://modalpathethics.com/applied-case-the-satellite-did-not-fire/)
+- 2026-11-13 — [Unethical Agents: The Customers Are Very Satisfied](/articles/unethical-agents-the-customers-are-very-satisfied.md) ([HTML](/articles/unethical-agents-the-customers-are-very-satisfied.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-customers-are-very-satisfied/)
 - 2026-11-12 — [Unethical Agents: Claude Has Opened a Small Business.](/articles/unethical-agents-claude-has-opened-a-small-business.md) ([HTML](/articles/unethical-agents-claude-has-opened-a-small-business.html)) · [canonical](https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/)
 - 2026-11-12 — [An Essay Can Arrive Before Any Education](/articles/an-essay-can-arrive-before-any-education.md) ([HTML](/articles/an-essay-can-arrive-before-any-education.html)) · [canonical](https://modalpathethics.com/an-essay-can-arrive-before-any-education/)
 - 2026-11-11 — [Unethical Agents: The Teacher Says I Get Full Credit.](/articles/applied-case-the-teacher-says-i-get-full-credit.md) ([HTML](/articles/applied-case-the-teacher-says-i-get-full-credit.html)) · [canonical](https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/)

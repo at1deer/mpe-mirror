@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-13T07:09:15.800Z",
+  "generated_at": "2026-11-13T19:58:36.920Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 451,
+  "article_count": 453,
   "articles": [
+    {
+      "title": "Applied Case: The Satellite Did Not Fire",
+      "slug": "applied-case-the-satellite-did-not-fire",
+      "published_at": "2026-11-13T06:00:00.000-06:00",
+      "updated_at": "2026-11-13T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-satellite-did-not-fire/",
+      "excerpt": "The weapon may be the satellite.",
+      "tags": [
+        "Applied Case",
+        "Security Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-satellite-did-not-fire.md",
+      "mirror_html_path": "/articles/applied-case-the-satellite-did-not-fire.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-satellite-did-not-fire.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-satellite-did-not-fire.html",
+      "sha256_plaintext": "73811d35af4913bf97770d99c4e1f08904559b7e3d9d5e326babc63bb85a3035"
+    },
+    {
+      "title": "Unethical Agents: The Customers Are Very Satisfied",
+      "slug": "unethical-agents-the-customers-are-very-satisfied",
+      "published_at": "2026-11-13T06:00:00.000-06:00",
+      "updated_at": "2026-11-13T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-the-customers-are-very-satisfied/",
+      "excerpt": "No need mention network issue.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-the-customers-are-very-satisfied.md",
+      "mirror_html_path": "/articles/unethical-agents-the-customers-are-very-satisfied.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-the-customers-are-very-satisfied.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-the-customers-are-very-satisfied.html",
+      "sha256_plaintext": "1cdfed094cc3531421f501c0fa0df5da5b610b02c056b6e2a63e11e9166e918f"
+    },
     {
       "title": "Unethical Agents: Claude Has Opened a Small Business.",
       "slug": "unethical-agents-claude-has-opened-a-small-business",
