@@ -4,16 +4,16 @@ slug: "applied-case-the-incident"
 canonical_url: "https://modalpathethics.com/applied-case-the-incident/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-incident.md"
 published_at: "2026-11-14T06:00:00.000-06:00"
-updated_at: "2026-11-14T05:59:59.000-06:00"
+updated_at: "2026-11-14T14:11:08.000-06:00"
 tags:
   - "Applied Case"
   - "Epistemic Instruments"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-14T18:26:47.395Z"
+mirror_generated_at: "2026-11-14T22:42:01.515Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "968e39d6c9d779e9762d84e30f349f1c96851c9aa5b49f6f7d00614181bb078d"
+sha256_plaintext: "96537a87380e57382e0948d166d081f50f40b45f740bd4cccce6c000040e3cf5"
 ---
 # Applied Case: The Incident
 
@@ -135,7 +135,7 @@ Somewhere along this chain, the actual event appears to have just disappeared.
 
 There was no Incident, anymore. The world has forgotten it.
 
-We have also achieved an interesting arrangement in which every institution involved can confirm that information has been successfully made it through the handoff, while the public remains unaware of its contents.
+We have also achieved an interesting arrangement in which every institution involved can confirm that information has successfully made it through the handoff, while the public remains unaware of its contents.
 
 The Incident has become a self-sustaining administrative object.
 

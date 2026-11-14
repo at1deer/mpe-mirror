@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-14T18:26:47.395Z",
+  "generated_at": "2026-11-14T22:42:01.515Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -29,7 +29,7 @@
       "title": "Applied Case: The Incident",
       "slug": "applied-case-the-incident",
       "published_at": "2026-11-14T06:00:00.000-06:00",
-      "updated_at": "2026-11-14T05:59:59.000-06:00",
+      "updated_at": "2026-11-14T14:11:08.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-the-incident/",
       "excerpt": "Here's what happened. Allegedly.",
       "tags": [
@@ -43,7 +43,7 @@
       "mirror_html_path": "/articles/applied-case-the-incident.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.html",
-      "sha256_plaintext": "968e39d6c9d779e9762d84e30f349f1c96851c9aa5b49f6f7d00614181bb078d"
+      "sha256_plaintext": "96537a87380e57382e0948d166d081f50f40b45f740bd4cccce6c000040e3cf5"
     },
     {
       "title": "Applied Case: The Satellite Did Not Fire",
