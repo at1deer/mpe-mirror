@@ -1,13 +1,50 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-14T06:56:54.115Z",
+  "generated_at": "2026-11-14T18:26:47.395Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 453,
+  "article_count": 455,
   "articles": [
+    {
+      "title": "Applied Case: Eighteen Minutes",
+      "slug": "applied-case-eighteen-minutes",
+      "published_at": "2026-11-14T06:00:00.000-06:00",
+      "updated_at": "2026-11-14T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-eighteen-minutes/",
+      "excerpt": "The report took ninety seconds.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-eighteen-minutes.md",
+      "mirror_html_path": "/articles/applied-case-eighteen-minutes.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html",
+      "sha256_plaintext": "67a34c3f340fc3c3e5e6cabe72eeb16ac83b9f889c9479783b236bbf205314be"
+    },
+    {
+      "title": "Applied Case: The Incident",
+      "slug": "applied-case-the-incident",
+      "published_at": "2026-11-14T06:00:00.000-06:00",
+      "updated_at": "2026-11-14T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-incident/",
+      "excerpt": "Here's what happened. Allegedly.",
+      "tags": [
+        "Applied Case",
+        "Epistemic Instruments"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-incident.md",
+      "mirror_html_path": "/articles/applied-case-the-incident.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.html",
+      "sha256_plaintext": "968e39d6c9d779e9762d84e30f349f1c96851c9aa5b49f6f7d00614181bb078d"
+    },
     {
       "title": "Applied Case: The Satellite Did Not Fire",
       "slug": "applied-case-the-satellite-did-not-fire",

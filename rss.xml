@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 14 Nov 2026 06:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 18:26:47 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Eighteen Minutes</title>
+      <link>https://modalpathethics.com/applied-case-eighteen-minutes/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The report took ninety seconds.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Incident</title>
+      <link>https://modalpathethics.com/applied-case-the-incident/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-incident.html</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Here's what happened. Allegedly.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Satellite Did Not Fire</title>
       <link>https://modalpathethics.com/applied-case-the-satellite-did-not-fire/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.html</guid>
       <pubDate>Sat, 24 Oct 2026 10:59:00 GMT</pubDate>
       <description>Modal Path Ethics reluctantly discovers the English language.</description>
-    </item>
-
-    <item>
-      <title>Convergence Point: Wanhong Huang and the Future You Cannot Give Back</title>
-      <link>https://modalpathethics.com/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-wanhong-huang-and-the-future-you-cannot-give-back.html</guid>
-      <pubDate>Fri, 23 Oct 2026 11:01:00 GMT</pubDate>
-      <description>Modal Path Ethics asks what future was damaged. Huang asks what it could possibly mean to say you gave it back.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: The Train Ticket Outrage</title>
-      <link>https://modalpathethics.com/applied-case-the-train-ticket-outrage/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-train-ticket-outrage.html</guid>
-      <pubDate>Fri, 23 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The passenger was now abroad, unreachable by telephone, unable to access online banking, and living somewhere sufficiently remote that even the postal service could no longer be relied upon.</description>
     </item>
   </channel>
 </rss>

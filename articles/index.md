@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-14T06:56:54.115Z
+Mirror generated: 2026-11-14T18:26:47.395Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 453
+Published article count: 455
 
+- 2026-11-14 — [Applied Case: Eighteen Minutes](/articles/applied-case-eighteen-minutes.md) ([HTML](/articles/applied-case-eighteen-minutes.html)) · [canonical](https://modalpathethics.com/applied-case-eighteen-minutes/)
+- 2026-11-14 — [Applied Case: The Incident](/articles/applied-case-the-incident.md) ([HTML](/articles/applied-case-the-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-incident/)
 - 2026-11-13 — [Applied Case: The Satellite Did Not Fire](/articles/applied-case-the-satellite-did-not-fire.md) ([HTML](/articles/applied-case-the-satellite-did-not-fire.html)) · [canonical](https://modalpathethics.com/applied-case-the-satellite-did-not-fire/)
 - 2026-11-13 — [Unethical Agents: The Customers Are Very Satisfied](/articles/unethical-agents-the-customers-are-very-satisfied.md) ([HTML](/articles/unethical-agents-the-customers-are-very-satisfied.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-customers-are-very-satisfied/)
 - 2026-11-12 — [Unethical Agents: Claude Has Opened a Small Business.](/articles/unethical-agents-claude-has-opened-a-small-business.md) ([HTML](/articles/unethical-agents-claude-has-opened-a-small-business.html)) · [canonical](https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/)
