@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-15T07:05:20.936Z
+Mirror generated: 2026-11-15T19:03:22.873Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 455
+Published article count: 457
 
+- 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)
+- 2026-11-15 — [Unethical Agents: The Mountain Dew Is Probably Fine](/articles/unethical-agents-the-mountain-dew-is-probably-fine.md) ([HTML](/articles/unethical-agents-the-mountain-dew-is-probably-fine.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-mountain-dew-is-probably-fine/)
 - 2026-11-14 — [Applied Case: Eighteen Minutes](/articles/applied-case-eighteen-minutes.md) ([HTML](/articles/applied-case-eighteen-minutes.html)) · [canonical](https://modalpathethics.com/applied-case-eighteen-minutes/)
 - 2026-11-14 — [Applied Case: The Incident](/articles/applied-case-the-incident.md) ([HTML](/articles/applied-case-the-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-incident/)
 - 2026-11-13 — [Applied Case: The Satellite Did Not Fire](/articles/applied-case-the-satellite-did-not-fire.md) ([HTML](/articles/applied-case-the-satellite-did-not-fire.html)) · [canonical](https://modalpathethics.com/applied-case-the-satellite-did-not-fire/)

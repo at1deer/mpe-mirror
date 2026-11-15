@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 07:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 19:03:22 GMT</lastBuildDate>
     
+    <item>
+      <title>Who Certifies the Ethics Checker?</title>
+      <link>https://modalpathethics.com/who-certifies-the-ethics-checker/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/who-certifies-the-ethics-checker.html</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Chen Yunji wants common ethical requirements for the world's leading AI models. The examiner will need examining, too.</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: The Mountain Dew Is Probably Fine</title>
+      <link>https://modalpathethics.com/unethical-agents-the-mountain-dew-is-probably-fine/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-the-mountain-dew-is-probably-fine.html</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <description>likely expired.</description>
+    </item>
+
     <item>
       <title>Applied Case: Eighteen Minutes</title>
       <link>https://modalpathethics.com/applied-case-eighteen-minutes/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/citadel-archive-special-bioware-has-died-before-shepard-reached-the-citadel.html</guid>
       <pubDate>Sat, 24 Oct 2026 17:06:39 GMT</pubDate>
       <description>RIP BioWare.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: Guess Numbers.</title>
-      <link>https://modalpathethics.com/applied-case-guess-numbers/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-guess-numbers.html</guid>
-      <pubDate>Sat, 24 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Provide Fabricated Plausible.</description>
-    </item>
-
-    <item>
-      <title>The Veto Maze And You</title>
-      <link>https://modalpathethics.com/the-veto-maze-and-you/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-veto-maze-and-you.html</guid>
-      <pubDate>Sat, 24 Oct 2026 10:59:00 GMT</pubDate>
-      <description>Modal Path Ethics reluctantly discovers the English language.</description>
     </item>
   </channel>
 </rss>
