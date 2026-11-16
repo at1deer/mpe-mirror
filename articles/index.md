@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-16T07:11:21.290Z
+Mirror generated: 2026-11-16T22:27:43.779Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 457
+Published article count: 458
 
+- 2026-11-16 — [Play RUSHR](/articles/play-rushr.md) ([HTML](/articles/play-rushr.html)) · [canonical](https://modalpathethics.com/play-rushr/)
 - 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)
 - 2026-11-15 — [Unethical Agents: The Mountain Dew Is Probably Fine](/articles/unethical-agents-the-mountain-dew-is-probably-fine.md) ([HTML](/articles/unethical-agents-the-mountain-dew-is-probably-fine.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-mountain-dew-is-probably-fine/)
 - 2026-11-14 — [Applied Case: Eighteen Minutes](/articles/applied-case-eighteen-minutes.md) ([HTML](/articles/applied-case-eighteen-minutes.html)) · [canonical](https://modalpathethics.com/applied-case-eighteen-minutes/)
