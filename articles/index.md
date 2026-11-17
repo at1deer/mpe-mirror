@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-17T08:24:01.171Z
+Mirror generated: 2026-11-17T21:16:38.689Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 458
+Published article count: 459
 
+- 2026-11-17 — [Convergence Point: Wu & He and the Difference You Cannot See](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md) ([HTML](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html)) · [canonical](https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/)
 - 2026-11-16 — [Play RUSHR](/articles/play-rushr.md) ([HTML](/articles/play-rushr.html)) · [canonical](https://modalpathethics.com/play-rushr/)
 - 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)
 - 2026-11-15 — [Unethical Agents: The Mountain Dew Is Probably Fine](/articles/unethical-agents-the-mountain-dew-is-probably-fine.md) ([HTML](/articles/unethical-agents-the-mountain-dew-is-probably-fine.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-mountain-dew-is-probably-fine/)

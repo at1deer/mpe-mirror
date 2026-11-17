@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 08:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 21:16:38 GMT</lastBuildDate>
     
+    <item>
+      <title>Convergence Point: Wu &amp; He and the Difference You Cannot See</title>
+      <link>https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The outputs match. The mechanism does not.</description>
+    </item>
+
     <item>
       <title>Play RUSHR</title>
       <link>https://modalpathethics.com/play-rushr/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.html</guid>
       <pubDate>Sun, 25 Oct 2026 11:00:00 GMT</pubDate>
       <description>If the alarm is supposed to notify somebody, preventing it from notifying anybody is not an improvement to the alarm.</description>
-    </item>
-
-    <item>
-      <title>Applied Case: The Mathematicians Got $15 Million. I Got a Colon.</title>
-      <link>https://modalpathethics.com/applied-case-the-mathematicians-got-15-million-i-got-a-colon/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-mathematicians-got-15-million-i-got-a-colon.html</guid>
-      <pubDate>Sun, 25 Oct 2026 10:30:00 GMT</pubDate>
-      <description>Windows did not approve. Not at all.</description>
     </item>
   </channel>
 </rss>

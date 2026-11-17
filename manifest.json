@@ -1,13 +1,34 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-17T08:24:01.171Z",
+  "generated_at": "2026-11-17T21:16:38.689Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 458,
+  "article_count": 459,
   "articles": [
+    {
+      "title": "Convergence Point: Wu & He and the Difference You Cannot See",
+      "slug": "convergence-point-wu-he-and-the-difference-you-cannot-see",
+      "published_at": "2026-11-17T06:00:00.000-06:00",
+      "updated_at": "2026-11-17T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/",
+      "excerpt": "The outputs match. The mechanism does not.",
+      "tags": [
+        "Convergence Point",
+        "Locushood",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md",
+      "mirror_html_path": "/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html",
+      "sha256_plaintext": "552eba87a4f489a0d973c8435e9db42ed26e2dd40779b1fd6269d8b10ac36041"
+    },
     {
       "title": "Play RUSHR",
       "slug": "play-rushr",
