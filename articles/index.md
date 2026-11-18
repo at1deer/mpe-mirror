@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-18T07:53:06.615Z
+Mirror generated: 2026-11-18T20:51:08.244Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 459
+Published article count: 460
 
+- 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
 - 2026-11-17 — [Convergence Point: Wu & He and the Difference You Cannot See](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md) ([HTML](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html)) · [canonical](https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/)
 - 2026-11-16 — [Play RUSHR](/articles/play-rushr.md) ([HTML](/articles/play-rushr.html)) · [canonical](https://modalpathethics.com/play-rushr/)
 - 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)

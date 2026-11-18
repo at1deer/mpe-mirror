@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:51:08 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Nvidia Must Survive Jensen</title>
+      <link>https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.html</guid>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The founder can leave. The obligations cannot.</description>
+    </item>
+
     <item>
       <title>Convergence Point: Wu &amp; He and the Difference You Cannot See</title>
       <link>https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/emergency-audit-is-curiosity-trespassing.html</guid>
       <pubDate>Mon, 26 Oct 2026 02:16:58 GMT</pubDate>
       <description>Michael Makowsky, intellectual squatting, Qichao Wang, and the market for scholarly glory.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: No Messages Were Sent.</title>
-      <link>https://modalpathethics.com/applied-case-no-messages-were-sent/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-no-messages-were-sent.html</guid>
-      <pubDate>Sun, 25 Oct 2026 11:00:00 GMT</pubDate>
-      <description>If the alarm is supposed to notify somebody, preventing it from notifying anybody is not an improvement to the alarm.</description>
     </item>
   </channel>
 </rss>
