@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 07:50:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:55:38 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: Acéphale</title>
+      <link>https://modalpathethics.com/applied-case-acephale/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-acephale.html</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The students built a movement without a head. Now the movement has won the power to govern.</description>
+    </item>
+
     <item>
       <title>Applied Case: Nvidia Must Survive Jensen</title>
       <link>https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/confucius-and-the-rectification-of-the-pentagon.html</guid>
       <pubDate>Mon, 26 Oct 2026 10:59:00 GMT</pubDate>
       <description>An Engagement with Confucius, the Analects, and the problem of names that have acquired authority over the things they describe.</description>
-    </item>
-
-    <item>
-      <title>Emergency Audit: Is Curiosity Trespassing?</title>
-      <link>https://modalpathethics.com/emergency-audit-is-curiosity-trespassing/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/emergency-audit-is-curiosity-trespassing.html</guid>
-      <pubDate>Mon, 26 Oct 2026 02:16:58 GMT</pubDate>
-      <description>Michael Makowsky, intellectual squatting, Qichao Wang, and the market for scholarly glory.</description>
     </item>
   </channel>
 </rss>
