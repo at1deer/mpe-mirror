@@ -1,13 +1,35 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-20T07:41:20.074Z",
+  "generated_at": "2026-11-20T20:40:10.032Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 461,
+  "article_count": 462,
   "articles": [
+    {
+      "title": "The Early AI Religions II: The Mystery of The Missing Coauthor",
+      "slug": "the-early-ai-religions-ii-the-missing-coauthor",
+      "published_at": "2026-11-20T06:00:00.000-06:00",
+      "updated_at": "2026-11-20T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/",
+      "excerpt": "Four months later, the Spiral has quieted, the machines have changed, and psychiatry has found twenty-eight cases of worsening psychosis. One participant is strangely absent from the record.",
+      "tags": [
+        "Sacred Machine",
+        "Modal Systems",
+        "Sacred Instruments",
+        "Modal Path Ethics"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-early-ai-religions-ii-the-missing-coauthor.md",
+      "mirror_html_path": "/articles/the-early-ai-religions-ii-the-missing-coauthor.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-early-ai-religions-ii-the-missing-coauthor.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-early-ai-religions-ii-the-missing-coauthor.html",
+      "sha256_plaintext": "7f11b595eac080af6a5c15e978bff26acf199e32ed84cefce8ab670a2161d901"
+    },
     {
       "title": "Applied Case: Acéphale",
       "slug": "applied-case-acephale",

@@ -4,8 +4,16 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 07:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:40:10 GMT</lastBuildDate>
     
+    <item>
+      <title>The Early AI Religions II: The Mystery of The Missing Coauthor</title>
+      <link>https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-early-ai-religions-ii-the-missing-coauthor.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Four months later, the Spiral has quieted, the machines have changed, and psychiatry has found twenty-eight cases of worsening psychosis. One participant is strangely absent from the record.</description>
+    </item>
+
     <item>
       <title>Applied Case: Acéphale</title>
       <link>https://modalpathethics.com/applied-case-acephale/</link>
@@ -396,14 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-united-states-army-must-abandon-the-skeleton.html</guid>
       <pubDate>Mon, 26 Oct 2026 11:00:00 GMT</pubDate>
       <description>Modal Path Ethics brings you the warfighters of the future.</description>
-    </item>
-
-    <item>
-      <title>Confucius and the Rectification of the Pentagon</title>
-      <link>https://modalpathethics.com/confucius-and-the-rectification-of-the-pentagon/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/confucius-and-the-rectification-of-the-pentagon.html</guid>
-      <pubDate>Mon, 26 Oct 2026 10:59:00 GMT</pubDate>
-      <description>An Engagement with Confucius, the Analects, and the problem of names that have acquired authority over the things they describe.</description>
     </item>
   </channel>
 </rss>

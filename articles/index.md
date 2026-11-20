@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-20T07:41:20.074Z
+Mirror generated: 2026-11-20T20:40:10.032Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 461
+Published article count: 462
 
+- 2026-11-20 — [The Early AI Religions II: The Mystery of The Missing Coauthor](/articles/the-early-ai-religions-ii-the-missing-coauthor.md) ([HTML](/articles/the-early-ai-religions-ii-the-missing-coauthor.html)) · [canonical](https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/)
 - 2026-11-19 — [Applied Case: Acéphale](/articles/applied-case-acephale.md) ([HTML](/articles/applied-case-acephale.html)) · [canonical](https://modalpathethics.com/applied-case-acephale/)
 - 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
 - 2026-11-17 — [Convergence Point: Wu & He and the Difference You Cannot See](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md) ([HTML](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html)) · [canonical](https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/)
