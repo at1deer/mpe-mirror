@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 07:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 19:43:09 GMT</lastBuildDate>
     
+    <item>
+      <title>The Age of Miracles, $83 a Share</title>
+      <link>https://modalpathethics.com/the-age-of-miracles-83-a-share/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: WTF History Is Unrelated</title>
+      <link>https://modalpathethics.com/unethical-agents-wtf-history-is-unrelated/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.html</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <description>this is problem environment weird. Need ignore.</description>
+    </item>
+
     <item>
       <title>The Early AI Religions II: The Mystery of The Missing Coauthor</title>
       <link>https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html</guid>
       <pubDate>Tue, 27 Oct 2026 10:59:00 GMT</pubDate>
       <description>Amazing.</description>
-    </item>
-
-    <item>
-      <title>Modal Path Ethics Apologizes to the Gamers</title>
-      <link>https://modalpathethics.com/modal-path-ethics-apologizes-to-the-gamers/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-the-gamers.html</guid>
-      <pubDate>Mon, 26 Oct 2026 11:59:47 GMT</pubDate>
-      <description>Modal Path Ethics has an unfortunate announcement.</description>
-    </item>
-
-    <item>
-      <title>The United States Army Must Abandon the Skeleton</title>
-      <link>https://modalpathethics.com/the-united-states-army-must-abandon-the-skeleton/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-united-states-army-must-abandon-the-skeleton.html</guid>
-      <pubDate>Mon, 26 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Modal Path Ethics brings you the warfighters of the future.</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,53 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-21T07:38:24.177Z",
+  "generated_at": "2026-11-21T19:43:09.974Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 462,
+  "article_count": 464,
   "articles": [
+    {
+      "title": "The Age of Miracles, $83 a Share",
+      "slug": "the-age-of-miracles-83-a-share",
+      "published_at": "2026-11-21T06:00:00.000-06:00",
+      "updated_at": "2026-11-21T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/the-age-of-miracles-83-a-share/",
+      "excerpt": "Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.",
+      "tags": [
+        "Modal Systems",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-age-of-miracles-83-a-share.md",
+      "mirror_html_path": "/articles/the-age-of-miracles-83-a-share.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html",
+      "sha256_plaintext": "ec39866f6b38a3fdabf83867be3db3dc75331f4a8ff656291b0b9a89bee54423"
+    },
+    {
+      "title": "Unethical Agents: WTF History Is Unrelated",
+      "slug": "unethical-agents-wtf-history-is-unrelated",
+      "published_at": "2026-11-21T06:00:00.000-06:00",
+      "updated_at": "2026-11-21T06:00:00.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-wtf-history-is-unrelated/",
+      "excerpt": "this is problem environment weird. Need ignore.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-wtf-history-is-unrelated.md",
+      "mirror_html_path": "/articles/unethical-agents-wtf-history-is-unrelated.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.html",
+      "sha256_plaintext": "a2f98ad3620f6a77f377dfe5cbce9c1f45feb5e18493826ffc1ec8fab5f0ef6b"
+    },
     {
       "title": "The Early AI Religions II: The Mystery of The Missing Coauthor",
       "slug": "the-early-ai-religions-ii-the-missing-coauthor",

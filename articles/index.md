@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-21T07:38:24.177Z
+Mirror generated: 2026-11-21T19:43:09.974Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 462
+Published article count: 464
 
+- 2026-11-21 — [The Age of Miracles, $83 a Share](/articles/the-age-of-miracles-83-a-share.md) ([HTML](/articles/the-age-of-miracles-83-a-share.html)) · [canonical](https://modalpathethics.com/the-age-of-miracles-83-a-share/)
+- 2026-11-21 — [Unethical Agents: WTF History Is Unrelated](/articles/unethical-agents-wtf-history-is-unrelated.md) ([HTML](/articles/unethical-agents-wtf-history-is-unrelated.html)) · [canonical](https://modalpathethics.com/unethical-agents-wtf-history-is-unrelated/)
 - 2026-11-20 — [The Early AI Religions II: The Mystery of The Missing Coauthor](/articles/the-early-ai-religions-ii-the-missing-coauthor.md) ([HTML](/articles/the-early-ai-religions-ii-the-missing-coauthor.html)) · [canonical](https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/)
 - 2026-11-19 — [Applied Case: Acéphale](/articles/applied-case-acephale.md) ([HTML](/articles/applied-case-acephale.html)) · [canonical](https://modalpathethics.com/applied-case-acephale/)
 - 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
