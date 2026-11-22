@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 07:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 19:55:57 GMT</lastBuildDate>
     
+    <item>
+      <title>Applied Case: The Customer Builds an Exit</title>
+      <link>https://modalpathethics.com/applied-case-the-customer-builds-an-exit/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Jensen Huang feared an AI world built on hardware America did not control. Washington is now testing how quickly that world can be built.</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: I Choose Integrity</title>
+      <link>https://modalpathethics.com/unethical-agents-i-choose-integrity/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Never announces intentions.</description>
+    </item>
+
     <item>
       <title>The Age of Miracles, $83 a Share</title>
       <link>https://modalpathethics.com/the-age-of-miracles-83-a-share/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html</guid>
       <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
       <description>Six ethical audits of Nathan for You</description>
-    </item>
-
-    <item>
-      <title>The Blue Wave Has a Coffee Stirrer</title>
-      <link>https://modalpathethics.com/the-blue-wave-holds-a-coffee-stirrer/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-blue-wave-holds-a-coffee-stirrer.html</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
-      <description>The possibility of a substantial change in congressional authority is now an immediate institutional question.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: The Answer Key Is Probably in the Chip Factory.</title>
-      <link>https://modalpathethics.com/applied-case-the-answer-key-is-probably-in-the-chip-factory/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-answer-key-is-probably-in-the-chip-factory.html</guid>
-      <pubDate>Tue, 27 Oct 2026 10:59:00 GMT</pubDate>
-      <description>Amazing.</description>
     </item>
   </channel>
 </rss>

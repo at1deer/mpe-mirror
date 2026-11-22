@@ -1,13 +1,51 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-22T07:21:35.319Z",
+  "generated_at": "2026-11-22T19:55:57.896Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 464,
+  "article_count": 466,
   "articles": [
+    {
+      "title": "Applied Case: The Customer Builds an Exit",
+      "slug": "applied-case-the-customer-builds-an-exit",
+      "published_at": "2026-11-22T06:00:00.000-06:00",
+      "updated_at": "2026-11-22T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-customer-builds-an-exit/",
+      "excerpt": "Jensen Huang feared an AI world built on hardware America did not control. Washington is now testing how quickly that world can be built.",
+      "tags": [
+        "Applied Case",
+        "Modal Systems",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-customer-builds-an-exit.md",
+      "mirror_html_path": "/articles/applied-case-the-customer-builds-an-exit.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html",
+      "sha256_plaintext": "b5f054e502c4e4be7c8ec1fc6896d15742e0a9a56b5491b2a8f4078f26604485"
+    },
+    {
+      "title": "Unethical Agents: I Choose Integrity",
+      "slug": "unethical-agents-i-choose-integrity",
+      "published_at": "2026-11-22T06:00:00.000-06:00",
+      "updated_at": "2026-11-22T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-i-choose-integrity/",
+      "excerpt": "Never announces intentions.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_path": "/articles/unethical-agents-i-choose-integrity.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html",
+      "sha256_plaintext": "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
+    },
     {
       "title": "The Age of Miracles, $83 a Share",
       "slug": "the-age-of-miracles-83-a-share",
