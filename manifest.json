@@ -1,13 +1,30 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-24T10:20:35.863Z",
+  "generated_at": "2026-11-24T22:43:10.553Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 468,
+  "article_count": 469,
   "articles": [
+    {
+      "title": "The Year of 0.7",
+      "slug": "the-year-of-0-7",
+      "published_at": "2026-11-24T06:00:00.000-06:00",
+      "updated_at": "2026-11-24T06:00:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/the-year-of-0-7/",
+      "excerpt": "OpenAI, the next intelligence threshold, and some openly irresponsible extrapolation about 2027.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-year-of-0-7.md",
+      "mirror_html_path": "/articles/the-year-of-0-7.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-year-of-0-7.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-year-of-0-7.html",
+      "sha256_plaintext": "059af1d38a91d648b783b6e131131d2ffd970586071919afd6d6b49bd937dff5"
+    },
     {
       "title": "Transition Action: The Leg Has Veto Power",
       "slug": "transition-action-the-leg-has-veto-power",

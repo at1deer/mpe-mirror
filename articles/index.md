@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-24T10:20:35.863Z
+Mirror generated: 2026-11-24T22:43:10.553Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 468
+Published article count: 469
 
+- 2026-11-24 — [The Year of 0.7](/articles/the-year-of-0-7.md) ([HTML](/articles/the-year-of-0-7.html)) · [canonical](https://modalpathethics.com/the-year-of-0-7/)
 - 2026-11-23 — [Transition Action: The Leg Has Veto Power](/articles/transition-action-the-leg-has-veto-power.md) ([HTML](/articles/transition-action-the-leg-has-veto-power.html)) · [canonical](https://modalpathethics.com/transition-action-the-leg-has-veto-power/)
 - 2026-11-23 — [What Is It Like to Be Certain?](/articles/what-is-it-like-to-be-certain.md) ([HTML](/articles/what-is-it-like-to-be-certain.html)) · [canonical](https://modalpathethics.com/what-is-it-like-to-be-certain/)
 - 2026-11-22 — [Applied Case: The Customer Builds an Exit](/articles/applied-case-the-customer-builds-an-exit.md) ([HTML](/articles/applied-case-the-customer-builds-an-exit.html)) · [canonical](https://modalpathethics.com/applied-case-the-customer-builds-an-exit/)
