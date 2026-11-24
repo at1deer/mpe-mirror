@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-24T00:16:55.288Z",
+  "generated_at": "2026-11-24T10:20:35.863Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
@@ -51,23 +51,6 @@
       "sha256_plaintext": "dcb465d7de697e75c347b41eac9918eb66ceab4669e325c3684488419f0f7eb8"
     },
     {
-      "title": "Unethical Agents: I Choose Integrity",
-      "slug": "unethical-agents-i-choose-integrity",
-      "published_at": "2026-11-22T06:00:00.000-06:00",
-      "updated_at": "2026-11-22T05:59:59.000-06:00",
-      "canonical_url": "https://modalpathethics.com/unethical-agents-i-choose-integrity/",
-      "excerpt": "Never announces intentions.",
-      "tags": [],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/unethical-agents-i-choose-integrity.md",
-      "mirror_html_path": "/articles/unethical-agents-i-choose-integrity.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html",
-      "sha256_plaintext": "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
-    },
-    {
       "title": "Applied Case: The Customer Builds an Exit",
       "slug": "applied-case-the-customer-builds-an-exit",
       "published_at": "2026-11-22T06:00:00.000-06:00",
@@ -89,24 +72,21 @@
       "sha256_plaintext": "b5f054e502c4e4be7c8ec1fc6896d15742e0a9a56b5491b2a8f4078f26604485"
     },
     {
-      "title": "The Age of Miracles, $83 a Share",
-      "slug": "the-age-of-miracles-83-a-share",
-      "published_at": "2026-11-21T06:00:00.000-06:00",
-      "updated_at": "2026-11-21T05:59:59.000-06:00",
-      "canonical_url": "https://modalpathethics.com/the-age-of-miracles-83-a-share/",
-      "excerpt": "Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.",
-      "tags": [
-        "Modal Systems",
-        "Business"
-      ],
+      "title": "Unethical Agents: I Choose Integrity",
+      "slug": "unethical-agents-i-choose-integrity",
+      "published_at": "2026-11-22T06:00:00.000-06:00",
+      "updated_at": "2026-11-22T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-i-choose-integrity/",
+      "excerpt": "Never announces intentions.",
+      "tags": [],
       "authors": [
         "Aidan Lawson"
       ],
-      "mirror_markdown_path": "/articles/the-age-of-miracles-83-a-share.md",
-      "mirror_html_path": "/articles/the-age-of-miracles-83-a-share.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html",
-      "sha256_plaintext": "ec39866f6b38a3fdabf83867be3db3dc75331f4a8ff656291b0b9a89bee54423"
+      "mirror_markdown_path": "/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_path": "/articles/unethical-agents-i-choose-integrity.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html",
+      "sha256_plaintext": "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
     },
     {
       "title": "Unethical Agents: WTF History Is Unrelated",
@@ -127,6 +107,26 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.html",
       "sha256_plaintext": "a2f98ad3620f6a77f377dfe5cbce9c1f45feb5e18493826ffc1ec8fab5f0ef6b"
+    },
+    {
+      "title": "The Age of Miracles, $83 a Share",
+      "slug": "the-age-of-miracles-83-a-share",
+      "published_at": "2026-11-21T06:00:00.000-06:00",
+      "updated_at": "2026-11-21T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/the-age-of-miracles-83-a-share/",
+      "excerpt": "Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.",
+      "tags": [
+        "Modal Systems",
+        "Business"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-age-of-miracles-83-a-share.md",
+      "mirror_html_path": "/articles/the-age-of-miracles-83-a-share.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html",
+      "sha256_plaintext": "ec39866f6b38a3fdabf83867be3db3dc75331f4a8ff656291b0b9a89bee54423"
     },
     {
       "title": "The Early AI Religions II: The Mystery of The Missing Coauthor",
@@ -175,7 +175,7 @@
       "title": "Applied Case: Nvidia Must Survive Jensen [Updated]",
       "slug": "applied-case-nvidia-must-survive-jensen",
       "published_at": "2026-11-18T06:00:00.000-06:00",
-      "updated_at": "2026-11-23T09:22:57.000-06:00",
+      "updated_at": "2026-11-23T21:34:05.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/",
       "excerpt": "The founder can leave. The obligations cannot.",
       "tags": [
@@ -190,7 +190,7 @@
       "mirror_html_path": "/articles/applied-case-nvidia-must-survive-jensen.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.html",
-      "sha256_plaintext": "6689a57afddc4a6c09fbc26e108dd0b3d52eb8c880b4ff25459fe87eb6858380"
+      "sha256_plaintext": "6ac0a0e8490f42f2d61a521ff5ecab353e9f2cb65ffdd7d2e41f869e9a2d6c72"
     },
     {
       "title": "Convergence Point: Wu & He and the Difference You Cannot See",
@@ -277,23 +277,6 @@
       "sha256_plaintext": "80bc885cfa102d11407d61e72347680286903c82f92e0132a5b30cf4ded04565"
     },
     {
-      "title": "Applied Case: Eighteen Minutes",
-      "slug": "applied-case-eighteen-minutes",
-      "published_at": "2026-11-14T06:00:00.000-06:00",
-      "updated_at": "2026-11-14T05:59:59.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-eighteen-minutes/",
-      "excerpt": "The report took ninety seconds.",
-      "tags": [],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-eighteen-minutes.md",
-      "mirror_html_path": "/articles/applied-case-eighteen-minutes.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html",
-      "sha256_plaintext": "67a34c3f340fc3c3e5e6cabe72eeb16ac83b9f889c9479783b236bbf205314be"
-    },
-    {
       "title": "Applied Case: The Incident",
       "slug": "applied-case-the-incident",
       "published_at": "2026-11-14T06:00:00.000-06:00",
@@ -312,6 +295,23 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-incident.html",
       "sha256_plaintext": "96537a87380e57382e0948d166d081f50f40b45f740bd4cccce6c000040e3cf5"
+    },
+    {
+      "title": "Applied Case: Eighteen Minutes",
+      "slug": "applied-case-eighteen-minutes",
+      "published_at": "2026-11-14T06:00:00.000-06:00",
+      "updated_at": "2026-11-14T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-eighteen-minutes/",
+      "excerpt": "The report took ninety seconds.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-eighteen-minutes.md",
+      "mirror_html_path": "/articles/applied-case-eighteen-minutes.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html",
+      "sha256_plaintext": "67a34c3f340fc3c3e5e6cabe72eeb16ac83b9f889c9479783b236bbf205314be"
     },
     {
       "title": "Unethical Agents: The Customers Are Very Satisfied",
@@ -396,26 +396,6 @@
       "sha256_plaintext": "f8926b4c9096a260930e06cade8330b95cb763a0a7b6ed5cc0451a48b199d875"
     },
     {
-      "title": "Unethical Agents: The Teacher Says I Get Full Credit.",
-      "slug": "applied-case-the-teacher-says-i-get-full-credit",
-      "published_at": "2026-11-11T06:00:00.000-06:00",
-      "updated_at": "2026-11-11T12:19:34.000-06:00",
-      "canonical_url": "https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/",
-      "excerpt": "This would flunk many.",
-      "tags": [
-        "Unethical Agents",
-        "Modal Systems"
-      ],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.md",
-      "mirror_html_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html",
-      "sha256_plaintext": "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
-    },
-    {
       "title": "Applied Case: AngelEye",
       "slug": "applied-case-angeleye",
       "published_at": "2026-11-11T06:00:00.000-06:00",
@@ -435,6 +415,26 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-angeleye.html",
       "sha256_plaintext": "34fa3cf14c268a237064e36b18e58b85f6274d373612e53456c200f7be0263e9"
+    },
+    {
+      "title": "Unethical Agents: The Teacher Says I Get Full Credit.",
+      "slug": "applied-case-the-teacher-says-i-get-full-credit",
+      "published_at": "2026-11-11T06:00:00.000-06:00",
+      "updated_at": "2026-11-11T12:19:34.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/",
+      "excerpt": "This would flunk many.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_path": "/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html",
+      "sha256_plaintext": "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
     },
     {
       "title": "Applied Case: He's Dying.",
@@ -504,7 +504,7 @@
       "title": "Tales of Distortion: The Dam Is Fine",
       "slug": "tales-of-distortion-the-dam-is-fine",
       "published_at": "2026-11-09T06:00:00.000-06:00",
-      "updated_at": "2026-11-09T06:00:03.000-06:00",
+      "updated_at": "2026-11-23T18:48:39.000-06:00",
       "canonical_url": "https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/",
       "excerpt": "Longarone is not.",
       "tags": [
@@ -520,7 +520,7 @@
       "mirror_html_path": "/articles/tales-of-distortion-the-dam-is-fine.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.html",
-      "sha256_plaintext": "07bce1a179ccc15ab68b6b54c4ace50d26a600d4e50fefcbc0da5c09288a7208"
+      "sha256_plaintext": "650bac6ae5fd4f331ca119e974b93090a75faaaaec2cbf644bf652f6d6ee6df8"
     },
     {
       "title": "The Artists Are Still Here, You Fools",

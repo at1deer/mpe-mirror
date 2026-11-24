@@ -4,7 +4,7 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 00:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:20:35 GMT</lastBuildDate>
     
     <item>
       <title>Transition Action: The Leg Has Veto Power</title>
@@ -23,14 +23,6 @@
     </item>
 
     <item>
-      <title>Unethical Agents: I Choose Integrity</title>
-      <link>https://modalpathethics.com/unethical-agents-i-choose-integrity/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
-      <description>Never announces intentions.</description>
-    </item>
-
-    <item>
       <title>Applied Case: The Customer Builds an Exit</title>
       <link>https://modalpathethics.com/applied-case-the-customer-builds-an-exit/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html</guid>
@@ -39,11 +31,11 @@
     </item>
 
     <item>
-      <title>The Age of Miracles, $83 a Share</title>
-      <link>https://modalpathethics.com/the-age-of-miracles-83-a-share/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html</guid>
-      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
-      <description>Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.</description>
+      <title>Unethical Agents: I Choose Integrity</title>
+      <link>https://modalpathethics.com/unethical-agents-i-choose-integrity/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Never announces intentions.</description>
     </item>
 
     <item>
@@ -52,6 +44,14 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-wtf-history-is-unrelated.html</guid>
       <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
       <description>this is problem environment weird. Need ignore.</description>
+    </item>
+
+    <item>
+      <title>The Age of Miracles, $83 a Share</title>
+      <link>https://modalpathethics.com/the-age-of-miracles-83-a-share/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-age-of-miracles-83-a-share.html</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Anthropic's IPO, Cal Newport, and the curious business of underpromising humanity's future.</description>
     </item>
 
     <item>
@@ -111,19 +111,19 @@
     </item>
 
     <item>
-      <title>Applied Case: Eighteen Minutes</title>
-      <link>https://modalpathethics.com/applied-case-eighteen-minutes/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html</guid>
-      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
-      <description>The report took ninety seconds.</description>
-    </item>
-
-    <item>
       <title>Applied Case: The Incident</title>
       <link>https://modalpathethics.com/applied-case-the-incident/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-incident.html</guid>
       <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
       <description>Here's what happened. Allegedly.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: Eighteen Minutes</title>
+      <link>https://modalpathethics.com/applied-case-eighteen-minutes/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-eighteen-minutes.html</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 GMT</pubDate>
+      <description>The report took ninety seconds.</description>
     </item>
 
     <item>
@@ -159,19 +159,19 @@
     </item>
 
     <item>
-      <title>Unethical Agents: The Teacher Says I Get Full Credit.</title>
-      <link>https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
-      <description>This would flunk many.</description>
-    </item>
-
-    <item>
       <title>Applied Case: AngelEye</title>
       <link>https://modalpathethics.com/applied-case-angeleye/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-angeleye.html</guid>
       <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
       <description>Who gets to question the guardian?</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: The Teacher Says I Get Full Credit.</title>
+      <link>https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-teacher-says-i-get-full-credit.html</guid>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 GMT</pubDate>
+      <description>This would flunk many.</description>
     </item>
 
     <item>

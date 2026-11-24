@@ -4,7 +4,7 @@ slug: "tales-of-distortion-the-dam-is-fine"
 canonical_url: "https://modalpathethics.com/tales-of-distortion-the-dam-is-fine/"
 mirror_url: "https://mirror.modalpathethics.com/articles/tales-of-distortion-the-dam-is-fine.md"
 published_at: "2026-11-09T06:00:00.000-06:00"
-updated_at: "2026-11-09T06:00:03.000-06:00"
+updated_at: "2026-11-23T18:48:39.000-06:00"
 tags:
   - "Tales of Distortion"
   - "Modal Path Ethics"
@@ -13,9 +13,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-24T00:16:55.288Z"
+mirror_generated_at: "2026-11-24T10:20:35.863Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "07bce1a179ccc15ab68b6b54c4ace50d26a600d4e50fefcbc0da5c09288a7208"
+sha256_plaintext: "650bac6ae5fd4f331ca119e974b93090a75faaaaec2cbf644bf652f6d6ee6df8"
 ---
 # Tales of Distortion: The Dam Is Fine
 
@@ -3262,4 +3262,4 @@ Longarone had to begin again.
 22.  Diego Gavini, [_L'inchiesta parlamentare in Italia: riflessioni sul caso del Vajont_](https://storiaefuturo.eu/linchiesta-parlamentare-in-italia-riflessioni-sul-caso-del-vajont/?ref=modalpathethics.com), on the majority, minority reports, and evidentiary politics.
 23.  Italian Ministry of Culture, [Longarone reconstruction architecture](https://censimentoarchitetturecontemporanee.cultura.gov.it/scheda-opera?id=2679&ref=modalpathethics.com) and [the settlement of Vajont near Maniago](https://censimentoarchitetturecontemporanee.cultura.gov.it/scheda-opera?id=2128&ref=modalpathethics.com).
 
-> **Source limits.** Quantities such as slide duration, maximum run-up, overtopping water, Pontesei slide volume, and total fatalities differ across measurements, simulation definitions, or institutional counts. Figures are attributed or expressed as ranges where appropriate. Some contemporary reports are available through later reproductions or archival catalogs rather than independently verified full originals; the separate consolidation audit records those remaining provenance limitations.
+> **Source limits.** Quantities such as slide duration, maximum run-up, overtopping water, Pontesei slide volume, and total fatalities differ across measurements, simulation definitions, or institutional counts. Figures are attributed or expressed as ranges where appropriate. Some contemporary reports are available through later reproductions or archival catalogs rather than independently verified full originals.

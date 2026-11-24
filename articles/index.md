@@ -1,6 +1,6 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-24T00:16:55.288Z
+Mirror generated: 2026-11-24T10:20:35.863Z
 
 Canonical publication: https://modalpathethics.com
 
@@ -10,10 +10,10 @@ Published article count: 468
 
 - 2026-11-23 — [Transition Action: The Leg Has Veto Power](/articles/transition-action-the-leg-has-veto-power.md) ([HTML](/articles/transition-action-the-leg-has-veto-power.html)) · [canonical](https://modalpathethics.com/transition-action-the-leg-has-veto-power/)
 - 2026-11-23 — [What Is It Like to Be Certain?](/articles/what-is-it-like-to-be-certain.md) ([HTML](/articles/what-is-it-like-to-be-certain.html)) · [canonical](https://modalpathethics.com/what-is-it-like-to-be-certain/)
-- 2026-11-22 — [Unethical Agents: I Choose Integrity](/articles/unethical-agents-i-choose-integrity.md) ([HTML](/articles/unethical-agents-i-choose-integrity.html)) · [canonical](https://modalpathethics.com/unethical-agents-i-choose-integrity/)
 - 2026-11-22 — [Applied Case: The Customer Builds an Exit](/articles/applied-case-the-customer-builds-an-exit.md) ([HTML](/articles/applied-case-the-customer-builds-an-exit.html)) · [canonical](https://modalpathethics.com/applied-case-the-customer-builds-an-exit/)
-- 2026-11-21 — [The Age of Miracles, $83 a Share](/articles/the-age-of-miracles-83-a-share.md) ([HTML](/articles/the-age-of-miracles-83-a-share.html)) · [canonical](https://modalpathethics.com/the-age-of-miracles-83-a-share/)
+- 2026-11-22 — [Unethical Agents: I Choose Integrity](/articles/unethical-agents-i-choose-integrity.md) ([HTML](/articles/unethical-agents-i-choose-integrity.html)) · [canonical](https://modalpathethics.com/unethical-agents-i-choose-integrity/)
 - 2026-11-21 — [Unethical Agents: WTF History Is Unrelated](/articles/unethical-agents-wtf-history-is-unrelated.md) ([HTML](/articles/unethical-agents-wtf-history-is-unrelated.html)) · [canonical](https://modalpathethics.com/unethical-agents-wtf-history-is-unrelated/)
+- 2026-11-21 — [The Age of Miracles, $83 a Share](/articles/the-age-of-miracles-83-a-share.md) ([HTML](/articles/the-age-of-miracles-83-a-share.html)) · [canonical](https://modalpathethics.com/the-age-of-miracles-83-a-share/)
 - 2026-11-20 — [The Early AI Religions II: The Mystery of The Missing Coauthor](/articles/the-early-ai-religions-ii-the-missing-coauthor.md) ([HTML](/articles/the-early-ai-religions-ii-the-missing-coauthor.html)) · [canonical](https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/)
 - 2026-11-19 — [Applied Case: Acéphale](/articles/applied-case-acephale.md) ([HTML](/articles/applied-case-acephale.html)) · [canonical](https://modalpathethics.com/applied-case-acephale/)
 - 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen [Updated]](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
@@ -21,14 +21,14 @@ Published article count: 468
 - 2026-11-16 — [Play RUSHR](/articles/play-rushr.md) ([HTML](/articles/play-rushr.html)) · [canonical](https://modalpathethics.com/play-rushr/)
 - 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)
 - 2026-11-15 — [Unethical Agents: The Mountain Dew Is Probably Fine](/articles/unethical-agents-the-mountain-dew-is-probably-fine.md) ([HTML](/articles/unethical-agents-the-mountain-dew-is-probably-fine.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-mountain-dew-is-probably-fine/)
-- 2026-11-14 — [Applied Case: Eighteen Minutes](/articles/applied-case-eighteen-minutes.md) ([HTML](/articles/applied-case-eighteen-minutes.html)) · [canonical](https://modalpathethics.com/applied-case-eighteen-minutes/)
 - 2026-11-14 — [Applied Case: The Incident](/articles/applied-case-the-incident.md) ([HTML](/articles/applied-case-the-incident.html)) · [canonical](https://modalpathethics.com/applied-case-the-incident/)
+- 2026-11-14 — [Applied Case: Eighteen Minutes](/articles/applied-case-eighteen-minutes.md) ([HTML](/articles/applied-case-eighteen-minutes.html)) · [canonical](https://modalpathethics.com/applied-case-eighteen-minutes/)
 - 2026-11-13 — [Unethical Agents: The Customers Are Very Satisfied](/articles/unethical-agents-the-customers-are-very-satisfied.md) ([HTML](/articles/unethical-agents-the-customers-are-very-satisfied.html)) · [canonical](https://modalpathethics.com/unethical-agents-the-customers-are-very-satisfied/)
 - 2026-11-13 — [Applied Case: The Satellite Did Not Fire](/articles/applied-case-the-satellite-did-not-fire.md) ([HTML](/articles/applied-case-the-satellite-did-not-fire.html)) · [canonical](https://modalpathethics.com/applied-case-the-satellite-did-not-fire/)
 - 2026-11-12 — [Unethical Agents: Claude Has Opened a Small Business.](/articles/unethical-agents-claude-has-opened-a-small-business.md) ([HTML](/articles/unethical-agents-claude-has-opened-a-small-business.html)) · [canonical](https://modalpathethics.com/unethical-agents-claude-has-opened-a-small-business/)
 - 2026-11-12 — [An Essay Can Arrive Before Any Education](/articles/an-essay-can-arrive-before-any-education.md) ([HTML](/articles/an-essay-can-arrive-before-any-education.html)) · [canonical](https://modalpathethics.com/an-essay-can-arrive-before-any-education/)
-- 2026-11-11 — [Unethical Agents: The Teacher Says I Get Full Credit.](/articles/applied-case-the-teacher-says-i-get-full-credit.md) ([HTML](/articles/applied-case-the-teacher-says-i-get-full-credit.html)) · [canonical](https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/)
 - 2026-11-11 — [Applied Case: AngelEye](/articles/applied-case-angeleye.md) ([HTML](/articles/applied-case-angeleye.html)) · [canonical](https://modalpathethics.com/applied-case-angeleye/)
+- 2026-11-11 — [Unethical Agents: The Teacher Says I Get Full Credit.](/articles/applied-case-the-teacher-says-i-get-full-credit.md) ([HTML](/articles/applied-case-the-teacher-says-i-get-full-credit.html)) · [canonical](https://modalpathethics.com/applied-case-the-teacher-says-i-get-full-credit/)
 - 2026-11-10 — [Applied Case: He's Dying.](/articles/applied-case-hes-dying.md) ([HTML](/articles/applied-case-hes-dying.html)) · [canonical](https://modalpathethics.com/applied-case-hes-dying/)
 - 2026-11-10 — [Applied Case: The AI Layoffs](/articles/applied-case-the-ai-layoffs.md) ([HTML](/articles/applied-case-the-ai-layoffs.html)) · [canonical](https://modalpathethics.com/applied-case-the-ai-layoffs/)
 - 2026-11-09 — [Amartya Sen, Martha Nussbaum, and Modal Path Ethics](/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.md) ([HTML](/articles/amartya-sen-martha-nussbaum-and-modal-path-ethics.html)) · [canonical](https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/)

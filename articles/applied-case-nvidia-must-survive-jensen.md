@@ -4,7 +4,7 @@ slug: "applied-case-nvidia-must-survive-jensen"
 canonical_url: "https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.md"
 published_at: "2026-11-18T06:00:00.000-06:00"
-updated_at: "2026-11-23T09:22:57.000-06:00"
+updated_at: "2026-11-23T21:34:05.000-06:00"
 tags:
   - "Applied Case"
   - "Failed Field Analysts"
@@ -12,9 +12,9 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-24T00:16:55.288Z"
+mirror_generated_at: "2026-11-24T10:20:35.863Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "6689a57afddc4a6c09fbc26e108dd0b3d52eb8c880b4ff25459fe87eb6858380"
+sha256_plaintext: "6ac0a0e8490f42f2d61a521ff5ecab353e9f2cb65ffdd7d2e41f869e9a2d6c72"
 ---
 # Applied Case: Nvidia Must Survive Jensen [Updated]
 
@@ -32,7 +32,7 @@ The board says further discussions with Huang and input from senior US governmen
 
 Those safeguards are real. Whether they can actually constrain the restored executive remains to be demonstrated.
 
-The ruling below was a recommendation against reinstatement, not a prediction that the board would follow it. Nvidia has now chosen the alternative path I described as "still concievable". That choice does not establish that succession was impossible, or that restoring Huang was necessary.
+The ruling below was a recommendation against reinstatement, not a prediction that the board would follow it. Nvidia has now chosen the alternative path I described as "still conceivable". That choice does not establish that succession was impossible, or that restoring Huang was necessary.
 
 It does make the next test considerably more interesting.
 
