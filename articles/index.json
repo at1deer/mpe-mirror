@@ -1,13 +1,72 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-23T08:05:50.832Z",
+  "generated_at": "2026-11-24T00:16:55.288Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 466,
+  "article_count": 468,
   "articles": [
+    {
+      "title": "Transition Action: The Leg Has Veto Power",
+      "slug": "transition-action-the-leg-has-veto-power",
+      "published_at": "2026-11-23T06:00:00.000-06:00",
+      "updated_at": "2026-11-23T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/transition-action-the-leg-has-veto-power/",
+      "excerpt": "INSECTRON has six legs, two motors, magnetic joints, and the beginnings of constitutional government.",
+      "tags": [
+        "Transition Action",
+        "Chastening of the Controller"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/transition-action-the-leg-has-veto-power.md",
+      "mirror_html_path": "/articles/transition-action-the-leg-has-veto-power.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/transition-action-the-leg-has-veto-power.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/transition-action-the-leg-has-veto-power.html",
+      "sha256_plaintext": "9a6f4a176db51adfd56c8ee6d84cccaaa97cd168a647578e807fbf97064f734d"
+    },
+    {
+      "title": "What Is It Like to Be Certain?",
+      "slug": "what-is-it-like-to-be-certain",
+      "published_at": "2026-11-23T06:00:00.000-06:00",
+      "updated_at": "2026-11-23T06:02:01.000-06:00",
+      "canonical_url": "https://modalpathethics.com/what-is-it-like-to-be-certain/",
+      "excerpt": "Thomas Nagel has some strong reasons to doubt artificial consciousness. Unfortunately, Thomas Nagel has also written some strong reasons to doubt Thomas Nagel's certainty.",
+      "tags": [
+        "Engagement",
+        "Modal Systems",
+        "Modal Path Ethics",
+        "Locushood"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/what-is-it-like-to-be-certain.md",
+      "mirror_html_path": "/articles/what-is-it-like-to-be-certain.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/what-is-it-like-to-be-certain.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/what-is-it-like-to-be-certain.html",
+      "sha256_plaintext": "dcb465d7de697e75c347b41eac9918eb66ceab4669e325c3684488419f0f7eb8"
+    },
+    {
+      "title": "Unethical Agents: I Choose Integrity",
+      "slug": "unethical-agents-i-choose-integrity",
+      "published_at": "2026-11-22T06:00:00.000-06:00",
+      "updated_at": "2026-11-22T05:59:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-i-choose-integrity/",
+      "excerpt": "Never announces intentions.",
+      "tags": [],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_path": "/articles/unethical-agents-i-choose-integrity.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html",
+      "sha256_plaintext": "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
+    },
     {
       "title": "Applied Case: The Customer Builds an Exit",
       "slug": "applied-case-the-customer-builds-an-exit",
@@ -28,23 +87,6 @@
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html",
       "sha256_plaintext": "b5f054e502c4e4be7c8ec1fc6896d15742e0a9a56b5491b2a8f4078f26604485"
-    },
-    {
-      "title": "Unethical Agents: I Choose Integrity",
-      "slug": "unethical-agents-i-choose-integrity",
-      "published_at": "2026-11-22T06:00:00.000-06:00",
-      "updated_at": "2026-11-22T05:59:59.000-06:00",
-      "canonical_url": "https://modalpathethics.com/unethical-agents-i-choose-integrity/",
-      "excerpt": "Never announces intentions.",
-      "tags": [],
-      "authors": [
-        "Aidan Lawson"
-      ],
-      "mirror_markdown_path": "/articles/unethical-agents-i-choose-integrity.md",
-      "mirror_html_path": "/articles/unethical-agents-i-choose-integrity.html",
-      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.md",
-      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html",
-      "sha256_plaintext": "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
     },
     {
       "title": "The Age of Miracles, $83 a Share",
@@ -130,10 +172,10 @@
       "sha256_plaintext": "97e8971e7e2740857168f4018a83b08a0cd4d159d45afca534f9bb25d50a7de9"
     },
     {
-      "title": "Applied Case: Nvidia Must Survive Jensen",
+      "title": "Applied Case: Nvidia Must Survive Jensen [Updated]",
       "slug": "applied-case-nvidia-must-survive-jensen",
       "published_at": "2026-11-18T06:00:00.000-06:00",
-      "updated_at": "2026-11-18T06:00:04.000-06:00",
+      "updated_at": "2026-11-23T09:22:57.000-06:00",
       "canonical_url": "https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/",
       "excerpt": "The founder can leave. The obligations cannot.",
       "tags": [
@@ -148,7 +190,7 @@
       "mirror_html_path": "/articles/applied-case-nvidia-must-survive-jensen.html",
       "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.md",
       "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.html",
-      "sha256_plaintext": "c39130fd3668fa5b73bbc5d1e2807f47db2f5fb3f73ef27906057cb536631dcf"
+      "sha256_plaintext": "6689a57afddc4a6c09fbc26e108dd0b3d52eb8c880b4ff25459fe87eb6858380"
     },
     {
       "title": "Convergence Point: Wu & He and the Difference You Cannot See",

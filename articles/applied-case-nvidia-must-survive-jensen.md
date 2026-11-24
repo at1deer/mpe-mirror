@@ -1,10 +1,10 @@
 ---
-title: "Applied Case: Nvidia Must Survive Jensen"
+title: "Applied Case: Nvidia Must Survive Jensen [Updated]"
 slug: "applied-case-nvidia-must-survive-jensen"
 canonical_url: "https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.md"
 published_at: "2026-11-18T06:00:00.000-06:00"
-updated_at: "2026-11-18T06:00:04.000-06:00"
+updated_at: "2026-11-23T09:22:57.000-06:00"
 tags:
   - "Applied Case"
   - "Failed Field Analysts"
@@ -12,11 +12,40 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "c39130fd3668fa5b73bbc5d1e2807f47db2f5fb3f73ef27906057cb536631dcf"
+sha256_plaintext: "6689a57afddc4a6c09fbc26e108dd0b3d52eb8c880b4ff25459fe87eb6858380"
 ---
-# Applied Case: Nvidia Must Survive Jensen
+# Applied Case: Nvidia Must Survive Jensen [Updated]
+
+### Update November 23: And He's Back.
+
+> On November 17, Nvidia's board announced that it would not reinstate Jensen Huang.
+
+> On November 22, that exact same board voted unanimously to reinstate Jensen Huang, effective immediately.
+
+The company [announced the decision](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director?ref=modalpathethics.com) on November 23.
+
+My little recommendation enjoyed **five days** of shelf life.
+
+The board says further discussions with Huang and input from senior US government officials satisfied it that his return posed no national-security risk. The independent investigation remains unfinished. Nvidia has established a National Security and Export Control Committee and plans to appoint a chief compliance officer reporting to a board committee.
+
+Those safeguards are real. Whether they can actually constrain the restored executive remains to be demonstrated.
+
+The ruling below was a recommendation against reinstatement, not a prediction that the board would follow it. Nvidia has now chosen the alternative path I described as "still concievable". That choice does not establish that succession was impossible, or that restoring Huang was necessary.
+
+It does make the next test considerably more interesting.
+
+> Can the board investigate, constrain, and, if necessary, remove the founder it has just welcomed back?
+
+> Can the company develop independent executive capacity while its founder is once again running it?
+
+The original argument stands, now under a slightly different set of operating conditions.
+
+-   Nvidia must survive Jensen Huang.
+-   And apparently, it intends to do so with Jensen Huang.
+
+* * *
 
 Modal Path Ethics has already [given Jensen Huang an F.](https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/)
 

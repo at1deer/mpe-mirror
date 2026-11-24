@@ -4,14 +4,22 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 08:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:16:55 GMT</lastBuildDate>
     
     <item>
-      <title>Applied Case: The Customer Builds an Exit</title>
-      <link>https://modalpathethics.com/applied-case-the-customer-builds-an-exit/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html</guid>
-      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
-      <description>Jensen Huang feared an AI world built on hardware America did not control. Washington is now testing how quickly that world can be built.</description>
+      <title>Transition Action: The Leg Has Veto Power</title>
+      <link>https://modalpathethics.com/transition-action-the-leg-has-veto-power/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/transition-action-the-leg-has-veto-power.html</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+      <description>INSECTRON has six legs, two motors, magnetic joints, and the beginnings of constitutional government.</description>
+    </item>
+
+    <item>
+      <title>What Is It Like to Be Certain?</title>
+      <link>https://modalpathethics.com/what-is-it-like-to-be-certain/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/what-is-it-like-to-be-certain.html</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Thomas Nagel has some strong reasons to doubt artificial consciousness. Unfortunately, Thomas Nagel has also written some strong reasons to doubt Thomas Nagel's certainty.</description>
     </item>
 
     <item>
@@ -20,6 +28,14 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-i-choose-integrity.html</guid>
       <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
       <description>Never announces intentions.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Customer Builds an Exit</title>
+      <link>https://modalpathethics.com/applied-case-the-customer-builds-an-exit/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.html</guid>
+      <pubDate>Sun, 22 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Jensen Huang feared an AI world built on hardware America did not control. Washington is now testing how quickly that world can be built.</description>
     </item>
 
     <item>
@@ -55,7 +71,7 @@
     </item>
 
     <item>
-      <title>Applied Case: Nvidia Must Survive Jensen</title>
+      <title>Applied Case: Nvidia Must Survive Jensen [Updated]</title>
       <link>https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/</link>
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.html</guid>
       <pubDate>Wed, 18 Nov 2026 12:00:00 GMT</pubDate>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-trees-are-still-standing.html</guid>
       <pubDate>Wed, 28 Oct 2026 11:00:00 GMT</pubDate>
       <description>The Chestnut, the Datacenter, and the Speed of the Future</description>
-    </item>
-
-    <item>
-      <title>Play Cumberland Run</title>
-      <link>https://modalpathethics.com/the-cumberland-run/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-cumberland-run.html</guid>
-      <pubDate>Wed, 28 Oct 2026 11:00:00 GMT</pubDate>
-      <description>An excellent new virtual experience from Modal Path Ethics.</description>
-    </item>
-
-    <item>
-      <title>Nathan Fielder Is Technically Allowed to Do This</title>
-      <link>https://modalpathethics.com/nathan-fielder-is-technically-allowed-to-do-this/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/nathan-fielder-is-technically-allowed-to-do-this.html</guid>
-      <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Six ethical audits of Nathan for You</description>
     </item>
   </channel>
 </rss>

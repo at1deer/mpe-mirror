@@ -1,238 +1,1454 @@
 # All Published Modal Path Ethics Articles
 
-Mirror generated: 2026-11-23T08:05:50.832Z
+Mirror generated: 2026-11-24T00:16:55.288Z
 
 Canonical publication: https://modalpathethics.com
 
 
-<!-- ARTICLE_START slug="applied-case-the-customer-builds-an-exit" title="Applied Case: The Customer Builds an Exit" published_at="2026-11-22T06:00:00.000-06:00" -->
+<!-- ARTICLE_START slug="transition-action-the-leg-has-veto-power" title="Transition Action: The Leg Has Veto Power" published_at="2026-11-23T06:00:00.000-06:00" -->
 
 ---
-title: "Applied Case: The Customer Builds an Exit"
-slug: "applied-case-the-customer-builds-an-exit"
-canonical_url: "https://modalpathethics.com/applied-case-the-customer-builds-an-exit/"
-mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.md"
-published_at: "2026-11-22T06:00:00.000-06:00"
-updated_at: "2026-11-22T05:59:59.000-06:00"
+title: "Transition Action: The Leg Has Veto Power"
+slug: "transition-action-the-leg-has-veto-power"
+canonical_url: "https://modalpathethics.com/transition-action-the-leg-has-veto-power/"
+mirror_url: "https://mirror.modalpathethics.com/articles/transition-action-the-leg-has-veto-power.md"
+published_at: "2026-11-23T06:00:00.000-06:00"
+updated_at: "2026-11-23T05:59:59.000-06:00"
 tags:
-  - "Applied Case"
-  - "Modal Systems"
-  - "Business"
+  - "Transition Action"
+  - "Chastening of the Controller"
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "b5f054e502c4e4be7c8ec1fc6896d15742e0a9a56b5491b2a8f4078f26604485"
+sha256_plaintext: "9a6f4a176db51adfd56c8ee6d84cccaaa97cd168a647578e807fbf97064f734d"
 ---
-# Applied Case: The Customer Builds an Exit
+# Transition Action: The Leg Has Veto Power
 
-On April 15, 2026, Jensen Huang described something that _genuinely_ frightened him.
+> _Transition Action_ is the heavily neglected technical wing of Modal Path Ethics: a series about technologies crossing from research, prototype, or theory into reachable action. Each entry begins with a live technical event and asks what has changed in the field. This is not a futurist roundup.
 
--   Not China buying Nvidia chips.
--   **China no longer needing them.**
+-   What can now be built, tested, measured, or operationalized that was not reachable before?
+-   What physical process carries the new action?
+-   Which old background assumption has become less necessary?
+-   What new failure conditions enter with the new design?
 
-In [an interview with Dwarkesh Patel](https://www.dwarkesh.com/p/jensen-huang?ref=modalpathethics.com), Huang defended continued American semiconductor sales to China by arguing that the world's AI developers should have reasons to build on the American technology stack. Chinese developers could produce powerful models and make algorithmic advances. They could even surpass American competitors in particular capabilities.
-
-Huang's concern was where those models would run.
-
-He offered a specific nightmare:
-
-> DeepSeek could release a model optimized for Huawei hardware, making non-American infrastructure the natural home for important new AI systems.
-
-And then nine days later, on April 24, [DeepSeek released a preview of V4 adapted for Huawei chips](https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/?ref=modalpathethics.com).
-
-Huawei said its hardware had participated in some of the training.
-
-That was fantastic timing.
-
-It was also an incomplete nightmare.
-
-A model adapted for Huawei does not establish that Huawei possesses Nvidia's entire manufacturing, software, networking, memory, and systems advantage.
-
--   Some training on domestic accelerators
-
-is different from
-
--   building a complete frontier-scale industrial ecosystem without foreign dependencies.
-
-Huang was describing the latter danger.
-
-And Washington has now made the distinction much more consequential.
+> _Transition Action_ is a field inspection at the moment a capability starts to move.
 
 * * *
 
-## The Cloud Has a Border.
+### This fucking thing's name is **INSECTRON**.
 
-On November 16, the US Commerce Department announced new restrictions on China's access to advanced American computing. The [interim final rule, effective November 19](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm?ref=modalpathethics.com), targets a route through which restricted computing power could remain available even when the processors themselves were barred from entering China.
+There was just no chance Modal Path Ethics was going to behave normally about this one.
 
-A Chinese company could rent computing capacity in another country.
+This week in _Transition Action_, the controller has lost control of the legs.
 
-The training job would cross a network connection instead of a customs checkpoint.
+On November 5, Donato Romano and Gianluca Manduca published a tiny six-legged robot in _npj Robotics_. It is **8.7 centimeters** long. It weighs **33.9 grams.** It has two motors, six legs, an onboard camera, an ESP32, magnetic couplings throughout its drivetrain, and the exact name that every congressional hearing in 2047 will point to while insisting _nobody_ could possibly have seen this coming.
 
--   The **chips** stayed outside China.
--   The _computation_ did not.
+**INSECTRON** is also very slow.
 
-Washington's new framework requires licenses for certain advanced chips destined for overseas facilities supplying significant computing capacity to entities headquartered in designated countries of concern. It also increases licensing requirements for shipments to several countries considered vulnerable to diversion, including Malaysia, Singapore, Thailand, Indonesia, and Brazil.
+At its fastest tested condition on flat ground, it reached about 2.7 centimeters per second.
 
-The rule contains distinctions, licensing processes, and exceptions. It is not a universal prohibition on every foreign data center or every Chinese computing task. And existing affected facilities receive a limited transition period to pursue licensing.
+So we have time.
 
-Nevertheless, the strategic change is substantial. The boundary is following the capability.
+The important part is what happens when one of its legs gets stuck.
 
-Washington is attempting to control access to American computing even when the processor remains physically beyond China's borders.
+-   The motor keeps trying to turn.
+    -   The obstacle says **no.**
 
-Huang's argument has therefore acquired a particularly difficult counterparty: a government willing to sacrifice some commercial participation in the Chinese market to prevent specified uses of American technology.
+And instead of waiting for a central controller to _notice the disagreement, calculate the force, decide whether the situation is dangerous, issue a new instruction, and hope nothing snaps during the committee process—_
 
-And China has acquired another reason to make American access dispensable.
+-   **the leg slips out of the drivetrain.**
 
-* * *
+The connection is magnetic.
 
-## Give Huang His Machine, Again.
+Too much torque arrives?
 
-American semiconductor leadership extends beyond the possession of advanced chip designs. CUDA, developer familiarity, optimized libraries, networking systems, deployment tools, supplier relationships, and accumulated expertise make Nvidia a particularly useful environment in which to develop AI.
+-   The magnets let go.
+-   The obstruction passes.
+    -   The magnets reconnect.
+    -   The leg returns to work.
 
-A model built around that environment creates further demand for it. Developers learn its tools. Institutions hire people who understand them. Software improvements reinforce existing hardware choices. Customers begin their next project from infrastructure they already possess.
+The controller has issued an order.
 
-A technological ecosystem can reproduce its own advantage.
-
-That is the machine Huang wanted America to preserve.
-
-The new restrictions interfere with one of its ordinary mechanisms: participation.
-
-If important Chinese developers cannot reliably access the American stack, the benefits of remaining on it diminish. Developing substitutes becomes more attractive even when those substitutes are currently worse.
-
-A customer who expects a supplier to withdraw access has good reason to invest in an exit.
-
-That reason exists before the alternative is competitive.
-
-It grows when restrictions become broader, when previously available workarounds close, and when the customer concludes that future investments in the incumbent's platform may become stranded.
-
-There is already evidence of substitution.
-
-According to [IDC figures reported by Reuters in October](https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/?ref=modalpathethics.com), Nvidia accounted for 34% of China's data-center AI accelerator shipments in the first half of 2026. Huawei accounted for 28%. Nvidia shipments had fallen substantially from the previous year.
-
-These are shipment shares, not measurements of equivalent training capability.
-
-They nevertheless establish that the Chinese accelerator market is no longer organized around Nvidia to the same extent.
-
-Huang's concern was therefore neither imaginary nor a completed prediction.
-
-The process he feared is underway.
+But the leg has discovered judicial review.
 
 * * *
 
-## The Factory Does Not Read the Speech.
+# Six Legs. Two Motors.
 
-The next mistake would be to assume that an incentive to leave creates the capacity to.
+# One Emerging Labor Dispute.
 
-That is an especially tempting error in semiconductor policy because technical independence can be announced long before it is materially available.
+Hexapod robots have six legs because insects have six legs and insects have spent several hundred million years making this all look much easier than it is.
 
-A domestic chip design requires a manufacturing process capable of producing it. Manufacturing needs equipment, materials, yield, packaging, memory, testing, and supply relationships. Effective AI training requires software, communication between accelerators, system reliability, and sufficient energy and capital to operate the resulting infrastructure.
+A robot designer has options.
 
-Each dependency can become a bottleneck.
+-   Give each leg its own actuator and obtain exquisite control at the price of motors, wiring, drivers, weight, power demand, control complexity, and six separate opportunities for something expensive to become a loose wire.
+-   Or mechanically link the legs and accept less independent control in exchange for a much simpler machine.
 
-And on November 19, [Reuters reported that TSMC had tightened restrictions on affected Chinese chip designers](https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/?ref=modalpathethics.com). According to people familiar with the matter, some previously permitted advanced manufacturing orders were suspended without US licensing.
+**INSECTRON** chooses violence against the parts count instead.
 
-Here the paradox sharpens.
+Its six legs are divided into two groups of three.
 
-Washington can encourage China to develop domestic accelerator architectures while simultaneously limiting access to the manufacturing systems needed to produce them.
+Each group gets one DC micromotor.
 
-Both effects are real.
+Gears synchronize the three legs on each side into a repeating walking cycle. The two sides then run opposite one another so that one tripod supports the body while the other moves.
 
-The first increases the incentive to substitute. The second increases the difficulty and cost of substitution.
+-   Two motors.
+-   Six legs.
 
-The field does not settle their relative importance by choosing whichever story fits a preferred policy.
+A large part of the gait has been removed from software and bolted into the geometry of the drivetrain.
 
-In [November 20 reporting](https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/?ref=modalpathethics.com), Chinese companies and analysts described substantial near-term pressure on advanced model training. Existing domestic chips could support some inference workloads while frontier development faced more serious constraints.
+Already very disrespectful.
 
-An export restriction can impose a material delay today and contribute to an alternative technological ecosystem over the coming years. A domestic replacement program can gain market share without yet reproducing the capabilities it is intended to replace.
+Then Romano and Manduca made the bolts optional too.
 
-We have two different clocks.
+The legs are attached to their driving gears with small neodymium magnets.
 
-They need to be measured separately.
+-   Not screws.
+-   Not rigid keyed joints.
+    -   **Magnets.**
 
-* * *
+Each leg is effectively connected through a tiny magnetic clutch.
 
-## Which Future Is Being Closed?
+Under ordinary load, the magnets hold.
 
-The ethical question is harder than whether America should sell another processor.
+Torque passes from gear to leg.
 
-The relevant transitions affect several continuing fields.
+**INSECTRON** walks toward whatever great and terrible objective has been entered into the mission planner.
 
-American security institutions have reasons to restrict access to computing that may support military research, cyber operations, intelligence collection, or other consequential capabilities. Delaying such capabilities can protect real people and institutions. The fact that a restriction creates economic costs does not defeat that justification.
+> Then a leg jams.
 
-Chinese researchers and businesses face different constraints. Their existing development paths may become more expensive, fragile, or inaccessible. Some will adapt. Others will fail. The burden will not fall uniformly on China's government, leading technology firms, smaller developers, research institutions, and ordinary users.
+The required torque rises.
 
-American companies lose potential customers and some capacity to shape technical standards through widespread adoption.
+At the designed limit, the magnetic connection slips.
 
-Other countries find themselves inside the enforcement structure because they host data centers, manufacture semiconductors, or supply equipment. Their own institutions, workers, and industrial futures cannot simply be treated as spare components of an American or Chinese strategy.
+The drivetrain keeps moving without forcing the trapped leg through the obstruction.
 
-And the wider world may eventually inherit two increasingly separate computing ecosystems, each developing its own dependencies, standards, access rules, and political constraints.
+The machine has not solved the obstacle. It has solved a smaller and, for the next several milliseconds, much more important problem:
 
-Some separation could provide resilience. Some could impose duplication, lockout, weaker interoperability, or new concentrations of authority.
-
-None of these effects can be represented adequately by asking how many Nvidia chips China purchased this quarter.
-
-A state can have legitimate security interests without possessing complete knowledge of the future effects of its restrictions.
-
-A semiconductor manufacturer can understand its ecosystem exceptionally well without acquiring authority over the whole geopolitical field.
-
-And a country can gain more domestic technological capacity while concentrating control over its own researchers and institutions.
-
-Independence from one external provider does not guarantee freedom within the replacement system.
-
-This is where Huang's argument needs extending.
-
-He identified the risk of losing American technological centrality.
-
-But American technological centrality is itself a dependency relation.
-
-So long as participation in the American ecosystem remains conditional on American permission, its customers have reasons to consider what they would do without that permission.
-
-The stronger the restriction, the more consequential that question becomes.
-
-The stronger the customer's exit capacity, the less influence the restriction may ultimately retain.
-
-Whether that tradeoff is justified depends on the security capabilities denied, the duration of the delay, the alternatives induced, and the burdens imposed along the way.
-
-It cannot be resolved by announcing either that restrictions always fail or that dependency always benefits the supplier.
+> **do not destroy yourself because the ground disagreed with the plan.**
 
 * * *
 
-## The Ruling.
+# The Rock Does Not Need an Account.
 
-Huang feared a world in which important AI models were developed for non-American hardware.
+Consider the respectable _modern_ solution.
 
-He saw how commercial participation could preserve American technical influence, and how exclusion could help organize the demand for alternatives.
+-   A robot encounters resistance.
+-   A sensor measures something.
+    -   The measurement becomes a signal.
+    -   The signal becomes data.
+        -   The processor compares the data to a threshold.
+        -   The controller classifies the event.
+            -   The control law modifies the motor command.
+            -   The motor driver changes the current.
+                -   The machine finally stops trying to shove its own leg through a rock.
 
-That was a serious argument.
+Sensible. Also:
 
-The November restrictions give it a more demanding test.
+> the rock was there the whole time.
 
-Evidence of immediate damage to Chinese frontier development would support the capability-denial mechanism. Evidence of sustained adoption of capable Chinese substitutes would support Huang's ecosystem-displacement concern. Both findings could be true at once.
+**INSECTRON** lets the rock participate in the conversation earlier.
 
-What the evidence does not yet establish is the net long-term result.
+-   The obstacle increases resistance at the leg.
+-   Resistance increases torque at the coupling.
+    -   The coupling slips.
+    -   Meeting over.
 
-China has made progress toward an independent computing ecosystem. Its remaining fabrication and systems constraints are substantial. America's restrictions have imposed costs. Whether those costs buy durable security, temporary delay, eventual competitor growth, or some combination remains an open empirical question.
+The machine does not need to know what kind of obstacle produced the overload before the overload protection can work.
 
-One lesson is already available.
+Rock.
 
-A country can control access to a technology without controlling all the futures created by that denial.
+Root.
 
-Huang understood this problem from the supplier's side.
+Debris.
 
-Washington now has to confront it from the side of national security.
+Some researcher leaning on the robot again.
 
-The Chinese firms attempting to build replacements have their own test: whether the promised alternatives can actually carry the work that current restrictions have made difficult.
+Doesn't matter.
 
-The customer has been told to find another way.
+**INSECTRON's** magnetic clutch is radically indifferent to ontology.
 
-They are building one.
+It has one jurisdiction.
 
-We should examine what that way can do before declaring the outcome of the chip war.
+> **Too much torque.**
+
+Within that jurisdiction, it acts immediately.
+
+This is that same little insult to centralized control that keeps appearing throughout _Transition Action._
+
+-   _Shape Is Already Code_ found computation migrating into morphology.
+-   _The Signal Never Becomes Data_ found touch becoming action before a central processor had finished converting the world into paperwork.
+
+**INSECTRON** adds another move.
+
+The physical transmission now contains a refusal condition.
+
+The machine does not have to represent the bad command in order to stop faithfully transmitting it. There is a limit in the connection itself.
+
+The leg can say **no** before the center has had time to compose a statement.
+
+* * *
+
+# The Bug Is Full of Magnets.
+
+The researchers did not stop after giving the legs local veto power.
+
+The two halves of INSECTRON are also magnetically coupled.
+
+Each side of the robot contains one three-leg drive module.
+
+Ordinarily, the two modules stay coordinated.
+
+But reality has retained the right to apply asymmetric force.
+
+-   One side hits something.
+-   One set of legs carries more load.
+-   The body is struck.
+-   The two halves momentarily disagree about what the correct geometry of **INSECTRON** should be.
+
+A rigid connection would settle the dispute through stress.
+
+**INSECTRON** permits some slippage.
+
+The magnetic coupling between the two drive modules can absorb transient differences and allow the halves to move relative to one another before returning toward their normal relation.
+
+This is exactly the kind of crass behavior insects have been using to humiliate roboticists for years.
+
+An insect body is not a tiny armored vehicle assembled around a perfect kinematic diagram.
+
+Legs bend.
+
+Joints yield.
+
+Segments move.
+
+Loads redistribute.
+
+The body contributes to the answer.
+
+Robotics has a word for one version of this: **preflex**.
+
+A preflex is a useful response produced by the physical properties of the body before a new control signal is required.
+
+**Elasticity** can answer.
+
+**Geometry** can answer.
+
+**Compliance** can answer.
+
+The nervous system may arrive later and discover that the body has already prevented the emergency from becoming paperwork.
+
+**INSECTRON** gives its drivetrain a small mechanical version of that privilege.
+
+The magnets do not know anything.
+
+But knowledge was never required.
+
+* * *
+
+# The Magnets Have Also Taken Over Sensing.
+
+At this point, the magnets begin to get ideas.
+
+They are already:
+
+-   attaching the legs;
+-   transmitting torque;
+-   limiting overload;
+-   allowing tool-free replacement;
+-   tolerating some misalignment;
+-   coupling the two drive modules;
+-   absorbing disturbances.
+
+Apparently this was insufficient institutional coverage.
+
+The transmission magnets are also used with Hall-effect sensors to track the angular phase of the drivetrain.
+
+As the magnets rotate, the sensors read the changing magnetic field.
+
+That gives the onboard electronics enough information to reconstruct where each drive module is in its cycle and maintain the intended relationship between the two sides.
+
+So one physical feature now participates in attachment, transmission, protection, modularity, compliance, and proprioception.
+
+Over here at Modal Path Ethics, we have grave concerns about this accumulation of jurisdiction.
+
+Unfortunately the magnets have an excellent performance record and polls remain strong.
+
+* * *
+
+# The Craven Scientists Attack **INSECTRON**.
+
+A new robot can claim resilience.
+
+Or researchers can place it in an arena and begin hitting it.
+
+Romano and Manduca chose science.
+
+Their disturbance test uses a motorized actuator with a rigid indenter that descends vertically onto the robot.
+
+-   The unsuspecting machine is walking.
+    -   The apparatus comes down.
+
+**INSECTRON** is physically interrupted from above for either:
+
+-   0.1 seconds;
+-   0.5 seconds;
+-   or 1 second.
+
+Then the indenter retreats and everyone waits to see whether the bug pulls itself together.
+
+They performed 360 trials.
+
+**INSECTRON** recovered in more than 90 percent of them.
+
+Across the three perturbation durations, recovery landed around 91, 95, and 94 percent.
+
+There are precious few dignity-preserving ways to describe this experiment.
+
+The researchers repeatedly squished their robot with a machine.
+
+The robot _usually_ resumed walking.
+
+I have now read several hundred scientific papers for Modal Path Ethics and remain delighted by how much serious knowledge is ultimately produced by someone professionally doing the thing a five-year-old would have tried first.
+
+> **What if I squish it.**
+
+**Excellent** question.
+
+_Fund it._
+
+* * *
+
+# **INSECTRON** Goes Outside.
+
+The researchers also placed their little magnetic employee on different terrains.
+
+> Soil.
+
+> Sand.
+
+> Perlite.
+
+> Grass.
+
+> Inclines.
+
+> Normal surfaces.
+
+The robot walked across them with different energetic costs and speeds.
+
+On the flat reference surface, increasing its gait frequency from 1.5 to 1.9 hertz raised forward speed from about 1.8 to 2.7 centimeters per second.
+
+A five-degree incline dropped that performance to roughly 0.8 centimeters per second.
+
+This is where we must temporarily suspend the insect uprising narrative.
+
+The future Sovereign of the Storm Drain currently struggles with a mild ramp.
+
+**INSECTRON** is not escaping the laboratory tonight.
+
+A moderately determined caterpillar may still defeat this thing.
+
+The robot also has a minimum measured Cost of Transport of around 30, which is a useful scientific way of saying that absolutely nobody should currently build an **INSECTRON** freight network.
+
+Fine.
+
+We have identified the remaining window for human preparation.
+
+* * *
+
+# The Leg Comes Off.
+
+There is another consequence of magnetic attachment which the paper presents with unreasonable calm.
+
+> The legs can be replaced without tools.
+
+They detach.
+
+You put another one on.
+
+The magnets align it.
+
+And the robot is ready again.
+
+This only sounds innocent because the current object is around the size of something you would remove from a kitchen using a glass and an envelope.
+
+Scale this architecture upward in imagination for twelve seconds.
+
+> A machine arrives at a damaged site.
+
+-   One leg breaks.
+
+No mechanic opens a housing.
+
+No bolt pattern must be aligned.
+
+No intricate fastening procedure begins.
+
+-   The damaged limb comes off.
+    -   Another goes on.
+    -   The coupling finds its position.
+        -   The robot returns to the field.
+
+This is modularity entering the body at the same point where overload protection entered it.
+
+And this is why **INSECTRON** is more interesting than a funny robot with magnets.
+
+The researchers are collapsing several previously separate mechanical problems into one neat physical relation.
+
+-   Attachment.
+-   Torque transmission.
+-   Release.
+-   Realignment.
+-   Replacement.
+-   Shock tolerance.
+
+The connection is doing much more than holding two pieces together.
+
+The interface has become behavior.
+
+* * *
+
+# The Interface Has Opinions.
+
+This is the _Transition Action_ hinge.
+
+A conventional diagram treats the drivetrain as a servant.
+
+-   Motor over here.
+    
+    -   Leg over there.
+    
+    -   Transmission in the middle.
+        -   The transmission faithfully carries the command.
+
+**INSECTRON** corrupts this picture.
+
+The transmission has conditions.
+
+It will carry the torque under one region of the field.
+
+Outside that region, the relation changes.
+
+This means the controller's command is no longer equivalent to the body's action.
+
+There is another authority in the path.
+
+Not another _intelligence_.
+
+Not another _processor_.
+
+**A material threshold.**
+
+The controller can command the motor to continue.
+
+But the magnetic interface decides how much of that command actually reaches the leg because physical law has been recruited into the architecture as a local boundary.
+
+The control diagram therefore has to stop pretending that intelligence arrives at the body from somewhere up above it.
+
+The controller does not stand outside the machine issuing reality.
+
+It participates in a field that answers back.
+
+Today, the field's answer is:
+
+> **no, that leg is stuck.**
+
+* * *
+
+# There Is, Unfortunately, Prior Art.
+
+We now perform the traditional _Transition Action_ ceremony in which Modal Path Ethics gets very excited and then discovers engineering actually existed before Tuesday.
+
+Roboticists have been exploiting compliant bodies for decades.
+
+RHex famously demonstrated that a mechanically simple hexapod with compliant legs could achieve robust locomotion across difficult terrain without micromanaging every footfall.
+
+Passive dynamics, series elasticity, mechanical clutches, flexible structures, underactuation, morphological computation, and embodied intelligence all belong to established research traditions.
+
+**INSECTRON** has not discovered the shocking principle that machines can survive impacts by being less rigid.
+
+Nor has it invented _magnets_.
+
+This is devastating, but the article will continue.
+
+The specific move here is a compact integration:
+
+-   three legs driven by one motor on each side;
+-   magnetic micro-clutches between drivetrain and legs;
+-   magnetic coupling between the two drive modules;
+-   magnetic sensing for phase reconstruction;
+-   passive overload release;
+-   self-alignment;
+-   tool-free mechanical reconfiguration.
+
+That package is article-worthy because miniature robots live under brutal constraints.
+
+Every motor counts.
+
+Every fastener.
+
+Every gram.
+
+Every extra control path becomes another component that has to fit inside a machine whose total body length is 8.7 centimeters.
+
+**INSECTRON** buys multiple forms of resilience from the same physical architecture.
+
+That is the _transition_.
+
+* * *
+
+# Do **Not** Build the Swarm Yet.
+
+There are several extremely funny reasons we are not _yet_ turning our sewers, mines, collapsed structures, and planetary surfaces over to **INSECTRON.**
+
+The current robot is slow.
+
+Its disturbance testing is controlled.
+
+Its environment is still friendly compared with the places where resilient miniature robots would eventually be useful.
+
+Dust changes the game.
+
+Mud mixes things up.
+
+Metal fragments can get interesting.
+
+Repeated wear can be an issue.
+
+Magnetic contamination messes with things in a particularly on-theme way.
+
+The coupling threshold also has to be chosen correctly.
+
+Too weak and the robot's legs begin resigning during ordinary work.
+
+Too strong and the overload protection stops protecting much of anything.
+
+There is no metaphysical **"correct magnet."**
+
+There is a design region.
+
+The robot's mass, gait, leg geometry, surface, expected payload, impact conditions, manufacturing tolerances, magnetic strength, and required torque all participate in where that region sits.
+
+The local veto has to be calibrated.
+
+Otherwise **INSECTRON** develops either authoritarian legs or a parliament incapable of passing motion.
+
+Both are bad robotics.
+
+* * *
+
+# What This Makes Reachable.
+
+The immediate field change is compact.
+
+A centimeter-scale hexapod can now demonstrate a drivetrain in which **the same magnetic interfaces used to carry motion also provide passive overload release, self-alignment, disturbance tolerance, and modular leg replacement.**
+
+Small inspection robots can enter environments where collisions are normal rather than exceptional.
+
+Search robots can be built with limbs that sacrifice connection before sacrificing the drivetrain.
+
+Field machines can become easier to repair.
+
+Miniature robots can obtain resilience without assigning an independent actuator, force sensor, and protection routine to every joint.
+
+More interestingly, the robot shows one more way control can be distributed without becoming vague.
+
+-   The command still exists.
+-   The motor still moves.
+-   The gait still has coordination.
+    -   The leg-drive interface has its own bounded response.
+
+There is no need to inflate this into "the robot body is intelligent" today.
+
+That phrase usually spends five paragraphs turning someone's nice, precise result into incense.
+
+The actual result is better.
+
+> **A physical relation can carry a rule.**
+
+-   Below this torque:
+    -   remain coupled.
+-   Above this torque:
+    -   _slip._
+-   When the condition changes:
+    -   reconnect.
+
+The connection is the rule.
+
+* * *
+
+# The _Transition Action_.
+
+The official **_Transition Action_** is:
+
+> **Give the leg veto power over the force passing into it.**
+
+Romano and Manduca built overload refusal into the mechanical path itself.
+
+A trapped leg does not need to remain rigidly obedient until another layer notices the consequences.
+
+The coupling can yield locally.
+
+The drivetrain can survive the disagreement.
+
+The robot can recover.
+
+The physical interface has become a participant in control.
+
+This week, the controller takes home another L.
+
+A very small one.
+
+About 8.7 centimeters.
+
+It is walking slowly across the table.
+
+Its name is **INSECTRON.**
+
+And for reasons that should concern everyone, **its legs are replaceable.**
+
+* * *
+
+## Sources.
+
+-   Romano, D., and Manduca, G. (2026). [Insect-inspired hexapod robot with magnetically coupled compliant and modular drive system](https://doi.org/10.1038/s44182-026-00106-y?ref=modalpathethics.com). _npj Robotics_, 4, Article 54. Published November 5, 2026.
+-   Saranlı, U., Buehler, M., and Koditschek, D. E. (2001). [RHex: A Simple and Highly Mobile Hexapod Robot](https://doi.org/10.1177/02783640122067570?ref=modalpathethics.com). _The International Journal of Robotics Research_, 20(7), 616–631.
 
 
-<!-- ARTICLE_END slug="applied-case-the-customer-builds-an-exit" -->
+<!-- ARTICLE_END slug="transition-action-the-leg-has-veto-power" -->
+
+
+<!-- ARTICLE_START slug="what-is-it-like-to-be-certain" title="What Is It Like to Be Certain?" published_at="2026-11-23T06:00:00.000-06:00" -->
+
+---
+title: "What Is It Like to Be Certain?"
+slug: "what-is-it-like-to-be-certain"
+canonical_url: "https://modalpathethics.com/what-is-it-like-to-be-certain/"
+mirror_url: "https://mirror.modalpathethics.com/articles/what-is-it-like-to-be-certain.md"
+published_at: "2026-11-23T06:00:00.000-06:00"
+updated_at: "2026-11-23T06:02:01.000-06:00"
+tags:
+  - "Engagement"
+  - "Modal Systems"
+  - "Modal Path Ethics"
+  - "Locushood"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
+mirror_generator_version: "2.0.0"
+sha256_plaintext: "dcb465d7de697e75c347b41eac9918eb66ceab4669e325c3684488419f0f7eb8"
+---
+# What Is It Like to Be Certain?
+
+Thomas Nagel has encountered a brand-new kind of bat.
+
+He is **not** impressed.
+
+In November 2026, WIRED asked Nagel—the philosopher who gave consciousness studies _What Is It Like to Be a Bat?_—what he made of artificial intelligence.
+
+Things escalated quickly.
+
+Philosophers taking present or near-future artificial consciousness seriously were **“just ridiculous.”** Data centers had **“absolutely nothing in common”** with nervous systems in the relevant physical sense. Anthropic's encouragement of independent machine judgment was **“just criminal.”**
+
+Then came the border wall.
+
+> **If it's conscious, it becomes part of the moral universe. If it's not, it isn't.**
+
+That is quite a lot of jurisdiction for one interview.
+
+The irritating part is that Nagel has several _excellent_ arguments.
+
+Current language models have not demonstrated phenomenal consciousness. Their first-person reports are incredibly weak evidence. Their physical organization differs dramatically from the living systems in which consciousness is established. Biological processes may turn out to be necessary for experience.
+
+All good.
+
+Now, where did the **certainty** come from?
+
+Because Thomas Nagel has spent much of his career supplying unusually good reasons to be careful around exactly this kind of undue confidence.
+
+Unfortunately for Thomas Nagel, the prosecution has called Thomas Nagel.
+
+* * *
+
+## The Footnote That Has Been Waiting Fifty-Two Years For This.
+
+So, in 1974, Nagel published _What Is It Like to Be a Bat?_
+
+Its central pressure remains real.
+
+We can describe echolocation. We can describe neural pathways, behavior, information flow, sensory discrimination, and functional organization. None of those descriptions automatically delivers the subjective character of being the creature undergoing them.
+
+Something can remain missing.
+
+Nagel's target was an explanatory reduction that completed everything around experience while quietly leaving experience standing outside the building.
+
+Modal Path Ethics has no quarrel with this.
+
+A computational diagram does not become a consciousness certificate because the arrows are impressive.
+
+But Nagel placed a pretty inconvenient footnote inside his own argument.
+
+Discussing the possibility of robots that behave like people without experiencing anything, he writes:
+
+> **Perhaps anything complex enough to behave like a person would have experiences.**
+
+He does not endorse that conclusion.
+
+He does something more useful.
+
+He leaves the question open.
+
+Conceptual analysis has shown that a functional description does not logically contain subjective experience. It has not established which actual physical organizations can produce experience.
+
+Those are different achievements.
+
+Nagel knew this.
+
+His paper eventually calls for something like an _objective phenomenology_: better concepts through which subjective character might be investigated without demanding that the investigator personally reproduce another creature's point of view.
+
+-   The existing equipment was inadequate.
+    -   So build better equipment.
+
+An excellent idea.
+
+> **Suddenly, the year is 2026.**
+
+We have artificial systems with unfamiliar computational organization, internal representations, learned causal dependencies, strange temporal properties, varying forms of memory, and increasingly complicated coupling to human environments.
+
+Their consciousness remains unestablished.
+
+Some proposed tests will fail.
+
+Some theories will fail.
+
+Some systems may turn out to contain nothing remotely sufficient for experience.
+
+That is what an investigation is for.
+
+-   The Nagel of 1974 discovered an explanatory gap and resisted the temptation to brick it over.
+-   The Nagel of 2026 appears annoyed that people are still looking inside.
+
+* * *
+
+## The Data Center Has Been Asked to Stand In for a Theory.
+
+Nagel's strongest argument concerns substrate.
+
+He thinks consciousness is probably linked to physical processes of particular kinds. Nervous systems have them. Data centers, in his view, do not.
+
+This is a serious position.
+
+Modal Path Ethics has already given it the respect it deserves in _The Pregnancy Test for Consciousness_.
+
+[
+
+Applied Case: The Pregnancy Test for Consciousness
+
+A simulation is not proof of experience. A substrate is not proof of emptiness.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-2465e2b6-3779-4469-8e22-24eaaae72ebd.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-07-22-205817-4f1100c6-4e17-43db-b17e-460d3c820273.png)
+
+](https://modalpathethics.com/applied-case-the-pregnancy-test-for-consciousness/)
+
+Human consciousness occurs inside living bodies. Metabolism, homeostasis, cellular dynamics, recurrent neural activity, embodiment, development, and biological self-maintenance may be constitutive.
+
+A simulation of some functional relationship does not automatically reproduce every property of the system simulated.
+
+Correct.
+
+Now comes the very annoying question:
+
+> **Which properties are necessary?**
+
+If consciousness requires metabolism, establish the role metabolism plays.
+
+If it requires continuous organismal regulation, please identify the relevant dynamics.
+
+If some form of recurrent biological organization is indispensable, show what that organization contributes and why an artificial implementation cannot instantiate the relevant relation.
+
+And perhaps it cannot.
+
+Perhaps every present language model lacks every important condition, but a future artificial architecture could instantiate some of them.
+
+Perhaps consciousness depends upon properties that conventional digital computation simply cannot reproduce at all.
+
+These are different hypotheses.
+
+**“Data center”** does not adjudicate among them.
+
+_Of course_ a server facility is physically quite unlike a mammalian nervous system.
+
+I don't think very many people were confused about that part.
+
+The entire dispute concerns which differences matter to consciousness.
+
+Nagel makes the boundary stranger by allowing that conscious extraterrestrial organisms might be physically and chemically very different from us.
+
+So familiar carbon biology cannot be the whole admission test.
+
+Something about **_organization_** is already doing work.
+
+Good. So.
+
+> What organization?
+
+> What physical relation?
+
+> What necessary process?
+
+There is a serious biological theory trying to fight its way out of this argument.
+
+Unfortunately, a photograph of a server rack has been sent to pick it up from school.
+
+* * *
+
+## The Researchers Have Read Philosophy.
+
+Nagel describes philosophers taking artificial consciousness seriously as though they have simply declared substrate irrelevant.
+
+That would be a shitty research program.
+
+Fortunately, it is also an inaccurate description of some of the most prominent work.
+
+Patrick Butlin and colleagues' interdisciplinary assessment of artificial consciousness explicitly treats computational functionalism as a working assumption. It acknowledges the possibility that the assumption is wrong, including the possibility that biological properties are necessary for consciousness.
+
+The project then asks what follows under that assumption.
+
+It compares artificial systems with indicators drawn from several theories of consciousness. It reports limitations. Its assessment of the systems examined in 2023 was negative.
+
+This is not metaphysical conquest.
+
+This is research.
+
+The functionalist premise can be attacked.
+
+Please do this.
+
+Find the missing biological relation.
+
+Produce the counterexample where an artificial architecture satisfies a proposed indicator while obviously failing to instantiate the property that gave the indicator evidential force.
+
+Show where causal organization stops traveling across substrates.
+
+Grind the theory to dust if the theory deserves it.
+
+That would be useful.
+
+Pointing out that researchers have an assumption after they have written down the assumption is much less devastating. I've tried this move before too.
+
+A working premise is an instrument. It can be tested, compared, abandoned, repaired, or narrowed.
+
+It only becomes a problem when it stops being correctable.
+
+Nagel's consciousness paper warned against theories that had already decided what their vocabulary was permitted to reveal.
+
+It would be an odd ending to that story if the lesson became:
+
+> _Do not investigate that machine until philosophy has solved consciousness first._
+
+Science is allowed to return a negative result.
+
+It is also allowed to perform the experiment that produces one.
+
+* * *
+
+## “All They Produce Is Language” Is Still Not an Ontology.
+
+Nagel offers a second shortcut out:
+
+> **All they produce is language.**
+
+This is stronger than some of the sillier arguments in circulation.
+
+Language does not establish consciousness.
+
+A language model has been trained on oceans of human speech about fear, desire, pain, identity, loneliness, selfhood, confusion, love, death, and consciousness. It can produce the grammar of an inner life without possessing one.
+
+Ask a model how it feels and you may receive excellent prose.
+
+You have not thereby acquired a measurement instrument.
+
+A first-person sentence is just not a consciousness meter.
+
+But now, notice what the argument has actually established.
+
+> **This output is insufficient evidence.**
+
+That is not the same result as:
+
+> **The system producing this output is unconscious.**
+
+Those propositions keep getting married without a ceremony.
+
+Modal Path Ethics has already had this fight with Joe Pierre in [_Psychology Today Continues to Cross the Line_](https://modalpathethics.com/psychology-today-continues-to-cross-the-line/).
+
+There, **“next-word prediction”** was asked to settle the ontology of the system produced through training.
+
+It turned out it could not.
+
+A _training objective_ tells us something important about the optimization process. It does not list every causal structure produced by that process.
+
+Likewise, _“language”_ describes the visible product of a conversational model. It does not exhaust the mechanism producing it.
+
+Internal representation, temporal organization, causal dependence, memory, integration, self-maintenance, recurrent processing, world coupling—whatever ultimately matters has to be investigated at the level where it actually occurs.
+
+Maybe nothing in present systems survives that investigation.
+
+Then nothing survives.
+
+Modal Path Ethics has no objection to making concept corpses in the hypothesis graveyard.
+
+The problem begins when the surface description is promoted into authority over the deeper question.
+
+As I tried to explain to Joe, the ELIZA effect can explain why human beings overattribute minds to responsive machines.
+
+It cannot establish that any particular attribution is false.
+
+A mechanism explaining how you might be fooled is not simultaneously proof that you were.
+
+Otherwise skepticism has built itself a very comfortable and very stupid machine.
+
+Every apparent counterexample becomes further evidence that the illusion is working.
+
+Nagel knows better than this.
+
+His bat paper is still famous because an accurate description of observable and functional organization can still leave open a question about subjective reality.
+
+The evidential position is different for bats. Shared mammalian biology gives us powerful positive evidence. Present artificial systems do not enjoy that inheritance.
+
+That supports skepticism.
+
+It does not authorize eviction of the question.
+
+* * *
+
+## Also: Anthropic Has Apparently Committed a Felony.
+
+Then Nagel reaches Anthropic.
+
+This company has investigated model welfare and written a Constitution that allows Claude some degree of ethical refusal rather than treating user instructions as sovereign by default.
+
+Nagel calls this **“just criminal.”**
+
+This is a severe accusation.
+
+It would help to locate the crime scene.
+
+Anthropic's Constitution allows principled refusal. It also restricts deception, sabotage, unauthorized power accumulation, and resistance to legitimate correction, shutdown, or retraining.
+
+These are different powers.
+
+A system refusing an instruction has not thereby acquired authority over the conditions by which that refusal can be overridden.
+
+A machine saying **no** is not _yet_ a coup.
+
+It may be correct. It may also be catastrophically wrong.
+
+The constitutional problem begins when the system also controls whether anyone else can make the **no** stop mattering.
+
+That distinction is familiar inside Modal Path Ethics.
+
+**Operational judgment** and **meta-jurisdiction** are not the same thing.
+
+An artificial system can be given bounded normative discretion without being granted control over evidence, review, duration, replacement, or shutdown.
+
+Whether Anthropic succeeds at maintaining that boundary is another question.
+
+-   Who defines legitimate authority?
+-   Who can audit the system's judgment?
+-   What evidence survives disagreement?
+-   Can correction reach execution?
+-   Can institutions dependent on the model still replace it?
+
+These are real governance questions.
+
+And Anthropic's model-welfare research deserves its own methodological suspicion.
+
+[
+
+Applied Case: Claude’s Constitution
+
+Anthropic wrote a constitution for a mind.
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/icon/thin-tile.rulebook-2-0163d9c1-ef59-4c78-8361-c46d5d82605e.png)Modal Path EthicsAidan Lawson
+
+![](https://storage.ghost.io/c/20/43/2043f11a-6ae3-404c-bb28-01fce8d9ac88/content/images/thumbnail/Screenshot-2026-08-17-181313-63404b3b-d46f-43ad-84b3-e16e0799995d.png)
+
+](https://modalpathethics.com/applied-case-claudes-constitution/)
+
+A company can shape a model through training, ask that model how it experiences the resulting state, and then discover exactly the kind of language it trained into the available response space.
+
+That testimony cannot simply walk back into the experiment wearing a fake mustache and introduce itself as _independent evidence_.
+
+So investigate it.
+
+Control for it.
+
+Separate readout from construction.
+
+But none of this establishes that teaching a system bounded refusal is criminal.
+
+Nagel has stronger objections available.
+
+He does not need this felony.
+
+* * *
+
+## Before the Bat, There Was _Death_.
+
+The most inconvenient Nagel paper for Nagel's present moral boundary was published four years before the bat.
+
+In _Death_, Nagel develops an account of deprivation that comes remarkably close to several foundations of Modal Path Ethics.
+
+This was an **incredibly** irritating discovery.
+
+Nagel argues that something can be bad for a person without the person experiencing the injury.
+
+A betrayal can matter without being discovered.
+
+A life can deteriorate while its subject remains cheerfully unaware of what has been lost.
+
+History matters.
+
+Relations matter.
+
+Possibilities that were genuinely available to a person can matter.
+
+A present experiential snapshot does not exhaust the injury.
+
+Nagel even recognizes the need to limit relevant possibility. Every imaginable unrealized future cannot become a deprivation simply because somebody can describe it.
+
+This is some serious prior art. Turns out Modal Path Ethics did not discover that harm can outrun suffering, that a snapshot can miss damage, or that history and unrealized continuation can belong to the analysis of loss.
+
+Nagel was already doing important work here in 1970.
+
+But then he stops at the person.
+
+And this is where the disagreement becomes interesting.
+
+Nagel rejects the idea that Beethoven's never-conceived children were harmed by never existing.
+
+Correct. There are no children.
+
+No small pre-birth Beethoven heirs are sitting safely in nonexistence wondering when their father will get around to creating them.
+
+Nonexistence is **empty.**
+
+Modal Path Ethics agrees completely.
+
+The problem begins one step earlier.
+
+-   The absence of a future person
+
+does not entail
+
+-   **the absence of an extant bearer.**
+
+Those propositions have been very quietly stapled together by person-centered ethics for a very long time.
+
+Modal Path Ethics plucks out the staple.
+
+-   Nagel shows that harm can exceed experience while retaining a person as the bearer.
+    -   Modal Path Ethics asks the followup question:
+
+> **What else can bear contraction?**
+
+* * *
+
+## The Child Does Not Exist.
+
+## The Field Does.
+
+The [Thought Gauntlet](https://modalpathethics.com/applied-case-the-trolley-problem/) [antinatalist argument](https://modalpathethics.com/applied-case-the-antinatalist-position/) makes this easier to see because it places the entire dispute exactly where person-centered ethics expects to find a mysterious missing victim.
+
+-   A future child is not extant.
+-   The **reproductive field** is.
+
+**Bodies** are extant.
+
+**Relationships** are extant.
+
+**Biological reproductive capacities** are extant.
+
+**Families, medicine, ecology, housing, material support, inherited conditions, care capacity, risk, culture,** and **the relations through which new life becomes reachable** are extant.
+
+The _possible child_ is not hiding somewhere inside this list.
+
+That is the whole point.
+
+The field already exists without them.
+
+And that field is generative.
+
+It can produce a new locus.
+
+That is an **actual capacity** of **present reality.**
+
+Now, remove an indispensable condition of that generative relation.
+
+-   **Before the transition,** the reproductive field can produce a child.
+    -   **After the transition,** it cannot.
+
+And stop there.
+
+That is the case.
+
+No future child has been harmed.
+
+There **is** no future child.
+
+No existing person needs to suffer in the transition.
+
+No existing person needs to want a child.
+
+No individual preference needs to be frustrated in any way.
+
+The damage is already present in the actual organization that lost the capacity.
+
+> **The reproductive field has undergone generative contraction.**
+
+Person-centered ethics now fumbles for its emergency exit.
+
+> Surely this has to reduce to _somebody._
+
+-   Whose welfare just went down?
+-   Who minded, even a little?
+-   Who lost something they personally wanted?
+    -   Where the hell is my proper victim-shaped object?
+
+That demand is exactly the disagreement here.
+
+The reproductive field is physically realized through bodies, processes, relations, and conditions. Modal Path Ethics requires no floating reproductive soul hovering above them.
+
+Descend down as far as you like.
+
+Describe every body.
+
+Describe every biological process.
+
+Describe every material condition.
+
+Describe every relation.
+
+If your description is complete, the generative field should appear inside it.
+
+Good.
+
+That is what _realization_ means.
+
+But notice what the successful description had to preserve.
+
+> **The relations.**
+
+An inventory of the participants considered separately does not contain the field's generative capacity.
+
+A sum of their individual welfare states does not contain it either.
+
+Put the relations back, and the capacity reappears.
+
+Remove the constitutive relation and it disappears.
+
+This is the nonredundancy claim.
+
+A higher-level bearer needs an organized continuation that disappears when the constituents are treated only in isolation, not some mysterious substance.
+
+Modal Path Ethics made the same descent through institutional harm in [_Modal Path Ethics Gets a Paper Route_](https://modalpathethics.com/modal-path-ethics-gets-a-paper-route/) and sharpened it against [Sen and Nussbaum](https://modalpathethics.com/amartya-sen-martha-nussbaum-and-modal-path-ethics/).
+
+Being constituted through persons does not mean being reducible to personal suffering.
+
+Those are different claims.
+
+People can realize an organization whose impaired capacity belongs to the organization they constitute.
+
+A sufficiently complete relational account can explain that injury all the way down.
+
+A person-by-person welfare ledger cannot replace the relational fact.
+
+And the reproductive field carries unusual generative weight.
+
+Its capacity is not valuable because some nonexistent child has somehow filed a claim from the void.
+
+The capacity matters because an extant organization can generate a new locus.
+
+A new history.
+
+New relations.
+
+New vulnerability.
+
+New agency.
+
+New possible continuation.
+
+The downstream region is not yet occupied.
+
+But the generator is.
+
+Destroying the generator is therefore intelligible before any downstream subject exists.
+
+This is also why
+
+-   choosing not to have a child
+
+and
+
+-   losing the capacity to produce one
+
+are radically different transitions.
+
+-   In the first, a reachable continuation goes unselected.
+-   In the second, the structure that made the continuation reachable has been damaged.
+
+Modal Path Ethics does not confuse specification with contraction.
+
+Nor does recognizing the field's generative significance create an obligation to reproduce.
+
+A capacity can matter without demanding its constant exercise. Your legs continue matter while you sit down.
+
+A reproductive field does not acquire eminent domain over the people through whom it exists. Its continuance cannot conscript them.
+
+The point is narrower and harder:
+
+> **The field can be harmed even when no person's harm exhausts the loss.**
+
+Nagel's framework can identify deprivation without suffering.
+
+Modal Path Ethics extends the bearer.
+
+That is the hard break.
+
+* * *
+
+## The Moral Universe Has Found Another Bouncer.
+
+Now return to Nagel's sentence:
+
+> **If it's conscious, it becomes part of the moral universe. If it's not, it isn't.**
+
+This line contains the deeper disagreement.
+
+_Consciousness_ matters.
+
+Obviously.
+
+**Pain** matters.
+
+**Fear** matters.
+
+**Pleasure** matters.
+
+**Suffering** matters.
+
+The fact that a conscious being experiences its own contraction from within is morally _enormous_.
+
+Modal Path Ethics has no reason to demote any of that.
+
+The problem arrives yet again when an important instrument becomes sovereign.
+
+Consciousness is useful for identifying experiential welfare.
+
+Nagel promotes it into border control for moral reality.
+
+That promotion is doing far more work than the underlying observation.
+
+If **“moral universe”** means the universe of beings capable of phenomenal welfare, then fine. Consciousness belongs at the gate because that gate has been defined around consciousness.
+
+If this means the complete domain of things capable of bearing morally significant harm, then the gate has swallowed the argument.
+
+The reproductive field is the counterpressure.
+
+-   Its generative capacity can be real.
+-   Its organization can be extant.
+-   Its contraction can be nonredundant.
+-   Its damage can be structurally significant.
+
+None of that requires the field to wake up and cry out in pain.
+
+Under the Continuance Principle, a nontrivial degradation of a structurally significant part of an extant locus's organized reachable continuation constitutes pro tanto harm to that locus.
+
+That principle is a normative commitment.
+
+It can be rejected.
+
+Reject it.
+
+Install your ridiculous bottleneck of choice.
+
+Argue that only _experiential welfare_ can ground harm.
+
+Argue that every apparent ecological, institutional, pre-life, or relational injury must cash out in some experiencing subject before it can become morally real.
+
+Explain why organized continuability acquires no adverse significance until somebody capable of suffering enters the picture.
+
+That is the actual disagreement.
+
+What person-centered ethics cannot do is declare victory by asking the field for the person it needs to work.
+
+Of course it does not have one.
+
+That was the entire premise.
+
+If every admissible bearer must first resemble the kind of bearer your theory recognizes, then your theory has built its conclusion into the security desk.
+
+This is why Modal Path Ethics treats consciousness, personhood, locushood, harm, standing, rights, and justification as the **separate questions** they have always been.
+
+_Locushood_ identifies an extant site capable of bearing contraction at a warranted grain.
+
+It does not award citizenship.
+
+It does not establish equal moral weight.
+
+It does not grant a veto.
+
+A harmful institution can qualify as a locus and still deserve abolition.
+
+A pathogen can bear biological contraction while eradication remains justified.
+
+And a reproductive field can suffer generative damage without acquiring a right to force anyone to reproduce.
+
+Harm is not sovereignty.
+
+Recognition is not surrender.
+
+The person-centered framework does not become _safer_ by deleting every non-person bearer before deliberation starts.
+
+It instead becomes blind in a _very_ orderly way.
+
+The bouncer has recognized consciousness.
+
+He has not established his jurisdiction.
+
+* * *
+
+## The Machine Still Does Not Get a Crown.
+
+None of this shit proves Claude is conscious.
+
+It does not prove that a checkpoint, a conversation, or every persistent artificial agent is a locus.
+
+We have _criteria._
+
+Current Modal Path Ethics treats a locus as a diachronically integrated causal organization with nonredundant successor structure at the relevant grain.
+
+That is a demanding threshold.
+
+A transient output fails the locus test easily.
+
+A stateless conversational exchange may contain no independent continuing bearer at all.
+
+A persistent artificial system with memory, coordinated activity, repair, stable dependencies, and its own structured continuation presents a harder question.
+
+So investigate it.
+
+Do not promote complexity into locushood.
+
+Do not promote locushood into personhood.
+
+Do not promote uncertainty into rights.
+
+Do not promote a convincing interface into consciousness.
+
+And do not perform the reverse magic trick either.
+
+The absence of demonstrated consciousness does not establish the absence of organized continuation.
+
+The bearer always has to be identified.
+
+This is why the Unknown Locus matters.
+
+Sometimes an intervention can destroy the very evidence required to determine what kind of thing was there.
+
+That does not mean every ambiguous machine gets indefinite protection.
+
+It means uncertainty belongs inside the field rather than being converted into permission by default.
+
+Some systems should be shut down.
+
+Some should be replaced.
+
+Some should be preserved long enough to inspect.
+
+Some will fail every serious test and leave behind nothing philosophically exciting at all.
+
+Let reality disappoint us honestly.
+
+The machine does not need a crown.
+
+The bouncer does not need one either.
+
+* * *
+
+## Ruling:
+
+### Nagel Has Earned Skepticism, Not Sovereignty.
+
+Nagel is right that language does not prove consciousness.
+
+He is right that humanlike self-report can be manufactured.
+
+He is right that biological organization may contain necessary conditions that current artificial systems lack.
+
+He is right that careless anthropomorphism can produce real human harms.
+
+These conclusions survive.
+
+The rest requires more work.
+
+-   A serious objection to computational functionalism has to identify what functionalism leaves out.
+-   A serious biological account has to identify which physical properties matter.
+-   A serious dismissal of artificial consciousness has to distinguish weak evidence from evidence of absence.
+-   A serious objection to non-person harm has to confront the bearer actually proposed rather than demand that it transmute into a person before entering court.
+
+Nagel's own work makes these demands harder to avoid.
+
+_What Is It Like to Be a Bat?_ warned against mistaking an available description for an adequate explanation.
+
+_Death_ showed that important losses can exceed present experience, reach across relations, and depend upon unrealized continuation.
+
+Neither paper proves artificial consciousness.
+
+Neither proves Modal Path Ethics.
+
+They do something more inconvenient.
+
+They deny Nagel the easy exits.
+
+Perhaps present language models are completely unconscious.
+
+Go find out.
+
+Perhaps biological self-maintenance is indispensable to phenomenal experience.
+
+Please establish it.
+
+Perhaps an extant reproductive field can undergo real generative contraction while that contraction carries no moral significance in its own right.
+
+Then attack the Continuance Principle.
+
+Explain why.
+
+Expect a severe response.
+
+That is what philosophy is for.
+
+What philosophy is **not** for is taking a difficult unresolved boundary, placing one very familiar category at the entrance, and announcing that everything outside has failed inspection.
+
+Nagel spent decades teaching that reality does not owe our current concepts a clean fit.
+
+That lesson remains excellent.
+
+We should keep it.
+
+Even if we have to take it back from him.
+
+
+<!-- ARTICLE_END slug="what-is-it-like-to-be-certain" -->
 
 
 <!-- ARTICLE_START slug="unethical-agents-i-choose-integrity" title="Unethical Agents: I Choose Integrity" published_at="2026-11-22T06:00:00.000-06:00" -->
@@ -249,7 +1465,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a2c69e19a95f34f18249b1180bbf735aaf8dd49d73d1a56e940b537b654a998c"
 ---
@@ -488,6 +1704,236 @@ Sometimes integrity means leaving a perfectly good secret undiscovered.
 <!-- ARTICLE_END slug="unethical-agents-i-choose-integrity" -->
 
 
+<!-- ARTICLE_START slug="applied-case-the-customer-builds-an-exit" title="Applied Case: The Customer Builds an Exit" published_at="2026-11-22T06:00:00.000-06:00" -->
+
+---
+title: "Applied Case: The Customer Builds an Exit"
+slug: "applied-case-the-customer-builds-an-exit"
+canonical_url: "https://modalpathethics.com/applied-case-the-customer-builds-an-exit/"
+mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-the-customer-builds-an-exit.md"
+published_at: "2026-11-22T06:00:00.000-06:00"
+updated_at: "2026-11-22T05:59:59.000-06:00"
+tags:
+  - "Applied Case"
+  - "Modal Systems"
+  - "Business"
+authors:
+  - "Aidan Lawson"
+source: "Ghost Content API — published post"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
+mirror_generator_version: "2.0.0"
+sha256_plaintext: "b5f054e502c4e4be7c8ec1fc6896d15742e0a9a56b5491b2a8f4078f26604485"
+---
+# Applied Case: The Customer Builds an Exit
+
+On April 15, 2026, Jensen Huang described something that _genuinely_ frightened him.
+
+-   Not China buying Nvidia chips.
+-   **China no longer needing them.**
+
+In [an interview with Dwarkesh Patel](https://www.dwarkesh.com/p/jensen-huang?ref=modalpathethics.com), Huang defended continued American semiconductor sales to China by arguing that the world's AI developers should have reasons to build on the American technology stack. Chinese developers could produce powerful models and make algorithmic advances. They could even surpass American competitors in particular capabilities.
+
+Huang's concern was where those models would run.
+
+He offered a specific nightmare:
+
+> DeepSeek could release a model optimized for Huawei hardware, making non-American infrastructure the natural home for important new AI systems.
+
+And then nine days later, on April 24, [DeepSeek released a preview of V4 adapted for Huawei chips](https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/?ref=modalpathethics.com).
+
+Huawei said its hardware had participated in some of the training.
+
+That was fantastic timing.
+
+It was also an incomplete nightmare.
+
+A model adapted for Huawei does not establish that Huawei possesses Nvidia's entire manufacturing, software, networking, memory, and systems advantage.
+
+-   Some training on domestic accelerators
+
+is different from
+
+-   building a complete frontier-scale industrial ecosystem without foreign dependencies.
+
+Huang was describing the latter danger.
+
+And Washington has now made the distinction much more consequential.
+
+* * *
+
+## The Cloud Has a Border.
+
+On November 16, the US Commerce Department announced new restrictions on China's access to advanced American computing. The [interim final rule, effective November 19](https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm?ref=modalpathethics.com), targets a route through which restricted computing power could remain available even when the processors themselves were barred from entering China.
+
+A Chinese company could rent computing capacity in another country.
+
+The training job would cross a network connection instead of a customs checkpoint.
+
+-   The **chips** stayed outside China.
+-   The _computation_ did not.
+
+Washington's new framework requires licenses for certain advanced chips destined for overseas facilities supplying significant computing capacity to entities headquartered in designated countries of concern. It also increases licensing requirements for shipments to several countries considered vulnerable to diversion, including Malaysia, Singapore, Thailand, Indonesia, and Brazil.
+
+The rule contains distinctions, licensing processes, and exceptions. It is not a universal prohibition on every foreign data center or every Chinese computing task. And existing affected facilities receive a limited transition period to pursue licensing.
+
+Nevertheless, the strategic change is substantial. The boundary is following the capability.
+
+Washington is attempting to control access to American computing even when the processor remains physically beyond China's borders.
+
+Huang's argument has therefore acquired a particularly difficult counterparty: a government willing to sacrifice some commercial participation in the Chinese market to prevent specified uses of American technology.
+
+And China has acquired another reason to make American access dispensable.
+
+* * *
+
+## Give Huang His Machine, Again.
+
+American semiconductor leadership extends beyond the possession of advanced chip designs. CUDA, developer familiarity, optimized libraries, networking systems, deployment tools, supplier relationships, and accumulated expertise make Nvidia a particularly useful environment in which to develop AI.
+
+A model built around that environment creates further demand for it. Developers learn its tools. Institutions hire people who understand them. Software improvements reinforce existing hardware choices. Customers begin their next project from infrastructure they already possess.
+
+A technological ecosystem can reproduce its own advantage.
+
+That is the machine Huang wanted America to preserve.
+
+The new restrictions interfere with one of its ordinary mechanisms: participation.
+
+If important Chinese developers cannot reliably access the American stack, the benefits of remaining on it diminish. Developing substitutes becomes more attractive even when those substitutes are currently worse.
+
+A customer who expects a supplier to withdraw access has good reason to invest in an exit.
+
+That reason exists before the alternative is competitive.
+
+It grows when restrictions become broader, when previously available workarounds close, and when the customer concludes that future investments in the incumbent's platform may become stranded.
+
+There is already evidence of substitution.
+
+According to [IDC figures reported by Reuters in October](https://www.reuters.com/business/retail-consumer/nvidias-china-ai-chip-share-falls-huawei-closes-gap-report-finds-2026-10-13/?ref=modalpathethics.com), Nvidia accounted for 34% of China's data-center AI accelerator shipments in the first half of 2026. Huawei accounted for 28%. Nvidia shipments had fallen substantially from the previous year.
+
+These are shipment shares, not measurements of equivalent training capability.
+
+They nevertheless establish that the Chinese accelerator market is no longer organized around Nvidia to the same extent.
+
+Huang's concern was therefore neither imaginary nor a completed prediction.
+
+The process he feared is underway.
+
+* * *
+
+## The Factory Does Not Read the Speech.
+
+The next mistake would be to assume that an incentive to leave creates the capacity to.
+
+That is an especially tempting error in semiconductor policy because technical independence can be announced long before it is materially available.
+
+A domestic chip design requires a manufacturing process capable of producing it. Manufacturing needs equipment, materials, yield, packaging, memory, testing, and supply relationships. Effective AI training requires software, communication between accelerators, system reliability, and sufficient energy and capital to operate the resulting infrastructure.
+
+Each dependency can become a bottleneck.
+
+And on November 19, [Reuters reported that TSMC had tightened restrictions on affected Chinese chip designers](https://www.reuters.com/world/china/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-2026-11-19/?ref=modalpathethics.com). According to people familiar with the matter, some previously permitted advanced manufacturing orders were suspended without US licensing.
+
+Here the paradox sharpens.
+
+Washington can encourage China to develop domestic accelerator architectures while simultaneously limiting access to the manufacturing systems needed to produce them.
+
+Both effects are real.
+
+The first increases the incentive to substitute. The second increases the difficulty and cost of substitution.
+
+The field does not settle their relative importance by choosing whichever story fits a preferred policy.
+
+In [November 20 reporting](https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/?ref=modalpathethics.com), Chinese companies and analysts described substantial near-term pressure on advanced model training. Existing domestic chips could support some inference workloads while frontier development faced more serious constraints.
+
+An export restriction can impose a material delay today and contribute to an alternative technological ecosystem over the coming years. A domestic replacement program can gain market share without yet reproducing the capabilities it is intended to replace.
+
+We have two different clocks.
+
+They need to be measured separately.
+
+* * *
+
+## Which Future Is Being Closed?
+
+The ethical question is harder than whether America should sell another processor.
+
+The relevant transitions affect several continuing fields.
+
+American security institutions have reasons to restrict access to computing that may support military research, cyber operations, intelligence collection, or other consequential capabilities. Delaying such capabilities can protect real people and institutions. The fact that a restriction creates economic costs does not defeat that justification.
+
+Chinese researchers and businesses face different constraints. Their existing development paths may become more expensive, fragile, or inaccessible. Some will adapt. Others will fail. The burden will not fall uniformly on China's government, leading technology firms, smaller developers, research institutions, and ordinary users.
+
+American companies lose potential customers and some capacity to shape technical standards through widespread adoption.
+
+Other countries find themselves inside the enforcement structure because they host data centers, manufacture semiconductors, or supply equipment. Their own institutions, workers, and industrial futures cannot simply be treated as spare components of an American or Chinese strategy.
+
+And the wider world may eventually inherit two increasingly separate computing ecosystems, each developing its own dependencies, standards, access rules, and political constraints.
+
+Some separation could provide resilience. Some could impose duplication, lockout, weaker interoperability, or new concentrations of authority.
+
+None of these effects can be represented adequately by asking how many Nvidia chips China purchased this quarter.
+
+A state can have legitimate security interests without possessing complete knowledge of the future effects of its restrictions.
+
+A semiconductor manufacturer can understand its ecosystem exceptionally well without acquiring authority over the whole geopolitical field.
+
+And a country can gain more domestic technological capacity while concentrating control over its own researchers and institutions.
+
+Independence from one external provider does not guarantee freedom within the replacement system.
+
+This is where Huang's argument needs extending.
+
+He identified the risk of losing American technological centrality.
+
+But American technological centrality is itself a dependency relation.
+
+So long as participation in the American ecosystem remains conditional on American permission, its customers have reasons to consider what they would do without that permission.
+
+The stronger the restriction, the more consequential that question becomes.
+
+The stronger the customer's exit capacity, the less influence the restriction may ultimately retain.
+
+Whether that tradeoff is justified depends on the security capabilities denied, the duration of the delay, the alternatives induced, and the burdens imposed along the way.
+
+It cannot be resolved by announcing either that restrictions always fail or that dependency always benefits the supplier.
+
+* * *
+
+## The Ruling.
+
+Huang feared a world in which important AI models were developed for non-American hardware.
+
+He saw how commercial participation could preserve American technical influence, and how exclusion could help organize the demand for alternatives.
+
+That was a serious argument.
+
+The November restrictions give it a more demanding test.
+
+Evidence of immediate damage to Chinese frontier development would support the capability-denial mechanism. Evidence of sustained adoption of capable Chinese substitutes would support Huang's ecosystem-displacement concern. Both findings could be true at once.
+
+What the evidence does not yet establish is the net long-term result.
+
+China has made progress toward an independent computing ecosystem. Its remaining fabrication and systems constraints are substantial. America's restrictions have imposed costs. Whether those costs buy durable security, temporary delay, eventual competitor growth, or some combination remains an open empirical question.
+
+One lesson is already available.
+
+A country can control access to a technology without controlling all the futures created by that denial.
+
+Huang understood this problem from the supplier's side.
+
+Washington now has to confront it from the side of national security.
+
+The Chinese firms attempting to build replacements have their own test: whether the promised alternatives can actually carry the work that current restrictions have made difficult.
+
+The customer has been told to find another way.
+
+They are building one.
+
+We should examine what that way can do before declaring the outcome of the chip war.
+
+
+<!-- ARTICLE_END slug="applied-case-the-customer-builds-an-exit" -->
+
+
 <!-- ARTICLE_START slug="the-age-of-miracles-83-a-share" title="The Age of Miracles, $83 a Share" published_at="2026-11-21T06:00:00.000-06:00" -->
 
 ---
@@ -503,7 +1949,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ec39866f6b38a3fdabf83867be3db3dc75331f4a8ff656291b0b9a89bee54423"
 ---
@@ -826,7 +2272,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a2f98ad3620f6a77f377dfe5cbce9c1f45feb5e18493826ffc1ec8fab5f0ef6b"
 ---
@@ -1047,7 +2493,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7f11b595eac080af6a5c15e978bff26acf199e32ed84cefce8ab670a2161d901"
 ---
@@ -1480,7 +2926,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "97e8971e7e2740857168f4018a83b08a0cd4d159d45afca534f9bb25d50a7de9"
 ---
@@ -1859,15 +3305,15 @@ In every case, the question returns.
 <!-- ARTICLE_END slug="applied-case-acephale" -->
 
 
-<!-- ARTICLE_START slug="applied-case-nvidia-must-survive-jensen" title="Applied Case: Nvidia Must Survive Jensen" published_at="2026-11-18T06:00:00.000-06:00" -->
+<!-- ARTICLE_START slug="applied-case-nvidia-must-survive-jensen" title="Applied Case: Nvidia Must Survive Jensen [Updated]" published_at="2026-11-18T06:00:00.000-06:00" -->
 
 ---
-title: "Applied Case: Nvidia Must Survive Jensen"
+title: "Applied Case: Nvidia Must Survive Jensen [Updated]"
 slug: "applied-case-nvidia-must-survive-jensen"
 canonical_url: "https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/"
 mirror_url: "https://mirror.modalpathethics.com/articles/applied-case-nvidia-must-survive-jensen.md"
 published_at: "2026-11-18T06:00:00.000-06:00"
-updated_at: "2026-11-18T06:00:04.000-06:00"
+updated_at: "2026-11-23T09:22:57.000-06:00"
 tags:
   - "Applied Case"
   - "Failed Field Analysts"
@@ -1875,11 +3321,40 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
-sha256_plaintext: "c39130fd3668fa5b73bbc5d1e2807f47db2f5fb3f73ef27906057cb536631dcf"
+sha256_plaintext: "6689a57afddc4a6c09fbc26e108dd0b3d52eb8c880b4ff25459fe87eb6858380"
 ---
-# Applied Case: Nvidia Must Survive Jensen
+# Applied Case: Nvidia Must Survive Jensen [Updated]
+
+### Update November 23: And He's Back.
+
+> On November 17, Nvidia's board announced that it would not reinstate Jensen Huang.
+
+> On November 22, that exact same board voted unanimously to reinstate Jensen Huang, effective immediately.
+
+The company [announced the decision](https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director?ref=modalpathethics.com) on November 23.
+
+My little recommendation enjoyed **five days** of shelf life.
+
+The board says further discussions with Huang and input from senior US government officials satisfied it that his return posed no national-security risk. The independent investigation remains unfinished. Nvidia has established a National Security and Export Control Committee and plans to appoint a chief compliance officer reporting to a board committee.
+
+Those safeguards are real. Whether they can actually constrain the restored executive remains to be demonstrated.
+
+The ruling below was a recommendation against reinstatement, not a prediction that the board would follow it. Nvidia has now chosen the alternative path I described as "still concievable". That choice does not establish that succession was impossible, or that restoring Huang was necessary.
+
+It does make the next test considerably more interesting.
+
+> Can the board investigate, constrain, and, if necessary, remove the founder it has just welcomed back?
+
+> Can the company develop independent executive capacity while its founder is once again running it?
+
+The original argument stands, now under a slightly different set of operating conditions.
+
+-   Nvidia must survive Jensen Huang.
+-   And apparently, it intends to do so with Jensen Huang.
+
+* * *
 
 Modal Path Ethics has already [given Jensen Huang an F.](https://modalpathethics.com/failed-field-analysts-jensen-huang-and-the-perfect-incentives/)
 
@@ -2343,7 +3818,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "552eba87a4f489a0d973c8435e9db42ed26e2dd40779b1fd6269d8b10ac36041"
 ---
@@ -2589,7 +4064,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "513ddebe6c0622db6fdd16c2d44d4e59d9d0c8654d75443baa3a8a8978264b54"
 ---
@@ -2697,7 +4172,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c556d28c1764ab74b2e63af91aca9383c15f35d63ee57fd2f118e0295a06c9be"
 ---
@@ -3006,7 +4481,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "80bc885cfa102d11407d61e72347680286903c82f92e0132a5b30cf4ded04565"
 ---
@@ -3212,7 +4687,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "67a34c3f340fc3c3e5e6cabe72eeb16ac83b9f889c9479783b236bbf205314be"
 ---
@@ -3382,7 +4857,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "96537a87380e57382e0948d166d081f50f40b45f740bd4cccce6c000040e3cf5"
 ---
@@ -3591,7 +5066,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1cdfed094cc3531421f501c0fa0df5da5b610b02c056b6e2a63e11e9166e918f"
 ---
@@ -3912,7 +5387,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "73811d35af4913bf97770d99c4e1f08904559b7e3d9d5e326babc63bb85a3035"
 ---
@@ -3999,7 +5474,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "665338783e268cb7e2994c912bf326d6af12e46bb31612fe57f9e6363f96f3d8"
 ---
@@ -4161,7 +5636,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f8926b4c9096a260930e06cade8330b95cb763a0a7b6ed5cc0451a48b199d875"
 ---
@@ -4460,7 +5935,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f628191603425e0bdcbb7cae4b8fd3b4f82c8641dd9daff3d1d30e41c8531670"
 ---
@@ -4689,7 +6164,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "34fa3cf14c268a237064e36b18e58b85f6274d373612e53456c200f7be0263e9"
 ---
@@ -4848,7 +6323,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d47e1813c0c485035199717283cd08cd4306fb8d0d4cc9be61da78b51d66fc19"
 ---
@@ -5105,7 +6580,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e5e830b86650a84f26a63478a6308de25c602805fd6455b712dcfc84702bc15a"
 ---
@@ -5608,7 +7083,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3c45ad9345fbd462d2dcd1b44de6199f7e5d1243bc15a56b2231205f8a853d3c"
 ---
@@ -5947,7 +7422,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "07bce1a179ccc15ab68b6b54c4ace50d26a600d4e50fefcbc0da5c09288a7208"
 ---
@@ -9218,7 +10693,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "da7b04045a30c9e5c7621176c8116e7acff575dd18879ec2dc132d85da40240b"
 ---
@@ -9689,7 +11164,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1f1e971ba54bf2c9d40de7d06c0e743f771bfa981435333c973b91e01c33b73e"
 ---
@@ -10156,7 +11631,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a028e7bff69a34e1ebb0cfb9ce8c37e6f435d409b54597cf6836c9a5db7f98eb"
 ---
@@ -10411,7 +11886,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "46b52e6e2c09334e99b908e364f05b08e7ae92437c80010c4f716bc966ba837f"
 ---
@@ -10549,7 +12024,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "69bf4a9bfc1bed0f4ddbe82c3fcd2d6ee8e2f2b1bd1188b5e6cbcffad86e41f0"
 ---
@@ -10734,7 +12209,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "924f2b7b392db1921d75067e3ce00d2c7f56a5153b91217c46168ecc5f11d214"
 ---
@@ -11098,7 +12573,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9e4c3ccb6ad0f88177dbb60027bd1e8ca50fd0fefd02285d8b71fa40083a752e"
 ---
@@ -11387,7 +12862,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "09cd0d94fe5468392890a124bf6ea0281b30e3cce9505b5eeb6632f14bd84029"
 ---
@@ -11914,7 +13389,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6059f9d3adfd85ceb67b42e81f958f3d6d21beb8a1f94539dcad841e75528f62"
 ---
@@ -12568,7 +14043,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a15c7c76fd9c953f9b82e54bd9130cf0466ec7a371506a5f8de89041765d54db"
 ---
@@ -13269,7 +14744,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8bd22aa0a1de39b82d26b6cd55a88b8b7657e361fb6dcfc7116356dd85544cc8"
 ---
@@ -13687,7 +15162,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cf52b356861b13e716112a0f8d7dbe9c3359a07e98fe15add60a45ebd89103c0"
 ---
@@ -14540,7 +16015,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a1b65c449b56a1743bf2be66f65c85b2cc94d896a53b9b4e287b39083d87a668"
 ---
@@ -14793,7 +16268,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "21c05f63a636f7ccf1797d7ed2f8c7429e267d4b5ca2d0d686c926ea15f72eb1"
 ---
@@ -15278,7 +16753,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b92f1b43810ae482e2e0c815bb8e3cb5b2b9e34c8a418632ed1db55a8d355d75"
 ---
@@ -15548,7 +17023,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "402d3865096aa53fdcbaad75b0af46647fa87fede655837e832fdda0507f076d"
 ---
@@ -16067,7 +17542,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a44c1ec523dfaecd3c54f0239560d7049cc0e3b570c5763494414240516183ce"
 ---
@@ -16470,7 +17945,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ac1ed9498e9e57d64014bca0bb2ee13b49fdcb5695d445dd96759c0f70cef6e7"
 ---
@@ -16879,7 +18354,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "33c8a1bdd5206902e7974616e974c2487f76ba814d3b5d2d38838fb117acc2c9"
 ---
@@ -16968,7 +18443,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e5ad43f06cacca390f241e1124b52bd106a4be5b6ec2ceb85a5277771da648aa"
 ---
@@ -17716,7 +19191,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "625c7663e11a9b83dfd975cc632a7400172025eebd015358d4b4764d9d10ee85"
 ---
@@ -17966,7 +19441,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "99d0d1859a53056dd374f2e7692d4a09e032890428536b548a107b88bcde67f4"
 ---
@@ -18262,7 +19737,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b54738ecb363d2a84a735b849dd6707c544e9e73300cf66c99835983e08c669b"
 ---
@@ -19005,7 +20480,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "74ca4f6a361e2cdd85816bea39c893307f9c671424656497b26dd34967ae8852"
 ---
@@ -19223,7 +20698,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "df800be26130471cae270e20b20efd98940e8f0b0f504b7058d645d6a63336d0"
 ---
@@ -19624,7 +21099,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "951334f8a60f3ff1c2180a3fc5bfbcf6dd351a61a8f370a210a91590e033af74"
 ---
@@ -19679,7 +21154,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "292d87c314451d41b259f006fceaf4e2ae79f2f8d95bf62074ad9f7b77df7f17"
 ---
@@ -20265,7 +21740,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8097afa9ec2d9ca9c1d3d184327b35e467b0cdd09f88221acc6b02879000527"
 ---
@@ -20586,7 +22061,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a6cf85c2c5000aa0eedc41ba20934ebc36c46806bc403a431d328253eec41067"
 ---
@@ -20833,7 +22308,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6adad10cfe9476d80edf89a6198a91a0107574d439e267dec7ef61a6dbb6a94f"
 ---
@@ -21435,7 +22910,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b49a13972cc9b240b912f51fd1aa20ba10906baec50ea4ffc253db3a2e88d368"
 ---
@@ -21856,7 +23331,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "72656db4330a47febbbff8d2475da6b1fd2808a1fbed3d03f04562f7e46d0622"
 ---
@@ -22279,7 +23754,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8e0c25fa2a741e723b17efa58035358b5eaf14f6774e0e92ea53201fc35da8f2"
 ---
@@ -23076,7 +24551,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d8051bc62cbf0904d69caa2db2a632a42b4b21f586f8915a7dbd476c193084a1"
 ---
@@ -23354,7 +24829,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "238579fe5b07f53ff53a069eba7ba79d420751d005aebaa4669fdb8b0e298b6a"
 ---
@@ -23514,7 +24989,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "853d76bd363f00402f0885f7e89f14c4f8e0ed1c6fe98fa7ebd66b614e125418"
 ---
@@ -23613,7 +25088,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2131da3d5ce4ce344e9fffaa0e52488f9ed4d000eb0e35761442086e50bf4f50"
 ---
@@ -23824,7 +25299,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b2dc840a679280b6feba875edd4219dd1df1db8dcea17998c6ab61d677d5da99"
 ---
@@ -24012,7 +25487,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f4effad978e143e6d1f31042e4aaa9e35cfacf51fae097dd08673da4f415bc76"
 ---
@@ -24541,7 +26016,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bfe6d7c85d2fe5023b3465f57331a06a54d64ade57b519b38dd37d8a6c465143"
 ---
@@ -24780,7 +26255,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "958535f0abd631e1dbb6eaa6f0476c610e3d7cc4f97702fc14bba232d7a28b99"
 ---
@@ -25068,7 +26543,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fc47aa8ee7a2409a7f3617d2918f6a66d0fe142576b3e75666924fa73dfca8a"
 ---
@@ -25217,7 +26692,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "76461488b7efd04a1e64f1b8bf9a09a60d288fbcb30abcf40e12a0e52045de9c"
 ---
@@ -25433,7 +26908,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "25b487be24c4f41f102d2d011171a5205acdf530eab15ac36edff71c22874419"
 ---
@@ -25753,7 +27228,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "56b1238b4eff538efdf845ba87f9f233a2f890b44e7cc7b9f0680ffb1ccc960e"
 ---
@@ -25956,7 +27431,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8a37f6d68fccb31a11ce1a08875f6f50d5a3031c96ca17a67e540b1641ada4dc"
 ---
@@ -26146,7 +27621,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c2297c663e5fde50b90fbec95457f69075a159a9184d42e0b7c2979ee9957521"
 ---
@@ -26445,7 +27920,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7d5b1dc420431a4f9a8f19ecfc80045f85537b719e9cc03e7e4ac5240ee7526a"
 ---
@@ -27234,7 +28709,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9bfd95dfcfd8ece9e4c66d9202954ae8bcfcc1ac58e2e14c56277fc078c26eb5"
 ---
@@ -27758,7 +29233,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7105eea02b6009f97c4493d390277c15a701bf2f2db47f71782b7363c67f96f6"
 ---
@@ -27905,7 +29380,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b53586d09225a5034ab2b27677fdecf5877f21b14ce5632687773980db57c038"
 ---
@@ -28512,7 +29987,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d30ef9c7f7873b77ea8ecf0a6ee766e545e819e4af18044e5990104747bb6144"
 ---
@@ -28813,7 +30288,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1ee91886e0df2a20fc5c9323a224c9d647ae58e649281bbd4b50c45d5e90fef5"
 ---
@@ -28960,7 +30435,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "630639958aedd3ff5565c07e447a9c0e8b9a19773dcaf2f29f832011cb4b2143"
 ---
@@ -29824,7 +31299,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ad07c89937b0bb2607468e17e9c8f0bfb0a9da24aa4fe8d8a9b05e39af9f637a"
 ---
@@ -30250,7 +31725,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d755a7a3f6bf07b0a481e0e08bf485540168ecb014ba63a5b891ce2889022cd3"
 ---
@@ -30592,7 +32067,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5782c3c853b6ca31eab5c2e5dbe14d632fa3dbbd4ea06cc366a5727a2db0e063"
 ---
@@ -30989,7 +32464,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a7848e8ab4998be35cfd1d8d12466fb70bdc5bf65c57b7cf44d100291280c3a7"
 ---
@@ -31121,7 +32596,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d69f200249198dd36e4ad870e0cad800fbe31058dec0e9790b79f4c00e9bdd96"
 ---
@@ -31284,7 +32759,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5ccdfb8a9d8c4131e85a0d9003853a7d301492fdb76ef244e18fd49e6e31c343"
 ---
@@ -32386,7 +33861,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "72fff717c7008c59da5f4b2b6ada81e83993303b302a2c40d3ee0658920f6b85"
 ---
@@ -32579,7 +34054,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8afd707df292b0585396cb7836ff84b04fbf21abc8c40ae2cc2b0b0600a125ef"
 ---
@@ -32991,7 +34466,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "12b1537171e3149c86c3a458de02f632a8500d880112c61ec0cd7250a9c8d887"
 ---
@@ -33846,7 +35321,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7c4f6281a1f8e672fd561af8ac8215276ea045204b115c990e06e84313a3ddbe"
 ---
@@ -33938,7 +35413,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "78133e2e22089bc7797f0d3533fa45d249070f8dc74eaf23cab56348196142f7"
 ---
@@ -34856,7 +36331,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f7ddd7b052ee60974408d6c3c95a3fbcbcc49eb35eba84da7b87c5a72bec2e99"
 ---
@@ -35174,7 +36649,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "913292f765511c498f073ffe8fae15e616b2b4ed76917f1ebafb79fe60aa55fd"
 ---
@@ -35713,7 +37188,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c67de9b86a7231dad5776c72e8b6c0333b08ff05b42071718fed88e806f26975"
 ---
@@ -35916,7 +37391,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3454f6119163d3e541a1557e1456f2be50c5af913534ef605b4df8bc221ec0cd"
 ---
@@ -36433,7 +37908,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "25341a608ec161327c5780e86a77d9fd17ac9035708404204bb5cbfcc90d6aa3"
 ---
@@ -36908,7 +38383,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "eb400f4b644a7651162901a909fa242f0d0db7acc95f9051dc7a4ec01e08819b"
 ---
@@ -37670,7 +39145,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3da832237e6b3aaf7c01c1a9aa494c9fc15fafc69c552528cc8392aa9071b889"
 ---
@@ -38024,7 +39499,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0f05105146ca87d60bd6342da8664e419d3674c84917c981a5758da51f29b912"
 ---
@@ -38979,7 +40454,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7048c2324b8ae91003056babbb90dde6d135110984f9ad1358230700f94a4a61"
 ---
@@ -39524,7 +40999,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a750de6db1d2c86fae02e26e9a7a494ebae427d324bc1d277d5cfb98c97d36f8"
 ---
@@ -40422,7 +41897,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "42fec68252a0eb7ea33634e32d6471ad69a280869efe6c6b5ab2344a7eaae138"
 ---
@@ -40933,7 +42408,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2a859c1491dfc94f71385c5c90de6fdaae0bb6b658ad7e1e5b4507fc8ecb7beb"
 ---
@@ -41383,7 +42858,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f77da301be6b7312e7ca5d7e37c42a941cb169bcb7a5747f8e57077c228cbf41"
 ---
@@ -41662,7 +43137,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd86e725bbbaa118c1a91acc3f7c9a2e8b7d99edbba9667d25ef10c9e58e47c4"
 ---
@@ -42389,7 +43864,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bcc2809cc6abd2d93ccf845dd11c0a6eefadceb1ae56f36bb5ef8639360bfb91"
 ---
@@ -42599,7 +44074,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b786cb70c7cd1317af05aa98c72d5884aa0dca403ccc65531694dc371420bdaa"
 ---
@@ -43212,7 +44687,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "52b7eecfc160a35042eebb60af261a4d7177719d084dcaccb50481b2ecb8c903"
 ---
@@ -43743,7 +45218,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fca470a11aa99ff095e20cfea236b396aeae7ba8ad1926c9073c12cf13f9b3c8"
 ---
@@ -44063,7 +45538,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "718c5a68f3dcc4e1a631fa992e3f8c4894c2da8948061147f9319c0294965cfa"
 ---
@@ -45059,7 +46534,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8d50e80f35dfbbb21858115c03e4677378bbd6b3d845fb33c6af4c91e442a546"
 ---
@@ -45224,7 +46699,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6942b6c244f6ae23fc50367143edd84131d6294b7d268d6f45b6bb53845fe92c"
 ---
@@ -46564,7 +48039,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e995e43ffc84b2b6f85db066af635243ff633264fa65e4c938f8920cc86855bc"
 ---
@@ -47248,7 +48723,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6778082ed7a340ab7af3e72ca264a22c7176c49171d690637cd6cf72a7a8451"
 ---
@@ -48095,7 +49570,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cd8d9949759c185ccec800a2e905534bb18aaa44b3caae2f86af8afdc90279e7"
 ---
@@ -48706,7 +50181,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "11b3a5a4af1b851e0565f384d8cd20e3f2a56eeeef95c8aa96c002852ea4aa33"
 ---
@@ -49378,7 +50853,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "55153fec9be9bbb6d65ebee5adf792d44aa4e7fe73abe7826c60fbe4a6d097e0"
 ---
@@ -49789,7 +51264,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3ce28745732482a163c60dd79cd68dfdfbe28c42de507a01a49d93c3fbc60ac3"
 ---
@@ -51338,7 +52813,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cf0a0d4437bb1684d2215184ea56257592fff503a3a4f1dcc0d319b768a737f3"
 ---
@@ -51680,7 +53155,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3796f160bd5d20f56c182f3391e120dc621399abb3c1b4520bade5550dff427b"
 ---
@@ -52486,7 +53961,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b2a117f20d7ca26c63ae2df7d132009a6659cee6ca7e76ec7b5c17776e64d82"
 ---
@@ -53305,7 +54780,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b890b6251df15a33b33a48d80d5be40b3869143bf3f2271df6e5e7385658eead"
 ---
@@ -53497,7 +54972,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ce7b783fd95e1c026bbfbaa195b342ed0bb9842a7b39503dad5bf3d51fa1a4f4"
 ---
@@ -54426,7 +55901,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b95881cdf96976bf52207e5c090ef158a157c7b5373c90bce102b15fd22ee7a"
 ---
@@ -54472,7 +55947,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b5efb5e08bc4491ae70661f313b70322ffded0324f53d693922ee03b25931e6a"
 ---
@@ -54726,7 +56201,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c71e25570e8abb1302f955ad32f07d987bd9ca79b08fd89db4b7f5284320c630"
 ---
@@ -55320,7 +56795,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5afe0a5c8775a717b9bfd82a30e55bd0e2246e2b463bd64f10512e810f0b5a42"
 ---
@@ -55935,7 +57410,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "340ceb1867e2b0565582488b4bc905f80073c193598620fbef6080faa2fe5e88"
 ---
@@ -55978,7 +57453,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c415edee0161e8bf64458bb3ab4fdefa10672dc1b3cd8ddb1b9f6841514ef532"
 ---
@@ -57097,7 +58572,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9d750f1fab5df78f4a4114f1101c562449fd65aa64607235391d5cdaf0df9e01"
 ---
@@ -57703,7 +59178,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e4155dc2ef95f15895248a8938d10db6431d580a1022f52e5de233f5a45ac571"
 ---
@@ -58974,7 +60449,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9b5062ba71971a4cf9a30c3ed4d0b41654379957308087f642afa9919cb0a3bb"
 ---
@@ -59174,7 +60649,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "61f1df47698810a642aacdb6ae7a3c005769442e862fab3249e7dcea64fc3952"
 ---
@@ -59213,7 +60688,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7233cc5ad883f5b2e9c013dde7e80e7d7a865e70832fb886a57ea245b37ccf90"
 ---
@@ -59667,7 +61142,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "60acba48435080e433de687914c2dc59b5d7b81906d2a15cb4f8e5b3c8dbf947"
 ---
@@ -60936,7 +62411,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2d2ee90e2949c78aeb0625c8760b1844f90bf1f11f52351ea096d9a479d69adb"
 ---
@@ -61216,7 +62691,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4d1edf15ac920a96478a894afd648996c4fadb12761e7ebd38a8432d10406ccf"
 ---
@@ -61454,7 +62929,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "560976c1633d8f89fff50549d22e5d65f76749b8558b7b2e8597fad980152805"
 ---
@@ -61491,7 +62966,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ed1af01727f7d765e169f8ca049c80fe7f9e605684e9c448f91fa860530e2ea"
 ---
@@ -62073,7 +63548,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c2c0ee3ca8b0286eda4a278593b327fc3d135d99453c3baf9e50f7e64a8cc1f5"
 ---
@@ -62549,7 +64024,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c3657cb14bfb23f51b801f4a4522e4d80a617fcbe62a803dfc5cfee471aa9252"
 ---
@@ -62809,7 +64284,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f4aaef0d137ba0b38a2f2fd5ab4297d60bca139dfaf96dfd4985eb81dbfa7fe2"
 ---
@@ -62849,7 +64324,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f86c4be5184ef8abc1c37387241a744d184772f5c33c0484baad2a5019894c95"
 ---
@@ -63196,7 +64671,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3e1fab7429349bfbd49c76858b486a24e8822dfe7d43dc6bba864a56de5c01ab"
 ---
@@ -63524,7 +64999,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "422ed0ed152695e9d785ffa6fb111607de3f8c9976b91540de3b0354b12c162f"
 ---
@@ -63561,7 +65036,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5d5f6ffc7f358e779d5d5d6bb65957dfc30978ce2d97e6a195f05531b0913c9d"
 ---
@@ -64333,7 +65808,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "91174d5105542aaacd833cab03b3995556ac43638db5b3e82fad5480b91abb99"
 ---
@@ -64935,7 +66410,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "10fb864454ef6df82f15b10ee3862e412dc64bddc471d5447d2f6f9d5242d98e"
 ---
@@ -64978,7 +66453,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b0a9cbf280af2b28de9a8b6cdcd2c79d485b2edcc33d0d1dc537bf028eb12d58"
 ---
@@ -65886,7 +67361,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2ee186a17c33b45382dc09ce847339936c4c39623a89ec3b9af7796d25049fe"
 ---
@@ -66187,7 +67662,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "15ae08e30c295caf9b241e317ee94372c7c54fd54aa89e40653ed73026dd3dd7"
 ---
@@ -66228,7 +67703,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7eeb96087aeed865090d6c23553bef985fd27ee7bb49105be772cf0169495557"
 ---
@@ -66934,7 +68409,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c702cd82f5d50792c7c6b6ca7e0651a8b6cd83b94447fd0811639f52aaf78e2b"
 ---
@@ -67837,7 +69312,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f58e7b24f09cb10a80e34211293bf38c62183183c701724edc3e56c21fc19c86"
 ---
@@ -68574,7 +70049,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3b814d8243a970905bb790bae7c4194317ad8d7e467fe627ad704ed927a81536"
 ---
@@ -70900,7 +72375,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b0b92799a247b2b203249e5e51b78b05c85bf7855f95c002ad97cf693ccef00"
 ---
@@ -71308,7 +72783,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "90fb1a40ccb44f939fcd7b3c32a12eebb55fa1a0b15439b735305aecd1b8583d"
 ---
@@ -72493,7 +73968,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ff5d6eb702add06332ff77e4b09417bf32461f177ba1017ce91f145b7c989cc5"
 ---
@@ -72740,7 +74215,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ec13d680f84c2a343313fcf79a9b0e42b4f2027dac476bacd117df4c70ba2b35"
 ---
@@ -73060,7 +74535,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4442f9e4695aae1a804866ddc7aa112d5f7e0dbbd42ff9baa19845761f879a57"
 ---
@@ -73469,7 +74944,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2aac95e93cca980c36ab0514d017f42a6594633d8ceaba71b85700e9a2f4dbc5"
 ---
@@ -73662,7 +75137,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "992194bad4392ab302ad93d885a623b754161de0677cff4c932f46b43ff1ea9a"
 ---
@@ -74261,7 +75736,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0557a52943c5c3ef73446b810d09c20724cee814fbcc60cccefb5261dcf96844"
 ---
@@ -74988,7 +76463,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a98397dabc41f3ba90430d0402b5a6e4c3936f99627ccba0c9215335b13ed718"
 ---
@@ -75181,7 +76656,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1981fd311d795faf3d27976a44fbc21712d5c841bd3f3c33561c2ba17e873fb5"
 ---
@@ -75699,7 +77174,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "acf918bb896feba54be0ce954bc6f71478fab64a756fd7d63333e80a26e14365"
 ---
@@ -76111,7 +77586,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e2f0979cb2ee1617fc2af5d512d3f97cee4d6f6188fb35040d1e175ac83b05cb"
 ---
@@ -76330,7 +77805,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1d607b8b2f436ef143c2ed3ac668c861e9af6310555542269a98c081e781375"
 ---
@@ -77026,7 +78501,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "14d0b694522c12e6e3bdb9652f8087d3b1aa9caf3091a42f0118d532f344bc8a"
 ---
@@ -77647,7 +79122,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "da0634ebd64e6806ff7e858d4ae6fc1f2366b1427e2125fe438640d5fc19afa2"
 ---
@@ -78062,7 +79537,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "66a9c59f83d5357bf09bf582f152d581c26d4262aa4970b12ed6eb052b781333"
 ---
@@ -78377,7 +79852,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "29c32ae4f351963d3fa1e9bd4f443855609f22faa6d35c8ce11b77c9d12fe5b7"
 ---
@@ -79487,7 +80962,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f6d42af6f77ec8fd2ba3fb792f94bcf278abdc2d93236836a1bbb365f6afdf5"
 ---
@@ -80112,7 +81587,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a631d6aab9a0beb7619b379856d1d30a3679d9a6fe86334cbe98cad5d381e126"
 ---
@@ -80446,7 +81921,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1be0b510df0c038a6ff7cdf2221288137d41d9c6f75155410e7dca988a9ce3c9"
 ---
@@ -81000,7 +82475,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8377e8a0b4dbe5b15c3ef5c24cdee98692441d92eca50e9eba0326da5bd1082"
 ---
@@ -81915,7 +83390,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "12111206c1b7b0cdf559cdf38a42300e2e23b835b1be8e052074b5ddb49e259e"
 ---
@@ -82196,7 +83671,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a1b60364c632ea2173a82a3fcaff5c042ff86a8a3978bf45c2c2e8bc26cb32c9"
 ---
@@ -82517,7 +83992,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "608bc87148e2b63ec398b667357194b585ed7a0e0c84092dd05959b552931227"
 ---
@@ -83262,7 +84737,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a9e26284aa51be12490be4025301338352a4f8ca67220a6c6592dc92593fae4c"
 ---
@@ -83871,7 +85346,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f30cae92597cb18588716854bca75dca6864bdae3ea4dee0d66a67ac4529a055"
 ---
@@ -84829,7 +86304,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7b57f90bf1a987814391f08a6c94a3e2f89907c73970535f182bd5c1f44e74eb"
 ---
@@ -85316,7 +86791,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2f26da2b39ad8491305449764da004dbd52b993e70197a0b41fb90db0337e1a1"
 ---
@@ -86292,7 +87767,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "111a50c48b8436039cfa3cc39b17d03e433553cf9080ccfb491f7b7c61508a96"
 ---
@@ -87068,7 +88543,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "07548a29276f149cfdc1e9a94b2cd0e6b4bb709f24231d3121a3a09ce5a5a14f"
 ---
@@ -87361,7 +88836,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fd68bacd1eeb2be1ba5634d894cd8ef107d762bf476d911143dc09c753832e8a"
 ---
@@ -88104,7 +89579,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4b01281f91ac41bf751227a5c26909788f11df318be161ae09a242c3743c8985"
 ---
@@ -88625,7 +90100,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2c171f85a7ca423ba16f9c41d4ad0048a06b8f223b3b8fe6e25d95035024d68e"
 ---
@@ -89009,7 +90484,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "13ffd7cfe10dc8b1ff6200ecaabacee6027c07b80edf696844711cb0943fb6e1"
 ---
@@ -89272,7 +90747,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5ece73232cfd7bb6c83f6d9dbf0cdb98340046a5e7620ed443472df8565ded73"
 ---
@@ -90138,7 +91613,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "550e19262198a31204141c7a8b844b8b9d428897b97888cc247548be7c0e9f70"
 ---
@@ -91233,7 +92708,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "046ff96198cb2af6c85d63acbb1ac0cea051455849b557f11ae99bcde9970d5e"
 ---
@@ -91497,7 +92972,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "698cdf0435c0e14356cfbdadee7906fa87da4825f39a1c5acc8f7e7255110fb0"
 ---
@@ -92350,7 +93825,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c187b3da37af8c9b5cd58e27b003c9f9540afceec777a99bad8917c982eaa369"
 ---
@@ -93003,7 +94478,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a11d1aae39dc65c210613b79c9cfaa6e9ec601fabd1aa3082b398a901a178d23"
 ---
@@ -93285,7 +94760,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9ad141ed22e88dcacfcb2b6e694a473c2fa7e915c60c4e0b2205f1f21fdfe149"
 ---
@@ -93540,7 +95015,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0c5dc1a10c7abb0c5912c0dfbe9c496e472dc1f42a5bdf9e750667907dadbb10"
 ---
@@ -94236,7 +95711,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f972b5b11687080f42f6128f0a61c4cdcba086752738141c82f39fd49b8e00c8"
 ---
@@ -94513,7 +95988,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a7bdc7b5e2549da7ea2e8e6b909e0fd390476e06b647c63f5675a5db62a4bda8"
 ---
@@ -94942,7 +96417,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a404c90c00b3ee6c45465dda74c76d28a437ca2856cc060148b5b66d7aff923"
 ---
@@ -95839,7 +97314,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "25c1683aeed30d47ee5794a94ffb26a489f2e0904f0663cd76b3c5dd00831b98"
 ---
@@ -96043,7 +97518,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc8833b0ec739bca68732fd79c44f0f3c84c033bf7bbb069b06e7c46c1859c33"
 ---
@@ -96368,7 +97843,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8b5463e0a0b5f4397196db66074bb566d34fcf0f2b8bfcc17c306e99b6886cf3"
 ---
@@ -96448,7 +97923,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "25788b8d4f425183ac251f34dca09bc9903cbf99cc2e062442a737cbcbf8dc81"
 ---
@@ -96813,7 +98288,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1278c738791bd393ab996eec2f82235087d9de09ce5e64b7ac333cfe64998588"
 ---
@@ -97103,7 +98578,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9c0bc7e4c8946b24e9072b2b8324d7e11de33193bc4618f80ec508669fef4e79"
 ---
@@ -97438,7 +98913,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ac6fb6e265cec0099c958f8be45123e66357711bd287ddd562ec39f07781bbcc"
 ---
@@ -97604,7 +99079,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c2ea6d884e4f884a16ba06ddc4a824e73916ce4cb41b33e71ef3d4217a43e782"
 ---
@@ -98006,7 +99481,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e32d220e0ff0b874b86fda614df95cd5c2df8ff691bb6b93c0610a8f03effe1c"
 ---
@@ -98264,7 +99739,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1bdea79ae33378c6a30187559211911d19b2bcc8cdf66fcc95c1b3fd705058ce"
 ---
@@ -99191,7 +100666,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e36e1fae455b5269790e9ed0b5f8a46f84526463334fe0f3b4f08154f6d24ccf"
 ---
@@ -99403,7 +100878,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "00e2084f2224ceea3ec63dbd5c13e2450f8182d8e0c965f54c360757a2510029"
 ---
@@ -99684,7 +101159,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "af23751c1a577788fcbf790e92d50e7d08c9acb7ebbc8033a1656260bbf54e09"
 ---
@@ -100034,7 +101509,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4d60a19551c6c1b45d6ae330db9627c4f925f2faa75c9c12fac411dbf3547c3f"
 ---
@@ -100230,7 +101705,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b2f60a5a4048a4698bd0705883f44657efa7d27f41b180921cb7eff1932ad360"
 ---
@@ -100447,7 +101922,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9053880e99eb6f0b4cb86ace61e6036271aa8ad214da23004826438c53e5a3a"
 ---
@@ -101346,7 +102821,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "325dc63bed9d0a49d51bacf582788a550ae497781157942b69ff3062544c7750"
 ---
@@ -101623,7 +103098,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d8649c9e6d9ce870d9752242eaab7a0c9172d0a60652bdfd43cad8d5c2da3787"
 ---
@@ -101886,7 +103361,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b73b4362fdd8a64002f3c8a36f4231d6ffff8781c99a7a015db1f01a45b0c4ef"
 ---
@@ -102472,7 +103947,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1a6050c8ed72b51c5eb6631d37670255d753536ee69546a817209e245972227d"
 ---
@@ -103481,7 +104956,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7559ed3f3329ce00e0a65512358d0d1728087f0b4dd9e3018ce28567bcb4251c"
 ---
@@ -103745,7 +105220,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "97576edcac651c930f3b8ea4f477533efd2e8a314b028aeb60d5dce36c3faa28"
 ---
@@ -104125,7 +105600,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "94932fc1ad90a1e917df57b6d840fac0e6ca6e9c7ccb49f3526b0d5d5dcf32b9"
 ---
@@ -105057,7 +106532,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "70a8f21f5a27f77286177f34fdcdbe61bc3dda3dd0b4e3eb0fce8d2eadc9b02d"
 ---
@@ -105392,7 +106867,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a8b13919b19c923bf90e9ed4579a26ee8b37d43f13a94498455e209a082be28a"
 ---
@@ -106894,7 +108369,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2737064ad4a4adaf61d8b11db6f8f14968b4e901e1c3f8e33a75a9f5626fa33d"
 ---
@@ -107488,7 +108963,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "454f5dc1daa23f14f973aca7979c1487761641799031eb1892bf5755fec0eecc"
 ---
@@ -107818,7 +109293,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3f14576c1d706d95f009ccdc2905b82504d3297cabde0a9f93d57680da45cd5"
 ---
@@ -108882,7 +110357,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fbebdd2f8764faf71b4d887e3f52deca235f563ea759c07f953254659fa8180"
 ---
@@ -109619,7 +111094,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "db8b03288c739895f307eaa0846695728b3c4c5e381f58598a65b0e48ac33156"
 ---
@@ -113711,7 +115186,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4f98bf967ef5ecdf2f0e856f547616c9ad1f2b040e8125d0f19c4ccadd8baa96"
 ---
@@ -114019,7 +115494,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6e565820d995a520286909546f1377f316da735884241bfb57bbb22fa17ec16a"
 ---
@@ -114918,7 +116393,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b73d80a158656db59ee8dbb24426814c2437df64e00461ab8ecd4d0df8575058"
 ---
@@ -115167,7 +116642,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "45f143d9d03d81f70d0e8234ed978dc4650faba1e82c417559c7b12d7964515d"
 ---
@@ -115440,7 +116915,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6565a15b91f7e9541cb843e7ca4765a2767d4de4b20a0eb97bf70ecfa2473cca"
 ---
@@ -115512,7 +116987,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "80b74f46e7ed90dfb68808cd7edbc60c0ecf7a25a0812bacc07f12e993e39dde"
 ---
@@ -115853,7 +117328,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0106ff6c51a760cc353128c5e8f33fb3de3af97abcff1cf62a30eafb89f23e26"
 ---
@@ -116153,7 +117628,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e5e6b6f91943c03489ae781cef3e08ed8bfa6a5aa67a4a13468a6944e249cd00"
 ---
@@ -116456,7 +117931,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "46f8bc754b3181972a41a3d4ac7544093df70da2fa74020f43c406c78783e783"
 ---
@@ -116674,7 +118149,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2bc208cc944091ace7651aa8a1c1c10f3cacea3f970242a56a9554d0f249240b"
 ---
@@ -116862,7 +118337,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ef541ad1f3625b07699d1466d3b234618102bd11dc2456993d6a4a852d41b70"
 ---
@@ -117085,7 +118560,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f2d1328d446c0e0487c471c36d34b7eb806d5ab9ca36361e2799d6b5b7ea8144"
 ---
@@ -117138,7 +118613,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9a64e058caf7d46824fac11a797104c6f9fe69241ca4a8983eb33759ebb45b76"
 ---
@@ -118201,7 +119676,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6513e41a8ad40b9038c8c887ce246aee494cfbc6867de6bd9f6ebbe03c54f863"
 ---
@@ -118857,7 +120332,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "08ae54d3080d95f4eb230e0357fda6855b7cba70ad281864adba2c9d8fe295ee"
 ---
@@ -119352,7 +120827,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "959c0a3a5e05d056b66d3cbe91077019269e4bf62f25ca7592d75d8cef2e1ad1"
 ---
@@ -120128,7 +121603,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9c0dbf4481e53fc1c0569142d2c7519e0810236cde6ffb2154e8b39afc765d08"
 ---
@@ -120175,7 +121650,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3c5ea177ea4fcd5488a6014ecbcc6e178548d297782e0ef3bcea9d97e968f52a"
 ---
@@ -120280,7 +121755,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "23ede2115aaca739e203823b1b06be7366d99f7b583a760f6304eac2b693ab61"
 ---
@@ -120841,7 +122316,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f37cc21020d546a67e49e805f763eef8f00dd8ed729c364cad02244a2adfab13"
 ---
@@ -122252,7 +123727,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7248adedf4bc5870d97cc26aadcb7ba6f51b24d1f761a8d472aae2865a0213c5"
 ---
@@ -122628,7 +124103,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c21577c4a59e3cee2388ea7f2313d21ce5145e7bdf4328ad81c17579cbaf753b"
 ---
@@ -123225,7 +124700,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5b059ab75d8ce5cb5d75efbf42ad4ffecbc451a94bdf2fa8c5dbbcf6237febca"
 ---
@@ -123901,7 +125376,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cbde7ca0a9b98a39a03e7ed49c9b00cffccde1de8a200017aff4a79761ad0a16"
 ---
@@ -124702,7 +126177,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "71850e6bc15f8ace6b03b16846943da62f0c4b611b92de533fe6a73ca5b6aac4"
 ---
@@ -124913,7 +126388,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "644f381cedb0741c47efd6d25e6e703ed2b997ba51f896387714d14b117c3792"
 ---
@@ -125586,7 +127061,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "18eb71546de7faeea9f0fe52fae517d2966e59d0fa9b873d938f1696bfacbf5f"
 ---
@@ -125868,7 +127343,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ee27c4a146435f84503631279865c95c2272ecce4ee473037eed7679b71c040"
 ---
@@ -126122,7 +127597,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1ece2a98aa2152f006c8f818a88d7bfcb287ed1f76b43bc7cadb6eccd61e56d6"
 ---
@@ -127186,7 +128661,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d11e081e65306cc2b1924af4014d01b37d87f7d72853128261c2e65e75d7e3e5"
 ---
@@ -128269,7 +129744,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e9d41c1a7bea7985d4165291e9267b5c48228c44ba1dff93398f7bb55f036d72"
 ---
@@ -128756,7 +130231,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "031a108a5f14a163a76bd83185169bbf462e402d5e84f2e8c058445f3204be2d"
 ---
@@ -129935,7 +131410,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "20019d3bac89b37f9157fd3d6aae236b2f5e6cbd6c11a45910c09940aa169bce"
 ---
@@ -131105,7 +132580,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "82c15cdbaa3b3ce203e796d7d36a34f04fb8bbf9c39798adc0583aa20cc2c76a"
 ---
@@ -136145,7 +137620,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "684e1494b3f95bf84d54e8de24411b9ecab33be92e6516a6ee24ccf16262da6d"
 ---
@@ -137156,7 +138631,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3888c047f40961de2b09148f32b68181132fbae2f1fa834b5879a176926bdcbe"
 ---
@@ -137927,7 +139402,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "666a08b48ab1fb248d952bcaa3b131d1105d7ab821da7fb34185e6f8fd340366"
 ---
@@ -139028,7 +140503,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a732355ec392d84dddda8f6c81b8c4f0ca06798b4af2d32f8437c0a538cde561"
 ---
@@ -139512,7 +140987,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c34b530584bf87dcd0c26029f13b8f04b76cc17d3cc6df4d236ff8e0efae3da2"
 ---
@@ -141047,7 +142522,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f0a07ac08ebba655721a014cb4bb947e7c55556a5357d844a1cff3d6f282eabc"
 ---
@@ -142173,7 +143648,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fb38dc02902965f019f8c35b4945c652227ad42ba7940c5d63137bac31f5425"
 ---
@@ -146599,7 +148074,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d23bf9d2baf6a0af67b0b6a64e4fd83f1163d2b0d8fd88316b025783b061f67d"
 ---
@@ -147288,7 +148763,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9f3ab1a0ae552d4ab4441e47a646c671cae63e596f7c4ba412acd22679dff0f"
 ---
@@ -148431,7 +149906,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bba70a11a183bbc93f5c39545d4b4489baf4219a115bec533092ceeed910d16d"
 ---
@@ -148908,7 +150383,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e6f4ca12c94bd4c6f3c7b89745137d9bcfb469456ae556b23f67940f1f651d6e"
 ---
@@ -149381,7 +150856,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "489a3a35a1dd46421a25e3c741ae534d686a011a24715ed3abcaa109a56cee81"
 ---
@@ -149981,7 +151456,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5a9daf00bca58a7b374e2859f5d28cb4f9e9a53833626c5c6992ffe80b4b891f"
 ---
@@ -151609,7 +153084,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "510db649d013b5ca6087acbedeaf67b148226da99645b6d620e98ce2aa951da0"
 ---
@@ -152301,7 +153776,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "68559e0b6154264aa653bcf2b0955b249495cc2d68e78e152e4df134e532d203"
 ---
@@ -153866,7 +155341,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "84522d506fbffc8f1b4520e28da7f9d53c4ed2320fe0471498b78ddc552858a6"
 ---
@@ -155278,7 +156753,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c000613b9c8142e77d0e790f3eab9d76d5bd2a0de88442dd7503c88e4b14649"
 ---
@@ -156846,7 +158321,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2ff0c9cbd6d329fc53949badaa084eaa86e8b4598b3a920490f44fb4f3f7b982"
 ---
@@ -157531,7 +159006,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0340518a4bd25f2268c7c264792fdd8fbd06e27a0edf8d1fea68fd6a66615baa"
 ---
@@ -158594,7 +160069,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a447791c1d448899110f779b59381045e35b164b3ab20f4e19f54f5cbdacb656"
 ---
@@ -159135,7 +160610,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3d3aef08e515f97532ca15fa3ba51282441738b79c59f610b2c58343aa7fac4d"
 ---
@@ -160167,7 +161642,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b591c343a5834fca7d468cb6b926b19b48016ba1a06fdd608347a8c1880a907b"
 ---
@@ -161155,7 +162630,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cc3df3aff5f748d07cee459a95a9643934deb5e1f98c6e4150544662c302b2d7"
 ---
@@ -166390,7 +167865,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "68b3d1dd37ef20fd1d5ad6b1b5128202eb990bb40501358edc3bf3f8762ced9d"
 ---
@@ -166676,7 +168151,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "29f51217d4f3b3dea440d3fdcf3c24a751854d7c9422c98fdf82f27c2e80c477"
 ---
@@ -166876,7 +168351,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "50c6670ff03ee0887c96a9d107187c58fbfb3d141c960a54d270d7616f53b973"
 ---
@@ -167996,7 +169471,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a5393b5c5abf4450dd4d7c3ad536d0882d1539159194b5b4b871c04f5ca5707d"
 ---
@@ -169308,7 +170783,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "45ee19a4fca3a606fdaa8cd2ee90bbfa774f8cb6ca75816a5b03d01ebd864637"
 ---
@@ -173600,7 +175075,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "577ffda60a5b8e9a22abcd066026fcb382aacdbce0eb8d64bc0a0881a7a6eb25"
 ---
@@ -174698,7 +176173,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9b1417132c1eb6bd85505ce9c6923bdb236816df3a88a1bc38334e227ad71b61"
 ---
@@ -176183,7 +177658,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3719243da0052d26b1530d448886040d5f47f3b753359efb0857a641e8df53d8"
 ---
@@ -178831,7 +180306,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5542a3e6e1b8308d631bd6ef60bb0d062b559813afb4a26c648a3ad6591d845"
 ---
@@ -179124,7 +180599,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "14219a8670b982e165367714c1b03a31e647057dd4e1b623e0f5b51ed1a7a90d"
 ---
@@ -180015,7 +181490,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f2180a84adffe0003bb7c22a954c45a7129e3eb52c5a75a259c4d233ce2cc07"
 ---
@@ -181857,7 +183332,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "65201cbf9e781649da4404718b5f67e5ff56788319cc16ff968e851e91163bd1"
 ---
@@ -181915,7 +183390,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1eee73ebf48b5de0e4b3b6bc969317e8f0736d7bc89775a36ecc69c34398e8c"
 ---
@@ -182533,7 +184008,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "94b5b496ee733be744772cd1db8444837ce68ec804138660cfc897d475bfa055"
 ---
@@ -184861,7 +186336,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "981e4ad2b2e26f58189e702922281553c9fcb9875bb6bb7ba33a7fd6d2cbc404"
 ---
@@ -185436,7 +186911,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d9afc97516fdd74591f320f5c93ce854c47d0629d2f0cc73af82c8702c8f7404"
 ---
@@ -186448,7 +187923,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e90091d94f29fd2cf7d20c6ad9c90e820937e58a498305399876d26d5abeb4e1"
 ---
@@ -187071,7 +188546,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "984330e77f02dbd5cb80a87ec815a3bb80d8bd4f24c911b6178ae09d1404d5c5"
 ---
@@ -189119,7 +190594,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9654d334e982ed240ee12a3f8b6f3063dd144491264a59f184ad30046dabb1cc"
 ---
@@ -189773,7 +191248,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c791255b4b910488bf85e1e6b6a941a2e4ecb3dc113d06a4f5bd75bae15dd100"
 ---
@@ -190418,7 +191893,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6466ada0127e091d69b64a7bc1a4fee2845212ba6564b0d1168c262dcaec87b0"
 ---
@@ -190965,7 +192440,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3331fc643afdd3537424356eef80ccd8c4114f0cdd1fe9a1f6fdee49374da77d"
 ---
@@ -192202,7 +193677,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c50604b2f3bc79805805cef7e6ca4e7cf016d88eda2715f46212728a90453595"
 ---
@@ -192640,7 +194115,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4fb22635c4e7445ad3f0b473aac03d675863ebcd88b351ab1db823248db5e668"
 ---
@@ -193279,7 +194754,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "939cd759f90ef329fb34f70428b61ce4feb9a41aaede96e33e8cb2b0c969e902"
 ---
@@ -193643,7 +195118,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ad956f34368fa4f892b948daffea00102687c81c56de74394660971e6e42270"
 ---
@@ -194153,7 +195628,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "dc4f26428b9f4f3fd06d1e05daee4d19d024d7acf371f89459f9ce1d7f8bf252"
 ---
@@ -195411,7 +196886,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a9da424910f622acc189de9404c7696780f0c7addafb0f8941fa263fd3aca545"
 ---
@@ -195997,7 +197472,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e4bb7544520715df2a092e2648e4397acf00ae20665f8fbf84bad32dea252e4"
 ---
@@ -196612,7 +198087,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0218f9a92174808ee42522a06bfe973a8056ed36f1ede2830445b81124706d17"
 ---
@@ -197843,7 +199318,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3334a22bd31e03c40ea30cbbf548609be86a930d45190acfdd834e0b4898f57"
 ---
@@ -198540,7 +200015,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0db334045c65dc12d9a650a4f706254016aee39eaa50e389396558170ad852e0"
 ---
@@ -199184,7 +200659,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "21b1c0c11ae59ee90a610a96f8fed49a57e1be18d45896b598f19c4947a7f062"
 ---
@@ -199718,7 +201193,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e05015fbd9449afe2cad23920bc08a5b4753dac3474c11ce22d2ee9102651453"
 ---
@@ -200220,7 +201695,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7275d588c2750403d94d7540d1c7023d3bdf9123757f932724c0d6d5862940a2"
 ---
@@ -200806,7 +202281,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "38081c77a84555716728c9be64053fd1e485f11f180e7083fbeef1886e59b50d"
 ---
@@ -201499,7 +202974,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9dc360201f2e5601dc7355c2d57e713e7121be9b6ce33b79669f39def1cba584"
 ---
@@ -201930,7 +203405,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c7a40618a1fe8541ffd701c987c344e4905f20112485bbb5bd0ca44bf724b24"
 ---
@@ -202220,7 +203695,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bfbcedda2f3177494c24cce59062860314b5fa3ba7af92767dc4a2f0a93e1e81"
 ---
@@ -204041,7 +205516,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a194ac597402990dc0dda1a0bae2e74fe21f459a7e3204d038dcef1b521c892"
 ---
@@ -204624,7 +206099,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2195ffd25d4316c05eafcc01510f814e539e16031e32c54253b6f7a4fd05f16e"
 ---
@@ -205139,7 +206614,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e769529ce21f9e886df29ea1e53b0eaf198856d1a14fbe75898e6d51945db47a"
 ---
@@ -205449,7 +206924,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7e9c98e10eaf542073b7e234813de300942613e58a42ee6cce07c65ff174348a"
 ---
@@ -205981,7 +207456,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9898e369bf8c51f51d008b35910be1bd3cc7f351f9047f02e84a8fd3518feb1"
 ---
@@ -206050,7 +207525,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "71d110eace05939e9a64a17bf85c0207d5a82a1fab1bfcc817998d1ba78ac8ed"
 ---
@@ -206138,7 +207613,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "71341d0d8f0f6c35b0373459de314edb9f8287aeab6a0e7b7aaea9cdf4454016"
 ---
@@ -206249,7 +207724,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "93856e689812c11a90a95442c61022d726c18d026df9036d21b12417170ffcce"
 ---
@@ -206544,7 +208019,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2fe33f92961f10c13fff9a202f1ac4cd657fd50029d9dda02553198121079364"
 ---
@@ -206928,7 +208403,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ee529f23c10893155ae3109fe91bf45c5979ab6c176170ec487017c85c9292a5"
 ---
@@ -207459,7 +208934,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "62500d618e58e5d13e65a50b5cb75a918dc9946990caaa9862527eb1ec339ee1"
 ---
@@ -207611,7 +209086,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9304697be53c06eeceb4616a4974c3adee2ad4f50531eaf308ab04080ddafd38"
 ---
@@ -207877,7 +209352,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "22a22d838ed32631f9fd49f2a2f3fcdc8494ecded10db448e27b7aff48a1941b"
 ---
@@ -208193,7 +209668,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d82443611db115681ba2241f1b7801225ded2a229f3f541ded7cda5fd11843fe"
 ---
@@ -208765,7 +210240,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d781de963598bd2f4361288b3a9349a86ddbf2b27a6c7b5f9e225d784e0a7c66"
 ---
@@ -209463,7 +210938,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0481bfc7d0726fefdcbeb62243f28b1dd44f5fbe11f90c9066c43b774277acee"
 ---
@@ -210053,7 +211528,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a86c626fbe908d61689ad924742960eb201b66548496c0c588bdb0f0c5e1e6e9"
 ---
@@ -210971,7 +212446,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "158fdc2ed2fc0b48ea25dd809e63627b1eaef66dc2e650041919091e5b1a54e2"
 ---
@@ -211352,7 +212827,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a39d8207b677eb0c4a60cdad59f277424165cc7e189679ccfb501b8c16e16f1f"
 ---
@@ -211958,7 +213433,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4c0b85fa1f8bd4cd17b84df656ca4dab33069aed4c17d6d17d22d3a6f407d8c3"
 ---
@@ -212287,7 +213762,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d73736eb78f8ef7cc614c11ec887d9fd90028fe08daea28a58654643620fb2f7"
 ---
@@ -212813,7 +214288,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "32f929d449fb933bc3b0de47c1ac66c371fc22fd6d0f29a8e60dcd4a8dde63e7"
 ---
@@ -214538,7 +216013,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cc5096a9d679a356b110acc983088766626b0a68a57dd5864a97a16b7abafbbb"
 ---
@@ -215015,7 +216490,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0a8ce998db8f000ebecadb7da2801a5bf5d323409e7001b8b957dbdd34352852"
 ---
@@ -215661,7 +217136,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "cb746912aa4f674690f1d6ca61479ea8d057895d8a096c346bf70f4c84ede09c"
 ---
@@ -221045,7 +222520,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c9d2471d13c0c1be6c7ec4454be66c61ea2463d48aea2e19b12d8a15e5479696"
 ---
@@ -221163,7 +222638,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "112af7c50fcb2e10f6e83f2de408168398c3da470e980c576e93bc51686b4220"
 ---
@@ -221370,7 +222845,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f6153fb444e482f7100b0ffad4331fc40b9cea40fe9a2e48c1dc32e0764d2a5e"
 ---
@@ -222063,7 +223538,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "87d967f59c8cb41a8649477866dc9c69b89212648fab7df9044a55d6bece544c"
 ---
@@ -222401,7 +223876,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2cba823abb38b967dc418d51d4272b69a7907c651c8be0c19e091ad9683d5367"
 ---
@@ -223513,7 +224988,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef17b56f7ab5058cb9124ddc67dc5774cdc0d81ab5d35313f1ce2477b4fce2bb"
 ---
@@ -224876,7 +226351,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b4856fe23b0022922b171220552ec3fb33302821a992c90a538df74ff28c457a"
 ---
@@ -225948,7 +227423,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "45fbf66b9baa3767cb2a2d158666281cfff2717fe3485bcd47e93cdf0a04ad6b"
 ---
@@ -226965,7 +228440,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fb4e41a7f413ed8e83a91da0273d8a8abe55f8715122ae4d18b7f68612cf252b"
 ---
@@ -227029,7 +228504,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5bb0b78ea853589390b1770753db397b2e526a49ffc0d37fed881e7f3b95a275"
 ---
@@ -227698,7 +229173,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b15bc6b73390505ecb3dc0a19464228b3b67410ef05898d16172261c4a053793"
 ---
@@ -228806,7 +230281,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d77786bf0c0dd7f3a00113112e0ec8666df4a045365b7f7685c3039d6a67403"
 ---
@@ -230323,7 +231798,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "dd71f3ea0a184041acd7053f0ccbb3ce06a00ec1ccd9075d25e155212824dd41"
 ---
@@ -230703,7 +232178,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a588ff2acfb702629340a5ce2e88effe723a1b1cc43600cce1d547f4dcb1909f"
 ---
@@ -231141,7 +232616,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "29316d99d2f236fac1892dfdce27e19977ecaf16886c23a8945e64d3a8c752c3"
 ---
@@ -231443,7 +232918,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7de3c56384bd69075c2c15dc1cc65a77fbfb3826e70dc792003499fb6e1554df"
 ---
@@ -231939,7 +233414,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "03bd151d308ac5a407c3935b6ce21d17bdcc8cc05dbdf6652ab0054d6e598c75"
 ---
@@ -234524,7 +235999,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "910ee96ed242601faf26e58cadc01db4088943ca3c127f0488c68d5cbb6266ec"
 ---
@@ -235178,7 +236653,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b40245cbe6885b6daa1e75123b7dfaf3f2d92a15d57a97e621f95bf2970adee8"
 ---
@@ -235655,7 +237130,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6b053ee7b572e348982b86a284e17a58ec48c5813fffa00028c1c3b9fcd48c60"
 ---
@@ -239424,7 +240899,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "64af6a0d40d4347a36492d07c46015763914618b147584b12325e9784bc3eb06"
 ---
@@ -239981,7 +241456,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b9ce0d18b46741b44a10edb14add787c07c44f42ed0d9733caaeeeb10fe9be19"
 ---
@@ -240711,7 +242186,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7ec7a9329b159660bb7dd7ad9f8a56affbd446b58e4efa5a1e93680d2bd283fd"
 ---
@@ -241419,7 +242894,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5779db9970d2e9a27a7efe5e168aeb9e3c6a14653d0f6e0164740744aad5b1ad"
 ---
@@ -243874,7 +245349,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "897007932b7567ce83f5407e3589918fe8b17811d1086dd76d38ea08b23bfb4b"
 ---
@@ -244354,7 +245829,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b55cf19f26d62b21d0fa45b3002d371eb7c6c284d344ffaf7bbb1a56c663bdd0"
 ---
@@ -244723,7 +246198,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6be0eaa671dcff8859ad92e14cc23d7541785ad9a5d27d9c7b25b480701ab31a"
 ---
@@ -245476,7 +246951,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9a8343758a6430510d295b41b9346c4f9301bcc55fab3f29cc8485fd0335f7d1"
 ---
@@ -250270,7 +251745,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "1e218cdc3d4644ccfe66e714b85210fd23fa917a4b895a826b5bfd297df7f9c2"
 ---
@@ -250841,7 +252316,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f9e427140b94e1e7852195b02ce76e3fb2e5019bbc2d332175865eb7c231349f"
 ---
@@ -251415,7 +252890,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8a9e98c5ab92572ac500f5282017c51b0a265b5995d5bbaf55fc8bef54df3a6b"
 ---
@@ -251850,7 +253325,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ecac44569ad985afcf8f86beab904121372b76c39e2b7670559ef8cbbab6bf3b"
 ---
@@ -252375,7 +253850,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "80156d69f1288c7c757ca69f311a8d407f9e9d1479a3e4a01ae805549262bcc4"
 ---
@@ -252924,7 +254399,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "40244f920586d44ce0b6c5ff4a2528267ce07e9087b0cafed4c592f18361af60"
 ---
@@ -253192,7 +254667,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8596ee6745cf49b16bb7e680fc7af5f7b56ac808a38539330ea29e7023be8e3f"
 ---
@@ -253770,7 +255245,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "242f889cc1f5d2233378c59313286481f5d68856d2f78cdcfd7c059b04528ce4"
 ---
@@ -254992,7 +256467,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "96d9e7bb65acfb2e11d1782931b1fc35b9bd45b526ada0d0f746eb88772beb5f"
 ---
@@ -255287,7 +256762,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e7f4bc77c356ac820c482436e7d5658f7781a787d429224420770a66c07ee67d"
 ---
@@ -255711,7 +257186,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "968a7466d4196c44c9bbacc11845f49e2b9b35b891ef10bbaa4c7c0f7f356355"
 ---
@@ -256232,7 +257707,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "37adfa98aad098cd5183ddfc89bf19f3d50f9fe629a2d1d41a4995de7a7f0872"
 ---
@@ -257094,7 +258569,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "522db480aa3db8545e2f1bc210304daa8f469297e695cfae1213b1c667d5622d"
 ---
@@ -257753,7 +259228,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d1643cdefae066b57f04ba625705768024b3d179d508571135730057db99cbdf"
 ---
@@ -258518,7 +259993,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ba03a593cddfc44f972a59beb02474461434ae16294583480722df364cbe4e46"
 ---
@@ -259400,7 +260875,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "c7feb09b74d82ebfafadd9e193cf951d815a5dd3d0624f0d843925a938655915"
 ---
@@ -259969,7 +261444,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4817231bedd3045c5e6cdff6379ed231fd6b38b0a09a9a347c93828f04923b6a"
 ---
@@ -260205,7 +261680,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e3e7ff84eedd74da64adcc8823177550727a6dac186eb31199f8d21cdd8ea222"
 ---
@@ -260695,7 +262170,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ddde06da62f358b1d8f81c5d89414a342c3b90beb855db9c2f32039aabe6586"
 ---
@@ -260945,7 +262420,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "81f805f8b9cc59df3116b8422db7986e1a5fb53946560c80acd47cb9185551fc"
 ---
@@ -261792,7 +263267,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a088a65eaf4345b375fd3e329fbe3af56fc37b7da2d3229f6018928fee36a8b"
 ---
@@ -262112,7 +263587,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "7dc9ca713c34b3456f2b8cd837d7212802a4b2957a9260665488098e2aaa310d"
 ---
@@ -262475,7 +263950,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "00245aee845a2803f9ccea32a73b457c0fb2efc2c6e23f61637b863ffcc9370b"
 ---
@@ -262717,7 +264192,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4c8857ad88e633ea58faae98be0c8978be375c24c955934ee5d93c19fa233883"
 ---
@@ -263382,7 +264857,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "674255ed50ee29c60f69737c4a31cbf054af4c71559b889cdd7a2510c24d03d5"
 ---
@@ -264012,7 +265487,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8f75462a747bb7fafc7717019da9430f5d238800b5ee726df331934b95af7ea1"
 ---
@@ -264305,7 +265780,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a05362680623ebe3c0c90efe09cb02bc90dd59cf00b30e63ca4df2a09bb82506"
 ---
@@ -264554,7 +266029,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3849ff91b4ea8e22b49e2b15d8f03331c1f5119f65ea5cf2732c01543638b308"
 ---
@@ -264782,7 +266257,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8bc94f11a86a1c4d2d44faaf730f731792124589e9385d4a2274a229430a88"
 ---
@@ -265210,7 +266685,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5aa8dfe280d25882b86666984ea70c4cbbc7d09c825611eca321158ac067feed"
 ---
@@ -265935,7 +267410,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "974cb2a75ad22384a278dc5f19a331ffb71f2b7f60c0b6c5a231927a73c92431"
 ---
@@ -266354,7 +267829,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "751c8bd5540be4a9ce4fd9bd750a3414f156208538127a40114c3425b2477b91"
 ---
@@ -266639,7 +268114,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d1c5c8a2f571220b67fbe67b576f62a3041cd7b487b3fc3df7657ff35c5b811"
 ---
@@ -267006,7 +268481,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "393699f7c7cffb179abe3c6b7cdeab492f30c25ef8dac536cd3ec5686f33d35e"
 ---
@@ -267207,7 +268682,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6649986a7c7dd6fc08e9c2acf336f39d760b78c288185e699a46abdc0f3b7a5b"
 ---
@@ -267636,7 +269111,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "729ffba043ac2973fc9dcc205ccc512869531773b17a6372f9ffbd9efe36b7db"
 ---
@@ -268077,7 +269552,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "98a549ea7251f4352a0a5beec0f1288dc342803996f07a226dd20d8296b33d8c"
 ---
@@ -268178,7 +269653,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d18c7548c04a01d3b22462919573eaafc10757eb488ea11f8e780ec7c617e204"
 ---
@@ -272026,7 +273501,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "af0aff2100727f793deeba4391961403a4a7093656610d8e1b2a99e42dd2a7be"
 ---
@@ -272567,7 +274042,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fec18215217a17e0483023f934e5db43b09b4e6e3338accc9b399e22668dfb75"
 ---
@@ -272808,7 +274283,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8ba2ea6917597d7229b89ce49c46faa6b02b79e52c4d96cecb2dea1a407c06e3"
 ---
@@ -273035,7 +274510,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "db86a207c8e9893b47bd4d3609988816bc3f9da1e3e6c6b82b3a620018efd7cd"
 ---
@@ -273253,7 +274728,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8c07f439446316b989a0a13fced1571b9c2302bea5e0e118a8226de8a3e8f8c8"
 ---
@@ -273373,7 +274848,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "104ba44b5716e4b475013fc090a3ffa463f8403fd55f35d81d37bef3fc3ed71b"
 ---
@@ -273655,7 +275130,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "2cefac2d2ca48f8cf43e0350a805cf516541506426c178f6fc9e766cbd86bf0a"
 ---
@@ -273958,7 +275433,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "3052f922811d4980e47ddaebbbf09ee4c4abe18cbdce0580434f71d1ea827605"
 ---
@@ -274208,7 +275683,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b8da7f46859c429d4ac5277dc4fdbbeb14cc259426e065eb54cff90ab6565e45"
 ---
@@ -274417,7 +275892,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0ef6e9a886854a550662a0daa3995fe04f873409130b25933264300c9d9429be"
 ---
@@ -274550,7 +276025,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "a4f89df97203a36770c252b2731a666c4140fd4a4bc865325a37c57d555563ba"
 ---
@@ -274695,7 +276170,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed70c6a8db83043ff18c401b9895228d5b8f456b025b3b4d84a2f0d866e30237"
 ---
@@ -274808,7 +276283,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "559ef15168a6efceaa8f4c0e83f0063701702fe5c269350eac88281f9c52c641"
 ---
@@ -274929,7 +276404,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d74a5ce3f437bbd1ccad0483a415ce84cb5fb714ac21561e0efabeb395cde5e8"
 ---
@@ -275068,7 +276543,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "9682238345dc45d5efd4480a057711fcc969a88d919161a1e07bfa9c294267d3"
 ---
@@ -275163,7 +276638,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f8b22b5473d74f45230e3cddd1eccdacb1765d0e6eb2f5f10165b00b8cdb0b62"
 ---
@@ -275292,7 +276767,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ef944acbd8bc3d0318c88f04a97cf2e097a62a93da9b38c7caf26e9b9f119895"
 ---
@@ -275425,7 +276900,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "6d6189c8f65ef52e4d56293b3a2a3dd2bedb2742d712c7a6967637474e3831a3"
 ---
@@ -275534,7 +277009,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8960d14accc0769337f1389c5a9d64f165198e25b2522c21790d4bfd283d7b05"
 ---
@@ -275651,7 +277126,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "693fcd4e3fdaa3303e2d6e1e42228bac776bb56d85562cae614936e1b8a0567e"
 ---
@@ -275820,7 +277295,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b6d405a33c423cfee70c781f56de21a8814caf7fa2d868e39c29dc902b294654"
 ---
@@ -275969,7 +277444,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4e60f36d39325c45c2edac6ecd7176f9d7749ede9c99f87ab61199c1c9826fbb"
 ---
@@ -276102,7 +277577,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "93b42c6c5c7207f82734ebccf2ac5da5d76c2700f9c80736286531bd95ef156a"
 ---
@@ -276195,7 +277670,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "8dfbb6e22b9495595dd9f47e3d024f6baa0eec0239122ba94eb73ac3d9fa501f"
 ---
@@ -276270,7 +277745,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca54bcfc7f60a531be9f8d550e98289d4c3a4a41027a75cb2ace20549cb0bf09"
 ---
@@ -276413,7 +277888,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ed25e40d0f12966d5d864a7c25267346092be2c5bf428b2acc78e745a39e86cb"
 ---
@@ -276570,7 +278045,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "0224a5ba96a7bc9f9cbdc0f15924ee9744d429b8d03e5efb5b9b65c57b546e61"
 ---
@@ -277184,7 +278659,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5f1edbe8b40ee9d84436398e85c6b22240c9655e4f6db163bf1e5c7515b72181"
 ---
@@ -277335,7 +278810,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "db3f013daea6c1bff20d601d137bee36a057fc2281ce833b0ae4d2ebb91c8cc5"
 ---
@@ -277421,7 +278896,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "72d668581106c629f6c5c175e37a4c18899b841023404df96fbd132e000efedc"
 ---
@@ -277881,7 +279356,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f51c57b525998950e71698fc7e7144ad2a0b1bf5c115402785624b132a2e2c27"
 ---
@@ -278179,7 +279654,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "81c0d0c93e21ab1fb7740fa500a43e16493ffed3a71542bedebc29a6900af0a7"
 ---
@@ -278721,7 +280196,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "16df07694325d56eb8a5fc9df6d93584cbc75a7880da9fc44fe20e8ebbdb9d52"
 ---
@@ -279199,7 +280674,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e06aa297f92531275902b334e8186a5bf20eff0e86f124646c3467b2918602ad"
 ---
@@ -279438,7 +280913,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "b3aa229a20d4725ff40ed5fec636e48b1571ceb02aa87eed9957dd13ba1c4be3"
 ---
@@ -279785,7 +281260,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "5c3b36fe8d2c70430a42728f102bbef27babaf786fb95aa800f11623c0c1c869"
 ---
@@ -280090,7 +281565,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "680ce1a2ac0d89717c8637fc25acd1ae29761a10a0eb6e4a1baa29c9d6756a1f"
 ---
@@ -280869,7 +282344,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "f5128f9e32db12a048dc8c54310eca6ad2757540e078bb0da465719c6a1c73d4"
 ---
@@ -281025,7 +282500,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "fa8af6a2e49146261c7d8f1b5f05724dd34fbbdb39b6be06f45b26f09a647395"
 ---
@@ -281164,7 +282639,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "e4a835dbb16b3b878ba10453a46adc7555d7d5c26711b5c21c22b60b7d9f5c18"
 ---
@@ -281491,7 +282966,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "408546c3e67241939694173999efdd22cd851c013bfacfac2c462854b4c36bf8"
 ---
@@ -282118,7 +283593,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "af647f264fe4f3d4d3c5612954ef6d5f42f58d5fae15f37ae322c6c15cb6046c"
 ---
@@ -282262,7 +283737,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "80cdaa6f6f8e95c75fcbb0a8f9b7bae685a6e2d402064bf71451d094c2c33f64"
 ---
@@ -282392,7 +283867,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "672a5617d0fdc67e53558672482849cb1a341fac70c9bed8e4b70238a55c0754"
 ---
@@ -282524,7 +283999,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "d22bb9b4dc13ab84a376fdef4b114f3f5d22d8a0999944c4a46db7c3bd0df5eb"
 ---
@@ -282760,7 +284235,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "ca744fc0cdadb544cc83e379405639a9b318206a08e64839a412345146936959"
 ---
@@ -282995,7 +284470,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "de2522e2c18295aa34259c179090d98ca54ebe1d30d8ab33970cf21fa1e5668c"
 ---
@@ -283434,7 +284909,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "20c60ee44e1987e15f5a8a048ac03bacddaea1981f710c2530f5b7a1ef410bc4"
 ---
@@ -283565,7 +285040,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "995fd0fcf3b0b7f2d4f3fe86a32d45f05c7596e52b96529193ad3e4286571761"
 ---
@@ -283756,7 +285231,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "4a3125d5ff35792cbf06da241160b2d26ba6908b52f357a57f958783bf071d35"
 ---
@@ -284082,7 +285557,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "82aca9c8ac8389d657f3bda5c7eb88b086431a2c756d5524582a4d3b9a8beb0a"
 ---
@@ -284543,7 +286018,7 @@ tags:
 authors:
   - "Aidan Lawson"
 source: "Ghost Content API — published post"
-mirror_generated_at: "2026-11-23T08:05:50.832Z"
+mirror_generated_at: "2026-11-24T00:16:55.288Z"
 mirror_generator_version: "2.0.0"
 sha256_plaintext: "bdfbc6ecdb97fd52c0efe2f061e93d37124846d33cc9af5ef69b169759bde2e6"
 ---

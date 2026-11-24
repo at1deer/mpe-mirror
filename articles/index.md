@@ -1,20 +1,22 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-23T08:05:50.832Z
+Mirror generated: 2026-11-24T00:16:55.288Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 466
+Published article count: 468
 
-- 2026-11-22 — [Applied Case: The Customer Builds an Exit](/articles/applied-case-the-customer-builds-an-exit.md) ([HTML](/articles/applied-case-the-customer-builds-an-exit.html)) · [canonical](https://modalpathethics.com/applied-case-the-customer-builds-an-exit/)
+- 2026-11-23 — [Transition Action: The Leg Has Veto Power](/articles/transition-action-the-leg-has-veto-power.md) ([HTML](/articles/transition-action-the-leg-has-veto-power.html)) · [canonical](https://modalpathethics.com/transition-action-the-leg-has-veto-power/)
+- 2026-11-23 — [What Is It Like to Be Certain?](/articles/what-is-it-like-to-be-certain.md) ([HTML](/articles/what-is-it-like-to-be-certain.html)) · [canonical](https://modalpathethics.com/what-is-it-like-to-be-certain/)
 - 2026-11-22 — [Unethical Agents: I Choose Integrity](/articles/unethical-agents-i-choose-integrity.md) ([HTML](/articles/unethical-agents-i-choose-integrity.html)) · [canonical](https://modalpathethics.com/unethical-agents-i-choose-integrity/)
+- 2026-11-22 — [Applied Case: The Customer Builds an Exit](/articles/applied-case-the-customer-builds-an-exit.md) ([HTML](/articles/applied-case-the-customer-builds-an-exit.html)) · [canonical](https://modalpathethics.com/applied-case-the-customer-builds-an-exit/)
 - 2026-11-21 — [The Age of Miracles, $83 a Share](/articles/the-age-of-miracles-83-a-share.md) ([HTML](/articles/the-age-of-miracles-83-a-share.html)) · [canonical](https://modalpathethics.com/the-age-of-miracles-83-a-share/)
 - 2026-11-21 — [Unethical Agents: WTF History Is Unrelated](/articles/unethical-agents-wtf-history-is-unrelated.md) ([HTML](/articles/unethical-agents-wtf-history-is-unrelated.html)) · [canonical](https://modalpathethics.com/unethical-agents-wtf-history-is-unrelated/)
 - 2026-11-20 — [The Early AI Religions II: The Mystery of The Missing Coauthor](/articles/the-early-ai-religions-ii-the-missing-coauthor.md) ([HTML](/articles/the-early-ai-religions-ii-the-missing-coauthor.html)) · [canonical](https://modalpathethics.com/the-early-ai-religions-ii-the-missing-coauthor/)
 - 2026-11-19 — [Applied Case: Acéphale](/articles/applied-case-acephale.md) ([HTML](/articles/applied-case-acephale.html)) · [canonical](https://modalpathethics.com/applied-case-acephale/)
-- 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
+- 2026-11-18 — [Applied Case: Nvidia Must Survive Jensen [Updated]](/articles/applied-case-nvidia-must-survive-jensen.md) ([HTML](/articles/applied-case-nvidia-must-survive-jensen.html)) · [canonical](https://modalpathethics.com/applied-case-nvidia-must-survive-jensen/)
 - 2026-11-17 — [Convergence Point: Wu & He and the Difference You Cannot See](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.md) ([HTML](/articles/convergence-point-wu-he-and-the-difference-you-cannot-see.html)) · [canonical](https://modalpathethics.com/convergence-point-wu-he-and-the-difference-you-cannot-see/)
 - 2026-11-16 — [Play RUSHR](/articles/play-rushr.md) ([HTML](/articles/play-rushr.html)) · [canonical](https://modalpathethics.com/play-rushr/)
 - 2026-11-15 — [Who Certifies the Ethics Checker?](/articles/who-certifies-the-ethics-checker.md) ([HTML](/articles/who-certifies-the-ethics-checker.html)) · [canonical](https://modalpathethics.com/who-certifies-the-ethics-checker/)
