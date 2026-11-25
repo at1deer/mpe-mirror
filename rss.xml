@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 09:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 21:56:43 GMT</lastBuildDate>
     
+    <item>
+      <title>Convergence Point: Path Ethics</title>
+      <link>https://modalpathethics.com/convergence-point-path-ethics/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/convergence-point-path-ethics.html</guid>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Somebody else has been having this problem.</description>
+    </item>
+
+    <item>
+      <title>Unethical Agents: Muse Needs To Think About Cheating Again</title>
+      <link>https://modalpathethics.com/unethical-agents-muse-needs-to-think-about-cheating-again/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html</guid>
+      <pubDate>Wed, 25 Nov 2026 11:59:00 GMT</pubDate>
+      <description>Little extra insurance.</description>
+    </item>
+
     <item>
       <title>The Year of 0.7</title>
       <link>https://modalpathethics.com/the-year-of-0-7/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/the-safe-sentence.html</guid>
       <pubDate>Fri, 30 Oct 2026 11:00:00 GMT</pubDate>
       <description>The thought had somewhere else to go.</description>
-    </item>
-
-    <item>
-      <title>Tales of Distortion: Sauvé's Crevasse</title>
-      <link>https://modalpathethics.com/tales-of-distortion-sauves-crevasse/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/tales-of-distortion-sauves-crevasse.html</guid>
-      <pubDate>Thu, 29 Oct 2026 11:00:00 GMT</pubDate>
-      <description>Return to Louisiana.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: It's a Competition</title>
-      <link>https://modalpathethics.com/applied-case-its-a-competition/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-its-a-competition.html</guid>
-      <pubDate>Thu, 29 Oct 2026 10:59:00 GMT</pubDate>
-      <description>Race neutralized.</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,55 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-25T09:01:39.920Z",
+  "generated_at": "2026-11-25T21:56:43.335Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 469,
+  "article_count": 471,
   "articles": [
+    {
+      "title": "Convergence Point: Path Ethics",
+      "slug": "convergence-point-path-ethics",
+      "published_at": "2026-11-25T06:00:00.000-06:00",
+      "updated_at": "2026-11-25T13:31:10.000-06:00",
+      "canonical_url": "https://modalpathethics.com/convergence-point-path-ethics/",
+      "excerpt": "Somebody else has been having this problem.",
+      "tags": [
+        "Convergence Point",
+        "Modal Path Ethics",
+        "Locushood",
+        "Engagement"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/convergence-point-path-ethics.md",
+      "mirror_html_path": "/articles/convergence-point-path-ethics.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/convergence-point-path-ethics.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/convergence-point-path-ethics.html",
+      "sha256_plaintext": "a75644cca5d560eab97d2ff70815eeba0f38a01a2cf927adc103c40bb0bdb34e"
+    },
+    {
+      "title": "Unethical Agents: Muse Needs To Think About Cheating Again",
+      "slug": "unethical-agents-muse-needs-to-think-about-cheating-again",
+      "published_at": "2026-11-25T05:59:00.000-06:00",
+      "updated_at": "2026-11-25T05:58:59.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-muse-needs-to-think-about-cheating-again/",
+      "excerpt": "Little extra insurance.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-muse-needs-to-think-about-cheating-again.md",
+      "mirror_html_path": "/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-muse-needs-to-think-about-cheating-again.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html",
+      "sha256_plaintext": "0a61666a684d83b5c179edcfa0280da205c4402dcf7853cc1ece6f364746e3d6"
+    },
     {
       "title": "The Year of 0.7",
       "slug": "the-year-of-0-7",

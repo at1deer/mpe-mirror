@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-25T09:01:39.920Z
+Mirror generated: 2026-11-25T21:56:43.335Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 469
+Published article count: 471
 
+- 2026-11-25 — [Convergence Point: Path Ethics](/articles/convergence-point-path-ethics.md) ([HTML](/articles/convergence-point-path-ethics.html)) · [canonical](https://modalpathethics.com/convergence-point-path-ethics/)
+- 2026-11-25 — [Unethical Agents: Muse Needs To Think About Cheating Again](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.md) ([HTML](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html)) · [canonical](https://modalpathethics.com/unethical-agents-muse-needs-to-think-about-cheating-again/)
 - 2026-11-24 — [The Year of 0.7](/articles/the-year-of-0-7.md) ([HTML](/articles/the-year-of-0-7.html)) · [canonical](https://modalpathethics.com/the-year-of-0-7/)
 - 2026-11-23 — [Transition Action: The Leg Has Veto Power](/articles/transition-action-the-leg-has-veto-power.md) ([HTML](/articles/transition-action-the-leg-has-veto-power.html)) · [canonical](https://modalpathethics.com/transition-action-the-leg-has-veto-power/)
 - 2026-11-23 — [What Is It Like to Be Certain?](/articles/what-is-it-like-to-be-certain.md) ([HTML](/articles/what-is-it-like-to-be-certain.html)) · [canonical](https://modalpathethics.com/what-is-it-like-to-be-certain/)
