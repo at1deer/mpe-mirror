@@ -5,16 +5,49 @@ import { createHash } from "node:crypto";
 const base = (process.env.MIRROR_BASE_URL || "https://mirror.modalpathethics.com").replace(/\/$/, "");
 const maxAgeHours = Number(process.env.MAX_MIRROR_AGE_HOURS || 12);
 
-async function request(relativePath) {
-  const url = new URL(relativePath, base);
-  // Unique query avoids previously cached copies when testing the live deployment.
-  url.searchParams.set("mirror_smoke", String(Date.now()));
+function responseDiagnostics(response) {
+  const names = ["server", "cf-ray", "cf-mitigated", "cf-cache-status",
+    "content-type", "location", "age", "retry-after"];
+  return JSON.stringify({
+    status: response.status,
+    finalUrl: response.url,
+    headers: Object.fromEntries(names.map(name => [name, response.headers.get(name)]))
+  });
+}
+
+async function probe(url) {
   const response = await fetch(url, {
     headers: { "Cache-Control": "no-cache" },
     signal: AbortSignal.timeout(30000),
   });
-  assert.equal(response.status, 200, `${url}: HTTP ${response.status}`);
-  return { response, body: await response.text() };
+  const body = await response.text();
+  if (!response.ok) {
+    console.error("HTTP failure:", responseDiagnostics(response));
+    // Log only a short, normalized title, not arbitrary response HTML.
+    const title = body.match(/<title[^>]*>([^<]{1,200})<\/title>/i)?.[1];
+    if (title) console.error("Response page title:", JSON.stringify(title.replace(/\s+/g, " ").trim()));
+  }
+  return { response, body };
+}
+
+async function request(relativePath) {
+  const plainUrl = new URL(relativePath, base);
+  const url = new URL(plainUrl);
+  // Unique query avoids previously cached copies when testing the live deployment.
+  url.searchParams.set("mirror_smoke", String(Date.now()));
+  const result = await probe(url);
+  if (result.response.status !== 200) {
+    // The stable public URL matters independently of the cache-busting probe.
+    // A successful stable request is diagnostic only: do not conceal probe failure.
+    try {
+      const plain = await probe(plainUrl);
+      console.error("Stable URL comparison:", responseDiagnostics(plain.response));
+    } catch (error) {
+      console.error("Stable URL comparison failed:", error.message);
+    }
+    assert.equal(result.response.status, 200, `${url}: HTTP ${result.response.status}`);
+  }
+  return result;
 }
 
 function sha256(content) {
