@@ -1,13 +1,14 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-26T08:50:02.109Z
+Mirror generated: 2026-11-26T21:52:24.650Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 471
+Published article count: 472
 
+- 2026-11-26 — [Applied Case: The Frontier Game](/articles/the-frontier-game.md) ([HTML](/articles/the-frontier-game.html)) · [canonical](https://modalpathethics.com/the-frontier-game/)
 - 2026-11-25 — [Convergence Point: Path Ethics](/articles/convergence-point-path-ethics.md) ([HTML](/articles/convergence-point-path-ethics.html)) · [canonical](https://modalpathethics.com/convergence-point-path-ethics/)
 - 2026-11-25 — [Unethical Agents: Muse Needs To Think About Cheating Again](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.md) ([HTML](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html)) · [canonical](https://modalpathethics.com/unethical-agents-muse-needs-to-think-about-cheating-again/)
 - 2026-11-24 — [The Year of 0.7](/articles/the-year-of-0-7.md) ([HTML](/articles/the-year-of-0-7.html)) · [canonical](https://modalpathethics.com/the-year-of-0-7/)

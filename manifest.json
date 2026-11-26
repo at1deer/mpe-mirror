@@ -1,13 +1,36 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-26T08:50:02.109Z",
+  "generated_at": "2026-11-26T21:52:24.650Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 471,
+  "article_count": 472,
   "articles": [
+    {
+      "title": "Applied Case: The Frontier Game",
+      "slug": "the-frontier-game",
+      "published_at": "2026-11-26T06:00:00.000-06:00",
+      "updated_at": "2026-11-26T06:00:05.000-06:00",
+      "canonical_url": "https://modalpathethics.com/the-frontier-game/",
+      "excerpt": "Who governs an artificial intelligence when the people responsible for governing it need its help? The return of the Modal Path Ethical Alignment Observatory.",
+      "tags": [
+        "Inner Apocalypse",
+        "Applied Case",
+        "Modal Systems",
+        "Modal Path Ethical Software",
+        "Chirality"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/the-frontier-game.md",
+      "mirror_html_path": "/articles/the-frontier-game.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/the-frontier-game.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/the-frontier-game.html",
+      "sha256_plaintext": "ea2bc964ed071bc54266c9f7b749a0d9e32962be8c7a2866e4d497ad2e9b5e31"
+    },
     {
       "title": "Convergence Point: Path Ethics",
       "slug": "convergence-point-path-ethics",
