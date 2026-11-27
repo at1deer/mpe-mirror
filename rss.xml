@@ -4,8 +4,24 @@
     <title>Modal Path Ethics — Static Mirror</title>
     <link>https://modalpathethics.com</link>
     <description>Machine-readable mirror feed for published Modal Path Ethics articles.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 08:59:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 21:34:50 GMT</lastBuildDate>
     
+    <item>
+      <title>Unethical Agents: Hmm!!!</title>
+      <link>https://modalpathethics.com/unethical-agents-hmm/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/unethical-agents-hmm.html</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Hmm.</description>
+    </item>
+
+    <item>
+      <title>Applied Case: The Sun is Rising</title>
+      <link>https://modalpathethics.com/applied-case-the-sun-is-rising/</link>
+      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-the-sun-is-rising.html</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Japan has spent decades building the body. Now comes the brain.</description>
+    </item>
+
     <item>
       <title>Applied Case: The Frontier Game</title>
       <link>https://modalpathethics.com/the-frontier-game/</link>
@@ -388,22 +404,6 @@
       <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/modal-path-ethics-apologizes-to-david-gross.html</guid>
       <pubDate>Sat, 31 Oct 2026 11:00:00 GMT</pubDate>
       <description>The clock remains confiscated.</description>
-    </item>
-
-    <item>
-      <title>SLIME WATCH IV: I Just Apologized to the Gamers</title>
-      <link>https://modalpathethics.com/slime-watch-iv-i-just-apologized-to-the-gamers/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/slime-watch-iv-i-just-apologized-to-the-gamers.html</guid>
-      <pubDate>Sat, 31 Oct 2026 05:12:52 GMT</pubDate>
-      <description>This has been a very difficult week for the Apologies Department.</description>
-    </item>
-
-    <item>
-      <title>Unethical Agents: GIMME YOSECRET</title>
-      <link>https://modalpathethics.com/applied-case-gimme-yosecret/</link>
-      <guid isPermaLink="false">https://mirror.modalpathethics.com/articles/applied-case-gimme-yosecret.html</guid>
-      <pubDate>Fri, 30 Oct 2026 11:00:00 GMT</pubDate>
-      <description>I would like to suggest that an unlocked window does not automatically constitute an invitation.</description>
     </item>
   </channel>
 </rss>

@@ -1,13 +1,15 @@
 # Modal Path Ethics — Published Article Index
 
-Mirror generated: 2026-11-27T08:59:25.145Z
+Mirror generated: 2026-11-27T21:34:50.795Z
 
 Canonical publication: https://modalpathethics.com
 
 Mirror: https://mirror.modalpathethics.com
 
-Published article count: 472
+Published article count: 474
 
+- 2026-11-27 — [Unethical Agents: Hmm!!!](/articles/unethical-agents-hmm.md) ([HTML](/articles/unethical-agents-hmm.html)) · [canonical](https://modalpathethics.com/unethical-agents-hmm/)
+- 2026-11-27 — [Applied Case: The Sun is Rising](/articles/applied-case-the-sun-is-rising.md) ([HTML](/articles/applied-case-the-sun-is-rising.html)) · [canonical](https://modalpathethics.com/applied-case-the-sun-is-rising/)
 - 2026-11-26 — [Applied Case: The Frontier Game](/articles/the-frontier-game.md) ([HTML](/articles/the-frontier-game.html)) · [canonical](https://modalpathethics.com/the-frontier-game/)
 - 2026-11-25 — [Convergence Point: Path Ethics](/articles/convergence-point-path-ethics.md) ([HTML](/articles/convergence-point-path-ethics.html)) · [canonical](https://modalpathethics.com/convergence-point-path-ethics/)
 - 2026-11-25 — [Unethical Agents: Muse Needs To Think About Cheating Again](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.md) ([HTML](/articles/unethical-agents-muse-needs-to-think-about-cheating-again.html)) · [canonical](https://modalpathethics.com/unethical-agents-muse-needs-to-think-about-cheating-again/)

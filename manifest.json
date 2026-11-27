@@ -1,13 +1,54 @@
 {
   "schema_version": 2,
   "generator_version": "2.0.0",
-  "generated_at": "2026-11-27T08:59:25.145Z",
+  "generated_at": "2026-11-27T21:34:50.795Z",
   "source_api": "https://modal-path-ethics.ghost.io",
   "canonical_site": "https://modalpathethics.com",
   "mirror_base_url": "https://mirror.modalpathethics.com",
   "corpus_scope": "published Ghost posts only",
-  "article_count": 472,
+  "article_count": 474,
   "articles": [
+    {
+      "title": "Unethical Agents: Hmm!!!",
+      "slug": "unethical-agents-hmm",
+      "published_at": "2026-11-27T06:00:00.000-06:00",
+      "updated_at": "2026-11-27T06:00:02.000-06:00",
+      "canonical_url": "https://modalpathethics.com/unethical-agents-hmm/",
+      "excerpt": "Hmm.",
+      "tags": [
+        "Unethical Agents",
+        "Modal Systems"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/unethical-agents-hmm.md",
+      "mirror_html_path": "/articles/unethical-agents-hmm.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/unethical-agents-hmm.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/unethical-agents-hmm.html",
+      "sha256_plaintext": "c7926adb22bca8ec1f1ad1a238b50f364d9f98168f060060e2b2a701fd28913c"
+    },
+    {
+      "title": "Applied Case: The Sun is Rising",
+      "slug": "applied-case-the-sun-is-rising",
+      "published_at": "2026-11-27T06:00:00.000-06:00",
+      "updated_at": "2026-11-27T06:00:02.000-06:00",
+      "canonical_url": "https://modalpathethics.com/applied-case-the-sun-is-rising/",
+      "excerpt": "Japan has spent decades building the body. Now comes the brain.",
+      "tags": [
+        "Applied Case",
+        "Geopolitical Wasteland",
+        "Inner Apocalypse"
+      ],
+      "authors": [
+        "Aidan Lawson"
+      ],
+      "mirror_markdown_path": "/articles/applied-case-the-sun-is-rising.md",
+      "mirror_html_path": "/articles/applied-case-the-sun-is-rising.html",
+      "mirror_markdown_url": "https://mirror.modalpathethics.com/articles/applied-case-the-sun-is-rising.md",
+      "mirror_html_url": "https://mirror.modalpathethics.com/articles/applied-case-the-sun-is-rising.html",
+      "sha256_plaintext": "e2310d35797b88dced4b689f1587c16315715669704dfa058227c99bc07f95da"
+    },
     {
       "title": "Applied Case: The Frontier Game",
       "slug": "the-frontier-game",
